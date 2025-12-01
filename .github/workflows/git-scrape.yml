@@ -1,0 +1,124 @@
+name: Git Scraping
+
+on:
+  schedule:
+    # Every hour
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+env:
+  URL_TO_SCRAPE: ${{ secrets.URL_TO_SCRAPE }}
+  API_KEY: ${{ secrets.API_KEY }}
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Fetch JSON from API (no processing, raw responses)
+        run: |
+          set -e
+          if [ -z "${URL_TO_SCRAPE}" ]; then
+            echo "URL_TO_SCRAPE is not set"; exit 1;
+          fi
+          if [ -z "${API_KEY}" ]; then
+            echo "API_KEY is not set"; exit 1;
+          fi
+
+          # Mirror the Python fetch_mods() logic for which pages we hit:
+          # - Paginate with _limit and _offset
+          # - Sort by latest updated
+          # - Filter by PS5 platform
+          # - Handle 429 rate limits via Retry-After
+          #
+          # BUT: do not transform the response bodies for diffing.
+          # We simply stream the raw JSON responses into data.json
+          # in the order they were fetched (newline-delimited JSON).
+
+          LIMIT=100
+          OFFSET=0
+
+          PAGE_FILE="page.json"
+          HEADERS_FILE="headers.txt"
+
+          # Truncate/initialize output file
+          : > data.json
+
+          while true; do
+            echo "Fetching page with offset=${OFFSET}, limit=${LIMIT}..."
+
+            # Build URL with query string similar to fetch_mods()
+            URL="${URL_TO_SCRAPE}?api_key=${API_KEY}&_limit=${LIMIT}&_offset=${OFFSET}&_sort=-date_updated&platforms=ps5"
+
+            # Perform request, capturing headers and status code
+            HTTP_CODE=$(curl -sS \
+              -w "%{http_code}" \
+              -D "${HEADERS_FILE}" \
+              -o "${PAGE_FILE}" \
+              "${URL}")
+
+            if [ "${HTTP_CODE}" = "429" ]; then
+              RETRY_AFTER=$(grep -i "^Retry-After:" "${HEADERS_FILE}" | awk '{print $2}' | tr -d '\r')
+              if [ -z "${RETRY_AFTER}" ]; then
+                RETRY_AFTER=60
+              fi
+              echo "Rate limit hit (429). Sleeping for ${RETRY_AFTER} seconds..."
+              sleep "$((RETRY_AFTER + 1))"
+              continue
+            fi
+
+            if [ "${HTTP_CODE}" -lt 200 ] || [ "${HTTP_CODE}" -ge 300 ]; then
+              echo "Request failed with status ${HTTP_CODE}"
+              cat "${PAGE_FILE}" || true
+              exit 1
+            fi
+
+            # Determine how many mods were returned, based on the .data array.
+            # This is only used for pagination control; the raw body is written
+            # to data.json without transformation.
+            PAGE_COUNT=$(jq '.data // [] | length' "${PAGE_FILE}")
+            echo "  Retrieved ${PAGE_COUNT} mods"
+
+            # If no mods returned, we're done
+            if [ "${PAGE_COUNT}" -eq 0 ]; then
+              break
+            fi
+
+            # Append the raw response body to data.json, newline-delimited.
+            cat "${PAGE_FILE}" >> data.json
+            echo "" >> data.json
+
+            # If fewer than LIMIT were returned, we've reached the end
+            if [ "${PAGE_COUNT}" -lt "${LIMIT}" ]; then
+              break
+            fi
+
+            OFFSET=$((OFFSET + LIMIT))
+
+            # Be gentle with the API (Python used 0.1s between pages)
+            sleep 0.1
+          done
+
+      - name: Configure git
+        run: |
+          git config user.name "Git Scraper Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Commit and push if data changed
+        run: |
+          set -e
+          if git diff --quiet -- data.json; then
+            echo "No changes in data.json; nothing to commit."
+            exit 0
+          fi
+
+          git add data.json
+          git commit -m "chore: update scraped data.json [skip ci]" || exit 0
+          git push
+
+
