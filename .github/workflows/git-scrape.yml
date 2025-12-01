@@ -6,6 +6,9 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
@@ -111,15 +114,8 @@ jobs:
       - name: Commit and push if data changed
         run: |
           set -e
-          # Check for new or modified data.json (including untracked)
-          CHANGES="$(git status --porcelain data.json || true)"
-          if [ -z "${CHANGES}" ]; then
-            echo "No changes in data.json; nothing to commit."
-            exit 0
-          fi
-
           git add data.json
-          git commit -m "chore: update scraped data.json [skip ci]" || exit 0
+          git commit --allow-empty -m "chore: update scraped data.json [skip ci]"
           git push
 
 
