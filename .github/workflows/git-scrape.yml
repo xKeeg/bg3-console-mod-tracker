@@ -1,0 +1,137 @@
+name: Git Scraping
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Every hour
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Aggregate Data
+        env:
+          URL_TO_SCRAPE: ${{ secrets.URL_TO_SCRAPE }}
+          API_KEY: ${{ secrets.API_KEY }}
+        run: |
+          set -e
+          if [ -z "${URL_TO_SCRAPE}" ] || [ -z "${API_KEY}" ]; then
+            echo "Secrets missing!"; exit 1;
+          fi
+
+          LIMIT=100
+          OFFSET=0
+          PAGE_FILE="page.json"
+          HEADERS_FILE="headers.txt"
+          TEMP_NDJSON="temp_data.jsonl"
+
+          : > "$TEMP_NDJSON"
+
+          while true; do
+            echo "Fetching offset=${OFFSET}..."
+            # Sorting by -date_updated keeps the list stable
+            URL="${URL_TO_SCRAPE}?api_key=${API_KEY}&_limit=${LIMIT}&_offset=${OFFSET}&_sort=-date_updated&platforms=ps5"
+
+            HTTP_CODE=$(curl -sS -w "%{http_code}" -D "${HEADERS_FILE}" -o "${PAGE_FILE}" "${URL}")
+
+            if [ "${HTTP_CODE}" = "429" ]; then
+              RETRY_AFTER=$(grep -i "^Retry-After:" "${HEADERS_FILE}" | awk '{print $2}' | tr -d '\r')
+              RETRY_AFTER=${RETRY_AFTER:-60}
+              echo "429 Hit. Sleeping ${RETRY_AFTER}s..."
+              sleep "$((RETRY_AFTER + 1))"
+              continue
+            fi
+
+            if [ "${HTTP_CODE}" -lt 200 ] || [ "${HTTP_CODE}" -ge 300 ]; then
+              echo "Error ${HTTP_CODE}"; exit 1
+            fi
+
+            PAGE_COUNT=$(jq '.data // [] | length' "${PAGE_FILE}")
+            echo "  Got ${PAGE_COUNT} items"
+
+            if [ "${PAGE_COUNT}" -eq 0 ]; then break; fi
+
+            # Extract items to temp stream
+            jq -c '.data[]' "${PAGE_FILE}" >> "$TEMP_NDJSON"
+
+            if [ "${PAGE_COUNT}" -lt "${LIMIT}" ]; then break; fi
+            
+            OFFSET=$((OFFSET + LIMIT))
+            sleep 0.1
+          done
+
+          # THE FIX: Allowlist (Keep Mentality)
+          # We construct a NEW object containing ONLY the fields listed below.
+          # Anything not in this list will be discarded.
+          jq -s 'map({
+            id,
+            game_id,
+            name,
+            name_id,
+            summary,
+            description,
+            date_added,
+            date_updated,
+            date_live,
+            visible,
+            status,
+            dependencies,
+            profile_url,
+            
+            # Nested objects: You can keep specific sub-fields or the whole object
+            submitted_by: {
+              id: .submitted_by.id,
+              name_id: .submitted_by.name_id,
+              username: .submitted_by.username,
+              profile_url: .submitted_by.profile_url,
+              profile_img_100x100_url: .submitted_by.avatar.thumb_100x100
+            },
+            
+            modfile: {
+              id: .modfile.id,
+              mod_id: .modfile.mod_id,
+              version: .modfile.version,
+              filename: .modfile.filename,
+              changelog: .modfile.changelog,
+              date_added: .modfile.date_added,
+              date_updated: .modfile.date_updated,
+              date_scanned: .modfile.date_scanned,
+              filesize: .modfile.filesize,
+              platforms: .modfile.platforms
+            },
+            
+            # Media
+            logo,
+            
+            # Arrays
+            tags,
+            platforms
+            
+          }) | sort_by(.id)' "$TEMP_NDJSON" > data.json
+          
+          echo "Finished. data.json size: $(du -h data.json | cut -f1)"
+
+      - name: Commit and push ONLY if changed
+        run: |
+          git config user.name "Git Scraper Bot"
+          git config user.email "actions@users.noreply.github.com"
+          
+          git add data.json
+          
+          # Only commit if data.json content is different (ignoring the stripped fields)
+          if git diff --staged --quiet; then
+            echo "No changes detected. Exiting without commit."
+            exit 0
+          else
+            echo "Changes detected! Committing..."
+            # We use the current date for the message, but the COMMIT itself 
+            # only happens when the meaningful data changes.
+            git commit -m "chore: update scraped data [$(date -u)]"
+            git push
+          fi  
