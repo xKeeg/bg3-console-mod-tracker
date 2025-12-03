@@ -233,6 +233,38 @@ def tabs_script() -> str:
                 }
             }
             
+            function formatTimeAgo(date) {
+                const now = new Date();
+                const diffMs = now - date;
+                const diffMins = Math.floor(diffMs / 60000);
+                const diffHours = Math.floor(diffMs / 3600000);
+                const diffDays = Math.floor(diffMs / 86400000);
+                
+                if (diffMins < 1) return 'just now';
+                if (diffMins < 60) return `${diffMins} minute${diffMins !== 1 ? 's' : ''} ago`;
+                if (diffHours < 24) return `${diffHours} hour${diffHours !== 1 ? 's' : ''} ago`;
+                return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
+            }
+            
+            function fetchLastChecked() {
+                const el = document.getElementById('last-checked');
+                if (!el) return;
+                
+                fetch('https://api.github.com/repos/xKeeg/bg3-console-mod-tracker/actions/workflows/main.yml/runs?status=success&per_page=1')
+                    .then(r => r.json())
+                    .then(data => {
+                        if (data.workflow_runs && data.workflow_runs.length > 0) {
+                            const lastRun = new Date(data.workflow_runs[0].updated_at);
+                            el.textContent = `Last checked: ${formatTimeAgo(lastRun)}`;
+                        } else {
+                            el.textContent = 'Checked hourly';
+                        }
+                    })
+                    .catch(() => {
+                        el.textContent = 'Checked hourly';
+                    });
+            }
+            
             // Initialize on load
             document.addEventListener('DOMContentLoaded', function() {
                 const savedTab = localStorage.getItem('activeTab');
@@ -252,6 +284,7 @@ def tabs_script() -> str:
                 }
                 
                 updateDateDisplay();
+                fetchLastChecked();
             });
         </script>
     '''

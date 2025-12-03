@@ -133,6 +133,15 @@ STYLES = """
             color: var(--gold-primary);
         }
 
+        .header-subtext {
+            max-width: 600px;
+            margin: 0.5rem auto 0;
+            text-align: center;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            opacity: 0.7;
+        }
+
         /* Layout */
         .changelog-container {
             max-width: 1200px;

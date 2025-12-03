@@ -14,6 +14,9 @@ def changelog_container(title: str, content: str, hero_image_url: str = None) ->
                 <span>mods</span>
             </div>
         </div>
+        <div class="header-subtext">
+            <span id="last-checked">Checking...</span>
+        </div>
     </header>
     <main class="changelog-container">
         <div class="changelog-stack">
