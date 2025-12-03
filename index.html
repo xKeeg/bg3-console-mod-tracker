@@ -138,6 +138,15 @@
             color: var(--gold-primary);
         }
 
+        .header-subtext {
+            max-width: 600px;
+            margin: 0.5rem auto 0;
+            text-align: center;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            opacity: 0.7;
+        }
+
         /* Layout */
         .changelog-container {
             max-width: 1200px;
@@ -476,6 +485,9 @@
                 <span class="header-stat-value" id="total-mods">--</span>
                 <span>mods</span>
             </div>
+        </div>
+        <div class="header-subtext">
+            <span id="last-checked">Checking...</span>
         </div>
     </header>
     <main class="changelog-container">
@@ -5979,7 +5991,7 @@
             <svg class="mod-link-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 10L14 2m0 0h-5m5 0v5M8 4H3a1 1 0 00-1 1v8a1 1 0 001 1h8a1 1 0 001-1V9"/></svg>
         </a>
 <a class="mod-row" href="https://mod.io/g/baldursgate3/m/rise-of-the-goldmembers" target="_blank" rel="noopener noreferrer">
-            <img class="mod-thumb" src="https://thumb.modcdn.io/mods/88db/4555162/crop_320x180/chatgptimage14kesk2025klo153201.png" alt="" loading="lazy" onerror="this.src='https://placehold.co/80x45/e2e8f0/64748b?text=No+Image'">
+            <img class="mod-thumb" src="https://thumb.modcdn.io/mods/88db/4555162/crop_320x180/screenshot2024-12-14191423.3.png" alt="" loading="lazy" onerror="this.src='https://placehold.co/80x45/e2e8f0/64748b?text=No+Image'">
             <div class="mod-info">
                 <div class="mod-title">Rise of the Goldmembers (New Content)</div>
                 <div class="mod-summary">New difficulty modes and story with new lot of new enemies, new allies, 15+ new bosses, 20+ new items, 40+ new spells, new resources, new systems and so on. New way to enjoy Baldurs Gate 3! Also bosses and challenges in the Discord!</div>
@@ -8759,6 +8771,38 @@
                 }
             }
             
+            function formatTimeAgo(date) {
+                const now = new Date();
+                const diffMs = now - date;
+                const diffMins = Math.floor(diffMs / 60000);
+                const diffHours = Math.floor(diffMs / 3600000);
+                const diffDays = Math.floor(diffMs / 86400000);
+                
+                if (diffMins < 1) return 'just now';
+                if (diffMins < 60) return `${diffMins} minute${diffMins !== 1 ? 's' : ''} ago`;
+                if (diffHours < 24) return `${diffHours} hour${diffHours !== 1 ? 's' : ''} ago`;
+                return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
+            }
+            
+            function fetchLastChecked() {
+                const el = document.getElementById('last-checked');
+                if (!el) return;
+                
+                fetch('https://api.github.com/repos/xKeeg/bg3-console-mod-tracker/actions/workflows/main.yml/runs?status=success&per_page=1')
+                    .then(r => r.json())
+                    .then(data => {
+                        if (data.workflow_runs && data.workflow_runs.length > 0) {
+                            const lastRun = new Date(data.workflow_runs[0].updated_at);
+                            el.textContent = `Last checked: ${formatTimeAgo(lastRun)}`;
+                        } else {
+                            el.textContent = 'Checked hourly';
+                        }
+                    })
+                    .catch(() => {
+                        el.textContent = 'Checked hourly';
+                    });
+            }
+            
             // Initialize on load
             document.addEventListener('DOMContentLoaded', function() {
                 const savedTab = localStorage.getItem('activeTab');
@@ -8778,6 +8822,7 @@
                 }
                 
                 updateDateDisplay();
+                fetchLastChecked();
             });
         </script>
     
