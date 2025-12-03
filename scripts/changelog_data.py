@@ -1,0 +1,178 @@
+import sqlite3
+import os
+import json
+from dataclasses import dataclass, field
+from datetime import datetime, timezone
+from typing import Optional
+
+DB_PATH = os.path.join(os.path.dirname(__file__), '..', 'mods.db')
+
+
+@dataclass
+class ModUpdate:
+    """Represents a single update event for a mod."""
+    timestamp: datetime
+    update_type: str  # 'added' or 'updated'
+    version: int
+
+
+@dataclass
+class Mod:
+    """Represents a mod with its metadata and update history."""
+    item_id: int
+    name: str
+    summary: Optional[str] = None
+    profile_url: Optional[str] = None
+    logo_url: Optional[str] = None
+    updates: list[ModUpdate] = field(default_factory=list)
+
+
+def parse_logo_url(logo_json: Optional[str]) -> Optional[str]:
+    """Extract thumbnail URL from logo JSON."""
+    if not logo_json:
+        return None
+    try:
+        logo = json.loads(logo_json)
+        return logo.get('thumb_320x180') or logo.get('original')
+    except (json.JSONDecodeError, TypeError):
+        return None
+
+
+def parse_timestamp(commit_at: Optional[str]) -> datetime:
+    """Parse ISO timestamp string to datetime."""
+    if not commit_at:
+        return datetime.now(timezone.utc)
+    try:
+        # Handle ISO format with timezone
+        return datetime.fromisoformat(commit_at.replace('Z', '+00:00'))
+    except ValueError:
+        return datetime.now(timezone.utc)
+
+
+def get_platform_version(platforms_json: Optional[str], platform_name: str = "ps5") -> int:
+    """Extract the modfile_live version for a specific platform."""
+    if not platforms_json:
+        return 0
+    try:
+        platforms = json.loads(platforms_json)
+        for platform in platforms:
+            if platform.get('platform') == platform_name:
+                return platform.get('modfile_live', 0) or 0
+    except (json.JSONDecodeError, TypeError):
+        return 0
+    return 0
+
+
+def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
+    """
+    Fetch all mods with their update history from the database.
+    
+    Returns:
+        Dictionary mapping item_id to Mod objects with their updates.
+    """
+    if db_path is None:
+        db_path = DB_PATH
+    
+    connection = sqlite3.connect(db_path)
+    connection.row_factory = sqlite3.Row
+    cursor = connection.cursor()
+    
+    # Fetch all versions of all items, ordered by item and version
+    query = """
+    SELECT 
+        _item,
+        _version,
+        _commit_at,
+        name,
+        summary,
+        profile_url,
+        logo,
+        platforms
+    FROM item_version_detail
+    ORDER BY _item, _version
+    """
+    cursor.execute(query)
+    rows = cursor.fetchall()
+    
+    cursor.close()
+    connection.close()
+    
+    # Build mod dictionary with updates
+    mods: dict[int, Mod] = {}
+    # Track the previous platforms per item for version bump detection
+    previous_platforms: dict[int, str] = {}
+    
+    for row in rows:
+        item_id = row['_item']
+        version = row['_version']
+        platforms = row['platforms']
+        
+        if version == 1:
+            # First version - this is when the mod was added
+            mod = Mod(
+                item_id=item_id,
+                name=row['name'] or f"Mod #{item_id}",
+                summary=row['summary'],
+                profile_url=row['profile_url'],
+                logo_url=parse_logo_url(row['logo']),
+            )
+            mod.updates.append(ModUpdate(
+                timestamp=parse_timestamp(row['_commit_at']),
+                update_type='added',
+                version=version,
+            ))
+            mods[item_id] = mod
+            previous_platforms[item_id] = platforms
+        else:
+            # Subsequent version - check if it's a real update (version bump on ps5)
+            mod = mods.get(item_id)
+            if mod is None:
+                # Orphan update without a version 1 - create the mod
+                mod = Mod(
+                    item_id=item_id,
+                    name=row['name'] or f"Mod #{item_id}",
+                    summary=row['summary'],
+                    profile_url=row['profile_url'],
+                    logo_url=parse_logo_url(row['logo']),
+                )
+                mods[item_id] = mod
+            
+            # Update mod metadata if we have newer info
+            if row['name']:
+                mod.name = row['name']
+            if row['summary']:
+                mod.summary = row['summary']
+            if row['profile_url']:
+                mod.profile_url = row['profile_url']
+            if row['logo']:
+                mod.logo_url = parse_logo_url(row['logo'])
+            
+            # Check for version bump on ps5 platform
+            old_ver = get_platform_version(previous_platforms.get(item_id), "ps5")
+            new_ver = get_platform_version(platforms, "ps5")
+            
+            if new_ver > old_ver:
+                mod.updates.append(ModUpdate(
+                    timestamp=parse_timestamp(row['_commit_at']),
+                    update_type='updated',
+                    version=version,
+                ))
+            
+            # Update tracked platforms
+            previous_platforms[item_id] = platforms
+    
+    return mods
+
+
+if __name__ == "__main__":
+    mods = get_mods()
+    
+    print(f"Found {len(mods)} mods\n")
+    
+    for mod_id, mod in list(mods.items())[:5]:
+        print(f"Mod {mod_id}: {mod.name}")
+        for update in mod.updates:
+            print(f"  - {update.update_type} at {update.timestamp}")
+        print()
+
+

@@ -117,12 +117,26 @@ jobs:
           
           echo "Finished. data.json size: $(du -h data.json | cut -f1)"
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install git-history
+
+      - name: Run history script
+        run: python -m scripts.update_history
+
+      - name: Generate html
+        run: python -m scripts.generate_html
+        
       - name: Commit and push ONLY if changed
         run: |
           git config user.name "Git Scraper Bot"
           git config user.email "actions@users.noreply.github.com"
           
-          git add data.json
+          git add data.json mods.db
           
           # Only commit if data.json content is different (ignoring the stripped fields)
           if git diff --staged --quiet; then
