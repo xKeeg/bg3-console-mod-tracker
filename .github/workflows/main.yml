@@ -3,7 +3,12 @@ name: Scrape, Update, and Deploy
 on:
   schedule:
     - cron: "0 * * * *"  # Every hour
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force_deploy:
+        description: 'Force deploy to Pages (skip scrape/update)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -181,7 +186,7 @@ jobs:
 
   deploy:
     needs: update-changelog
-    if: needs.update-changelog.outputs.html_changed == 'true'
+    if: always() && (needs.update-changelog.outputs.html_changed == 'true' || inputs.force_deploy)
     runs-on: ubuntu-latest
     environment:
       name: github-pages
