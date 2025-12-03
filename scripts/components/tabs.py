@@ -170,6 +170,7 @@ def tabs_script() -> str:
             function updateDateDisplay() {
                 const sections = document.querySelectorAll('.date-section');
                 const currentLabel = document.querySelector('.date-nav-current');
+                const badge = document.querySelector('.date-nav-badge');
                 const prevBtn = document.querySelector('.date-nav-btn.prev');
                 const nextBtn = document.querySelector('.date-nav-btn.next');
                 
@@ -186,15 +187,18 @@ def tabs_script() -> str:
                     const isFirstEntry = currentDateIndex === sections.length - 1;
                     const isMostRecent = currentDateIndex === 0;
                     
-                    let labelText = isFirstEntry ? 'Started Tracking' : activeSection.dataset.date;
+                    currentLabel.textContent = isFirstEntry ? 'Started Tracking' : activeSection.dataset.date;
                     
-                    // Add most recent badge
-                    if (isMostRecent && !isFirstEntry) {
-                        const daysAgo = getDaysAgoText(activeSection.dataset.date);
-                        labelText += `<span class="date-nav-badge">Latest · ${daysAgo}</span>`;
+                    // Update badge separately
+                    if (badge) {
+                        if (isMostRecent && !isFirstEntry) {
+                            const daysAgo = getDaysAgoText(activeSection.dataset.date);
+                            badge.textContent = `Latest · ${daysAgo}`;
+                            badge.style.display = '';
+                        } else {
+                            badge.style.display = 'none';
+                        }
                     }
-                    
-                    currentLabel.innerHTML = labelText;
                 }
                 
                 // Update button states (prev=older, next=newer)

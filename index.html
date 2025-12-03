@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BG3 Console Mod Tracker</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <style>
         /* Fonts */
         @font-face {
@@ -187,13 +188,15 @@
 
         .date-nav-pill {
             display: flex;
+            flex-direction: column;
             align-items: center;
             background: var(--bg-primary);
-            padding: 0.25rem 1rem;
+            padding: 0.375rem 0.75rem;
             border: 1px solid var(--border-color);
             border-radius: 9999px;
             z-index: 2;
             box-shadow: var(--shadow-sm);
+            gap: 0.125rem;
         }
 
         .date-nav-btn {
@@ -239,15 +242,15 @@
             font-size: 0.875rem;
             font-weight: 500;
             color: var(--text-secondary);
-            padding: 0 0.5rem;
+            padding: 0 2rem;
+            text-align: center;
         }
 
         .date-nav-badge {
             display: inline-flex;
             align-items: center;
             gap: 0.25rem;
-            margin-left: 0.5rem;
-            padding: 0.125rem 0.5rem;
+            padding: 0.125rem 0.75rem;
             font-size: 0.6875rem;
             font-weight: 600;
             text-transform: uppercase;
@@ -465,7 +468,7 @@
     </style>
 </head>
 <body>
-    <header class="app-headers">
+    <header class="app-header">
         <div class="header-content">
             <img src="assets/img/logo.png" alt="Logo" class="header-logo">
             <span class="header-title">BG3 Console Mod Tracker</span>
@@ -483,6 +486,7 @@
             </button>
             <div class="date-nav-pill">
                 <span class="date-nav-current">Loading...</span>
+                <span class="date-nav-badge" style="display: none;"></span>
             </div>
             <button class="date-nav-btn next" onclick="nextDate()" aria-label="Next date">
                 <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 12l4-4-4-4"/></svg>
@@ -8692,6 +8696,7 @@
             function updateDateDisplay() {
                 const sections = document.querySelectorAll('.date-section');
                 const currentLabel = document.querySelector('.date-nav-current');
+                const badge = document.querySelector('.date-nav-badge');
                 const prevBtn = document.querySelector('.date-nav-btn.prev');
                 const nextBtn = document.querySelector('.date-nav-btn.next');
                 
@@ -8708,15 +8713,18 @@
                     const isFirstEntry = currentDateIndex === sections.length - 1;
                     const isMostRecent = currentDateIndex === 0;
                     
-                    let labelText = isFirstEntry ? 'Started Tracking' : activeSection.dataset.date;
+                    currentLabel.textContent = isFirstEntry ? 'Started Tracking' : activeSection.dataset.date;
                     
-                    // Add most recent badge
-                    if (isMostRecent && !isFirstEntry) {
-                        const daysAgo = getDaysAgoText(activeSection.dataset.date);
-                        labelText += `<span class="date-nav-badge">Latest · ${daysAgo}</span>`;
+                    // Update badge separately
+                    if (badge) {
+                        if (isMostRecent && !isFirstEntry) {
+                            const daysAgo = getDaysAgoText(activeSection.dataset.date);
+                            badge.textContent = `Latest · ${daysAgo}`;
+                            badge.style.display = '';
+                        } else {
+                            badge.style.display = 'none';
+                        }
                     }
-                    
-                    currentLabel.innerHTML = labelText;
                 }
                 
                 // Update button states (prev=older, next=newer)

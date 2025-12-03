@@ -183,13 +183,15 @@ STYLES = """
 
         .date-nav-pill {
             display: flex;
+            flex-direction: column;
             align-items: center;
             background: var(--bg-primary);
-            padding: 0.25rem 1rem;
+            padding: 0.375rem 0.75rem;
             border: 1px solid var(--border-color);
             border-radius: 9999px;
             z-index: 2;
             box-shadow: var(--shadow-sm);
+            gap: 0.125rem;
         }
 
         .date-nav-btn {
@@ -235,15 +237,15 @@ STYLES = """
             font-size: 0.875rem;
             font-weight: 500;
             color: var(--text-secondary);
-            padding: 0 0.5rem;
+            padding: 0 2rem;
+            text-align: center;
         }
 
         .date-nav-badge {
             display: inline-flex;
             align-items: center;
             gap: 0.25rem;
-            margin-left: 0.5rem;
-            padding: 0.125rem 0.5rem;
+            padding: 0.125rem 0.75rem;
             font-size: 0.6875rem;
             font-weight: 600;
             text-transform: uppercase;

@@ -14,6 +14,7 @@ def date_nav() -> str:
             </button>
             <div class="date-nav-pill">
                 <span class="date-nav-current">Loading...</span>
+                <span class="date-nav-badge" style="display: none;"></span>
             </div>
             <button class="date-nav-btn next" onclick="nextDate()" aria-label="Next date">
                 <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 12l4-4-4-4"/></svg>
