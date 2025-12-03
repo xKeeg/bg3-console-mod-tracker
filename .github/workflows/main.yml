@@ -1,4 +1,4 @@
-name: Git Scraping
+name: Scrape, Update, and Deploy
 
 on:
   schedule:
@@ -7,10 +7,18 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "scrape-update-deploy"
+  cancel-in-progress: false
 
 jobs:
-  scrape-and-commit:
+  scrape:
     runs-on: ubuntu-latest
+    outputs:
+      data_changed: ${{ steps.commit.outputs.data_changed }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -35,7 +43,6 @@ jobs:
 
           while true; do
             echo "Fetching offset=${OFFSET}..."
-            # Sorting by -date_updated keeps the list stable
             URL="${URL_TO_SCRAPE}?api_key=${API_KEY}&_limit=${LIMIT}&_offset=${OFFSET}&_sort=-date_updated&platforms=ps5"
 
             HTTP_CODE=$(curl -sS -w "%{http_code}" -D "${HEADERS_FILE}" -o "${PAGE_FILE}" "${URL}")
@@ -57,7 +64,6 @@ jobs:
 
             if [ "${PAGE_COUNT}" -eq 0 ]; then break; fi
 
-            # Extract items to temp stream
             jq -c '.data[]' "${PAGE_FILE}" >> "$TEMP_NDJSON"
 
             if [ "${PAGE_COUNT}" -lt "${LIMIT}" ]; then break; fi
@@ -66,9 +72,6 @@ jobs:
             sleep 0.1
           done
 
-          # THE FIX: Allowlist (Keep Mentality)
-          # We construct a NEW object containing ONLY the fields listed below.
-          # Anything not in this list will be discarded.
           jq -s 'map({
             id,
             game_id,
@@ -84,7 +87,6 @@ jobs:
             dependencies,
             profile_url,
             
-            # Nested objects: You can keep specific sub-fields or the whole object
             submitted_by: {
               id: .submitted_by.id,
               name_id: .submitted_by.name_id,
@@ -106,10 +108,7 @@ jobs:
               platforms: .modfile.platforms
             },
             
-            # Media
             logo,
-            
-            # Arrays
             tags,
             platforms
             
@@ -117,21 +116,88 @@ jobs:
           
           echo "Finished. data.json size: $(du -h data.json | cut -f1)"
 
-      - name: Commit and push ONLY if changed
+      - name: Commit and push if changed
+        id: commit
         run: |
           git config user.name "Git Scraper Bot"
           git config user.email "actions@users.noreply.github.com"
           
           git add data.json
           
-          # Only commit if data.json content is different (ignoring the stripped fields)
           if git diff --staged --quiet; then
-            echo "No changes detected. Exiting without commit."
-            exit 0
+            echo "No changes detected."
+            echo "data_changed=false" >> $GITHUB_OUTPUT
           else
             echo "Changes detected! Committing..."
-            # We use the current date for the message, but the COMMIT itself 
-            # only happens when the meaningful data changes.
             git commit -m "chore: update scraped data [$(date -u)]"
             git push
-          fi  
+            echo "data_changed=true" >> $GITHUB_OUTPUT
+          fi
+
+  update-changelog:
+    needs: scrape
+    if: needs.scrape.outputs.data_changed == 'true'
+    runs-on: ubuntu-latest
+    outputs:
+      html_changed: ${{ steps.commit.outputs.html_changed }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history needed for git-history
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install git-history
+
+      - name: Run update_history script
+        run: python -m scripts.update_history
+
+      - name: Run generate_html script
+        run: python -m scripts.generate_html
+
+      - name: Delete temp mods.db
+        run: rm -f mods.db
+
+      - name: Commit and push changes
+        id: commit
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add index.html
+          
+          if git diff --staged --quiet; then
+            echo "No HTML changes."
+            echo "html_changed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Update changelog HTML"
+            git push
+            echo "html_changed=true" >> $GITHUB_OUTPUT
+          fi
+
+  deploy:
+    needs: update-changelog
+    if: needs.update-changelog.outputs.html_changed == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
