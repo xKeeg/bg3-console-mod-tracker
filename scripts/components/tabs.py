@@ -137,10 +137,10 @@ def tabs_script() -> str:
                 const activeSection = document.querySelector('.date-section.active');
                 if (!activeSection) return;
                 
-                // Check if the tab is disabled
+                // Check if the tab is disabled, fall back to the other tab
                 const tabBtn = activeSection.querySelector(`.tab-button[data-tab="${tabId}"]`);
                 if (tabBtn && tabBtn.disabled) {
-                    tabId = 'new'; // Fall back to 'new' if requested tab is disabled
+                    tabId = tabId === 'new' ? 'updated' : 'new';
                 }
                 
                 currentTab = tabId;
@@ -213,17 +213,34 @@ def tabs_script() -> str:
                 if (prevBtn) prevBtn.disabled = currentDateIndex === sections.length - 1;
                 if (nextBtn) nextBtn.disabled = currentDateIndex === 0;
                 
-                // Disable Updated tab if no updated entries
+                // Disable empty tabs
                 if (activeSection) {
+                    const newCount = parseInt(activeSection.dataset.newCount) || 0;
                     const updatedCount = parseInt(activeSection.dataset.updatedCount) || 0;
+                    const newBtn = activeSection.querySelector('.tab-button[data-tab="new"]');
                     const updatedBtn = activeSection.querySelector('.tab-button[data-tab="updated"]');
+                    if (newBtn) {
+                        newBtn.disabled = newCount === 0;
+                    }
                     if (updatedBtn) {
                         updatedBtn.disabled = updatedCount === 0;
                     }
                 }
                 
-                // Restore tab state for the new section
-                switchTab(currentTab);
+                // Use section's default tab if current tab is empty for this section
+                if (activeSection) {
+                    const newCount = parseInt(activeSection.dataset.newCount) || 0;
+                    const updatedCount = parseInt(activeSection.dataset.updatedCount) || 0;
+                    let tabToShow = currentTab;
+                    if (currentTab === 'new' && newCount === 0) {
+                        tabToShow = 'updated';
+                    } else if (currentTab === 'updated' && updatedCount === 0) {
+                        tabToShow = 'new';
+                    }
+                    switchTab(tabToShow);
+                } else {
+                    switchTab(currentTab);
+                }
             }
             
             function prevDate() {

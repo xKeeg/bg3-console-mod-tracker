@@ -101,7 +101,7 @@ def generate_changelog_content(mods: dict[str, Mod]) -> str:
             by_date[update_date]["updated"].append((mod, update))
 
     if not by_date:
-        return empty_state("No mods found")
+        return empty_state("No mods found"), ""
 
     # Sort dates descending
     sorted_dates = sorted(by_date.keys(), reverse=True)
@@ -109,10 +109,7 @@ def generate_changelog_content(mods: dict[str, Mod]) -> str:
     # Generate content
     entries = []
 
-    # Date navigation (single nav at top)
-    entries.append(date_nav())
-
-    # Date sections
+    # Date sections (date nav is handled separately)
     for i, day in enumerate(sorted_dates):
         day_data = by_date[day]
         formatted_date = day.strftime("%B %d, %Y")
@@ -143,7 +140,7 @@ def generate_changelog_content(mods: dict[str, Mod]) -> str:
     # Add the script
     entries.append(tabs_script())
 
-    return "\n".join(entries)
+    return "\n".join(entries), date_nav()
 
 
 def generate_html(
@@ -163,9 +160,9 @@ def generate_html(
         Number of mods generated
     """
     mods = get_mods(db_path)
-    content = generate_changelog_content(mods)
+    content, nav = generate_changelog_content(mods)
     container = changelog_container(
-        title="BG3 Console Mod Tracker", content=content, hero_image_url=hero_image
+        title="BG3 Console Mod Tracker", content=content, hero_image_url=hero_image, date_nav_html=nav
     )
     html = html_document("BG3 Console Mod Tracker", container)
 

@@ -84,7 +84,7 @@ STYLES = """
 
         /* Header */
         .app-header {
-            padding: 1.5rem 1.5rem 0;
+            padding: 1.5rem 1.5rem;
             position: sticky;
             top: 0;
             z-index: 100;
@@ -176,7 +176,7 @@ STYLES = """
             display: flex;
             align-items: center;
             justify-content: center;
-            margin: 0.75rem 0;
+            margin: 0.75rem 0 0 0;
             position: relative;
         }
 
@@ -190,17 +190,22 @@ STYLES = """
             z-index: 1;
         }
 
-        .date-nav-pill {
+        .date-nav-center {
             display: flex;
             flex-direction: column;
+            align-items: center;
+            z-index: 2;
+            position: relative;
+        }
+
+        .date-nav-pill {
+            display: flex;
             align-items: center;
             background: var(--bg-primary);
             padding: 0.375rem 0.75rem;
             border: 1px solid var(--border-color);
             border-radius: 9999px;
-            z-index: 2;
             box-shadow: var(--shadow-sm);
-            gap: 0.125rem;
         }
 
         .date-nav-btn {
@@ -251,6 +256,11 @@ STYLES = """
         }
 
         .date-nav-badge {
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            margin-bottom: 0.25rem;
             display: inline-flex;
             align-items: center;
             gap: 0.25rem;
@@ -263,6 +273,7 @@ STYLES = """
             background: rgba(201, 162, 39, 0.15);
             border: 1px solid rgba(201, 162, 39, 0.3);
             border-radius: 9999px;
+            white-space: nowrap;
         }
 
         /* Date Sections */
@@ -280,7 +291,6 @@ STYLES = """
             border: 1px solid var(--border-color);
             border-radius: 0.75rem;
             padding: 0.75rem;
-            margin-top: 0.5rem;
             box-shadow: var(--shadow-sm);
         }
 

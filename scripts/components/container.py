@@ -1,7 +1,7 @@
 """Changelog container component."""
 
 
-def changelog_container(title: str, content: str, hero_image_url: str = None) -> str:
+def changelog_container(title: str, content: str, hero_image_url: str = None, date_nav_html: str = "") -> str:
     """Generate the main changelog container with pill-style header."""
     logo_html = (
         f'<img src="{hero_image_url}" alt="Logo" class="header-logo">'
@@ -22,6 +22,7 @@ def changelog_container(title: str, content: str, hero_image_url: str = None) ->
             <span id="last-checked">Checking...</span>
         </div>
     </header>
+{date_nav_html}
     <main class="changelog-container">
         <div class="changelog-stack">
 {content}
