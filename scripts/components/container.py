@@ -3,8 +3,12 @@
 
 def changelog_container(title: str, content: str, hero_image_url: str = None) -> str:
     """Generate the main changelog container with pill-style header."""
-    logo_html = f'<img src="{hero_image_url}" alt="Logo" class="header-logo">' if hero_image_url else ''
-    
+    logo_html = (
+        f'<img src="{hero_image_url}" alt="Logo" class="header-logo">'
+        if hero_image_url
+        else ""
+    )
+
     return f"""    <header class="app-header">
         <div class="header-content">
             {logo_html}
