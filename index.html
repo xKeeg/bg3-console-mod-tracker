@@ -138,13 +138,30 @@
             color: var(--gold-primary);
         }
 
-        .header-subtext {
-            max-width: 600px;
-            margin: 0.5rem auto 0;
-            text-align: center;
+        /* Toast */
+        .toast {
+            position: fixed;
+            bottom: 1.5rem;
+            left: 50%;
+            transform: translateX(-50%) translateY(100%);
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 9999px;
+            padding: 0.5rem 1rem;
             font-size: 0.75rem;
             color: var(--text-secondary);
-            opacity: 0.7;
+            box-shadow: var(--shadow-lg);
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+            z-index: 1000;
+            pointer-events: none;
+        }
+
+        .toast.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+            visibility: visible;
         }
 
         /* Layout */
@@ -484,6 +501,177 @@
             font-weight: 500;
         }
 
+        /* Info Button */
+        .info-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 2rem;
+            height: 2rem;
+            border: 1px solid var(--border-color);
+            background: var(--bg-primary);
+            border-radius: 9999px;
+            cursor: pointer;
+            color: var(--text-secondary);
+            transition: all 0.15s ease;
+            flex-shrink: 0;
+        }
+
+        .info-btn:hover {
+            background: var(--bg-tertiary);
+            color: var(--text-primary);
+            border-color: var(--gold-primary);
+        }
+
+        .info-btn svg {
+            width: 1rem;
+            height: 1rem;
+        }
+
+        /* Modal */
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.75);
+            backdrop-filter: blur(4px);
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+            opacity: 1;
+            visibility: visible;
+            transition: opacity 0.2s ease, visibility 0.2s ease;
+        }
+
+        .modal-overlay[aria-hidden="true"] {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
+
+        .modal-content {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1rem;
+            max-width: 480px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            position: relative;
+            box-shadow: var(--shadow-lg), 0 0 0 1px rgba(201, 162, 39, 0.1);
+            transform: translateY(0);
+            transition: transform 0.2s ease;
+        }
+
+        .modal-overlay[aria-hidden="true"] .modal-content {
+            transform: translateY(-1rem);
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            width: 2rem;
+            height: 2rem;
+            border: 1px solid var(--border-color);
+            background: var(--bg-primary);
+            border-radius: 9999px;
+            cursor: pointer;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.15s ease;
+            z-index: 1;
+        }
+
+        .modal-close:hover {
+            background: var(--bg-tertiary);
+            color: var(--text-primary);
+        }
+
+        .modal-close svg {
+            width: 1rem;
+            height: 1rem;
+        }
+
+        .modal-header {
+            padding: 1.5rem 1.5rem 0;
+        }
+
+        .modal-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--gold-primary);
+            margin: 0;
+        }
+
+        .modal-body {
+            padding: 1rem 1.5rem 1.5rem;
+        }
+
+        .modal-body p {
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin: 0;
+        }
+
+        .modal-body a {
+            color: var(--gold-primary);
+            text-decoration: none;
+            transition: color 0.15s ease;
+        }
+
+        .modal-body a:hover {
+            color: var(--gold-light);
+            text-decoration: underline;
+        }
+
+        .modal-section {
+            margin-top: 1.25rem;
+        }
+
+        .modal-section h3 {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin: 0 0 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .modal-section ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .modal-section li {
+            color: var(--text-secondary);
+            padding: 0.375rem 0;
+            padding-left: 1rem;
+            position: relative;
+        }
+
+        .modal-section li::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: var(--gold-primary);
+        }
+
+        .modal-section li strong {
+            color: var(--text-primary);
+        }
+
+        /* Responsive */
+        @media (max-width: 480px) {
+            .header-stat {
+                display: none;
+            }
+        }
+
     </style>
 </head>
 <body>
@@ -495,11 +683,12 @@
                 <span class="header-stat-value" id="total-mods">--</span>
                 <span>mods</span>
             </div>
-        </div>
-        <div class="header-subtext">
-            <span id="last-checked">Checking...</span>
+            <button class="info-btn" onclick="openModal()" aria-label="About this tracker">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+            </button>
         </div>
     </header>
+    <div class="toast" id="toast" aria-live="polite"></div>
 <div class="date-nav">
             <button class="date-nav-btn prev" onclick="prevDate()" aria-label="Previous date">
                 <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 12L6 8l4-4"/></svg>
@@ -8769,7 +8958,7 @@
 <a class="mod-row" href="https://mod.io/g/baldursgate3/m/axi-cays-meme-poses" target="_blank" rel="noopener noreferrer">
             <img class="mod-thumb" src="https://thumb.modcdn.io/mods/60e2/5412825/crop_320x180/6ef19601-067f-460b-b166-9583bd8.1.png" alt="" loading="lazy" onerror="this.src='https://placehold.co/80x45/e2e8f0/64748b?text=No+Image'">
             <div class="mod-info">
-                <div class="mod-title">Axi &amp; Cay's Meme Poses</div>
+                <div class="mod-title">Axi and Cay's Meme Poses</div>
                 <div class="mod-summary">Adds 4 meme poses to photo mode for BT1, BT2, BT3, and BT4.</div>
             </div>
             <svg class="mod-link-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 10L14 2m0 0h-5m5 0v5M8 4H3a1 1 0 00-1 1v8a1 1 0 001 1h8a1 1 0 001-1V9"/></svg>
@@ -8945,22 +9134,31 @@
                 return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
             }
             
-            function fetchLastChecked() {
-                const el = document.getElementById('last-checked');
-                if (!el) return;
+            function showToast(message, duration = 4000) {
+                const toast = document.getElementById('toast');
+                if (!toast) return;
                 
+                toast.textContent = message;
+                toast.classList.add('show');
+                
+                setTimeout(() => {
+                    toast.classList.remove('show');
+                }, duration);
+            }
+            
+            function fetchLastChecked() {
                 fetch('https://api.github.com/repos/xKeeg/bg3-console-mod-tracker/actions/workflows/main.yml/runs?status=success&per_page=1')
                     .then(r => r.json())
                     .then(data => {
                         if (data.workflow_runs && data.workflow_runs.length > 0) {
                             const lastRun = new Date(data.workflow_runs[0].updated_at);
-                            el.textContent = `Last checked: ${formatTimeAgo(lastRun)}`;
+                            showToast(`Last checked: ${formatTimeAgo(lastRun)}`);
                         } else {
-                            el.textContent = 'Checked hourly';
+                            showToast('Checked hourly');
                         }
                     })
                     .catch(() => {
-                        el.textContent = 'Checked hourly';
+                        showToast('Checked hourly');
                     });
             }
             
@@ -8989,6 +9187,72 @@
     
         </div>
     </main>
+
+    <!-- Info Modal -->
+    <div class="modal-overlay" id="info-modal" aria-hidden="true">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()" aria-label="Close modal">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+            <div class="modal-header">
+                <h2 class="modal-title">About This Tracker</h2>
+            </div>
+            <div class="modal-body">
+                <p>This site tracks <strong>new and updated mods</strong> for Baldur's Gate 3 on console platforms (PlayStation & Xbox).</p>
+                
+                <div class="modal-section">
+                    <h3>How It Works</h3>
+                    <p>The tracker automatically checks <a href="https://mod.io/g/baldursgate3" target="_blank" rel="noopener">mod.io</a> every hour for new console-compatible mods and updates to existing ones.</p>
+                </div>
+                
+                <div class="modal-section">
+                    <h3>Features</h3>
+                    <ul>
+                        <li><strong>New Mods</strong> — Freshly added mods for console</li>
+                        <li><strong>Updated Mods</strong> — Existing mods that received updates</li>
+                        <li><strong>Daily Navigation</strong> — Browse changes by date</li>
+                    </ul>
+                </div>
+                
+                <div class="modal-section">
+                    <h3>Links</h3>
+                    <p>
+                        <a href="https://github.com/xKeeg/bg3-console-mod-tracker" target="_blank" rel="noopener">View on GitHub</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        function openModal() {
+            const modal = document.getElementById('info-modal');
+            modal.setAttribute('aria-hidden', 'false');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        function closeModal() {
+            const modal = document.getElementById('info-modal');
+            modal.setAttribute('aria-hidden', 'true');
+            document.body.style.overflow = '';
+        }
+        
+        // Close modal on escape key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+        
+        // Close modal on overlay click
+        document.getElementById('info-modal')?.addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+    </script>
+
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {

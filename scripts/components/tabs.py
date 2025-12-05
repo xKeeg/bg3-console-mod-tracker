@@ -271,22 +271,31 @@ def tabs_script() -> str:
                 return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
             }
             
-            function fetchLastChecked() {
-                const el = document.getElementById('last-checked');
-                if (!el) return;
+            function showToast(message, duration = 4000) {
+                const toast = document.getElementById('toast');
+                if (!toast) return;
                 
+                toast.textContent = message;
+                toast.classList.add('show');
+                
+                setTimeout(() => {
+                    toast.classList.remove('show');
+                }, duration);
+            }
+            
+            function fetchLastChecked() {
                 fetch('https://api.github.com/repos/xKeeg/bg3-console-mod-tracker/actions/workflows/main.yml/runs?status=success&per_page=1')
                     .then(r => r.json())
                     .then(data => {
                         if (data.workflow_runs && data.workflow_runs.length > 0) {
                             const lastRun = new Date(data.workflow_runs[0].updated_at);
-                            el.textContent = `Last checked: ${formatTimeAgo(lastRun)}`;
+                            showToast(`Last checked: ${formatTimeAgo(lastRun)}`);
                         } else {
-                            el.textContent = 'Checked hourly';
+                            showToast('Checked hourly');
                         }
                     })
                     .catch(() => {
-                        el.textContent = 'Checked hourly';
+                        showToast('Checked hourly');
                     });
             }
             

@@ -5,7 +5,7 @@ from collections import defaultdict
 
 from .components import (
     html_document,
-    changelog_container,
+    page_layout,
     date_nav,
     date_section,
     mod_card,
@@ -161,10 +161,10 @@ def generate_html(
     """
     mods = get_mods(db_path)
     content, nav = generate_changelog_content(mods)
-    container = changelog_container(
+    layout = page_layout(
         title="BG3 Console Mod Tracker", content=content, hero_image_url=hero_image, date_nav_html=nav
     )
-    html = html_document("BG3 Console Mod Tracker", container)
+    html = html_document("BG3 Console Mod Tracker", layout)
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)

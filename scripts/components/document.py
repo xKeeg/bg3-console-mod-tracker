@@ -1,6 +1,7 @@
 """HTML document wrapper component."""
 
 from .styles import get_all_styles
+from .modal import info_modal, MODAL_SCRIPT
 
 COLLAPSIBLE_SCRIPT = """
     <script>
@@ -22,6 +23,7 @@ COLLAPSIBLE_SCRIPT = """
 def html_document(title: str, body_content: str) -> str:
     """Generate a complete HTML document."""
     styles = get_all_styles()
+    modal_html = info_modal()
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,6 +36,8 @@ def html_document(title: str, body_content: str) -> str:
 </head>
 <body>
 {body_content}
+{modal_html}
+{MODAL_SCRIPT}
 {COLLAPSIBLE_SCRIPT}
 </body>
 </html>

@@ -1,8 +1,10 @@
-"""Changelog container component."""
+"""Page layout component."""
+
+from .modal import info_button
 
 
-def changelog_container(title: str, content: str, hero_image_url: str = None, date_nav_html: str = "") -> str:
-    """Generate the main changelog container with pill-style header."""
+def page_layout(title: str, content: str, hero_image_url: str = None, date_nav_html: str = "") -> str:
+    """Generate the page layout with header, navigation, and main content area."""
     logo_html = (
         f'<img src="{hero_image_url}" alt="Logo" class="header-logo">'
         if hero_image_url
@@ -17,11 +19,10 @@ def changelog_container(title: str, content: str, hero_image_url: str = None, da
                 <span class="header-stat-value" id="total-mods">--</span>
                 <span>mods</span>
             </div>
-        </div>
-        <div class="header-subtext">
-            <span id="last-checked">Checking...</span>
+            {info_button()}
         </div>
     </header>
+    <div class="toast" id="toast" aria-live="polite"></div>
 {date_nav_html}
     <main class="changelog-container">
         <div class="changelog-stack">
