@@ -2,11 +2,11 @@ name: Scrape, Update, and Deploy
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Every hour
+    - cron: "0 * * * *" # Every hour
   workflow_dispatch:
     inputs:
       force_deploy:
-        description: 'Force deploy to Pages (skip scrape/update)'
+        description: "Force deploy to Pages (skip scrape/update)"
         type: boolean
         default: false
 
@@ -118,7 +118,7 @@ jobs:
             platforms
             
           }) | sort_by(.id)' "$TEMP_NDJSON" > data.json
-          
+
           echo "Finished. data.json size: $(du -h data.json | cut -f1)"
 
       - name: Commit and push if changed
@@ -126,9 +126,9 @@ jobs:
         run: |
           git config user.name "Git Scraper Bot"
           git config user.email "actions@users.noreply.github.com"
-          
+
           git add data.json
-          
+
           if git diff --staged --quiet; then
             echo "No changes detected. Committing empty..."
             git commit --allow-empty -m "chore: no data changes [$(date -u)]"
@@ -148,12 +148,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Full history needed for git-history
+          fetch-depth: 0 # Full history needed for git-history
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Install dependencies
         run: pip install git-history
@@ -173,7 +173,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add index.html
-          
+
           if git diff --staged --quiet; then
             echo "No HTML changes."
             echo "html_changed=false" >> $GITHUB_OUTPUT
@@ -200,7 +200,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: "."
 
       - name: Deploy to GitHub Pages
         id: deployment
