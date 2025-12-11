@@ -167,7 +167,9 @@ def get_mods(db_path: Optional[str] = None) -> dict[int, Mod]:
                 )
 
             # Update tracked platforms
-            previous_platforms[item_id] = platforms
+            # Update tracked platforms
+            if new_ver > 0:
+                previous_platforms[item_id] = platforms
 
     return mods
 
