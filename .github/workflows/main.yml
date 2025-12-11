@@ -77,7 +77,7 @@ jobs:
             sleep 0.1
           done
 
-          jq -s 'map({
+          jq -s 'unique_by(.id) | map({
             id,
             game_id,
             name,
@@ -130,18 +130,17 @@ jobs:
           git add data.json
           
           if git diff --staged --quiet; then
-            echo "No changes detected."
-            echo "data_changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected. Committing empty..."
+            git commit --allow-empty -m "chore: no data changes [$(date -u)]"
           else
             echo "Changes detected! Committing..."
             git commit -m "chore: update scraped data [$(date -u)]"
-            git push
-            echo "data_changed=true" >> $GITHUB_OUTPUT
           fi
+          git push
+          echo "data_changed=true" >> $GITHUB_OUTPUT
 
   update-changelog:
     needs: scrape
-    if: needs.scrape.outputs.data_changed == 'true'
     runs-on: ubuntu-latest
     outputs:
       html_changed: ${{ steps.commit.outputs.html_changed }}
