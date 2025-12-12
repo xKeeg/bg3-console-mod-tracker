@@ -136,6 +136,9 @@ jobs:
             echo "Changes detected! Committing..."
             git commit -m "chore: update scraped data [$(date -u)]"
           fi
+
+          # Fix: Pull latest changes before pushing to avoid conflicts
+          git pull --rebase origin main
           git push
           echo "data_changed=true" >> $GITHUB_OUTPUT
 
@@ -149,6 +152,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Full history needed for git-history
+          ref: main # Explicitly check out main to get the commit from the previous job
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -179,6 +183,10 @@ jobs:
             echo "html_changed=false" >> $GITHUB_OUTPUT
           else
             git commit -m "Update changelog HTML"
+            
+            # Fix: Pull latest changes (from scrape job) before pushing
+            git pull --rebase origin main
+            
             git push
             echo "html_changed=true" >> $GITHUB_OUTPUT
           fi
@@ -193,6 +201,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main # Ensure we deploy the absolute latest version
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
