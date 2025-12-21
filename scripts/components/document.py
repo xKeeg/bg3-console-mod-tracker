@@ -19,6 +19,7 @@ COLLAPSIBLE_SCRIPT = """
     </script>
 """
 
+ANALYTICS_SCRIPT = """<script data-goatcounter="https://penrose.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>"""
 
 def html_document(title: str, body_content: str) -> str:
     """Generate a complete HTML document."""
@@ -39,6 +40,7 @@ def html_document(title: str, body_content: str) -> str:
 {modal_html}
 {MODAL_SCRIPT}
 {COLLAPSIBLE_SCRIPT}
+{ANALYTICS_SCRIPT}
 </body>
 </html>
 """
