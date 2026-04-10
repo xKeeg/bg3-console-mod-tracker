@@ -136565,6 +136565,134 @@
     ]
   },
   {
+    "id": 5765699,
+    "game_id": 6715,
+    "name": "Stellar Nocturne - Outfit Set",
+    "name_id": "stellar-nocturne-outfit-set",
+    "summary": "A gown with flowing, swirling starlight (animated VFX). For BT1/2 tall races only. Multiple stats/style/modular options available.",
+    "description": "<h3>A celestial ensemble that flows like liquid starlight across the fabric, where swirling constellations drift and shimmer in rhythm with your every step.</h3>\n<h2>Main Features</h2>\n<p>They currently supports <span style=\"text-decoration:underline;\"><strong>Body Type 1 and Body Type 2 </strong></span>on the tall races (Humans, Elves, Half-Elves, Drow, and Tieflings.) Githyanki are not included at this time.</p>\n<p>This ensemble offers multiple stat variants, different slot options, and several modular pieces to choose from (see the item list below).<br><br>The set includes <span style=\"text-decoration:underline;\">two dresses, a cape, shoulder pads, necklace, pants and shoes.</span></p>\n<h3>The cape, dresses, pants and shoes all include animated VFX. <br>See the showcase video at the end of gallery.</h3>\n<p>The cape and pants feature a flowing, glimmering constellation pattern, while the dresses uses a subtler, swirling starry sky VFX. (I’m really satisfied with this design choice :)</p>\n<p><span style=\"text-decoration:underline;\">The entire outfit ensemble is dyeable. However it's not possible to dye the glows.</span></p>\n<p> </p>\n<h2>Item List (17 in total):</h2>\n<p><span style=\"text-decoration:underline;\">Full Set – OP Version: </span></p>\n<p>This set contains the dress, all components of the cape including necklace and shoulderpads. AC 18, comes with Selûne’s Protection and unlocks the Moonbeam spell.</p>\n<p><span style=\"text-decoration:underline;\">Full Set – Ordinary Version: </span></p>\n<p>Same as above but with AC 10, no boosts or passives.</p>\n<p><span style=\"text-decoration:underline;\">Full Set – Camp Version:</span></p>\n<p>Can be equipped in the camp body slot. (The other two above use the breast armor slot.</p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\">Dress Only (Var.1) – OP Version: </span></p>\n<p>Same stats as the full set OP version, without the cape.</p>\n<p><span style=\"text-decoration:underline;\">Dress Only (Var.1) – Ordinary Version: </span></p>\n<p>Same stats as the full set ordinary version, without the cape.</p>\n<p><span style=\"text-decoration:underline;\">Dress Only (Var.1) – Camp Version: </span></p>\n<p>Can be equipped in the camp body slot, without the cape.</p>\n<p><span style=\"text-decoration:underline;\">Dress Only (Var.2) – OP Version: </span></p>\n<p>Same stats as the full set OP version, without the cape.</p>\n<p><span style=\"text-decoration:underline;\">Dress Only (Var.2) – Ordinary Version: </span></p>\n<p>Same stats as the full set ordinary version, without the cape.</p>\n<p><span style=\"text-decoration:underline;\">Dress Only (Var.2) – Camp Version: </span></p>\n<p>Can be equipped in the camp body slot, without the cape.</p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\">Cape with Necklace and Shoulder Pads: </span></p>\n<p>As described, no AC or boosts. Equippable in cloak slot.</p>\n<p><span style=\"text-decoration:underline;\">Cape with Necklace: </span></p>\n<p>Includes the necklace but excludes the shoulder pads. Equippable in cloak slot.</p>\n<p><span style=\"text-decoration:underline;\">Cape Only: </span></p>\n<p>Just the cape itself, without the necklace or shoulder pads. Equippable in cloak slot.</p>\n<p><span style=\"text-decoration:underline;\">Necklace Only: </span></p>\n<p>As described, equippable in the cloak slot.</p>\n<p><span style=\"text-decoration:underline;\">Shoulder Pads Only: </span></p>\n<p>Equippable in the cloak slot.</p>\n<p><span style=\"text-decoration:underline;\">Pants Only: </span></p>\n<p>Equippable in the underwear slot.</p>\n<p><span style=\"text-decoration:underline;\">Shoes Only: </span></p>\n<p>Equippable in the boots slot.</p>\n<p><span style=\"text-decoration:underline;\">Shoes Only (Camp): </span></p>\n<p>Equippable in the camp shoes slot.</p>\n<p> </p>\n<h2>Item Location</h2>\n<p>All 12 items are contained in a chest called “Stellar Nocturne Outfit Chest” (it has a new custom-made glowy texture and can be placed on the ground!), you can find it in:</p>\n<h3>Tutorial Chest<br>Vendors across the map, including:</h3>\n<p><span style=\"text-decoration:underline;\"><em>Volo in Campsite</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Arron from Emerald Grove</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Dammon from Last Light Inn and Lower City</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Roah Moonglow from Goblin Camp</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Esther from Rosymorn Monastery</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Kith from Grymforge</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Blurg from Underdark</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Araj Oblodra from Moonrise Towers</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Entharl Danthelon from Wyrm's Crossing</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Helsik from Devil’s Fee</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Figaro Pennygood from Lower City</em></span></p>\n<p> </p>\n<h2>Some more ramblings because that’s what I do…</h2>\n<p>At the beginning, I didn’t really have a clear idea, and I was mostly browsing through the Toolkit, looking at the available VFX templates to see what I could do with them. From there, I started to find inspiration and gradually figure out the direction for this armor set. While exploring the toolkit, I discovered a VFX template that allows a pattern to act as a glow map that can pan across a surface. I tested it using a starry sky image that was converted into a glow map, and plugged it in—it worked! And to be honest I was really overjoyed to find that this method works, I’ve always loved the concept of swirling starry sky (well, Van Gogh is certainly one of the main influences…) and it’s something you can’t really do with real fashion pieces (talking about this, I was also influenced by the presentation of the Sympoiesis collection opening dress by Iris van Herpen, however in that runway, the light rays seemed to be kept still, so I figured it’ll be even cooler if I can achieve this in BG3)</p>\n<p>Beyond the VFX, I’ve always admired Lady Jannath’s outfit in Act 3. The overall design is fantastic, but unfortunately, it’s not a wearable item in-game—and it’s only for BT1. I really liked the robe, especially the shoulderpads, so I used the robe’s mesh as a base. The original cape, however, had weight paint issues (maybe it’s just me?)—the mesh twisted oddly at the armpits area when the character’s arms were down. To avoid this, I replaced the cape with another one in game, but kept the original shoulder pads because I really liked their design. For the Lady Jannath necklace, I retextured it by adding Selûne’s symbols—the necklace has two circular UV maps, so I applied two different Selûne symbols onto it. I also changed the color to silver, just a personal aesthetic choice. </p>\n<p>So as I was chatting with a friend, we both agree that this VFX would look great on almost anything XD, so I ended up adding the daisy dress (‘Dream Guardian’) to the item list as well, and considering that there will be need for a pair of matching shoes, I added the shoes too…did some texture modification on both of them (mainly the base map), then…well, you know it, we’ve got 17 items in the chest now.</p>\n<p>Hope you guys enjoy this outfit!</p>\n<p> </p>\n<h2>Mods used in showcase images:</h2>\n<p>Hair:<a href=\"https://www.nexusmods.com/baldursgate3/mods/16198\"> Myky’s Hairstyles</a>,<a href=\"https://www.nexusmods.com/baldursgate3/mods/1420\"> </a><a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\">Hijimare Hairs</a>, <a href=\"https://www.patreon.com/posts/stylized-hair-pt-108479285\">Suro’s Stylized Hair Pt1</a>, <a href=\"https://www.patreon.com/posts/149563127\">Stylized and Wuxia Hairstyles</a></p>\n<p>Clothing (underwear): <a href=\"https://www.nexusmods.com/baldursgate3/mods/14627\">Kascayde's Lingerie</a></p>\n<p>Accessories: <a href=\"https://www.nexusmods.com/baldursgate3/mods/19815\">Earrings of the Devout</a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/17953\">Moonlit Circlets, </a><a href=\"https://www.patreon.com/posts/eternal-promise-144031999\">Eternal Promise</a> (headwear on Wyll)</p>\n<p>Colors, dyes:<a href=\"https://www.nexusmods.com/baldursgate3/mods/2536\"> Astralities' Skintone Expansion</a>,<a href=\"https://www.nexusmods.com/baldursgate3/mods/1774\"> Extra Dyes for the Fashionable Folk of Faerun,</a></p>\n<p>Head presets:<a href=\"https://www.nexusmods.com/baldursgate3/mods/18243\"> </a><a href=\"https://www.nexusmods.com/baldursgate3/mods/19563\">Berry’s Heads - Hyacinth</a></p>\n<p>Tattoo/Scar: <a href=\"https://www.nexusmods.com/baldursgate3/mods/16595\">Kaz x Astralities - Scarred Visage</a>,<a href=\"https://www.nexusmods.com/baldursgate3/mods/16325\"> KAVT,</a> <a href=\"https://www.nexusmods.com/baldursgate3/mods/21065\">glowing tatto from Aureate Arpeggio</a></p>\n<p>Utilities: <a href=\"https://www.nexusmods.com/baldursgate3/mods/14364\">Lighty Lights and Photo Mode stuff</a>, <a href=\"https://www.patreon.com/posts/86230271?collection=12940\">Otis Camera, </a><a href=\"https://www.nexusmods.com/baldursgate3/mods/17737\">QSAT</a></p>\n<h4>Cover image and last two images photographed by the amazingly talented <a href=\"https://linktr.ee/arachnomancer\">@Arachnomancer :)</a></h4>\n<p> </p>",
+    "date_added": 1770414639,
+    "date_updated": 1775834823,
+    "date_live": 1770414639,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/stellar-nocturne-outfit-set",
+    "submitted_by": {
+      "id": 43867185,
+      "name_id": "berrysemifreddo",
+      "username": "BerrySemifreddo",
+      "profile_url": "https://mod.io/u/berrysemifreddo",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3cdf/43867185/crop_100x100/dyingpillow-transparent.png"
+    },
+    "modfile": {
+      "id": 7512956,
+      "mod_id": 5765699,
+      "version": "1.0.0.27",
+      "filename": "midnight_reverie_3c3fefe1-fc77-aata.zip",
+      "changelog": "Adjusted vertex masking slot settings.",
+      "date_added": 1773703829,
+      "date_updated": 0,
+      "date_scanned": 1773704019,
+      "filesize": 117056475,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "coverfixed.png",
+      "original": "https://image.modcdn.io/mods/8568/5765699/coverfixed.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8568/5765699/crop_320x180/coverfixed.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8568/5765699/crop_640x360/coverfixed.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8568/5765699/crop_1280x720/coverfixed.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7512956
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7512956
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7512956
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7512956
+      }
+    ]
+  },
+  {
     "id": 5819281,
     "game_id": 6715,
     "name": "Friends With Benefits - Approval Rating Buffs",
