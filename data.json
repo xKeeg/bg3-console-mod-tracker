@@ -6880,6 +6880,129 @@
     ]
   },
   {
+    "id": 4208685,
+    "game_id": 6715,
+    "name": "Juniper Head Preset",
+    "name_id": "hel-f-nkd-head-juniper",
+    "summary": "New head for elves/half-elves/drow, tieflings, gnomes and humans BT 1 and 3. Regular and vampire versions for all heads.",
+    "description": "<p><strong>Update Version 1.4.0.0:</strong></p>\n<ul>\n<li>Patch 8 compatible! Previous version should work mostly too but this has updated animation sets</li>\n<li>All races will now look at the camera for their portrait. Visit the magic mirror to generate a new portrait if needed!</li>\n<li>Improved the Gnome head shape so hairs fit the head better and scalp texture shouldn't peek out at the forehead anymore</li>\n<li>Patch 7 backwards compatibility not guaranteed for this update! I have no way to test that anymore sorry!</li>\n</ul>\n<hr>\n<p>Adds a new head preset to character creation.</p>\n<p>Available for Elves, Half-elves, Drow, Tieflings, Humans and Gnomes body types 1 &amp; 3.</p>\n<p>Comes with two versions: Regular and Vampire. Vampire preset gives you bite scars (ouch) and sharper teeth. Doesn't make you an actual vampire in game!</p>\n<p>Currently some head VFX like Speak with the Dead VFX with glowing eyes doesn't work!</p>\n<hr>\n<p><strong>Please let me know in the comments if you run into any issues as mod.io doesn't notify when I get bug reports</strong></p>\n<p> </p>",
+    "date_added": 1722156163,
+    "date_updated": 1775834197,
+    "date_live": 1722157839,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/hel-f-nkd-head-juniper",
+    "submitted_by": {
+      "id": 33097018,
+      "name_id": "leicarna",
+      "username": "leicarna",
+      "profile_url": "https://mod.io/u/leicarna",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3ef4/33097018/crop_100x100/nyttkuva198.png"
+    },
+    "modfile": {
+      "id": 6319272,
+      "mod_id": 4208685,
+      "version": "1.4.0.0",
+      "filename": "hel_f_nkd_head_juniper_4ad6a69-6uzq.zip",
+      "changelog": "-Removed unnecessary double files\n-Removed unnecessary shader files\n-Improved gnome head's shape to better fit with hair\n-Gave some races new animation sets so their portraits look at the camera",
+      "date_added": 1745852539,
+      "date_updated": 0,
+      "date_scanned": 1745852692,
+      "filesize": 93942756,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_showcasev2.png",
+      "original": "https://image.modcdn.io/mods/69c7/4208685/mod_showcasev2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/69c7/4208685/crop_320x180/mod_showcasev2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/69c7/4208685/crop_640x360/mod_showcasev2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/69c7/4208685/crop_1280x720/mod_showcasev2.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6319272
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6319272
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6319272
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6319272
+      }
+    ]
+  },
+  {
     "id": 4208836,
     "game_id": 6715,
     "name": "Better Topbar",
@@ -43937,6 +44060,109 @@
     ]
   },
   {
+    "id": 4371968,
+    "game_id": 6715,
+    "name": "Mage seeker",
+    "name_id": "mage-seeker",
+    "summary": "My very first anti mage mod. both subclasses are done. pretty strong/overpowerd up to lvl 20",
+    "description": "<p>Both Subclasses are now fully implemented</p>\n<p>Will be looking into making a 3rd subclass that is more like a caster and it steals spellslots to cast its own spells.</p>\n<p>Mageseeker can be played either str or dex depending on how you build it and what you want.</p>\n<h2>Hit Points</h2>\n<ul>\n<li><strong>Hit Dice:</strong> 1d10 per Mageseeker level</li>\n<li><strong>Hit Points at 1st Level:</strong> 10 + your Constitution modifier</li>\n<li><strong>Hit Points at Higher Levels:</strong> 1d10 (or 6) + your Constitution modifier per Mageseeker level after 1st</li>\n</ul>\n<h2>Proficiencies</h2>\n<ul>\n<li><strong>Armor:</strong> Light armor, medium armor, shields</li>\n<li><strong>Weapons:</strong> Simple weapons, martial weapons</li>\n<li><strong>Saving Throws:</strong> Dexterity, intelligence</li>\n<li><strong>Skills:</strong> Choose two from Acrobatics, Arcana, Insight, Investigation, Nature, Perception, Stealth, and Survival</li>\n</ul>\n<h2>Cantrips</h2>\n<h3>Mana leak</h3>\n<ul>\n<li><strong>Casting Time:</strong> 1 action</li>\n<li><strong>Range:</strong> 18 meters</li>\n<li><strong>Components:</strong> V, S</li>\n<li><strong>Duration:</strong> Instantaneous</li>\n</ul>\n<p>You release a disruptive pulse of energy at a target. The target takes 1d6 force damage. It aslo inficts the target with Mind fog.</p>\n<ul>\n<li><strong>Mind fog:</strong> The target has disadvantage on concentration Saving Throws.</li>\n</ul>\n<h3>Arcane overload</h3>\n<ul>\n<li><strong>Casting Time:</strong> 1 action</li>\n<li><strong>Range:</strong> 18 meters</li>\n<li><strong>Components:</strong> V, S</li>\n<li><strong>Duration:</strong> Instantaneous</li>\n</ul>\n<p>Fire a bolt of negative magical energy dealing 1d8 force damage possibly infilcting them with Arcane Blight</p>\n<ul>\n<li><strong>Arcane blight:</strong> The target has a 1d4 penalty to (Spell) Attack Rolls and Saving Throws.</li>\n</ul>\n<h3>Static sever</h3>\n<ul>\n<li><strong>Casting Time:</strong> 1 action</li>\n<li><strong>Range:</strong> melee</li>\n<li><strong>Components:</strong> V, S</li>\n<li><strong>Duration:</strong> Instantaneous</li>\n</ul>\n<p>The target takes 1d8 and is silenced if they fail an intelligence saving throw</p>\n<h3>Weave Breaker</h3>\n<ul>\n<li><strong>Casting </strong>Time<strong>:</strong> 1 action</li>\n<li><strong>Range:</strong> melee</li>\n<li><strong>Components:</strong> V, S</li>\n<li><strong>Duration:</strong> Instantaneous</li>\n</ul>\n<p>Charge your weapon with anti-magical energy. <br>Enemies hit by this have a fog cast over their connection to the weave and have disadvantage on spell attacks.<br>At higher levels they take force damage.</p>\n<h2>Mage Seeker Class Features</h2>\n<h3>1st Level: Arcane Awareness</h3>\n<p>As a Mageseeker, your journey begins with a heightened sensitivity to the flow of magic. From your first steps, you’ve learned to feel the subtle tremors of arcane energy in the air. No enchantment or spellcraft can escape your notice; the weave itself bends to your will. Whether it’s detecting hidden wards or revealing magical traps, your awareness of magic is your greatest asset. Spellcasters may try to obscure their power, but under your gaze, their secrets are laid bare. </p>\n<ul>\n<li> </li>\n<li>You gain proficiency in Arcana and Insight.</li>\n</ul>\n<h3>2nd Level: Anti-Magic Pool and Disruptive Response</h3>\n<ul>\n<li><strong>Anti-Magic Pool</strong>: You possess a reservoir of magical disruption energy. Your Anti-Magic Pool starts with a number of charges equal to your proficiency bonus. You use these charges to fuel your anti-magic abilities, such as <strong>Arcane Disruption</strong>, <strong>Mana sever</strong>, and other class features. All expended charges are replenished after a long rest.</li>\n<li><strong>Disruptive Response</strong>: When you can see a creature within 60 feet of you casting a spell, you can use your reaction to disrupt their casting. The spellcaster has disadvantage on the spell attack roll and saving throws required by the spell. This reaction consumes a charge from your Anti-Magic Pool.                 </li>\n</ul>\n<h3>3rd Level: Mage Seeker legacy</h3>\n<ul>\n<li><strong>Mage Seeker legacy:</strong> At 3rd level, you choose an legacy that defines your specialization: <strong>Spellbreaker </strong>or <strong>Mana Stalker</strong>. Your choice grants you features at 3rd, 7th, 11th, 15th, and 18th levels.</li>\n</ul>\n<h3>4th Level: Ability Score Improvement / Mage slayer</h3>\n<ul>\n<li><strong>Ability Score Improvement:</strong> You can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</li>\n<li><strong>Mage slayer:</strong>\n<ul>\n<li>When a creature within 5 feet + your spellcasting modifier of you casts a spell, you can use your reaction to blink to the target and make a melee weapon attack against that creature.</li>\n<li>When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.</li>\n<li>You have advantage on saving throws against spells cast by creatures within 5 feet + your spellcasting modifier of you.</li>\n</ul>\n</li>\n</ul>\n<h3>4th Level: Enhanced Disruptive Response</h3>\n<ul>\n<li><strong>Enhanced Disruption</strong>: When you use <strong>Disruptive Response</strong>, you can expend an additional charge from your Anti-Magic Pool to deal force damage to the spellcaster. The damage dealt scales with your level as follows:\n<ul>\n<li>At 4th level, you deal 1d6 force damage.</li>\n<li>At 7th level, you deal 2d6 force damage.</li>\n<li>At 15th level, you deal 3d6 force damage.</li>\n</ul>\n</li>\n</ul>\n<h3>6th Level: War Magic</h3>\n<ul>\n<li><strong>War Magic:</strong> You can blend magic and melee combat. When you cast a cantrip or spell on your turn, you can use a bonus action to make a weapon attack. Alternatively, when you take the Attack action on your turn, you can use a bonus action to cast a cantrip or spell with a casting time of 1 action.</li>\n</ul>\n<h3>7th Level: Mage Seeker legacy Feature</h3>\n<h3>7<sup>th</sup> level: Arcane interference</h3>\n<p><strong>Arcane Interference</strong>: Your skill at interrupting spellcasting has reached new heights. When you use <strong>Disruptive Response</strong>, it now functions as <strong>Counterspell</strong>. You can expend a charge from your Anti-Magic Pool to cast <strong>Counterspell</strong> without expending a spell slot, provided you can see the spellcaster within 60 feet of you. This use of <strong>Counterspell</strong> consumes a charge from your Anti-Magic Pool.</p>\n<h3>8th Level: Ability Score Improvement / Improved Mage slayer Feat</h3>\n<ul>\n<li><strong>Ability Score Improvement:</strong> You can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</li>\n<li><strong>Improved Mage slayer:</strong> Your <strong>Mage slayer</strong> feat improves:\n<ul>\n<li>When a creature within 18 meters of you casts a spell, you can use your reaction to blink to the target and make a melee weapon attack against that creature and then return to your original position.</li>\n<li>When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.</li>\n<li>You have advantage on saving throws against spells cast by creatures within 5 feet + your spellcasting modifier of you.</li>\n</ul>\n</li>\n</ul>\n<h3>9th Level: Cantrip Selection/ Mage Seeker legacy Feature</h3>\n<ul>\n<li><strong>Additional Cantrip:</strong> You can choose a third anti-mage cantrip from the list provided.</li>\n</ul>\n<h3>10th Level: Arcane Siphon</h3>\n<ul>\n<li><strong>Disruptive Assault</strong>: When you hit a creature with a melee weapon attack, you can expend a charge from your Anti-Magic Pool to channel disruptive energy into your strike. The attack deals an extra 2d6 force damage. On a failed intelligence save you apply mana drain to the target</li>\n<li><strong>Mana Drain</strong>: Affected entity's mana has been drained and it's movement speed is halved, and its Armour Class and Dexterity Saving Throws are reduced by 2.The entity can't take reactions or make more than 1 attack per turn, and can only take either an action or a bonus action. Spells cast might be delayed for 1 turn.</li>\n</ul>\n<p><strong>11th Level: Cantrip Selection/ Mage Seeker legacy Feature</strong></p>\n<ul>\n<li><strong>Additional Cantrip:</strong> You can choose a third anti-mage cantrip from the list provided.</li>\n</ul>\n<p><strong>12th Level: Ability Score Improvement</strong></p>\n<p><strong>13th Level: Perfected Mage slayer</strong></p>\n<ul>\n<li><strong>Perfected Mage slayer:</strong>  when a creature within 18 meters of you casts a spell, you can use your reaction to blink to the target and make a melee weapon attack against that creature.<br>This attack does not consume your reaction but can only be cast once per turn.</li>\n</ul>\n<h3>14th Level: Mana drinker</h3>\n<ul>\n<li><strong>Mana Absorption:</strong> As magic strikes you, instead of being harmed, you siphon the arcane energy, restoring [1] + [2]. Every spell cast against you becomes an opportunity to heal.</li>\n<li><strong>Anti-magic mastery:</strong> your counterspell from the anti-magic pool does not use your reaction but can only be cast once per round</li>\n</ul>\n<h3>15th Level: Mage Seeker legacy Feature</h3>\n<h3>16th Level: Ability Score Improvement</h3>\n<h3>17th Level: Mana sever</h3>\n<ul>\n<li><strong>Mana sever: </strong>if target is silenced. Sever their mana</li>\n</ul>\n<h3>18th Level: Mage Seeker legacy Feature</h3>\n<h3>19th Level: Ability Score Improvement</h3>\n<h3>20th Level: Arcana Obscura</h3>\n<p>You regain half your pool charges on short rest</p>\n<p> </p>\n<h2>Legacies(subclasses)</h2>\n<h2>Spellravager</h2>\n<p><strong>\"In a world where magic intertwines with every aspect of existence, the Spellbreaker is the force that shatters its influence. They are the masters of dismantling enchantments, disrupting arcane schemes, and harnessing magical forces to turn the tide of battle.\"</strong></p>\n<p>Spellbreakers are warriors who confront magic with unparalleled precision and strength. Their specialty lies in dismantling and neutralizing magical effects through sheer physical prowess. With abilities designed to break enchantments and absorb magical energy, Spellbreakers are invaluable in conflicts dominated by sorcery and spellcraft.</p>\n<h3>Level 3: Absorb Magic &amp; Disrupting Strike</h3>\n<ul>\n<li><strong>Absorb resurgence(Basic)</strong>: Absorb magical damage. Take half damage from the next elemental attack targetting you, and deal an additional 1d6 damage of that element type on your next attack.\n<ul>\n<li>the damage increases at levels:\n<ul>\n<li>level 6: 2d6</li>\n<li>level 9: 3d6</li>\n<li>level 13: 4d6</li>\n<li>level 17: 5d6</li>\n</ul>\n</li>\n</ul>\n</li>\n<li><strong>Ravagers blessing: </strong>When you reduce a hostile creature to 0 hitpoints, the legacy of the ravager grants you temp hitpoints equal to your intelligence modifier + your mageseeker level<strong>.</strong></li>\n</ul>\n<h3>Level 7: Prismatic resistance</h3>\n<ul>\n<li>You can select an element and become resistant to it<strong>.</strong></li>\n</ul>\n<h3>Level 11: Ravaging aura</h3>\n<ul>\n<li>You emit an aura that lets you and your allies deal extra damage equal to your intelligence modifier</li>\n</ul>\n<h3>Level 15: ravaging beast</h3>\n<ul>\n<li>you gain the passives: <strong>indomitable, potent cantrip and mystic reaver</strong></li>\n<li><strong>Indomitable: </strong>You have become as durable as an iron golem. Whenever you fail a saving throw, you can roll again, using the new result instead.</li>\n<li><strong>Potent cantrip: </strong>When a creature succeeds its saving throw against one of your cantrips, it still takes half the cantrip's damage, but suffers no additional effects. </li>\n<li><strong>Mystic reaver: </strong>Melee attacks you make deal additional Force damage equal to your Intelligence modifier.</li>\n</ul>\n<p><strong>Level 18: Ravage the Weave</strong></p>\n<p>Teleport to the target and disconnect them from the weave dealing 3d8 force damage. If the target already has their mana severed, ravage their connection to the weave. If the target is already silenced, sever their mana, if the target is not silenced, you silence them.</p>\n<p> </p>\n<h2>Mana stalker</h2>\n<p><strong>\"In a world where magic casts its shadow over all endeavors, the Mana Stalker is the relentless pursuer of its hidden and elusive threats. They excel in tracking and capturing magical entities, ensuring that no magical menace can elude their grasp.\"</strong></p>\n<p> </p>\n<h3>Magic Tracker (3rd Level)</h3>\n<ul>\n<li><strong>Magic Detection:</strong> You gain proficiency in the Perception and Survival skills. You have advantage on Intelligence (investigation) and Intelligence (nature) checks to track creatures or objects with magical auras.</li>\n<li><strong>Enhanced Senses:</strong> You can use a bonus action to detect magical auras within 60 feet of you. You can also identify the type of magic present, whether it’s from a creature, an object, or an environmental effect.</li>\n</ul>\n<h3>Scented Mana (3rd Level)</h3>\n<ul>\n<li><strong>Mark of the Hunted:</strong> As a bonus action, you can spend an anti-magic pool charge to mark a magical target (creature, object, or phenomenon) within 60 feet of you that you can see. This mark lasts for 1 hour or until you use this feature again. While the target is marked, you have advantage on Intelligence (Investigation) and Intelligence (Nature) checks to track it, and you cannot be surprised by it.</li>\n<li><strong>Mana disruption:</strong> When you hit the marked target with an attack, the target suffers additional arcane damage as you disrupt its magical essence. You deal an extra 1d6 necrotic damage with each attack against the marked target. This extra damage increases to 2d6 at 11th level and 3d6 at 15th level.</li>\n</ul>\n<h3>Essence Break (7th Level)</h3>\n<ul>\n<li><strong>Essence Break</strong>: As an action, you can cause the mark you placed on a target to explode with arcane energy. The target must make an Intelligence saving throw against your spell save DC. On a failed save, the target is Silenced and takes 3d8 force damage, you heal for half the damage. The mark also creates a magical lock around the target, making it impossible for them to use or benefit from magic (spells, magical abilities, or magical items) for 1 minute. On a successful save, the target takes half damage but you still heal and is not Silenced.</li>\n<li><strong>Stalker’s pursuit</strong>: While the target is marked, you can spend an AMP charge to teleport to the target and hit them with your melee weapon.</li>\n</ul>\n<h3>Unyielding Pursuit (11th Level)</h3>\n<ul>\n<li><strong>Brand of the Unyielding: </strong>You have tracked many magical entities and now you have mastery over the brand. You can choose to expend 2 AMP charges to upgraded the brand to the brand of the unyielding. This imprints the mark on the target even further causing them to take 2d6 force damage per turn. It also disrupts their senses causing you and your allies to have advantage on attack rolls against them.</li>\n</ul>\n<h3>Final Convergence (15th Level)</h3>\n<p><span style=\"font-family:Symbol;\">·<span style=\"font:7pt 'Times New Roman';\">         </span></span><strong>Arcane Lockdown</strong>: You create a tram around the target locking their mana. This is the stalkers version of a mana sever but it can be applied at the same time as mana sever causing the target to feel agony when connecting to anything magical. It blocks their spells and makes them take 1d10fire damage per turn.</p>\n<h3>Stalker’s Seal(18th Level)</h3>\n<ul>\n<li><strong>Paralyzing confinement: </strong>You have completed the Mana Stalker's legacy. You are able to track, chase and contain any magical entity with your specialized Stalkers seal. As a master of hunting and neutralizing magical entities, the Mana Stalker can invoke a powerful trap to seal their target’s movements and magical essence. Targets must succeed a Constitution Saving Throw or become Paralysed. Healing is prevented from the target aswell</li>\n</ul>\n<p> </p>",
+    "date_added": 1727638670,
+    "date_updated": 1775832696,
+    "date_live": 1727639103,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/mage-seeker",
+    "submitted_by": {
+      "id": 35845656,
+      "name_id": "kodjoro",
+      "username": "Kodjoro",
+      "profile_url": "https://mod.io/u/kodjoro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b5d4/35845656/crop_100x100/ae540d37eef3cfcff194166b7325340.jpg"
+    },
+    "modfile": {
+      "id": 6471644,
+      "mod_id": 4371968,
+      "version": "4.0.0.5",
+      "filename": "mage_seeker_640496a7-34d5-1d52-a1tz.zip",
+      "changelog": null,
+      "date_added": 1750083353,
+      "date_updated": 0,
+      "date_scanned": 1750083360,
+      "filesize": 2061370,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/e52f/4371968/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/e52f/4371968/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/e52f/4371968/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/e52f/4371968/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6471644
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6471644
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6471644
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6471644
+      }
+    ]
+  },
+  {
     "id": 4372028,
     "game_id": 6715,
     "name": "Feat_Ability_Limit_20_Removed",
@@ -58608,6 +58834,174 @@
     ]
   },
   {
+    "id": 4418205,
+    "game_id": 6715,
+    "name": "OIOVerbose - Flags, Flags, and Flags in Dialogues",
+    "name_id": "oioverbose",
+    "summary": "Overexplained Interaction Options with its filter nerfed. Want even more info on companion quests and camp-related goings on? We've got about 1600 extra flags covering everything from Nightsong Points to owlbear pet management in here.",
+    "description": "<p>The truly overexplained Overexplained Interaction Options version.  Want even more info on companion quests and camp-related goings on?  We've got about 1600 extra flags covering everything from Nightsong Points to owlbear pet management in here.</p>\n<p><strong>SAVE COMPATIBILITY</strong></p>\n<p>OIOVerbose is 100% safe to add to or take out of a save as it only updates localization data.  The in-game mod manager will warn you otherwise but it's only being extra cautious and assuming all mods add entirely new reference data, which this one doesn't do.  Or to put it another way, OIOVerbose can't break your save for the same reason switching your game language from English to German in the middle of a playthrough can't break your save.</p>\n<p><strong>YOU MUST RESTART BG3 AFTER ENABLING THIS IN THE IN-GAME MOD MANAGER FOR THIS MOD TO FULLY WORK.</strong></p>\n<p>See the mothership mod (also the one with the working comments thread) <a title=\"https://mod.io/g/baldursgate3/m/oioprime\" href=\"https://mod.io/g/baldursgate3/m/oioprime\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"tw-opacity-75 tw-mb-px tw-whitespace-nowrap\">https://mod.io/g/baldursgate3/m/oioprime</span></a> for the fully overexplained documentation.</p>",
+    "date_added": 1729103029,
+    "date_updated": 1775833177,
+    "date_live": 1729109436,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/oioverbose",
+    "submitted_by": {
+      "id": 36814441,
+      "name_id": "xmas214",
+      "username": "xmas214",
+      "profile_url": "https://mod.io/u/xmas214",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/c0c0/36814441/crop_100x100/b5a67iyc23mb1.png"
+    },
+    "modfile": {
+      "id": 6277251,
+      "mod_id": 4418205,
+      "version": "8.0.0.1",
+      "filename": "oioverbose_8db5c70a-1794-aa4e-8ddp.zip",
+      "changelog": "Adding annotations for Patch 8 content.",
+      "date_added": 1744752508,
+      "date_updated": 0,
+      "date_scanned": 1744752544,
+      "filesize": 18049815,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "verb.png",
+      "original": "https://image.modcdn.io/mods/71e7/4418205/verb.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/71e7/4418205/crop_320x180/verb.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/71e7/4418205/crop_640x360/verb.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/71e7/4418205/crop_1280x720/verb.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "UI",
+        "name_localized": "UI",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "French",
+        "name_localized": "French",
+        "date_added": 0
+      },
+      {
+        "name": "German",
+        "name_localized": "German",
+        "date_added": 0
+      },
+      {
+        "name": "Spanish",
+        "name_localized": "Spanish",
+        "date_added": 0
+      },
+      {
+        "name": "Polish",
+        "name_localized": "Polish",
+        "date_added": 0
+      },
+      {
+        "name": "Russian",
+        "name_localized": "Russian",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "name_localized": "Chinese (Simplified)",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Traditional)",
+        "name_localized": "Chinese (Traditional)",
+        "date_added": 0
+      },
+      {
+        "name": "Turkish",
+        "name_localized": "Turkish",
+        "date_added": 0
+      },
+      {
+        "name": "Portuguese - Brazil",
+        "name_localized": "Portuguese - Brazil",
+        "date_added": 0
+      },
+      {
+        "name": "Italian",
+        "name_localized": "Italian",
+        "date_added": 0
+      },
+      {
+        "name": "Ukrainian",
+        "name_localized": "Ukrainian",
+        "date_added": 0
+      },
+      {
+        "name": "Korean",
+        "name_localized": "Korean",
+        "date_added": 0
+      },
+      {
+        "name": "Japanese",
+        "name_localized": "Japanese",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6277251
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6277251
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6277251
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6277251
+      }
+    ]
+  },
+  {
     "id": 4418342,
     "game_id": 6715,
     "name": "More Hair",
@@ -64244,6 +64638,99 @@
       {
         "platform": "ps5",
         "modfile_live": 5704316
+      }
+    ]
+  },
+  {
+    "id": 4438122,
+    "game_id": 6715,
+    "name": "Extra Attack Offhand Attack - Two Weapon Fighting",
+    "name_id": "two-weapon-fighting-extra-attack",
+    "summary": "The Two Weapon Fighting Style now adds a bonus action \"extra attack\" at character level 5 and beyond. If you use an offhand attack as a bonus action, you can make an additional one for free. Works regardless of class if you have the fighting style.",
+    "description": "<h2>You have been asking, and here it is! Extra attack for Dual Wielding Characters.</h2>\n<p>How does it work?</p>\n<ul>\n<li>When you have the \"Two Weapon Fighting\" fighting style, at character level 5 -- not class level, character level -- you will gain the ability to make an additional attack with your bonus action if you spent your bonus action on an off hand attack, either melee or ranged. Lefties rejoice! This only works once per turn so a Thief with both extra attack and the two weapon fighting style will get a whopping FIVE attacks, but not six which almost happened.</li>\n<li>This feature works almost exactly like the general Extra Attack feature with the caveat that it does not require five levels in a specific class to get. All you need is the two weapon fighting style. You can get that from a feat as in my Feats mod listed below, or from a single level dip in Fighter. It doesn't matter where you get it from as long as your other mods are not overwriting the two weapon fighting style passive itself.</li>\n</ul>\n<p>Is this balanced?</p>\n<ul>\n<li>X to doubt. Probably not. At level 5 you will have 4 attacks + 4x your ability modifier. If you use my champion mod, you will have 4 attacks + 4x your ability modifier + 4x your proficiency bonus which is pretty absurd. Combine that with the Dual Wielder feat and a pair of longswords or morningstars and you will be cooking a ton. I'm not a big math nerd when I balance, so I don't know the specific numbers here but my instinct says this is a little over tuned, but you know what, Great Weapon Master in the vanilla game is cracked and so is Swords Bard. Have fun.</li>\n</ul>\n<p> </p>\n<p>Support me on Ko-Fi</p>\n<h2><a href=\"https://ko-fi.com/creativeexcuses\" target=\"_blank\" rel=\"noopener noreferrer\">https://ko-fi.com/creativeexcuses</a></h2>\n<h2> </h2>\n<h2>Credits: Thank you to Echo on the BG3 discord. You helped me get this thing working.</h2>\n<p> </p>\n<h2>Suggested Mods:</h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/master-of-all-four-elements-rework\">Way of the Four Elements rework!</a></h2>\n<h2><a style=\"color:#e1b894;\" href=\"https://mod.io/g/baldursgate3/m/the-true-champion\">Champion Fighter Rework!</a></h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/valourousbard\">Valor Bard Buff!</a></h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/galecustomclass\">Origin Class Series - Gale</a></h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/origin-class-shadowheart\">Origin Class Series - Shadowheart</a></h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/origin-class-series-karlach\">Origin Class Series - Karlach</a></h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/vastly-improved-feats-buffs-nerfs\">Feats Rework</a></h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/initiative-rework\">Initiative Rework</a></h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/spells-rebalanced\">Spells Rebalanced</a></h2>\n<h2><a href=\"https://mod.io/g/baldursgate3/m/two-weapon-fighting-extra-attack\">Better Dual Wielding</a></h2>",
+    "date_added": 1729743300,
+    "date_updated": 1775832950,
+    "date_live": 1729744955,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/two-weapon-fighting-extra-attack",
+    "submitted_by": {
+      "id": 34817058,
+      "name_id": "smalliceburg",
+      "username": "CreativeExcuses",
+      "profile_url": "https://mod.io/u/smalliceburg",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2890/34817058/crop_100x100/fe72795fb0c88912cc6ec75f1c125df.jpg"
+    },
+    "modfile": {
+      "id": 5774271,
+      "mod_id": 4438122,
+      "version": "1.0.0.3",
+      "filename": "dualwieldextraattack_515ab253-0dva.zip",
+      "changelog": "Bug fixes. Will no longer eat your second off hand attack if you dont use it directly after your first off hand attack.",
+      "date_added": 1731708510,
+      "date_updated": 0,
+      "date_scanned": 1731708514,
+      "filesize": 1455880,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "untitled_artwork2.png",
+      "original": "https://image.modcdn.io/mods/959d/4438122/untitled_artwork2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/959d/4438122/crop_320x180/untitled_artwork2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/959d/4438122/crop_640x360/untitled_artwork2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/959d/4438122/crop_1280x720/untitled_artwork2.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5774271
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5774271
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5774271
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5774271
       }
     ]
   },
@@ -91682,6 +92169,109 @@
     ]
   },
   {
+    "id": 4785433,
+    "game_id": 6715,
+    "name": "Tarot Feat: Major Arcana",
+    "name_id": "tarot-feat-major-arcana",
+    "summary": "Choose one passive ability from among those related to the 22 Major Arcana.",
+    "description": "<h2>The Fool</h2><br><ul><li><br></li><li>Once per Long Rest, when you fail a saving throw, you can choose to succeed instead.<br></li></ul><br><h2>The Magician</h2><br><ul><li><br></li><li>When you expend a spell slot, there is a chance you may regain it. The higher the spell level, the lower that chance becomes.<br></li></ul><br><h2>The High Priestess</h2><br><ul><li><br></li><li>Whenever you deal radiant damage, you deal additional radiant damage equal to your proficiency bonus.<br></li></ul><br><h2>The Empress</h2><br><ul><li><br></li><li>Whenever you restore hit points to a creature, that creature regains extra hit points equal to your proficiency bonus.<br></li></ul><br><h2>The Emperor</h2><br><ul><li><br></li><li>Once per Short Rest, you may grant Temporary HP to allies. Roll a number of d4s equal to your proficiency bonus, and that total becomes the Temporary HP. The size of the dice increases from d6 to d8 as the proficiency bonus increases.<br></li></ul><br><h2>The Hierophant</h2><br><ul><li><br></li><li>Allies within 9m of you reduce any magical damage they take by an amount equal to half your proficiency bonus.<br></li></ul><br><h2>The Lovers</h2><br><ul><li><br></li><li>You grant one chosen creature a bonus to its AC equal to half your proficiency bonus. While you remain within 3m of that creature, you also gain the same benefit.<br></li></ul><br><h2>The Chariot</h2><br><ul><li><br></li><li>As a bonus action, you increase your movement speed by 1.5 times until the end of your turn and do not provoke opportunity attacks.<br></li></ul><br><h2>Strength</h2><br><ul><li><br></li><li>Your critical hit range improves by 1.<br></li></ul><br><h2>The Hermit</h2><br><ul><li><br></li><li>Whenever you move into an area where you are lightly or heavily obscured, you become invisible until the start of your next turn.<br></li></ul><br><h2>The Wheel of Fortune</h2><br><ul><li><br></li><li>At the start of combat, roll a d20. If the result is equal to or lower than your proficiency bonus, you gain one additional action that turn.<br></li></ul><br><h2>Justice</h2><br><ul><li><br></li><li>Whenever you deal damage to a foe, that foe takes additional force damage equal to half your proficiency bonus.<br></li></ul><br><h2>The Hanged Man</h2><br><ul><li><br></li><li>You gain an extra Reaction per round.<br></li></ul><br><h2>Death</h2><br><ul><li><br></li><li>Once per Long Rest, when you are reduced to 0 hit points, you immediately regain hit points equal to your character level and stand back up.<br></li></ul><br><h2>Temperance</h2><br><ul><li><br></li><li>At the start of each of your turns, if your current hit points are at or below half your maximum, you regain hit points equal to your proficiency bonus.<br></li></ul><br><h2>The Devil</h2><br><ul><li><br></li><li>You are immune to being charmed or frightened. When you inflict the charmed or frightened condition on a foe, they take psychic damage equal to your level.<br></li></ul><br><h2>The Tower</h2><br><ul><li><br></li><li>Whenever you cast a spell, it has a chance to trigger a Wild Magic Surge.<br></li></ul><br><h2>The Star</h2><br><ul><li><br></li><li>You are immune to the blinded condition and can see through any darkness as though it were brightly lit.<br></li></ul><br><h2>The Moon</h2><br><ul><li><br></li><li>While you are lightly or heavily obscured, you gain an additional bonus to all saving throws equal to your proficiency bonus.<br></li></ul><br><h2>The Sun</h2><br><ul><li><br></li><li>While you are in an area of bright light, at the start of each of your turns you regain 1d4 hit points and add 1d4 radiant damage to your attacks.<br></li></ul><br><h2>Judgement</h2><br><ul><li><br></li><li>Whenever an enemy’s attack against you misses, that enemy takes force damage equal to your proficiency bonus.<br></li></ul><br><h2>The World</h2><br><ul><li><br></li><li>Once per Long Rest, you can cause every other creature (except yourself) to become frozen in time for 2 rounds.<br></li></ul>",
+    "date_added": 1741550794,
+    "date_updated": 1775833302,
+    "date_live": 1741551052,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/tarot-feat-major-arcana",
+    "submitted_by": {
+      "id": 33661205,
+      "name_id": "yoonmoonsik",
+      "username": "yoonmoonsik",
+      "profile_url": "https://mod.io/u/yoonmoonsik",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
+    },
+    "modfile": {
+      "id": 6278222,
+      "mod_id": 4785433,
+      "version": "1.0.0.4",
+      "filename": "taro_d114bade-6c82-756a-4dca-6-0olz.zip",
+      "changelog": null,
+      "date_added": 1744778767,
+      "date_updated": 0,
+      "date_scanned": 1744778822,
+      "filesize": 158600,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "1.1.png",
+      "original": "https://image.modcdn.io/mods/a1fb/4785433/1.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a1fb/4785433/crop_320x180/1.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a1fb/4785433/crop_640x360/1.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a1fb/4785433/crop_1280x720/1.1.png"
+    },
+    "tags": [
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Korean",
+        "name_localized": "Korean",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6278222
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6278222
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6278222
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6278222
+      }
+    ]
+  },
+  {
     "id": 4787665,
     "game_id": 6715,
     "name": "Aura of Hate Fix for Oathbreakers",
@@ -115157,6 +115747,212 @@
     ]
   },
   {
+    "id": 5019615,
+    "game_id": 6715,
+    "name": "Lydia's Heads for BT1 Githyanki - Vol.1",
+    "name_id": "lydias-heads-for-bt1-githyanki-vol1",
+    "summary": "Adds 4 heads to Body 1 Githyanki.",
+    "description": "<p>More from <a href=\"https://www.nexusmods.com/baldursgate3/mods/5706\">here</a>! <strong>The heads in this mod are for Body 1 Githyanki.</strong></p>\n<p> </p>\n<p>If you have floating heads, make sure “Animation LOD Detail” is set to “High”.</p>\n<p> </p>\n<p><strong>🤍 Things of Note:</strong></p>\n<ul>\n<li>Spell VFX (glowing eyes) currently does not work as I do not yet know how enable it through the toolkit.</li>\n<li>I'm converting the heads from <a href=\"https://www.nexusmods.com/baldursgate3/mods/5706\">this mod</a> in batches of four (4) per race to keep file size reasonable.</li>\n<li>All of these are conversions of other heads so they don't have very Gith names.</li>\n<li>Please don't ask me about console release. It's up to Larian's approval.</li>\n</ul>\n<p>--</p>\n<p><a href=\"https://next.nexusmods.com/profile/plaemon/mods\"><strong>You can find more of my mods (and more versions of this one) on Nexusmods!</strong></a></p>\n<p><strong>🤍 Mods used in Screenshots:<br></strong>General: <a href=\"https://www.nexusmods.com/baldursgate3/mods/238\" rel=\"nofollow\">Custom Backdrops for Character Creation and Level Up</a><br>Customization: <a href=\"https://www.nexusmods.com/baldursgate3/mods/293\">Honey's Hair Kitchen</a> | <a href=\"https://mod.io/g/baldursgate3/m/tavs-hair-salon#description\">Tav's Hair Salon</a> </p>\n<p>--</p>\n<p>If you like my work, consider supporting me on Ko-fi! I have 5 cats to feed.</p>\n<p><a href=\"https://ko-fi.com/A8729VZ\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://storage.ko-fi.com/cdn/kofi3.png?v=3\" alt=\"Buy Me a Coffee at ko-fi.com\" height=\"36\"></a></p>\n<p><a href=\"https://ko-fi.com/plaemon\">https://ko-fi.com/plaemon</a></p>\n<p>You can also support me on Patreon:</p>\n<p><a href=\"https://www.patreon.com/plaemonmods\">https://www.patreon.com/plaemonmods</a></p>",
+    "date_added": 1750092649,
+    "date_updated": 1775833864,
+    "date_live": 1750093046,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/lydias-heads-for-bt1-githyanki-vol1",
+    "submitted_by": {
+      "id": 32520755,
+      "name_id": "plaemon",
+      "username": "plaemon",
+      "profile_url": "https://mod.io/u/plaemon",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/c08b/32520755/crop_100x100/b301bc7301ae3a221a0e2c66a11b74f.png"
+    },
+    "modfile": {
+      "id": 6472016,
+      "mod_id": 5019615,
+      "version": "1.0.0.2",
+      "filename": "lh_bt1githyanki1_e3b91411-3264-art1.zip",
+      "changelog": "Release",
+      "date_added": 1750092750,
+      "date_updated": 0,
+      "date_scanned": 1750092840,
+      "filesize": 53839044,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/dd6a/5019615/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/dd6a/5019615/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/dd6a/5019615/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/dd6a/5019615/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6472016
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6472016
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6472016
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6472016
+      }
+    ]
+  },
+  {
+    "id": 5022372,
+    "game_id": 6715,
+    "name": "The Hellion's Ornaments: Karlach's Piercings",
+    "name_id": "karlachspiercings",
+    "summary": "Gives Karlach some thematically-appropriate ear and facial piercings.",
+    "description": "<p>I miss the Wildheart Barbarian piercings whenever I make Karlach a different subclass, so I made these. They're themed around objects she might've found and scavenged while in the hells to make her own jewellery.</p>\n<p>The piercings are part of her head mesh, so piercings applied by other methods will appear over the top of them. If she already has the Wildheart piercings and you want to use these instead you can respec at Withers to remove them.</p>\n<p><strong>Compatibility</strong></p>\n<p>This mod overrides her head visual resource, so it will likely be incompatible with any other mods that edit her face. Mods that change her hair, body and horns should be ok as long they override those aspects separately. </p>\n<p><strong>Minor issues</strong></p>\n<p>The left eyebrow piercing has minor clipping with her fringe from some angles, but it looked better that way than the alternative of sinking it further into her face.</p>\n<p>If you experience any visual glitches with rage animations, updating to the 1.0.0.7 version should fix them. </p>",
+    "date_added": 1750194392,
+    "date_updated": 1775833101,
+    "date_live": 1750197154,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/karlachspiercings",
+    "submitted_by": {
+      "id": 44553098,
+      "name_id": "revolutionscribe",
+      "username": "RevolutionScribe",
+      "profile_url": "https://mod.io/u/revolutionscribe",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/237f/44553098/crop_100x100/durgeicon.png"
+    },
+    "modfile": {
+      "id": 6502609,
+      "mod_id": 5022372,
+      "version": "1.0.0.7",
+      "filename": "karlachpiercings-overrideversi-mtig.zip",
+      "changelog": "Fixed an issue with rage animations.",
+      "date_added": 1750876481,
+      "date_updated": 0,
+      "date_scanned": 1750876490,
+      "filesize": 2557109,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "karlachearringsthumbnail2.png",
+      "original": "https://image.modcdn.io/mods/3895/5022372/karlachearringsthumbnail2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/3895/5022372/crop_320x180/karlachearringsthumbnail2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/3895/5022372/crop_640x360/karlachearringsthumbnail2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/3895/5022372/crop_1280x720/karlachearringsthumbnail2.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Piercings",
+        "name_localized": "Piercings",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Karlach",
+        "name_localized": "Karlach",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6502609
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6502609
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6502609
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6502609
+      }
+    ]
+  },
+  {
     "id": 5022427,
     "game_id": 6715,
     "name": "Astral Domain Cleric Subclass",
@@ -115524,6 +116320,104 @@
     ]
   },
   {
+    "id": 5023922,
+    "game_id": 6715,
+    "name": "Lydia's Heads for BT1 Githyanki - Vol.3",
+    "name_id": "lydias-heads-for-bt1-githyanki-vol3",
+    "summary": "Adds 4 heads to Body 1 Githyanki.",
+    "description": "<p>For now, that's the last batch of Gith from <a href=\"https://www.nexusmods.com/baldursgate3/mods/5706\">here</a>! <strong>The heads in this mod are for Body 1 Githyanki.</strong></p>\n<p> </p>\n<p>If you have floating heads, make sure “Animation LOD Detail” is set to “High”.</p>\n<p> </p>\n<p><strong>🤍 Things of Note:</strong></p>\n<ul>\n<li>Spell VFX (glowing eyes) does not work as I do not know how enable it through the toolkit.</li>\n<li>I'm converting the heads from <a href=\"https://www.nexusmods.com/baldursgate3/mods/5706\">this mod</a> in batches of four (4) per race to keep file size reasonable.</li>\n<li>All of these are conversions of heads for other races so they don't have very Gith names.</li>\n<li>Please don't ask me about console release. It's up to Larian's approval.</li>\n</ul>\n<p>--</p>\n<p><a href=\"https://next.nexusmods.com/profile/plaemon/mods\"><strong>You can find more of my mods (and more versions of this one) on Nexusmods!</strong></a></p>\n<p><strong>🤍 Mods used in Screenshots:<br></strong>General: <a href=\"https://www.nexusmods.com/baldursgate3/mods/238\" rel=\"nofollow\">Custom Backdrops for Character Creation and Level Up</a><br>Customization: <a href=\"https://www.nexusmods.com/baldursgate3/mods/6333\">more dreadlocs and curly hairstyles Vol.02</a> | <a href=\"https://mod.io/g/baldursgate3/m/morehairoptions#description\">HairUnlocked</a> | <a href=\"https://mod.io/g/baldursgate3/m/tavs-hair-salon#description\">Tav's Hair Salon </a></p>\n<p>--</p>\n<p>If you like my work, consider supporting me on Ko-fi! I have 5 cats to feed.</p>\n<p><a href=\"https://ko-fi.com/A8729VZ\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://storage.ko-fi.com/cdn/kofi3.png?v=3\" alt=\"Buy Me a Coffee at ko-fi.com\" height=\"36\"></a></p>\n<p><a href=\"https://ko-fi.com/plaemon\">https://ko-fi.com/plaemon</a></p>\n<p>You can also support me on Patreon:</p>\n<p><a href=\"https://www.patreon.com/plaemonmods\">https://www.patreon.com/plaemonmods</a></p>",
+    "date_added": 1750257899,
+    "date_updated": 1775834037,
+    "date_live": 1750258805,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/lydias-heads-for-bt1-githyanki-vol3",
+    "submitted_by": {
+      "id": 32520755,
+      "name_id": "plaemon",
+      "username": "plaemon",
+      "profile_url": "https://mod.io/u/plaemon",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/c08b/32520755/crop_100x100/b301bc7301ae3a221a0e2c66a11b74f.png"
+    },
+    "modfile": {
+      "id": 6477736,
+      "mod_id": 5023922,
+      "version": "1.0.0.1",
+      "filename": "lh_bt1githyanki3_5a44574b-7ddc-bowf.zip",
+      "changelog": "Release.",
+      "date_added": 1750257975,
+      "date_updated": 0,
+      "date_scanned": 1750258076,
+      "filesize": 57831706,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/1113/5023922/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/1113/5023922/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/1113/5023922/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/1113/5023922/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6477736
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6477736
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6477736
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6477736
+      }
+    ]
+  },
+  {
     "id": 5025167,
     "game_id": 6715,
     "name": "Tail of The Frontier",
@@ -115628,6 +116522,129 @@
       {
         "platform": "ps5",
         "modfile_live": 6479203
+      }
+    ]
+  },
+  {
+    "id": 5026312,
+    "game_id": 6715,
+    "name": "Lydia's Heads - Mon Cher",
+    "name_id": "lydias-heads-mon-cher",
+    "summary": "Adds 1 Head to Body 4 Elves/Drow, Half-Elves, Humans and Tieflings and Body2 Half-Orcs.",
+    "description": "<p><strong>Available for Body 4 Elves/Drow, Half-Elves, Humans, Tieflings and Body 2 Half-Orcs.</strong></p>\n<p> </p>\n<p>If you have floating heads, make sure “Animation LOD Detail” is set to “High”.</p>\n<p> </p>\n<p><strong>🤍 Things of Note:</strong></p>\n<ul>\n<li>Spell VFX (glowing eyes) currently does not work as I do not yet know how enable it through the toolkit.</li>\n<li>The name of the mod was picked by the commissioner.</li>\n<li>There are no plans to convert this head to any other race or body type.</li>\n<li>Don't bother telling me if the Half-Orc version isn't Half-Orc enough for you. I made that one just for fun.</li>\n<li>Please don't ask me about console release. It's up to Larian's approval. <del>But please approve it soon because this was a console commission. Please and thank you!!</del></li>\n</ul>\n<p>--</p>\n<p><a href=\"https://next.nexusmods.com/profile/plaemon/mods\">You can find more of my mods on Nexusmods!</a></p>\n<p><strong>🤍 Mods used in Screenshots:<br></strong>General: <a href=\"https://www.nexusmods.com/baldursgate3/mods/238\" rel=\"nofollow\">Custom Backdrops for Character Creation and Level Up</a><br>Customization: <a href=\"https://mod.io/g/baldursgate3/m/jerinskis-alt-hairs#description\">Jerinski's Alt Hairs</a> | <a href=\"https://mod.io/g/baldursgate3/m/more-hairstyles#description\">More Hair</a> | <a href=\"https://mod.io/g/baldursgate3/m/more-hair-2#description\">More Hair 2</a></p>\n<p>--</p>\n<p>If you like my work, consider supporting me on Ko-fi! I have 5 cats to feed.</p>\n<p><a href=\"https://ko-fi.com/A8729VZ\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://storage.ko-fi.com/cdn/kofi3.png?v=3\" alt=\"Buy Me a Coffee at ko-fi.com\" height=\"36\"></a></p>\n<p><a href=\"https://ko-fi.com/plaemon\">https://ko-fi.com/plaemon</a></p>\n<p>You can also support me on Patreon:</p>\n<p><a href=\"https://www.patreon.com/plaemonmods\">https://www.patreon.com/plaemonmods</a></p>",
+    "date_added": 1750345731,
+    "date_updated": 1775834093,
+    "date_live": 1750346189,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/lydias-heads-mon-cher",
+    "submitted_by": {
+      "id": 32520755,
+      "name_id": "plaemon",
+      "username": "plaemon",
+      "profile_url": "https://mod.io/u/plaemon",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/c08b/32520755/crop_100x100/b301bc7301ae3a221a0e2c66a11b74f.png"
+    },
+    "modfile": {
+      "id": 6480892,
+      "mod_id": 5026312,
+      "version": "1.0.0.1",
+      "filename": "lh_moncher_a376c30c-bf41-4e95-6ty5.zip",
+      "changelog": "Release.",
+      "date_added": 1750345798,
+      "date_updated": 0,
+      "date_scanned": 1750346028,
+      "filesize": 44539946,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/5c3b/5026312/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5c3b/5026312/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5c3b/5026312/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5c3b/5026312/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6480892
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6480892
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6480892
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6480892
       }
     ]
   },
@@ -135415,6 +136432,139 @@
     ]
   },
   {
+    "id": 5765184,
+    "game_id": 6715,
+    "name": "Heartsworn Knight Fighter",
+    "name_id": "heartsworn-knight-fighter-charisma",
+    "summary": "The Heartsworn Knight fighter is a protector of love",
+    "description": "<p>9 different summons, 6 love-themed spells, 4 unique weapons &amp; a full armor set!<br><br>A love-themed Fighter subclass right before Valentine's Day! Not the biggest fan of the day, but pets offer unconditional love, so that's where I went with this subclass. <br>Choose from different protection spells if you are playing with a special someone, or use them to protect your Heartsworn companion. <br>There is a second spell list for enchantment spells to control the battlefield; both spell lists progress as you level up! Level 20 supported.<br>(Homebrewed by myself, like all my subclasses!) <br><br><img src=\"https://image.modcdn.io/members/3931/34758130/profile/heartswornknight.png\" alt=\"\" width=\"120\" height=\"120\"><br><br><span style=\"text-decoration:underline;\"><strong>Level 3 </strong></span><br>- Heartsworn Companion (Red or Pink Cat, Dog &amp; Wolf, Rose Jay or Owlbear Cub)<br>- 4 Unique Cantrips, 3 ranged, 1 melee like booming blade with a taunt<br>- 3 Special Arrow Attacks<br><br><br><span style=\"text-decoration:underline;\"><strong>Level 4</strong></span><br>-Love Lance spell (tracking hearts that heal you)<br>-Choose 1 Protection &amp; Control spell</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 5</strong></span><br>-Choose 1 Protection spell<br><br><span style=\"text-decoration:underline;\"><strong>Level 6</strong></span><br>-Heartsworn Equipment (3 melee, 1 ranged, 4 armor pieces)<br>-Choose Cantrip <br>-Choose Expanded Spell List</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 7</strong></span><br>-War Magic (nerfed because I changed my booming blade not to trigger it)<br>-Choose Control Spell<br><br><span style=\"text-decoration:underline;\"><strong>Level 8</strong></span><br>-Lover's Lament spell (debuff that heals you)<br>-Choose Level 2 Expanded Spell List<br><br><span style=\"text-decoration:underline;\"><strong>Level 9</strong></span><br>-Summon Pink Sabretooth (cool summon w/portrait I found in the files)<br>-Choose Level 3-4 Protection Spell<br><br><span style=\"text-decoration:underline;\"><strong>Level 10</strong></span><br>-Eldritch Strike<br>-Choose Level 3-4 Control Spell</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 11</strong></span><br>-Evocation Training </p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 12</strong></span><br>-Heartsworn Companion +1 (for a second pet)<br>-Aid (buff your summons if you want)<br>-Choose Level 3-4 Protection Spell</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 13</strong></span><br>-Choose Level 3-4 Protection Spell<br><br><span style=\"text-decoration:underline;\"><strong>Level 14</strong></span><br>-Unlock Level 5 Spells</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 15</strong></span><br>-Unlock Level 6 Spells<br>-Improved Evocation Training</p>\n<p><span style=\"text-decoration:underline;\"><strong>Level 20</strong></span><br>-Spirit Guardians<br><br></p>\n<p>Check out my YouTube channel for more :) </p>\n<h2><br><a href=\"https://www.youtube.com/@JasonDunna\" target=\"_blank\" rel=\"noopener noreferrer\">Jay Dunna</a></h2>\n<p> </p>\n<p>A huge thank you to <a href=\"https://mod.io/g/baldursgate3/u/ase243\" target=\"_blank\" rel=\"noopener noreferrer\">ASE243</a>, <a href=\"https://mod.io/g/baldursgate3/u/incogneatoburrito\" target=\"_blank\" rel=\"noopener noreferrer\">IncogneatoBurrito</a>, and <a href=\"https://mod.io/g/baldursgate3/u/saethos\" target=\"_blank\" rel=\"noopener noreferrer\">Saethos </a>for their help/guidance in overcoming some of the issues I encountered! Check out their mods :)<br>Thank you to Maggie113 for bug testing</p>\n<p>Armor in thumbnail: <a href=\"https://www.nexusmods.com/baldursgate3/mods/20546\" target=\"_blank\" rel=\"noopener noreferrer\">Shadowheart dress - Radiant Threads </a> Durge Armor - Unique Armor in this mod @ Level 6, <a href=\"https://mod.io/g/baldursgate3/m/armor-of-the-worthy#description\" target=\"_blank\" rel=\"noopener noreferrer\">Karlach Armor - Armor of the Worthy</a> <br><a href=\"https://mod.io/g/baldursgate3/m/knightoflunareclipse#description\" target=\"_blank\" rel=\"noopener noreferrer\"> Gale - Knight of Lunar Eclipse Armor </a> <a href=\"https://mod.io/g/baldursgate3/m/royal-knight-progressive-equipment-set#description\" target=\"_blank\" rel=\"noopener noreferrer\">Durge - Royal Knight</a> <a href=\"https://www.nexusmods.com/baldursgate3/mods/21170\" target=\"_blank\" rel=\"noopener noreferrer\">Durge - SilverShade </a>  <a href=\"https://www.nexusmods.com/baldursgate3/mods/19319\" target=\"_blank\" rel=\"noopener noreferrer\">Shadowheart  - Luna and Umbra </a> <a href=\"https://www.nexusmods.com/baldursgate3/mods/17312\" target=\"_blank\" rel=\"noopener noreferrer\">Durge - Prismatic Armor </a><br><br></p>\n<p>More mods on the way, let me know your thoughts on YouTube! </p>\n<p> </p>",
+    "date_added": 1770402298,
+    "date_updated": 1775833366,
+    "date_live": 1770404917,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/heartsworn-knight-fighter-charisma",
+    "submitted_by": {
+      "id": 34758130,
+      "name_id": "jasondunna",
+      "username": "jasondunna",
+      "profile_url": "https://mod.io/u/jasondunna",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3931/34758130/crop_100x100/fiverr_jay-dunna-v2-2.png"
+    },
+    "modfile": {
+      "id": 7490131,
+      "mod_id": 5765184,
+      "version": "1.1.0.10",
+      "filename": "heartswornknight_c7d77355-ee64-4pwr.zip",
+      "changelog": "Now with no shaders for console approval! Thank you IncogneatoBurrito for the assist!\nIf you want to use the red weapons on PC, use an earlier version of the mod! The only change to the mod is the weapon textures.",
+      "date_added": 1773207712,
+      "date_updated": 0,
+      "date_scanned": 1773207733,
+      "filesize": 7004751,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "1.1.png",
+      "original": "https://image.modcdn.io/mods/0fa6/5765184/1.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0fa6/5765184/crop_320x180/1.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0fa6/5765184/crop_640x360/1.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0fa6/5765184/crop_1280x720/1.1.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Fighter",
+        "name_localized": "Fighter",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7490131
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7490131
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7490131
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7490131
+      }
+    ]
+  },
+  {
     "id": 5819281,
     "game_id": 6715,
     "name": "Friends With Benefits - Approval Rating Buffs",
@@ -136114,6 +137264,440 @@
       {
         "platform": "ps5",
         "modfile_live": 7463785
+      }
+    ]
+  },
+  {
+    "id": 5875403,
+    "game_id": 6715,
+    "name": "Shadowheart's Improved Gear - Better &amp; Progressive",
+    "name_id": "shadowhearts-improved-gear-better-progressive",
+    "summary": "Shadowheart starts with a selection of new, progressive armour and weapons per default. Alternative versions (e.g. just her original (improved) circlet or heavy armour options) are included. Also avaivable from vendors and tutorial chest.",
+    "description": "<h2>Better, Improved &amp; Progressive - New Equipment for Shadowheart</h2>\n<p>Shadowheart starts with new gear! Options for cloth, medium and heavy armour are avaivable!</p>\n<p>Can be used by any bodytype! So, you can share the gear with the team :-)</p>\n<h3>Items included in Shadowhear's Gear Set</h3>\n<h4>Shadowheart's Progressive Armour</h4>\n<ol>\n<li>Chest: Cloth, Medium and Heavy Armour options (different AC stats, stealth influence)</li>\n<li>Boots: 2 different visuals </li>\n<li>Gloves: 2 different visuals </li>\n<li>Head: 3 different visuals</li>\n<li>Elegant Black Cape</li>\n<li>Update: Selunite Armour Options: Cloth, Medium and Heavy with Selune related skills</li>\n</ol>\n<h4>Shadowheart's Progressive Weapons</h4>\n<ol>\n<li>Dagger 'Sorrow'</li>\n<li>Dagger 'Grief'</li>\n<li>Hand-Crossbow 'Silence' (also gives Proficiency with Hand Crossbows as a Passive)</li>\n<li>Hand-Crossbow 'Shadow' (also gives Proficiency with Hand Crossbows as a Passive)</li>\n<li>Returning Spear</li>\n<li>Shield</li>\n<li>Update: Selunite Longsword and Shield</li>\n</ol>\n<h3>How to get it?</h3>\n<h4>Shadowheart will wear the set and have the alternative options in her inventory! </h4>\n<p>Additionally, or if you want to install this mid-game, these options avilable:</p>\n<h4>Tutorial Chest</h4>\n<h4>Vendors:</h4>\n<ol>\n<li>Act 1: Roah Moonglow</li>\n<li>Act 2: Araj Oblodra </li>\n<li>Act 3: Fytz</li>\n</ol>\n<h3>Special Thanks</h3>\n<p>I got the general idea to give the companions new starting gear, thanks to <a href=\"https://mod.io/g/baldursgate3/u/azazelwastaken\">AzazeLWasTaken! </a>Thank you so much, Aza...I know you wanted some 'competition' for your mods, so here we go ;) Check out some of their amazing mods, everyone! :)</p>",
+    "date_added": 1773681054,
+    "date_updated": 1775833758,
+    "date_live": 1773685216,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/shadowhearts-improved-gear-better-progressive",
+    "submitted_by": {
+      "id": 46459401,
+      "name_id": "ase243",
+      "username": "ase243",
+      "profile_url": "https://mod.io/u/ase243",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dcb0/46459401/crop_100x100/877709d5-09ee-40ce-a695-c1c8fc9.png"
+    },
+    "modfile": {
+      "id": 7537412,
+      "mod_id": 5875403,
+      "version": "1.0.0.12",
+      "filename": "ase_shadowheart_startergear_fa-3drb.zip",
+      "changelog": "Final Version",
+      "date_added": 1774191999,
+      "date_updated": 0,
+      "date_scanned": 1774192009,
+      "filesize": 1021255,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "dwarf15.png",
+      "original": "https://image.modcdn.io/mods/a2b8/5875403/dwarf15.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a2b8/5875403/crop_320x180/dwarf15.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a2b8/5875403/crop_640x360/dwarf15.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a2b8/5875403/crop_1280x720/dwarf15.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7537412
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7537412
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7537412
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7537412
+      }
+    ]
+  },
+  {
+    "id": 5877371,
+    "game_id": 6715,
+    "name": "Darling face - New heads",
+    "name_id": "sgt-darling-face3",
+    "summary": "6 new heads for BT1 &amp; BT2",
+    "description": "<p>⚜️ 3 heads for BT1 + 3 for BT2<br><br></p>\n<p>⚜️ Available for Humans, Half-elves, Elves, Drow and Tieflings<br><br><br>⚜️ If you use UTav/KAVT/EotB, please use priceless  auto-patchers by Volitio!<br><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21440\" target=\"_blank\" rel=\"noopener noreferrer\">Eyes of the Beholder - Universal Automatic Patcher (EotB UAP)</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20629\">UT - KAVT - Universal Automatic Patcher (UAP)</a><br><br>⚜️ If you prefer lesser wrinkles:<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/1058\">Less Wrinkled Expression and Forehead for Face</a></p>\n<blockquote>\n<h4>⚜️Mods used for pics:<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\" rel=\"nofollow\">Hijimare hairs</a><br><a href=\"https://mod.io/g/baldursgate3/m/crimson-hair-catalog\">Crimson Hair Catalog</a><br>Simple Hairstyles by Cerberry</h4>\n</blockquote>",
+    "date_added": 1773752858,
+    "date_updated": 1775834139,
+    "date_live": 1773755655,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/sgt-darling-face3",
+    "submitted_by": {
+      "id": 55809654,
+      "name_id": "sweetgenerousthingsmods",
+      "username": "SweetGenerousThingsMods",
+      "profile_url": "https://mod.io/u/sweetgenerousthingsmods",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/a5cb/55809654/crop_100x100/sgt_avatar.jpg"
+    },
+    "modfile": {
+      "id": 7514466,
+      "mod_id": 5877371,
+      "version": "1.0.0.1",
+      "filename": "darlingface_aca26581-318e-4508-2jy9.zip",
+      "changelog": null,
+      "date_added": 1773752973,
+      "date_updated": 0,
+      "date_scanned": 1773753179,
+      "filesize": 113272881,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "cover_dfmodio.1.png",
+      "original": "https://image.modcdn.io/mods/11db/5877371/cover_dfmodio.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/11db/5877371/crop_320x180/cover_dfmodio.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/11db/5877371/crop_640x360/cover_dfmodio.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/11db/5877371/crop_1280x720/cover_dfmodio.1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7514466
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7514466
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7514466
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7514466
+      }
+    ]
+  },
+  {
+    "id": 5877531,
+    "game_id": 6715,
+    "name": "Mindflayer Race Mod by ASE - Playable Illithid",
+    "name_id": "mindflayer-race-mod-by-ase-playable-illithid",
+    "summary": "Disguised Based Mindflayer Race Mod. Various colours and 3 looks (normal, camp and rich) avaivable! MF Underwear can be found in second room on the nautiloid or from vendors!",
+    "description": "<h2>Mindflayer Race Mod for Console &amp; PC</h2>\n<p>Designed for Console and PC: this disguised based race mods lets you play as an Illithid by wearing Mindflayer Underwear. </p>\n<p>Unlocks very overpowered skills (end game level MF skills). If you don't want to use these, just take them off your action bar!</p>\n<h3>Avaivable options</h3>\n<ol>\n<li>Normal MF Clothes</li>\n<li>Rich MF Clothes</li>\n<li>Camp Style MF Clothes</li>\n</ol>\n<p><strong>Colors avaivable for each</strong>: Black, Blue, Green, Purple, Red, White</p>\n<h3>How to get it?</h3>\n<ul>\n<li>Second room on Nautiloid in a barrel right next to the door</li>\n<li>Tutorial Chest on Nautiloid</li>\n<li>Act 1: Roah Moonglow &amp; Dammon</li>\n<li>Act 2: Lann Tarv</li>\n<li>Act 3: Popper the Kobold</li>\n</ul>\n<p>Pick-up, equip, and then you are a Mindflayer!</p>\n<p> </p>\n<h3>Mindflayer Race Mod for PC by Robbing Roses</h3>\n<p>Check out the <a href=\"https://mod.io/g/baldursgate3/m/illithid-playable-mind-flayer#description\">Mindflayer Race mod</a> by <a href=\"https://mod.io/g/baldursgate3/u/robbingroses\">Robbing Roses</a>, if you are looking for a more balanced gaming experience on PC or for a default MF visual!<br>You can also combine these two mods, if you are trying to get the ultimate MF experience and play on PC only!</p>",
+    "date_added": 1773759575,
+    "date_updated": 1775833522,
+    "date_live": 1773760054,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/mindflayer-race-mod-by-ase-playable-illithid",
+    "submitted_by": {
+      "id": 46459401,
+      "name_id": "ase243",
+      "username": "ase243",
+      "profile_url": "https://mod.io/u/ase243",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dcb0/46459401/crop_100x100/877709d5-09ee-40ce-a695-c1c8fc9.png"
+    },
+    "modfile": {
+      "id": 7514661,
+      "mod_id": 5877531,
+      "version": "1.0.0.3",
+      "filename": "ase_nr_mindflayer_2f615d81-dc9-3l36.zip",
+      "changelog": "Main Version",
+      "date_added": 1773759579,
+      "date_updated": 0,
+      "date_scanned": 1773759592,
+      "filesize": 5156284,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "cloak7.png",
+      "original": "https://image.modcdn.io/mods/d7ac/5877531/cloak7.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d7ac/5877531/crop_320x180/cloak7.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d7ac/5877531/crop_640x360/cloak7.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d7ac/5877531/crop_1280x720/cloak7.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7514661
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7514661
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7514661
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7514661
       }
     ]
   }
