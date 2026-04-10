@@ -80294,7 +80294,7 @@
     "summary": "The unofficial community bug fix mod - Over 2400 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 2400 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish<br>Nyxveilithra and Vituperioso - Brazilian Portuguese</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1775662899,
+    "date_updated": 1775862934,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -80308,15 +80308,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7610191,
+      "id": 7619768,
       "mod_id": 4561805,
-      "version": "4.4.18.2",
-      "filename": "itembugfix_010e73d5-9342-e528-6or5.zip",
-      "changelog": "- Thought Shield: Psychic Resistance now has the correct icon\n- Thought Shield: Psychic Reflection now has the correct icon\n- Upcast versions of 'Flaming Sphere' now also correctly ignore opportunity attacks when on fire\n- Dip can now correctly be used on entities that are on fire by any means, not just only with \"Burning\" and the level 2 Flaming Sphere\n- Throwing an object that is on fire now correctly always set the thrower on fire, even if the thrown object only struck the ground\n-- Throwing a torch no longer sets the thrower on fire\n- Using 'Telekinesis' on an object that is on fire no longer sets the caster on fire\n- Slinging Shoes 'Shoe Slinger' now correctly deals its psychic damage when thrown via Enraged Throw\n- 'Phantasmal Killer' condition now correctly lists its tooltip damage when upcast to spell level 5 and 6\n- 'Dimension Door' is no longer prevented from teleporting allies grounded by positive effects, such as 'Steadfast' or Explorer mode bonuses\n- Cloudkill's initial damage no longer applies to targets that are immune to poison conditions",
-      "date_added": 1775618743,
+      "version": "4.4.19.1",
+      "filename": "itembugfix_010e73d5-9342-e528-1xr8.zip",
+      "changelog": "- Titanstring Bow 'Pushing Attack' no longer references Superiority Dice in the tooltip, and spawns the correct projectiles when used with Curving Shot\n- Bonespike Helmet 'Menacing Attack' no longer references Superiority Dice in the tooltip\n- Partial reversion to Mage Hand Legerdemain and Githyanki Psionics: Mage Hand 'Invisibility'; will now only refresh on short/long rest and when lost if no enemy was within attacking range\n-- Invisibility now has a sound and VFX when applied\n- Assassin of Bhaal Cowl 'Murderous Sight' description now correctly states the Darkvision range it provides\n- Sarevok's Horned Helmet 'Deathbringer's Sight' description now correctly states the Darkvision range it provides, and now correctly increases Darkvision range to 15m if the wearer already has Darkvision",
+      "date_added": 1775862472,
       "date_updated": 0,
-      "date_scanned": 1775618749,
-      "filesize": 594984,
+      "date_scanned": 1775862476,
+      "filesize": 595397,
       "platforms": [
         {
           "platform": "windows",
@@ -80425,7 +80425,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7610191
+        "modfile_live": 7619768
       }
     ]
   },
