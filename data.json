@@ -89463,9 +89463,9 @@
     "name": "Solo Leveling ShadowMonarch",
     "name_id": "shadowmonarch",
     "summary": "This class is based off of the show Solo Leveling.",
-    "description": "<p><strong>This class is based off the skills of the main character from Solo Leveling.</strong><br><br><br><em>All Shadow Extractions require a body to be cast on, though for right now it is working on anyone in the party or around as well... but it will eventually just be usable on corpses. The Shadow Knights and Hounds are unlimited, but I do recommend using caution, as summoning too many may cause crashes. Also, the PS5 is having issues with summoning shadow knights, it is a known issue that hopefully the next patch once approved will fix. Sadly I have to wait for months between patches on console so no idea if and when it will go live.</em><br><br>Do let me know if you have any problems with something not working properly.<br><br>Only covers till level 12 at this time.</p>\n<p><br><br>Disclaimer: I am in no way connected to Solo Leveling. This is a fan made class and I encourage anyone who likes the class to check out the show as well!<br><br>Level 1:<br>Devils Sight, Longevity, Sneak Attack, Indomitable Will, 1st Level Spell Casting, Will To Recover, Guidance.<br><br>Level 2:<br>Improved Critical, Quick Silver (Misty Step), Rush (Action Surge).<br><br>Level 3:<br>Fast Hands, Second Story Work, 2nd Level Spell Casting, Cloud of Daggers, Stealth.<br><br>Level 4:<br><br><br>Level 5:<br>Extra Attack, Level 3 Spells, Ruler's Authority, Summon Shadow Hound<br><br>Level 6:<br>Dark ones own luck, Aura of Terror<br><br>Level 7:<br>4th Level Spells, Reliable Talent, Summon Shadow Knight<br><br>Level 8:<br>Mutilation, <br><br>Level 9:<br>5th Level spells, Aura of Murder</p>\n<p><br>Level 10:<br>Fiendish Resilience, Summon Shadow Mage<br><br>Level 11:<br>Advanced Weapon Technique, 6th Level Spells.<br><br>Level 12:<br><br><br></p>",
+    "description": "<p><strong>This class is based off the skills of the main character from Solo Leveling.</strong><br><br><br><em>All Shadow Extractions require a body to be cast on, though for right now it is working on anyone in the party or around as well... but it will eventually just be usable on corpses. The Shadow Knights and Hounds are unlimited, but I do recommend using caution, as summoning too many may cause crashes. </em><br><br>Do let me know if you have any problems with something not working properly.<br><br>Only covers till level 12 at this time.</p>\n<p><br><br>Disclaimer: I am in no way connected to Solo Leveling. This is a fan made class and I encourage anyone who likes the class to check out the show as well!<br><br>Level 1:<br>Devils Sight, Longevity, Sneak Attack, Indomitable Will, 1st Level Spell Casting, Will To Recover, Guidance.<br><br>Level 2:<br>Improved Critical, Quick Silver (Misty Step), Rush (Action Surge).<br><br>Level 3:<br>Fast Hands, Second Story Work, 2nd Level Spell Casting, Cloud of Daggers, Stealth.<br><br>Level 4:<br><br><br>Level 5:<br>Extra Attack, Level 3 Spells, Ruler's Authority, Summon Shadow Hound<br><br>Level 6:<br>Dark ones own luck, Aura of Terror<br><br>Level 7:<br>4th Level Spells, Reliable Talent, Summon Shadow Knight<br><br>Level 8:<br>Mutilation, <br><br>Level 9:<br>5th Level spells, Aura of Murder</p>\n<p><br>Level 10:<br>Fiendish Resilience, Summon Shadow Mage<br><br>Level 11:<br>Advanced Weapon Technique, 6th Level Spells.<br><br>Level 12:<br><br><br></p>",
     "date_added": 1739644241,
-    "date_updated": 1762251333,
+    "date_updated": 1775883207,
     "date_live": 1739644460,
     "visible": 1,
     "status": 1,
@@ -89479,15 +89479,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 6812607,
+      "id": 7620714,
       "mod_id": 4732572,
-      "version": "1.0.0.29",
-      "filename": "antihero_b8f75e37-afcd-19b2-fe-2kdb.zip",
-      "changelog": "Edited the Summon Knight, in hopes that it works properly.",
-      "date_added": 1759202252,
+      "version": "1.0.0.30",
+      "filename": "antihero_b8f75e37-afcd-19b2-fe-0tcg.zip",
+      "changelog": "Summon Shadow Hound and Summon Knight can now jump and shove.",
+      "date_added": 1775883100,
       "date_updated": 0,
-      "date_scanned": 1759202264,
-      "filesize": 963624,
+      "date_scanned": 1775883105,
+      "filesize": 963742,
       "platforms": [
         {
           "platform": "windows",
@@ -89495,15 +89495,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -89553,10 +89553,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6812607
-      },
-      {
         "platform": "mac",
         "modfile_live": 6812607
       },
@@ -89567,6 +89563,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6812607
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7620714
       }
     ]
   },
