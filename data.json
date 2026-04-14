@@ -68755,7 +68755,7 @@
     "summary": "Adds Reforged CrestTops, Chin for heads from Vexa mod",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/lk10OWz5akY\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">Reforged Assets Vexa</span></h4>\n<p>The \"Reforged Assets\" pack - extension for my <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/10343\">Rathgor - Reforged head</a> </strong>mod</p>\n<p>Appearance inspired by hellish/abyssal creatures, Avernus machinery and armor elements tied to the Dark Urge's past</p>\n<p> </p>\n<h3><strong>Pack includes CrestTops, Chin for heads from <a href=\"https://mod.io/g/baldursgate3/m/vexa-dark-urge-slayer-dragonborn-cc-pack\">Vexa - Dark Urge Slayer Dragonborn CC</a></strong> <span style=\"font-size:14px;\">mod</span></h3>\n<p>Black or light iron and clean variation</p>\n<p>You could choose the broken half - assets have left and right variations</p>\n<hr>\n<h2>Extra</h2>\n<h3><a href=\"https://www.nexusmods.com/baldursgate3/articles/1159\">All Extra Assets Avaliable to Vexa</a></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/zqd88k\"><strong>Vexa Dragonborn Collection</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">Vexa and All assets from other packs in Vortex collection</p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:transparent;font-family:Roboto, sans-serif;\" href=\"https://next.nexusmods.com/baldursgate3/collections/zqd88k\"><img src=\"https://i.imgur.com/IiOxLDk.png\" alt=\"IiOxLDk.png\"></a></p>\n<hr>\n<p>This mod also exist as<br><strong><span style=\"font-size:x-large;\">All in One in </span><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><span style=\"font-size:x-large;\">Clansong - Speaking Dragonborns CC Heads</span></a><br></strong>so, you do not need Reforged Assets Vexa - Dark Urge Dragonborn CC if you have Clansong mod<br><br><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1767201270-1731952165.png\" alt=\"19947-1767201270-1731952165.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p style=\"font-weight:400;\"> </p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1730503079,
-    "date_updated": 1759396987,
+    "date_updated": 1776165743,
     "date_live": 1730503773,
     "visible": 1,
     "status": 1,
@@ -68769,15 +68769,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
     },
     "modfile": {
-      "id": 6277369,
+      "id": 7633118,
       "mod_id": 4457853,
-      "version": "1.0.0.5",
-      "filename": "reforged_assets_vexa_c4f983ea-1vps.zip",
-      "changelog": "Removed ImpUI from dependency",
-      "date_added": 1744754950,
+      "version": "1.0.0.6",
+      "filename": "reforged_assets_vexa_c4f983ea-6gxq.zip",
+      "changelog": "Crest tops grip handlers updated (hats handling)",
+      "date_added": 1776165590,
       "date_updated": 0,
-      "date_scanned": 1744754980,
-      "filesize": 7995731,
+      "date_scanned": 1776165626,
+      "filesize": 6854642,
       "platforms": [
         {
           "platform": "windows",
@@ -68785,15 +68785,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -68853,10 +68853,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6277369
-      },
-      {
         "platform": "mac",
         "modfile_live": 6277369
       },
@@ -68867,6 +68863,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6277369
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7633118
       }
     ]
   },
@@ -71235,7 +71235,7 @@
     "summary": "Adds Reforged CrestTops, Chin for heads from Pearl mod",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/lk10OWz5akY\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">Reforged Assets Pearl</span></h4>\n<p>The \"Reforged Assets\" pack - extension for my <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/10343\">Rathgor - Reforged head</a> </strong>mod</p>\n<p>Appearance inspired by hellish/abyssal creatures, Avernus machinery and armor elements tied to the Dark Urge's past</p>\n<p> </p>\n<h3><strong>Pack includes CrestTops, Chin for heads from <a href=\"https://mod.io/g/baldursgate3/m/pearl-seadragon-dragonborn-cc\">Pearl - Seadragon - Dragonborn CC</a></strong><span style=\"font-size:14px;\"> </span><span style=\"font-size:14px;\">mod</span></h3>\n<p>Black or light iron and clean variation</p>\n<p>You could choose the broken half - assets have left and right variations</p>\n<hr>\n<h2>Extra</h2>\n<h3><a href=\"https://www.nexusmods.com/baldursgate3/articles/1160\"><strong>All Extra Assets Avaliable to Pearl</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/zykoge\"><strong>Pearl Dragonborn Collection</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">Pearl and All assets from other packs in Vortex collection</p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:transparent;color:#ffffff;font-family:Roboto, sans-serif;\" href=\"https://next.nexusmods.com/baldursgate3/collections/zykoge\"><img src=\"https://i.imgur.com/IoNFK65.png\" alt=\"IoNFK65.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p style=\"font-weight:400;\"> </p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1730994317,
-    "date_updated": 1761147829,
+    "date_updated": 1776164183,
     "date_live": 1730994566,
     "visible": 1,
     "status": 1,
@@ -71249,15 +71249,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
     },
     "modfile": {
-      "id": 6278329,
+      "id": 7633083,
       "mod_id": 4469723,
-      "version": "1.0.0.3",
-      "filename": "reforged_assets_pearl_dfe0cca9-axyg.zip",
-      "changelog": "Removed ImpUI from dependency",
-      "date_added": 1744782336,
+      "version": "1.0.0.4",
+      "filename": "reforged_assets_pearl_dfe0cca9-fa1r.zip",
+      "changelog": "Crest tops grip handlers updated (hats handling)",
+      "date_added": 1776164088,
       "date_updated": 0,
-      "date_scanned": 1744782354,
-      "filesize": 7378877,
+      "date_scanned": 1776164097,
+      "filesize": 6240161,
       "platforms": [
         {
           "platform": "windows",
@@ -71265,15 +71265,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -71333,10 +71333,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6278329
-      },
-      {
         "platform": "mac",
         "modfile_live": 6278329
       },
@@ -71347,6 +71343,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6278329
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7633083
       }
     ]
   },
@@ -71639,7 +71639,7 @@
     "summary": "Adds Seadragon CrestTops, Chin for heads from Vexa mod",
     "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/UlDDb1Tkx2g\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">Seadragon Assets Vexa</span></h4>\n<p>Water dragon-like type whose appearance is inspired by seadragons, seahorses, corals and insects</p>\n<p>Assets for all Vanillas (males included) check out this mod: <strong><a href=\"https://mod.io/g/baldursgate3/m/seadragon-assets-dragonborn-cc\">Seadragon Assets - Dragonborn CC</a></strong></p>\n<h3><strong>Pack includes CrestTops, Jaws for heads from </strong><a href=\"https://mod.io/g/baldursgate3/m/vexa-dark-urge-slayer-dragonborn-cc-pack\"><strong>Vexa - Dark Urge Slayer Dragonborn CC</strong></a><span style=\"font-size:16.38px;\"> mod</span></h3>\n<p> </p>\n<h2>10  Antlers types</h2>\n<p>Plain Deer Antlers</p>\n<p>Coral Plain</p>\n<p>Coral Glow:  Amber, Blue, Cyan-Violet, Grass Green, Pink, Pink-Peach, Violet, White</p>\n<p> </p>\n<h2>Antlers coloring</h2>\n<p>Antlers colors trough Horns tab</p>\n<p> </p>\n<h2>Frills coloring</h2>\n<p>Frills colors trough Hair tab</p>\n<p><iframe src=\"https://www.youtube.com/embed/4a252K46X74?si=OY_wMubKxOki8kW5\" width=\"560\" height=\"314\"></iframe></p>\n<h2>Frills movement</h2>\n<p>It depends on in level wind, so don't expect it to move inside a house pls =3</p>\n<p>If you don't see grass moving - frills will not too </p>\n<p><img src=\"https://i.imgur.com/xN32v85.gif\" alt=\"\"></p>\n<hr>\n<h2>Extra</h2>\n<h3><a href=\"https://www.nexusmods.com/baldursgate3/articles/1159\">All Extra Assets Avaliable to Vexa</a></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/zqd88k\"><strong>Vexa Dragonborn Collection</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">Vexa and All assets from other packs in Vortex collection</p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:transparent;font-family:Roboto, sans-serif;\" href=\"https://next.nexusmods.com/baldursgate3/collections/zqd88k\"><img src=\"https://i.imgur.com/IiOxLDk.png\" alt=\"IiOxLDk.png\"></a></p>\n<hr>\n<p>This mod also exist as<br><strong><span style=\"font-size:x-large;\">All in One in </span><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><span style=\"font-size:x-large;\">Clansong - Speaking Dragonborns CC Heads</span></a><br></strong>so, you do not need Seadragon Assets Vexa - Dragonborn CC if you have Clansong mod<br><br><a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/19947/19947-1767201270-1731952165.png\" alt=\"19947-1767201270-1731952165.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p style=\"font-weight:400;\"> </p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
     "date_added": 1731018934,
-    "date_updated": 1753284519,
+    "date_updated": 1776165110,
     "date_live": 1731022942,
     "visible": 1,
     "status": 1,
@@ -71653,15 +71653,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
     },
     "modfile": {
-      "id": 6277217,
+      "id": 7633101,
       "mod_id": 4470318,
-      "version": "1.0.0.3",
-      "filename": "seadra_vexa_347dbaa9-379c-ad6c-br3x.zip",
-      "changelog": "Removed ImpUI from dependency",
-      "date_added": 1744751952,
+      "version": "1.0.0.4",
+      "filename": "seadra_vexa_347dbaa9-379c-ad6c-dv84.zip",
+      "changelog": "Crest tops grip handlers updated (hats handling)",
+      "date_added": 1776165017,
       "date_updated": 0,
-      "date_scanned": 1744752185,
-      "filesize": 4362117,
+      "date_scanned": 1776165023,
+      "filesize": 2786073,
       "platforms": [
         {
           "platform": "windows",
@@ -71669,15 +71669,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -71732,10 +71732,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6277217
-      },
-      {
         "platform": "mac",
         "modfile_live": 6277217
       },
@@ -71746,6 +71742,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6277217
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7633101
       }
     ]
   },
@@ -118878,6 +118878,124 @@
       {
         "platform": "ps5",
         "modfile_live": 6572060
+      }
+    ]
+  },
+  {
+    "id": 5059925,
+    "game_id": 6715,
+    "name": "Goliath Race For Console",
+    "name_id": "goliath-race-for-console",
+    "summary": "Adds a several permanent polymorph spells that turns you into a Goliath.",
+    "description": "<p>My mods will always be free but if you are a fan of my work, consider supporting me.</p>\n<p><a href=\"https://ko-fi.com/D1D01CKQTX\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/f53e/33769014/profile/support_me_on_kofi_badge_blue.png\" alt=\"Buy Me a Coffee at ko-fi.com\" width=\"175\" height=\"67\"></a></p>\n<h2>What does this mod do?</h2>\n<p>This mod adds two container spells that change you into a Goliath. The spells are granted as soon as you enable the mod and load into your game automatically. Currently these spells use your character visuals, enlarge you and grant you the appropriate passives and tags for the race. Your race changes to Giant after casting. One of the container spells applies a body tattoo as well, the other doesn't. The spell you cast on yourself selects the giant ancestry you would like to use. This form change is semi-permanent meaning you can dismiss it yourself but the game doesn't recognize it as a polymorph. This means you will retain this form through long resting, disguises, other polymorph spells when dismissed, wildshape after dismissing, etc. This was a conversion from my original <a href=\"https://mod.io/g/baldursgate3/m/goliath-race#description\">Goliath Race Mod</a> to make it compatible with console. See below for a demonstration of how the polymorph is retained.</p>\n<p><iframe src=\"https://www.youtube.com/embed/DDleij6Q-Ds?vq=hd1080\" width=\"800\" height=\"600\" frameborder=\"0\"></iframe><br><br></p>\n<h2>The Goliath</h2>\n<p>Towering over most folk, Goliaths are distant descendants of giants. Each Goliath bears the favors of the first giants—favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of Goliaths’ gigantic kin.</p>\n<p>Once you change into the Goliath you gain, Giant Ancestry which gives you a choice of six (6) different Spells or Reactions as described below:</p>\n<ul>\n<li><strong>Cloud’s Jaunt (Cloud Giant)</strong>: As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.</li>\n<li><strong>Fire’s Burn (Fire Giant)</strong>: When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.</li>\n<li><strong>Frost’s Chill (Frost Giant):</strong> When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.</li>\n<li><strong>Hill’s Tumble (Hill Giant)</strong>: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition.</li>\n<li><strong>Stone’s Endurance (Stone Giant):</strong> When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.</li>\n<li><strong>Storm’s Thunder (Storm Giant)</strong>: When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 Thunder damage to that creature.</li>\n</ul>\n<p>Giant Ancestry is implemented with an additional resource, which scales off of your proficiency bonus. You can use your Giant Ancestry ability a number of times equal to your proficiency bonus, you regain all uses when you complete a Long Rest. Additionally, Goliaths also gain the following passives:</p>\n<ul>\n<li><strong>Large Form</strong>: Starting at character level 5, you can change your size to Large as a Bonus Action if you’re in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can’t use it again until you finish a Long Rest.</li>\n</ul>\n<ul>\n<li><strong>Powerful Build.</strong> You also count as one size larger when determining your carrying capacity.</li>\n</ul>\n<h2>Notes</h2>\n<p>You can't change your Giant Ancestry while in combat, I felt this could make it way too easy to just switch for different abilities and regaining your Giant Ancestry points. If you are level 5 or higher and you change your Giant Ancestry by just recasting the spell you will have to cast it again to regain the additional Giant Ancestry Points back. If you dismiss it and then recast it works fine. Currently Large Form is granted immediately when you change into a Goliath, this will be changed to level 5 in a future update. The race passives of your initial race you picked at character creation are retained, I haven't found a way to remove them.<br><br>I will be adding a version that applies a preset so even if you aren't a Human or Elf you can still look like a Goliath if you choose.</p>\n<p> </p>\n<h2>Updates</h2>\n<p>3/10/26 (Approved for Windows, not for console yet)</p>\n<p>Due to a request I have made it possible for you to increase the height of your Goliath further. Once you change into one of the Goliath forms you will gain a toggle under 'Passives' if you turn it on you will then gain 4 additional toggles which only one can be active at a time. You can choose between a 25%, 50%, 75%, or 100% size increase. This is done this way so that if you do not wish to increase your size further you only have one toggle under 'Passives'.</p>",
+    "date_added": 1751410090,
+    "date_updated": 1773921325,
+    "date_live": 1751410090,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/goliath-race-for-console",
+    "submitted_by": {
+      "id": 33769014,
+      "name_id": "kryptohack",
+      "username": "KryptoHack",
+      "profile_url": "https://mod.io/u/kryptohack",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f53e/33769014/crop_100x100/gemini_generated_image_optynlop.2.jpg"
+    },
+    "modfile": {
+      "id": 7488320,
+      "mod_id": 5059925,
+      "version": "1.0.0.9",
+      "filename": "khg_goliathrace2024consoleedit-2s4p.zip",
+      "changelog": "Added the ability to increase your height of the Goliath via a few toggleable passives.",
+      "date_added": 1773169799,
+      "date_updated": 0,
+      "date_scanned": 1773169843,
+      "filesize": 19027215,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/44f7/5059925/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/44f7/5059925/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/44f7/5059925/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/44f7/5059925/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7488320
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7488320
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7488320
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7488320
       }
     ]
   },
