@@ -82632,7 +82632,7 @@
     "summary": "All-in-One version: contains all the redesigned NPCs around the Emerald Grove. Now with updated portraits ^.^",
     "description": "<h4><strong>Watch the Gallery above to see the Overall Changes</strong></h4>\n<blockquote>\n<p><strong>New visuals for 70+ NPCs</strong> around the start of Act 1 — Emerald Grove Environs<br><strong>Who has changed:</strong> Tieflings, Adventurers, Druids, Shadow Druids, and Crypt Bandits</p>\n</blockquote>\n<h4><strong>Special Thanks💝to my Patrons:<br></strong><a href=\"https://www.patreon.com/c/AzazeLwasTaken\">Fave777 | Plumbelina | Ursalux | Only 4 the internet</a><br><a title=\"NexusMods: AzazeL\" href=\"https://next.nexusmods.com/profile/AzazeLwasTaken\"><img src=\"https://i.imgur.com/A7ZdcLf.png\" alt=\"NexusMods\" width=\"168\" height=\"79\"></a>  <img src=\"https://i.imgur.com/zUn0KQU.png\" alt=\"Mod.io\" width=\"136\" height=\"79\">  <a title=\"Patreon: AzazeL\" href=\"https://www.patreon.com/c/AzazeLwasTaken\"><img src=\"https://i.imgur.com/topoLV2.png\" alt=\"Patreon\" width=\"157\" height=\"79\"></a></h4>\n<p> </p>",
     "date_added": 1735840579,
-    "date_updated": 1776191639,
+    "date_updated": 1776195207,
     "date_live": 1735930837,
     "visible": 1,
     "status": 1,
@@ -82646,15 +82646,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f797/35138009/crop_100x100/redgirl2.png"
     },
     "modfile": {
-      "id": 7352847,
+      "id": 7633964,
       "mod_id": 4611671,
-      "version": "1.5.0.3",
-      "filename": "aza_npcre_theemeraldgrove_74cb-0iq6.zip",
-      "changelog": "Fixed some neck seams for tieflings",
-      "date_added": 1770051303,
+      "version": "1.5.0.4",
+      "filename": "aza_npcre_theemeraldgrove_74cb-6mnq.zip",
+      "changelog": "New portraits, updated Netty, new visuals for Quil Grootslang and other miscellaneous changes",
+      "date_added": 1776191637,
       "date_updated": 0,
-      "date_scanned": 1770051317,
-      "filesize": 4148756,
+      "date_scanned": 1776191649,
+      "filesize": 5380629,
       "platforms": [
         {
           "platform": "windows",
@@ -82662,15 +82662,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -82720,10 +82720,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7352847
-      },
-      {
         "platform": "mac",
         "modfile_live": 7352847
       },
@@ -82734,6 +82730,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7352847
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7633964
       }
     ]
   },
