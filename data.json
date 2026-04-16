@@ -72172,7 +72172,7 @@
       "changelog": "Hotfix 6.7.2 — April 17\n\nGENERAL CHANGES\nImproved reward depth for different outcomes in the dwarven spouses quest\nRebalanced some of the new Runic Shards\nFixed bug with Ultra mode (thanks @Fujita Zebi)\n\nITEM CHANGES\nSpore burning from Primemother's Spore has been fixed\nFixed heal stacking on Zhalimkhaner\nToxemia refined per @MEOW suggestion\nFixed Rippling Force Mail being in incorrect loot lists\nOrbs of War have been completely reworked due to boring old mechanic: they now focus on a new unique synergy — War Master, allowing you to command multiple summons on the battlefield and empower them\nMoleculation has been slightly weakened\nA minor penalty has been added to Gloves of Eternal Frost to compensate for their power\nThe Unmade Library has been completely reworked and now focuses more around wizards\n\nLOCALIZATION\nSpanish by @Marina updated to 6.7.1\nKorean by @Eolaloe updated to 6.7.1\nFixed missing localization for Twilight Knight's Pin in combat log\nhab3160a0g5266g44a1g9d49gc7c9735a39d5 in CursedArtifacts\nh805e2e31g4021g4253gb103g713d1daae986 in ExtraItems\nh93135493g24eeg4e42gb5e0g76f7852b8f43 in DifficultyModule *new\nhcf171asegbedsgaasdgaas7gg7gba1cfsbb in Arcanizer_Shards\nhfa7e8006g0096g463cgb882g4c455325832e in Arcanizer_Shards\nh31d6a80ag1585g46a5gb997g594ef09bb33f in Arcanizer_Shards\nhd837f811gbf25g10b1gcadag7fa85132b637 in Arcanizer_Shards\nhfa0734aegbd50g4d66gb860g0173a55b4081 in ExtraItems *new\nheabscbdbggesagafsdgbegogebbsaafegabs in ExtraItems *new\nhgsdeoebeg1bgcgaccsgbae7gbggec11ddbod in ExtraItems *new\nheffesagfgaoe7ga7gggg7bfgafed1csog71g in ExtraItems *new\nhsbeoocaage7segaggbgae11gaagbfsgseesc in ExtraItems *new\nhbdsfa7cagebdsgaosfgbgdcgao1ggobdcfff in ExtraItems *new\nh1fsseacbgbcbegaabfga1fcgafgedbbggsad in ExtraItems *new\nhdfebgbadgdoo7gaaccgbbeegs7a17eegda7c in ExtraItems *new\nhe1faf71agebbegaad1gbfasgobbgcogeosse in ExtraItems *new\nhogeddaaegcefegabbsgasedg1fdgfsee1gbc in ExtraItems *new\nheadgbscag1bobgafcbggffagsea7asodegg1 in ExtraItems *new\nhg1aga7afgbgbdgag1dgb7bsgc17aabfdodfe in ExtraItems *new\nhabcsoa1sgeoebga1bggbbsgga1bgcb7aaeae in ExtraItems *new\nhbgbagbfggg1aggaoseggffogde1ddagaofcg in ExtraItems *new\nhgg1fgsfaga7fsgadebga7aegosegacdbeb77 in ExtraItems *new\nheeesggbsgbsbcgaosegaagoggfafagafegad in ExtraItems *new\nhsgfesefegaossgasfsggdoagse1sagoc1gsg in ExtraItems *new\nhe11gcebaggfgsgaocdgbo7sgeebffeeobadc in ExtraItems *new\nhsbdssd1egesdega1esgbsbgsafdoedsssga in ExtraItems *new\nh1gbacgoeggfoogaffsgbbsggbsgafgbbfsee in ExtraItems *new\nhbsdeegcggsgfbgacgagae7fgs7sscedaodsa in ExtraItems *new\nhseogsbbogdaabgagb7gb7asgebosbbseacoo in ExtraItems *new\nhbsfeacgfgasasgag1agb7cdgega77aofgabe in ExtraItems *new\nh7aab1bsbgaedcgafeeggcaaggsbbeafg11g7 in ExtraItems *new\nhafbadoeag1abbgaegsgbogbgsfafgsgaggbg in ExtraItems *new\nhbocsdasog7sefgafbegbbsdgbefsssgoasco in ExtraItems *new\nhgbbges7dgbbcsga1sggbfsbgeoe1eoa1o1fe in ExtraItems *new\nhaage1ggsg7ecegassaggbsaggsoggecsdfg7 in Arcanizer\nhdd5152dbgc333g4a6fgbac8gb2e5878d2c54 in AncientArmoury *new\nhsdged7oegegafgaecggga1gg7sbs1bssob1s in ExtraItems *new\nhae1baseeggaoegaagegbagcgfsdddbsbacgs in ExtraItems *new\nhbosaooabgge11gaabogabfogsabsfe7bsofg in ExtraItems *new\nhdoegab7egsfoogaasfgb1fagcffsfeo1abgc in ExtraItems *new\nhb7a7bbebg7saggabfagbbsdgbsdscabcgc1b in ExtraItems *new\nhc7gesggfgeaesgagcsgb7bsgcee7begebego in ExtraItems *new\nhcss1gadbgesoegaeeagaoo7gfe1ggdgeo1ga in ExtraItems *new\nha1sdbg1agba7gafffgadofgofaee71sb71e in ExtraItems *new\nhodadagagggfebgaegsgb7sbg71gasgobasbd in ExtraItems *new\nhgds1eegegssebgasefgge77ggg7bgbdeadad in ExtraItems *new\nhf7bogfo1geffegaas7gbegbgebg1egfedebs in ExtraItems *new\nhfbebsgeggecbggaaosgbbaggeecscaeb7obo in ExtraItems *new\nhafsdeocsgbog7gageggbe1agggdesbcaebgg in ExtraItems *new\nhaefgf1fggs1oegaggbgaaaggcsbaeabb1g1 in ExtraItems *new\nhaabfggbbgb7bga71agaossggeb7sg7adgb1 in ExtraItems *new\nh7sses7bog7bb1gagbsgaadggb7fbbbscdco in ExtraItems *new\nhadbfba1bgbbbgabdagbgoogeesgss1gdsba in ExtraItems *new\nhbegcsdd7ggsfsgaeffgaoosgasdfogb1b1gb in ExtraItems *new\nh11g7efsegooesgaedagg11sggaaafesba1fa in ExtraItems *new\nhedbdsegagebeggag7bgbs7sgfsgafsge7gee in ExtraItems *new\nhgbfbacags1aggagbcgbabbgec1abbcsagfo in ExtraItems *new\nhocsbseaggdcaegaedggbgosgbgsebbbgesee in ExtraItems *new\nhefabgegggb17ogag71gbsbdgogbgse7feegs in ExtraItems *new\nhobgsasgbgs7fegaob7gga7sggfadbocago7a in ExtraItems *new\nhbsobbbegddaegabgcgbb7dge1geeb7sgaec in ExtraItems *new\nhssbecf1ggodgegab1fgbca7g1fseesbsgeed in ExtraItems *new",
       "date_added": 1776374195,
       "date_updated": 0,
-      "date_scanned": 0,
+      "date_scanned": 1776374578,
       "filesize": 216735948,
       "platforms": [
         {
@@ -72708,7 +72708,7 @@
     "summary": "The fastest and safest way to leave the tutorial level while saving Shadowheart and the Intellect Devourer 'US' earns you experience, a fire dipped greatsword, gold, spells and tools. 'Withers' will be freed and awaits in Camp.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/tutorialexit3.png\" alt=\"\" width=\"512\" height=\"288\"></p>\n<p> </p>\n<p><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">Tutorial Exit By SFR</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">This guide explains the fastest and safest way to leave the </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">tutorial level</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">while saving both </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Shadowheart and the Intellect Devourer \"Us\" </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">along the way. As a reward, you’ll earn experience, a </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Greatsword always dipped in fire,</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> spells, tools, and gold. </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">The Tutorial Ches</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">t is located right at the starting position and can be looted immediately without needing to travel far.</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Shadowheart</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> is a spell that teleports your character to </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Shadowheart</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">,</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> who is trapped.</span><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Freeing her is optional</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, as she will automatically be freed when you use the Exit spell. However, you may choose to loot the Elaborate Chest and other items in her area.</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Exit</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> is a spell that teleports your character directly to the beach, </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">skipping the crash cutscene.</span><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Shadowheart will be lying on the ground</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, and you may wake her up (optional).</span><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Two waypoints will also be unlocked: \"Chapel Waypoint\" and \"Top Waypoint.\"</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">Upon arriving at the beach, </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">the skeletons in the crypt will perish</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">and Withers will be freed from his tomb to join your camp</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, where he will await your party. All loot from the tomb and skeletons will be transferred to the selected character's inventory.</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">Additionally, when entering combat with the </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Intellect Devourers at the beach</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, you will have the option to kill them immediately. If you choose \"yes,\" they will Die instantly. </span></p>\n<p><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">To Get more Experience there is a </span><span style=\"background-color:#444444;color:#ffff00;font-family:Arial;font-size:large;\">Barrel </span><span style=\"background-color:#444444;color:#00ff00;font-family:Arial;font-size:large;\">near the Chapel Entrance on opening it the Party will get rewarded with big XP.<br><br>to have the timer Disabled at the Helm use<br><br><a href=\"https://mod.io/g/baldursgate3/m/timeless-helm-fight#description\">Timeless Helm Fight for Baldur's Gate 3 - mod.io</a> </span></p>\n<p> </p>\n<p> </p>\n<p>*the Barrel is half in water</p>\n<p> </p>\n<p> </p>",
     "date_added": 1731350126,
-    "date_updated": 1776374381,
+    "date_updated": 1776374631,
     "date_live": 1731848605,
     "visible": 1,
     "status": 1,
@@ -72722,15 +72722,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 6745149,
+      "id": 7640477,
       "mod_id": 4480823,
-      "version": "8.1.8.0",
-      "filename": "tutorialexit_65244f13-7e0d-8e1-5ulf.zip",
-      "changelog": "The Summon US Item is now located in the Tutorial Chest instead of your inventory, and you can loot it if you wish.",
-      "date_added": 1757070261,
+      "version": "8.1.8.4",
+      "filename": "tutorialexit_65244f13-7e0d-8e1-catj.zip",
+      "changelog": "Adjusted XP values\nPlayer position on arriving at the beach now correctly matches the original entry point\nSpells are removed when exiting the ship if they were not used\nMinor fixes and improvements",
+      "date_added": 1776374379,
       "date_updated": 0,
-      "date_scanned": 1757070304,
-      "filesize": 17749850,
+      "date_scanned": 1776374419,
+      "filesize": 17949685,
       "platforms": [
         {
           "platform": "windows",
@@ -72738,15 +72738,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -72786,10 +72786,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6745149
-      },
-      {
         "platform": "mac",
         "modfile_live": 6745149
       },
@@ -72800,6 +72796,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6745149
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7640477
       }
     ]
   },
@@ -135180,6 +135180,144 @@
       {
         "platform": "ps5",
         "modfile_live": 7345468
+      }
+    ]
+  },
+  {
+    "id": 5718099,
+    "game_id": 6715,
+    "name": "Wrongway Pure Paladin",
+    "name_id": "wrongway-pure-paladin",
+    "summary": "This mod contains twelve different level progressive items to begin your Paladin adventure. You'll find this in the introduction area of the game.",
+    "description": "<p>This mod contains <span style=\"text-decoration:underline;\"><strong>twelve</strong></span> different level progressive items to begin your Paladin adventure. You'll find this in the introduction area of the game.</p>\n<ul>\n<li>\"<strong>Guardian Sword</strong>\" considered a longsword\n<ul>\n<li>on kill give allies temporary hit points and health</li>\n<li>has smite damage chance to daze</li>\n<li>has conditional damage</li>\n<li>has light</li>\n</ul>\n</li>\n<li>\"<strong>Guidance Axe</strong>\" considered a battleaxe\n<ul>\n<li>on hit regain health</li>\n<li>has smite damage chance to daze</li>\n<li>has conditional damage</li>\n<li>has light</li>\n</ul>\n</li>\n<li>\"<strong>Gallant Bow</strong>\" longbow\n<ul>\n<li>increases damage by strength</li>\n<li>has conditional damage</li>\n<li>has damage reels target</li>\n<li>has light</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p><em>Search \"<strong>Wrongway</strong>\" for any of my other mods.</em></p>\n<ul>\n<li><em><strong>Wrongway Elemental Clothes</strong> (lots of class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Feats</strong> (lots of elemental damage and ability boost feats)</em></li>\n<li><em><strong>Wrongway Elemental Jewelry</strong> (lots of elemental damage and class boost items)</em></li>\n<li><em><strong>Wrongway Elemental Starter Bag</strong> (lots of resource goodies)</em></li>\n<li><em><strong>Wrongway Elemental Weapons</strong> (lots of elemental damage weapons)</em></li>\n<li><em><strong>Wrongway Lite Clothes</strong> (few camp clothes)</em></li>\n<li><em><strong>Wrongway Lite Jewelry</strong> (few ability boost jewelry)</em></li>\n<li><em><strong>Wrongway Lite Starter Bag</strong> (few resource goodies)</em></li>\n<li><em><strong>Wrongway Lite Weapons</strong> (few damage boost weapons)</em></li>\n</ul>",
+    "date_added": 1769173762,
+    "date_updated": 1774528577,
+    "date_live": 1769173848,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/wrongway-pure-paladin",
+    "submitted_by": {
+      "id": 44991874,
+      "name_id": "wrongwayfelldown",
+      "username": "WrongwayFelldown",
+      "profile_url": "https://mod.io/u/wrongwayfelldown",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2e10/44991874/crop_100x100/1000003178.png"
+    },
+    "modfile": {
+      "id": 7555049,
+      "mod_id": 5718099,
+      "version": "1.0.0.5",
+      "filename": "wrongway_pure_paladin_bfbe6301-kpv5.zip",
+      "changelog": "Added progressive boosts to weapons and armor.",
+      "date_added": 1774528553,
+      "date_updated": 0,
+      "date_scanned": 1774528763,
+      "filesize": 3266241,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2026-01-23205635.jpg",
+      "original": "https://image.modcdn.io/mods/7de5/5718099/screenshot2026-01-23205635.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7de5/5718099/crop_320x180/screenshot2026-01-23205635.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7de5/5718099/crop_640x360/screenshot2026-01-23205635.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7de5/5718099/crop_1280x720/screenshot2026-01-23205635.jpg"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 7340166
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7340166
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7340166
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7555049
       }
     ]
   },
