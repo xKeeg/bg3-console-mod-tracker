@@ -35745,7 +35745,7 @@
     "date_live": 1726833531,
     "visible": 1,
     "status": 1,
-    "dependencies": false,
+    "dependencies": true,
     "profile_url": "https://mod.io/g/baldursgate3/m/mindweaver1",
     "submitted_by": {
       "id": 33530167,
