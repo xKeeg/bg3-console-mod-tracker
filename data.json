@@ -22715,7 +22715,7 @@
     "name": "Witch Class",
     "name_id": "witch-class",
     "summary": "11/16/24 - Fixed several typos",
-    "description": "<p>Finally able to resume development but progress may be slow. Want to support me? <a href=\"https://buymeacoffee.com/nuto123\" target=\"_blank\" rel=\"noopener noreferrer\">https://buymeacoffee.com/nuto123</a><br><br><br><br><br><br>Have you ever wanted to play as a Witch? Now you can! A full Intelligence based caster with 5 subclasses balanced around tactician difficulty:<br><br>Recently addressed (keeping an eye on these):<br>-Poison Mastery has been reworked<br>-Herbalist poison \"spells\" hopefully use spellslots, but this may break again. Removed short and long rest limitations and lowered damage<br>-Upcasting is a work in progress. Not all spells will be upcastable, but I will do what I can to give the class some added flexibility in this manner.</p>\n<p>Fixed issues pending console approval:</p>\n<p>-Anything under Recently addressed<br>-New characters don't start with an alchemy bag, key ring, and witch hat. <br>-Witch Aura unlocked 1 level before you can cast it<br>-New characters getting stuck on character creation, due to not selecting ability score improvement bonuses.</p>\n<p>The Witch has a pool of Witchcraft points that can be spent to modify spells, or cast some Witch exclusive spells. Unlocks at level 2 and increases every even level.<br>At levels 6, 8, and 11 Witches get to chose their Minor, Major, and Ultimate Witchery passives. These can be very powerful and change how you approach combat entirely! For RP purposes, this class has the Wizard tag</p>\n<p><strong>New Spells</strong>:<br>Witchform Cat, Boar, Dire Raven, and Panther - Wildshape into these creatures spending spellslots and Witchcraft points.<br>Pincushion - A cantrip that inflicts 1d8 magical piercing and inflicts mental fatigue. All Witches start knowing this spell.<br>Melvina's Frosted Bolts - A 2nd level evocation spell unique to the Frost Witch. It fires 3 cold projectiles dealing 2d4+1 damage each, with a small AOE on hitting their target.<br>Lesser Create Water - A cantrip version of Create Water with significantly smaller range<br>Witch Aura - A 3rd level necromancy spell unique to the Hex Witch. Inflicts 5d4 Psychic magic damage in a large cone and inflicts ****** fatigue on all targets<br><em><strong>and more!</strong></em></p>\n<p>Subclasses - Unlocked at level 2</p>\n<p><br><strong>Herbalist </strong>(poison specialty is still usable, but not performing to my current expectations so use with caution)<br><em>Harness the power of nature to heal your allies, craft more potions, specialize in poison or transform into a panther.</em></p>\n<p><br><strong>Frost Witch</strong><br><em>A powerful caster that spread cold damage, penetrating even the toughest defenses.</em><em><br></em></p>\n<p><strong>Hex Witch</strong><br><em>Debilitate your foes by reducing their saves then finish them with powerful spells they have no hope of resisting.</em><em><br></em></p>\n<p><strong>Witchblade</strong><br><em>A witch that has taken up learning the blade. They enhance their abilities using arcane power.</em></p>\n<p><strong>Invoker - WORK IN PROGRESS<br></strong><em>A dedicated support caster. All the buffs!</em><strong><br></strong></p>\n<p>--This is still a work in progress so I appreciate any feedback</p>\n<p>Do you like this mod? Checkout my friends <a href=\"https://mod.io/g/baldursgate3/m/slayer-redux1\"><strong>Slayer Redux</strong></a> class!</p>",
+    "description": "<p>Finally able to resume development but progress may be slow. Want to support me? <a href=\"https://buymeacoffee.com/nuto123\" target=\"_blank\" rel=\"noopener noreferrer\">https://buymeacoffee.com/nuto123</a><br><br><br><br><br><br>Have you ever wanted to play as a Witch? Now you can! A full Intelligence based caster with 5 subclasses balanced around tactician difficulty:<br><br>Recently addressed (keeping an eye on these):<br>-Poison Mastery has been reworked<br>-Herbalist poison \"spells\" hopefully use spellslots, but this may break again. Removed short and long rest limitations and lowered damage<br>-Upcasting is a work in progress. Not all spells will be upcastable, but I will do what I can to give the class some added flexibility in this manner.</p>\n<p>Fixed issues pending console approval:</p>\n<p>-Anything under Recently addressed<br>-New characters don't start with an alchemy bag, key ring, and witch hat. <br>-Witch Aura unlocked 1 level before you can cast it<br>-New characters getting stuck on character creation, due to not selecting ability score improvement bonuses.</p>\n<p>The Witch has a pool of Witchcraft points that can be spent to modify spells, or cast some Witch exclusive spells. Unlocks at level 2 and increases every even level.<br>At levels 6, 8, and 11 Witches get to chose their Minor, Major, and Ultimate Witchery passives. These can be very powerful and change how you approach combat entirely! For RP purposes, this class has the Wizard tag</p>\n<p><strong>New Spells</strong>:<br>Witchform Cat, Boar, Dire Raven, and Panther - Wildshape into these creatures spending spellslots and Witchcraft points.<br>Pincushion - A cantrip that inflicts 1d8 magical piercing and inflicts mental fatigue. All Witches start knowing this spell.<br>Melvina's Frosted Bolts - A 2nd level evocation spell unique to the Frost Witch. It fires 3 cold projectiles dealing 2d4+1 damage each, with a small AOE on hitting their target.<br>Lesser Create Water - A cantrip version of Create Water with significantly smaller range<br>Witch Aura - A 3rd level necromancy spell unique to the Hex Witch. Inflicts 5d4 Psychic magic damage in a large cone and inflicts ****** fatigue on all targets<br><em><strong>and more!</strong></em></p>\n<p>Subclasses - Unlocked at level 2</p>\n<p><br><strong>Herbalist </strong>(poison specialty is still usable, but not performing to my current expectations so use with caution)<br><em>Harness the power of nature to heal your allies, craft more potions, specialize in poison or transform into a panther.</em></p>\n<p><br><strong>Frost Witch</strong><br><em>A powerful caster that spread cold damage, penetrating even the toughest defenses.</em><em><br></em></p>\n<p><strong>Hex Witch</strong><br><em>Debilitate your foes by reducing their saves then finish them with powerful spells they have no hope of resisting.</em><em><br></em></p>\n<p><strong>Witchblade</strong><br><em>A witch that has taken up learning the blade. They enhance their abilities using arcane power.</em></p>\n<p><strong>Invoker <br></strong><em>A dedicated support caster. All the buffs!</em><strong><br></strong></p>\n<p><strong>Hagbound<br></strong><em>A twisted caster that has given up special magics in exchange for physical strength.</em></p>\n<p>--This is still a work in progress so I appreciate any feedback</p>\n<p>Do you like this mod? Checkout my friends <a href=\"https://mod.io/g/baldursgate3/m/slayer-redux1\"><strong>Slayer Redux</strong></a> class!</p>",
     "date_added": 1725830276,
     "date_updated": 1734183379,
     "date_live": 1725847053,
@@ -59270,7 +59270,7 @@
     "summary": "Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.",
     "description": "<p>Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.</p>\n<p> </p>\n<p> </p>",
     "date_added": 1729165055,
-    "date_updated": 1776454211,
+    "date_updated": 1776454223,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -59284,15 +59284,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 7643434,
+      "id": 7643445,
       "mod_id": 4419649,
-      "version": "4.3.6.0",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-3lkr.zip",
+      "version": "4.3.6.1",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-1al2.zip",
       "changelog": null,
-      "date_added": 1776454038,
+      "date_added": 1776454208,
       "date_updated": 0,
-      "date_scanned": 1776454122,
-      "filesize": 42244094,
+      "date_scanned": 1776454287,
+      "filesize": 42244130,
       "platforms": [
         {
           "platform": "windows",
@@ -59409,7 +59409,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7643434
+        "modfile_live": 7643445
       }
     ]
   },
