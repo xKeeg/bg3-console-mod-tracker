@@ -56290,7 +56290,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour (Level 4), Heavy Armour (Level 7, Selected Subclass), Shields (Level 7)</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1776549645,
+    "date_updated": 1776567721,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -56304,15 +56304,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1e98/37197746/crop_100x100/duskblade.1.png"
     },
     "modfile": {
-      "id": 7648468,
+      "id": 7649556,
       "mod_id": 4407068,
-      "version": "1.0.316.0",
-      "filename": "duskblade_0b9fe8cc-f707-9980-c-3vxu.zip",
-      "changelog": "- Updated visual effects of Armored Mage, Arcane Channeling, Arcane Aura, Arcane Reflection, Arcane Strike, Arcane Momentum, Arcane Absorption, and Ghost Sound\n- Updated target criteria of Flare and Ghost Sound\n- Updated Level 10 Arcane Channeling damage bonus\n- Updated Armour Proficiency progression\n- Added a new Level 8 Abjuration spell Energy Aegis to the class spell list",
-      "date_added": 1776549609,
+      "version": "1.0.317.0",
+      "filename": "duskblade_0b9fe8cc-f707-9980-c-3c8l.zip",
+      "changelog": "- Updated visual effects of Armored Mage, Arcane Channeling, Arcane Aura, Arcane Reflection, Arcane Strike, Arcane Momentum, Arcane Absorption, Dancing Lights, and Ghost Sound\n- Updated target criteria of Flare and Ghost Sound\n- Updated Level 10 Arcane Channeling damage bonus\n- Updated Armour Proficiency progression\n- Added a new Level 8 Abjuration spell Energy Aegis to the class spell list",
+      "date_added": 1776567611,
       "date_updated": 0,
-      "date_scanned": 1776549632,
-      "filesize": 9780521,
+      "date_scanned": 1776567634,
+      "filesize": 9780641,
       "platforms": [
         {
           "platform": "windows",
@@ -56406,7 +56406,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7648468
+        "modfile_live": 7649556
       }
     ]
   },
