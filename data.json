@@ -59270,7 +59270,7 @@
     "summary": "Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.",
     "description": "<p>Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.</p>\n<p> </p>\n<p> </p>",
     "date_added": 1729165055,
-    "date_updated": 1776592279,
+    "date_updated": 1776611987,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -59410,6 +59410,10 @@
       {
         "platform": "windows",
         "modfile_live": 7650470
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7651378
       }
     ]
   },
