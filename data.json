@@ -85627,6 +85627,109 @@
     ]
   },
   {
+    "id": 4647214,
+    "game_id": 6715,
+    "name": "Secret Scrolls - Extended!",
+    "name_id": "secretscrollsextended",
+    "summary": "Adds scrolls that are high level - or not on the spell list of classes - to the list of available scrolls in the game.",
+    "description": "<p>Adds scrolls that are high level - or not on the spell list of classes - to the list of available scrolls in the game, such as Turn to Gold, Finger of Death, etc.</p>\n<p>Note that these are spell scrolls that can upset the balance of the game, hence this mod was tagged appropriately.</p>",
+    "date_added": 1736901710,
+    "date_updated": 1776782419,
+    "date_live": 1736901857,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/secretscrollsextended",
+    "submitted_by": {
+      "id": 4505465,
+      "name_id": "darkcharl",
+      "username": "darkcharl",
+      "profile_url": "https://mod.io/u/darkcharl",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/124b/4505465/crop_100x100/3968287d97eabc620c6254a0775e5ba.jpg"
+    },
+    "modfile": {
+      "id": 5980714,
+      "mod_id": 4647214,
+      "version": "0.0.0.2",
+      "filename": "secretscrollsextended_aaf3e7d0-1rmj.zip",
+      "changelog": "Initial commit",
+      "date_added": 1736901715,
+      "date_updated": 0,
+      "date_scanned": 1736901751,
+      "filesize": 502254,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "secretscrolls_banner_bg3.jpg",
+      "original": "https://image.modcdn.io/mods/34c1/4647214/secretscrolls_banner_bg3.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/34c1/4647214/crop_320x180/secretscrolls_banner_bg3.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/34c1/4647214/crop_640x360/secretscrolls_banner_bg3.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/34c1/4647214/crop_1280x720/secretscrolls_banner_bg3.jpg"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5980714
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5980714
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5980714
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5980714
+      }
+    ]
+  },
+  {
     "id": 4647778,
     "game_id": 6715,
     "name": "Evelyn's Winter Rose - Frost Claymore",
@@ -85741,6 +85844,114 @@
       {
         "platform": "ps5",
         "modfile_live": 6365463
+      }
+    ]
+  },
+  {
+    "id": 4648219,
+    "game_id": 6715,
+    "name": "No Abs Astarion",
+    "name_id": "no-abs-astarion",
+    "summary": "Smooths out Astarion's chiseled abs to give him a softer look, more fitting for his 8 strength and rat-based diet.",
+    "description": "<h2>Smooths out Astarion's chiseled abs to give him a softer look, more fitting for his 8 strength and rat-based diet.</h2>\n<p style=\"text-align:center;\"><em><strong>Will not work with any other mods that edit Astarion's visuals!</strong></em></p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/5d16/33698962/profile/sparklessmall.png\" alt=\"\" width=\"64\" height=\"64\"></p>\n<p style=\"text-align:center;\">I've finally updated this! </p>\n<p style=\"text-align:center;\"><strong>Changelog:</strong></p>\n<ul>\n<li>Edited the textures just a little to reflect my current skillset better. (AKA: it looks better in my opinion now, but I'm nitpicky, so it shouldn't change too much lol)</li>\n<li>Deleted some files in the mod folder that were causing it to get rejected for console approval (caused by a bug in a previous version of the toolkit. Shouldn't affect anything.)</li>\n</ul>\n<p> </p>\n<h3>I will be re-applying for console + mac approval with this new version!</h3>\n<p style=\"text-align:center;\">The timeline on said approval is out of my hands, but it should not get rejected this time once it gets verified, as the files that caused it to get denied previously have been removed!</p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/5d16/33698962/profile/iconsmaller.png\" alt=\"\" width=\"128\" height=\"128\"></p>",
+    "date_added": 1736957177,
+    "date_updated": 1776782182,
+    "date_live": 1736957207,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/no-abs-astarion",
+    "submitted_by": {
+      "id": 33698962,
+      "name_id": "jawstarion",
+      "username": "jawstarion",
+      "profile_url": "https://mod.io/u/jawstarion",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5d16/33698962/crop_100x100/pf.png"
+    },
+    "modfile": {
+      "id": 7289318,
+      "mod_id": 4648219,
+      "version": "1.0.0.3",
+      "filename": "noabsastarion_b2bd6ed5-9395-1a-8uv3.zip",
+      "changelog": "Removed BSHD files which were caused by a previous toolkit version bug, thus allowing console compatibility\nEdited the textures slightly to make them more up to my own standards",
+      "date_added": 1768781018,
+      "date_updated": 0,
+      "date_scanned": 1768781101,
+      "filesize": 47233912,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/0ba8/4648219/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0ba8/4648219/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0ba8/4648219/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0ba8/4648219/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7289318
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7289318
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7289318
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7289318
       }
     ]
   },
@@ -86055,6 +86266,104 @@
       {
         "platform": "ps5",
         "modfile_live": 6861221
+      }
+    ]
+  },
+  {
+    "id": 4662637,
+    "game_id": 6715,
+    "name": "[Aza] NPC Redesign (Bearded Gortash)",
+    "name_id": "aza-npc-redesign-bearded-gortash",
+    "summary": "Handsome Man Edition (with beard) DidВ someone finally show the Archduke what soap, comb and razor are for? xd",
+    "description": "<h4><strong>Watch the Gallery above to see the Overall Changes</strong></h4>\n<blockquote>\n<p>New textures for his OG head, new hair<br>New colors for skin, hair, eyes and clothes</p>\n</blockquote>\n<h4><strong>Special Thanks💝to my Patrons:<br></strong><a href=\"https://www.patreon.com/c/AzazeLwasTaken\">Fave777 | Plumbelina | Ursalux | Only 4 the internet</a><br><a title=\"NexusMods: AzazeL\" href=\"https://next.nexusmods.com/profile/AzazeLwasTaken\"><img src=\"https://i.imgur.com/A7ZdcLf.png\" alt=\"NexusMods\" width=\"168\" height=\"79\"></a>  <img src=\"https://i.imgur.com/zUn0KQU.png\" alt=\"Mod.io\" width=\"136\" height=\"79\">  <a title=\"Patreon: AzazeL\" href=\"https://www.patreon.com/c/AzazeLwasTaken\"><img src=\"https://i.imgur.com/topoLV2.png\" alt=\"Patreon\" width=\"157\" height=\"79\"></a></h4>",
+    "date_added": 1737389307,
+    "date_updated": 1776782299,
+    "date_live": 1737392409,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aza-npc-redesign-bearded-gortash",
+    "submitted_by": {
+      "id": 35138009,
+      "name_id": "azazelwastaken",
+      "username": "AzazeLwasTaken",
+      "profile_url": "https://mod.io/u/azazelwastaken",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f797/35138009/crop_100x100/redgirl2.png"
+    },
+    "modfile": {
+      "id": 6861236,
+      "mod_id": 4662637,
+      "version": "1.0.0.4",
+      "filename": "aza_npcre_gortashbeard_498e72b-1gjy.zip",
+      "changelog": null,
+      "date_added": 1760884457,
+      "date_updated": 0,
+      "date_scanned": 1760884472,
+      "filesize": 3886406,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "file.png",
+      "original": "https://image.modcdn.io/mods/b40f/4662637/file.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b40f/4662637/crop_320x180/file.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b40f/4662637/crop_640x360/file.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b40f/4662637/crop_1280x720/file.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6861236
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6861236
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6861236
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6861236
       }
     ]
   },
@@ -95155,6 +95464,114 @@
       {
         "platform": "ps5",
         "modfile_live": 7380272
+      }
+    ]
+  },
+  {
+    "id": 4822484,
+    "game_id": 6715,
+    "name": "I Dream of Dragonborn",
+    "name_id": "i-dream-of-dragonborn",
+    "summary": "Unlocks Dragonborn as an option for the Dream Guardian during character creation.",
+    "description": "<p>This mod unlocks Dragonborn as an option for your Dream Guardian in character creation, a standalone version of the implementation in my <a title=\"Duo Class Mod\" href=\"https://mod.io/g/baldursgate3/m/duo-class\" target=\"_blank\" rel=\"noopener noreferrer\">Duo Class (Dream Guardian)</a> mod.</p>\n<p>The Dream Guardians take their appearances from the same default appearances as the player, necessary because the remnants of the original, unimplemented Dragonborn Dream Visitors in the files did not have any default selections for their head.</p>\n<p>Be aware, in vanilla gameplay, Dragonborn dream guardians have issues with lip syncing, looking like they're rubbing their lips together instead of opening their jaw. The <a href=\"https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description\">Clangsong</a> mod by <a class=\"tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none hover:tw-text-primary-hover focus:tw-text-primary-hover tw-space-x-1 tw-flex tw-items-center tw-space-x-1.5\" href=\"https://mod.io/g/baldursgate3/u/akelka\"><span class=\"tw-font-medium tw-util-truncate-one-line\">AkELkA </span></a>addresses this, and is highly recommended!</p>",
+    "date_added": 1742893482,
+    "date_updated": 1776782498,
+    "date_live": 1742894428,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/i-dream-of-dragonborn",
+    "submitted_by": {
+      "id": 1631710,
+      "name_id": "cheek",
+      "username": "Cheek",
+      "profile_url": "https://mod.io/u/cheek",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/840d/1631710/crop_100x100/squrrel_nest.jpg"
+    },
+    "modfile": {
+      "id": 6277529,
+      "mod_id": 4822484,
+      "version": "1.0.0.2",
+      "filename": "i-dream-of-dragonborn_c17a0992-5wbu.zip",
+      "changelog": "Update for Patch 8",
+      "date_added": 1744758239,
+      "date_updated": 0,
+      "date_scanned": 1744758244,
+      "filesize": 877952,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/25a4/4822484/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/25a4/4822484/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/25a4/4822484/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/25a4/4822484/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6277529
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6277529
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6277529
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6277529
       }
     ]
   },
@@ -129521,6 +129938,109 @@
       {
         "platform": "ps5",
         "modfile_live": 6869755
+      }
+    ]
+  },
+  {
+    "id": 5309468,
+    "game_id": 6715,
+    "name": "RS Black&amp;Gold Piercings",
+    "name_id": "rs-black-gold-piercings",
+    "summary": "Black &amp; gold versions of vanilla piercings for all races",
+    "description": "<h2>Black &amp; gold versions of vanilla piercings for all races</h2>\n<p>You'll find them right after all the silver vanilla piercings</p>\n<p> </p>\n<blockquote>\n<p><span style=\"text-decoration:underline;\"><span style=\"font-size:x-large;\">IMPORTANT:</span></span><br>The mod may cause crashes when entering some areas in Act 3, and in the Githyanki Creshe in Act 1. If you experience this in a different area, do mention it in the related post in the <a href=\"https://www.nexusmods.com/baldursgate3/mods/19358?tab=bugs\">bugs tab</a> on the mod's Nexus page. I'm looking into the issue.<br>To continue just disable the mod in the mod manager.</p>\n</blockquote>",
+    "date_added": 1761266080,
+    "date_updated": 1776782353,
+    "date_live": 1761266080,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/rs-black-gold-piercings",
+    "submitted_by": {
+      "id": 23079731,
+      "name_id": "remotelysane",
+      "username": "remotelysane",
+      "profile_url": "https://mod.io/u/remotelysane",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/43bb/23079731/crop_100x100/grump.4.png"
+    },
+    "modfile": {
+      "id": 6871696,
+      "mod_id": 5309468,
+      "version": "1.0.0.1",
+      "filename": "rs_blackgoldpiercings_8dab5d7f-gutq.zip",
+      "changelog": null,
+      "date_added": 1761266088,
+      "date_updated": 0,
+      "date_scanned": 1761266100,
+      "filesize": 4066111,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "modthumbnail.png",
+      "original": "https://image.modcdn.io/mods/c0d7/5309468/modthumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_320x180/modthumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_640x360/modthumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_1280x720/modthumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Piercings",
+        "name_localized": "Piercings",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6871696
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6871696
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6871696
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6871696
       }
     ]
   },
