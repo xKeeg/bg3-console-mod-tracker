@@ -25013,6 +25013,104 @@
     ]
   },
   {
+    "id": 4329040,
+    "game_id": 6715,
+    "name": "DnD 5R Warlock - Pacts as Invocations (PHB 2024)",
+    "name_id": "pacts-as-invocations-alt",
+    "summary": "Applies the changes to Invocations and Pacts done in the new 2024 edition of the DnD Player's Handbook. Changes Warlock Pacts and their corresponding Deepened Pacts to be available as Invocations. Also adds additional invocation selections.",
+    "description": "<p><img src=\"https://image.modcdn.io/members/d054/34894378/profile/openfaerun_pink1.png\" alt=\"\" width=\"500\" height=\"500\"></p>\n<p>(obligatory owl(bear))</p>\n<p>Applies the changes to Invocations and Pacts done in the new 2024 edition of the DnD Player's Handbook. Changes Warlock Pacts and their corresponding Deepened Pacts to be available as Invocations. Also adds an additional invocation selection at level 1 and 5, and changes the level invocations are available at to match the handbook. Most legacy invocations are available at level 2 and beyond. </p>\n<p>Source: <em>Dungeons &amp; Dragons 2024 Player's Handbook</em> (p. 154-157)</p>\n<p> </p>\n<p>This mod does the following</p>\n<ul>\n<li>Overwrites Warlock level 3 to remove pact boon selection</li>\n<li>Creates a level 1 invocation list and adds an invocation selection at level 1 (Sets \"Pact of the Blade\" as default)</li>\n<li>Overwrites Warlock level 5 to have 2 invocation selections and removes deepened pact passive.</li>\n<li>Adds pacts into all invocation lists</li>\n<li>Adds deepened pacts to all invocation lists at level 5 or above (Deepened Pact of the Blade is called Thirsting Blade as it is in 5e)</li>\n</ul>\n<p> </p>\n<p>Compatibility:</p>\n<ul>\n<li><em>Seems</em> compatible with juumeijin's \"OneDnD Warlock - Pact of the Blade\", wesslen's \"UA7 Archfey Warlock\"</li>\n<li>Mods that add to or call the vanilla invocation list, will be calling the 2nd level list, this has implications in mods such as LostSoulMan's \"Feats Extra\", where \"Eldritch Adept\" will give access to the lvl 2 list. Also mods that add invocations will be available at lvl 2, not 1, as most legacy invocations are only available at lvl 2. Imo, I think this is the most balanced way at approaching invocations and feats not included in the new handbook. Please do let me know if you find a different consensus on this though!</li>\n<li>Will not work with a mod that overwrites warlock level 3 or 5</li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/the-celestial-warlock-subclass-5e-rules\">The Celestial Warlock Subclass - 5e Rules</a>: Should be fully compatible, had to add their version of Pact of the Chain to all invocation lists.</li>\n</ul>\n<p>I hope to update this in a way where I'm not overwriting level 3 and 5, but I need to be able to remove selectors from class progressions. This seems pretty complex with the current toolkit, there's an easy way to remove passives from classes, but not selectors (that I know of). It could also be done with a common community library that has a row for each selector, so you can overwrite that, but none such exists yet.</p>\n<p> </p>\n<p>Acknowledgements:</p>\n<ul>\n<li>Thank you RandoRuda for the merge list guide: <a href=\"https://baldursgate3.game/mods#/r/compatibility-changes-in-patch-7\">https://baldursgate3.game/mods#/r/compatibility-changes-in-patch-7</a>. Helps with compatibility if other mods add invocations. (also thanks for the original mod that inspired this)</li>\n</ul>\n<p> </p>\n<p>Changelog:</p>\n<p><span style=\"text-decoration:underline;\">1.5.1.0</span></p>\n<ul>\n<li>- Bugfix: Changes default invocation to new Pact of the Blade. Was previously preventing selection of an invocation on new character creation.</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.5.0.0</span></p>\n<ul>\n<li>Bugfix: Uses new patch 8 Pact of the Blade, so you don't get two Bind Weapon spells if you are a Hexblade Warlock.</li>\n<li>Bugfix: Changes Thirsting Blade passive to inherit from vanilla Thirsting Blade instead of overwriting. This fixes 4 attacks while hasted in honour mode.</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.4.1.0</span></p>\n<ul>\n<li>Updated for patch 8 (no changes, just a version bump)</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.4.0.0</span></p>\n<ul>\n<li>Adds compatibility with <a href=\"https://mod.io/g/baldursgate3/m/the-celestial-warlock-subclass-5e-rules\">The Celestial Warlock Subclass - 5e Rules</a> mod</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.3.1.0</span></p>\n<ul>\n<li>Bugfix: fixes multiclass warlock level 1 giving level 2 invocations</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.3.0.0</span></p>\n<ul>\n<li>Changed name of mod from OneDnD to DnD 5R</li>\n<li>Separated out lvl 1 and lvl 2 invocation lists</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.2.2.0</span></p>\n<ul>\n<li>Bug fix: Wyll now starts off with the \"Pact of the Blade\" invocation</li>\n<li>\"Pact of the Blade\" now default selected for the Warlock class</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.2.1.1</span></p>\n<ul>\n<li>Bug fix: Multiclassing into Warlock would not give an invocation</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.2.0.0</span></p>\n<ul>\n<li>Removes deepened pact passive at level 5 and adds each deepened pact as an invocation</li>\n<li>Adds an additional invocation to level 5</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.0.0.5</span></p>\n<ul>\n<li>uses merging to add invocations to invocation lists</li>\n</ul>\n<p><span style=\"text-decoration:underline;\">1.0.0.3</span></p>\n<ul>\n<li>initial upload</li>\n</ul>\n<p> </p>\n<p>Known Issues:</p>\n<ul>\n<li>You can pick a deepened pact for a pact you do not have (though you can do this for vanilla Lifedrinker)</li>\n<li>Picking deepened tome pact before picking tome pact will cause the deepened tome spells to never show up until you respec again and pick them in the right order</li>\n<li>When adding this mod to an existing save, when you respec an existing warlock, you must click another class and then click warlock again for the lvl 1 invocation to show up</li>\n<li>Deepened pacts appear at the bottom of the list as opposed to the top (where higher level invocations usually are). This is due to merging for compatibility, which throws em at the bottom.</li>\n<li>Discoverability of the mod is hampered by the non-consensus on what to call this new edition, I'm going with \"5R\" prefaced by DnD (to hit character limits), as I am making a gamble that this is what we'll settle on.</li>\n</ul>",
+    "date_added": 1725918013,
+    "date_updated": 1776782712,
+    "date_live": 1725919270,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/pacts-as-invocations-alt",
+    "submitted_by": {
+      "id": 34894378,
+      "name_id": "solomondamagnificent",
+      "username": "SolomonDaMagnificent",
+      "profile_url": "https://mod.io/u/solomondamagnificent",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6403528,
+      "mod_id": 4329040,
+      "version": "1.5.1.0",
+      "filename": "pactsasinvocations_c745f451-f9-9kb1.zip",
+      "changelog": "- Bugfix: Changes default invocation to new Pact of the Blade. Was previously preventing selection of an invocation on new character creation.",
+      "date_added": 1748275724,
+      "date_updated": 0,
+      "date_scanned": 1748275731,
+      "filesize": 968572,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "bg3_dx11_kjw7ihiusc.png",
+      "original": "https://image.modcdn.io/mods/47fe/4329040/bg3_dx11_kjw7ihiusc.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/47fe/4329040/crop_320x180/bg3_dx11_kjw7ihiusc.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/47fe/4329040/crop_640x360/bg3_dx11_kjw7ihiusc.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/47fe/4329040/crop_1280x720/bg3_dx11_kjw7ihiusc.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6403528
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6403528
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6403528
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6403528
+      }
+    ]
+  },
+  {
     "id": 4329056,
     "game_id": 6715,
     "name": "Mass Healing Word - 2024 Player's Handbook Version",
@@ -28043,6 +28141,109 @@
       {
         "platform": "ps5",
         "modfile_live": 5564864
+      }
+    ]
+  },
+  {
+    "id": 4334311,
+    "game_id": 6715,
+    "name": "Shadar-Kai",
+    "name_id": "shadarkai",
+    "summary": "Play as a shadar-kai elven subrace",
+    "description": "<p><strong>31-Aug-2025:</strong> I have completely remade this mod to fix bugs and improve functionality. After some debate of where to put it, I decided to host it on this platform; as I cannot delete the previous version, I might as well replace it.</p>\n<hr>\n<blockquote>\n<p><em>\"Sworn to the Raven Queen's service, the mysterious shadar-kai venture into the Material Plane from the Shadowfell to advance her will. Once they were fey like the rest of their elven kin, and now they exist in a  strange state between life and death.\"</em></p>\n</blockquote>\n<p>I'm aware there are other shadar-kai mods, but it was kindly suggested that I make my own version by someone who said they enjoy my other race mods. So, I did!<br><br>This mod adds shadar-kai as a <em>subrace</em> of elves, so that there is maximum compatibility with cosmetic mods that add heads, hairs, etc.</p>\n<h3><strong>In addition to the racial abilities below, this mod includes the following:</strong></h3>\n<ul>\n<li>Three custom skin colours of extreme whiteness, per the description of shadar-kai in 5E lore.</li>\n<li>A custom dye that will be included in your inventory when you start a new game as shadar-kai; this dye can be used repeatedly and will tint items black and grey, for the aesthetic.</li>\n<li>Your character will not be tagged as Baldurian. Your character will be treated as a rare sight by NPCs. Your character will have dialogue options as being from another plane.</li>\n<li>Shadar-kai dream guardians.</li>\n<li>The Raven Queen is your deity if you chose to play as a cleric.</li>\n</ul>\n<h3><strong>Shadar-kai abilities:</strong></h3>\n<ul>\n<li><strong>Necrotic Resistance</strong> - You have Resistance to Necrotic damage.</li>\n<li><strong>Blessing of the Raven Queen</strong> - As a bonus action, once per long rest, you can teleport to a space you can see within range. At level 3, you gain Resistance to all damage after using this ability until your next turn, and will have a ghostly appearance.</li>\n<li><strong>Raven Summon</strong> - As a bonus action, once per long rest, you can call for assistance from your personal raven guide, named Brân! Your raven will level up with you.</li>\n</ul>\n<p> </p>",
+    "date_added": 1726170700,
+    "date_updated": 1776783305,
+    "date_live": 1726170971,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/shadarkai",
+    "submitted_by": {
+      "id": 33661686,
+      "name_id": "tepkunset",
+      "username": "tepkunset",
+      "profile_url": "https://mod.io/u/tepkunset",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/94a9/33661686/crop_100x100/tepkunseticon.png"
+    },
+    "modfile": {
+      "id": 6732020,
+      "mod_id": 4334311,
+      "version": "1.0.0.10",
+      "filename": "shadarkai_87c2216f-e6a3-1846-8-2ujq.zip",
+      "changelog": "Completely redone the mod with bug fixes and improved functionality for patch 8.",
+      "date_added": 1756661112,
+      "date_updated": 0,
+      "date_scanned": 1756661118,
+      "filesize": 778548,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "imagecover.1.png",
+      "original": "https://image.modcdn.io/mods/02ae/4334311/imagecover.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/02ae/4334311/crop_320x180/imagecover.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/02ae/4334311/crop_640x360/imagecover.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/02ae/4334311/crop_1280x720/imagecover.1.png"
+    },
+    "tags": [
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6732020
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6732020
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6732020
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6732020
       }
     ]
   },
@@ -35617,6 +35818,164 @@
       {
         "platform": "ps5",
         "modfile_live": 5596056
+      }
+    ]
+  },
+  {
+    "id": 4350239,
+    "game_id": 6715,
+    "name": "Animation Swapper : Shadowheart",
+    "name_id": "animation-swapper-shadowheart",
+    "summary": "An animation mod that replaces player_female with Shadowheart's animations while keeping camp and epilogue animations. There is another mod that aims for the same, however I made this to address some issues I had. No requirements or dependencies.",
+    "description": "<p>An animation mod that replaces the player_female's animations with those of Shadowheart. Shadowheart's animations are changed to the basic HUM_F animation set in character. </p>\n<p>Place at or near end of load order.</p>\n<p><strong>NOTE </strong>: This mod is kinda complicated so it is very possible that there are some blind spots, so <span style=\"text-decoration:underline;\"><strong>if you run into any bugs specific to this mod please let me know and I will see what I can do to address them.</strong></span> If there <em>are</em> any issues they will likely have something to do with changing shape ( i.e. wildshapes, mindflayer, slayer, cheese, etc. ).</p>\n<p>---</p>\n<p>⟳ Currently pending approval on consoles</p>\n<p>❎ No requirements or dependencies </p>",
+    "date_added": 1726798672,
+    "date_updated": 1776783015,
+    "date_live": 1726799757,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/animation-swapper-shadowheart",
+    "submitted_by": {
+      "id": 34900863,
+      "name_id": "pkheartbreak",
+      "username": "pkheartbreak",
+      "profile_url": "https://mod.io/u/pkheartbreak",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2d19/34900863/crop_100x100/screenshot2023-12-23153955.png"
+    },
+    "modfile": {
+      "id": 5767932,
+      "mod_id": 4350239,
+      "version": "1.0.0.20",
+      "filename": "animation_swap_shadowheart_1c1-3uon.zip",
+      "changelog": "- Cleaned residual files for consoles",
+      "date_added": 1731503875,
+      "date_updated": 0,
+      "date_scanned": 1731504091,
+      "filesize": 1313553,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/8df7/4350239/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8df7/4350239/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8df7/4350239/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8df7/4350239/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5767932
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5767932
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5767932
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5767932
       }
     ]
   },
@@ -92852,6 +93211,109 @@
     ]
   },
   {
+    "id": 4791351,
+    "game_id": 6715,
+    "name": "Tiefling Subraces: The Missing Lords",
+    "name_id": "tiefling-subraces-the-missing-lords",
+    "summary": "This mod adds six new subraces of tieflings representing the rest of the Lords of the Nine - Dispater, Mammon, Fierna, Levistus, Glasya, and Baalzebul.",
+    "description": "<p>This mod adds six new subraces of tieflings representing the rest of the Lords of the Nine - Dispater, Mammon, Fierna, Levistus, Glasya, and Baalzebul. </p>\n<p> </p>\n<h2><span style=\"text-decoration:underline;\">Credits:</span></h2>\n<p>Portraits of the Missing Lords commissioned from <a title=\"Bluesky Link\" href=\"https://bsky.app/profile/pichigo.bsky.social\" target=\"_blank\" rel=\"noopener noreferrer\">Pichigo</a>.</p>\n<p>Playtesting done by <a title=\"Mod Creator Profile\" href=\"https://mod.io/g/baldursgate3/u/noxtrx\" target=\"_blank\" rel=\"noopener noreferrer\">noxtrx</a> and FalseReign.</p>\n<p> </p>\n<h2><span style=\"text-decoration:underline;\">Notes:</span></h2>\n<p>This mod is likely to be incompatible with other tiefling subrace mods that include subraces for Dispater, Mammon, Fierna, Levistus, Glasya, and/or Baalzebul.</p>\n<p> </p>\n<h2><span style=\"text-decoration:underline;\">Information:</span></h2>\n<h4><span style=\"text-decoration:underline;\">Dispater Tieflings</span></h4>\n<blockquote>\n<p><em>\"Tieflings of Dispater's bloodline have a constant urge to protect themselves from others - whether they mean harm or not.\"</em></p>\n</blockquote>\n<p>At certain level up milestones, these tieflings receive:</p>\n<ul>\n<li><strong>At level 1:</strong> Blade Ward (cantrip)</li>\n<li><strong>At level 3:</strong> Legacy of Dis: Armour of Agathys (1st level spell, refresh on long rest)</li>\n<li><strong>At level 5:</strong> Hold Person (2nd level spell, refresh on long rest)</li>\n</ul>\n<p> </p>\n<h4><span style=\"text-decoration:underline;\">Mammon Tieflings</span></h4>\n<blockquote>\n<p><em>\"Mammon's serpentine visage has granted tieflings descended from the archdevil an affinity for poison.\"</em></p>\n</blockquote>\n<p>At certain level up milestones, these tieflings receive:</p>\n<ul>\n<li><strong>At level 1:</strong> Poison Spray (cantrip); Serpentine Resistance (passive, poison resistance)</li>\n<li><strong>At level 3:</strong> Legacy of Minauros: Ray of Sickness (1st level spell, refresh on long rest)</li>\n<li><strong>At level 5:</strong> Melf's Acid Arrow (2nd level spell, refresh on long rest)</li>\n</ul>\n<p> </p>\n<h4><span style=\"text-decoration:underline;\">Fierna Tieflings</span></h4>\n<blockquote>\n<p><em>\"As descendants of the archdevil Fierna, the flames of Phlegethos burn in the veins of these tieflings.\"</em></p>\n</blockquote>\n<p>At certain level up milestones, these tieflings receive:</p>\n<ul>\n<li><strong>At level 1:</strong> Fire Bolt (cantrip)</li>\n<li><strong>At level 3:</strong> Legacy of Phlegethos: Hunter's Mark (1st level spell, refresh on long rest)</li>\n<li><strong>At level 5:</strong> Flame Blade (2nd level spell, refresh on long rest)</li>\n</ul>\n<p> </p>\n<h4><span style=\"text-decoration:underline;\">Levistus Tieflings</span></h4>\n<blockquote>\n<p><em>\"Levistus' bloodline has been permanently altered by the icy prison the archdevil is encased in, lending his descendants cold temperaments and enhanced psychic abilities.\"</em></p>\n</blockquote>\n<p>At certain level up milestones, these tieflings receive:</p>\n<ul>\n<li><strong>At level 1:</strong> Vicious Mockery (cantrip); Rimeborn Resistance (passive, cold resistance)</li>\n<li><strong>At level 3:</strong> Legacy of Stygia: Ice Knife (1st level spell, refresh on long rest)</li>\n<li><strong>At level 5:</strong> Phantasmal Force (2nd level spell, refresh on long rest)</li>\n</ul>\n<p> </p>\n<h4><span style=\"text-decoration:underline;\">Glasya Tieflings</span></h4>\n<blockquote>\n<p><em>\"An aura of death and decay follow Glasyan tieflings, garnering them the unfortunate reputation of harbingers of disasters yet to come.\"</em></p>\n</blockquote>\n<p>At certain level up milestones, these tieflings receive:</p>\n<ul>\n<li><strong>At level 1:</strong> Bone Chill (cantrip)</li>\n<li><strong>At level 3:</strong> Legacy of Malbolge: Hex (1st level spell, refresh on long rest)</li>\n<li><strong>At level 5:</strong> Crown of Madness (2nd level spell, refresh on long rest)</li>\n</ul>\n<p> </p>\n<h4><span style=\"text-decoration:underline;\">Baalzebul Tieflings</span></h4>\n<blockquote>\n<p><em>\"Tieflings of Baalzebul's bloodline are masterful deceivers, often finding work as spies and undercover agents.\"</em></p>\n</blockquote>\n<p>At certain level up milestones, these tieflings receive:</p>\n<ul>\n<li><strong>At level 1:</strong> Acid Splash (cantrip)</li>\n<li><strong>At level 3:</strong> Legacy of Maladomini: Disguise Self (1st level spell, refresh on long rest)</li>\n<li><strong>At level 5:</strong> Web (2nd level spell, refresh on long rest)</li>\n</ul>\n<p> </p>\n<p><span style=\"text-decoration:underline;\">Changelog:</span></p>\n<p><strong>Version 1.0.0.8<br></strong></p>\n<ul>\n<li>Fixed a bug that was incorrectly giving characters tiefling variant spells once level 2 spell slots were unlocked</li>\n</ul>\n<p><strong>Version 1.0.0.5 [First Release]</strong></p>\n<ul>\n<li>Added subraces to player tieflings for Dispater, Mammon, Fierna, Levistus, Glasya, and Baalzebul. </li>\n<li>Added subraces to dream guardian tieflings for Dispater, Mammon, Fierna, Levistus, Glasya, and Baalzebul.</li>\n<li>Added custom passive features for Mammon and Levistus tieflings, giving them poison resistance and cold resistance respectively.</li>\n</ul>",
+    "date_added": 1741850089,
+    "date_updated": 1776783411,
+    "date_live": 1741852911,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/tiefling-subraces-the-missing-lords",
+    "submitted_by": {
+      "id": 36556367,
+      "name_id": "metadile",
+      "username": "metadile_",
+      "profile_url": "https://mod.io/u/metadile",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6874515,
+      "mod_id": 4791351,
+      "version": "1.0.0.8",
+      "filename": "testproject_901caed2-9f01-e605-9fcd.zip",
+      "changelog": "Fixed a bug that was incorrectly giving characters tiefling variant spells once level 2 spell slots were unlocked",
+      "date_added": 1761362823,
+      "date_updated": 0,
+      "date_scanned": 1761362837,
+      "filesize": 2105033,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/a258/4791351/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a258/4791351/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a258/4791351/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a258/4791351/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6874515
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6874515
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6874515
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6874515
+      }
+    ]
+  },
+  {
     "id": 4792587,
     "game_id": 6715,
     "name": "Succubus Class Extra Feats",
@@ -133268,6 +133730,104 @@
     ]
   },
   {
+    "id": 5565334,
+    "game_id": 6715,
+    "name": "Bite Nights",
+    "name_id": "bite-nights",
+    "summary": "Adds a custom scene that plays when Astarion feeds on the player character at night.",
+    "description": "<h2>About the Mod</h2>\n<p><span style=\"font-size:medium;\">Bloodless gang, come and get your mod!<br><br><strong><span style=\"color:#db7093;\">This mod adds a new scene that plays when Astarion feeds on the player character at night.</span></strong><br><br>The mod uses unfinished vanilla animations, meaning there will be some clipping and alignment issues. I did my best to minimise them and make the scene work for a variety of body types, but the animations will line up best for body types with the same shoulder width as tall BT2 characters.<br><br>To trigger the scene, choose the ‘You can feed on me tonight’ dialog option before initiating a long rest. The scene will play as long as Astarion is in the active party and there are no queued camp events that night.<br><br>There are subtly different versions of the scene for Act 1/2 and Act 3 to reflect the growing intimacy between Astarion and his partner.</span></p>\n<p><iframe src=\"https://www.youtube.com/embed/dIPKTFySbMc\" width=\"560\" height=\"314\"></iframe></p>\n<h3><br>Compatibility</h3>\n<p><span style=\"font-size:medium;\">As this mod uses vanilla animations, it has <em>no</em> known conflicts. This mod is compatible with my other mod, <a href=\"https://mod.io/g/baldursgate3/m/cuddle-astarion#description\">Cuddle Astarion</a>. If you’re eligible for both scenes, you will get the bite cutscene when Astarion is feeding that night and the cuddle cutscene when he isn’t.<br><br>The scene will play in all vanilla camps. It should work in modded versions of the camps as well, provided the location of the four main beds wasn’t changed. It should be fine to install and uninstall this mod at any point.</span></p>\n<p> </p>\n<h3>Credits and Thanks</h3>\n<p><span style=\"font-size:medium;\"><strong><span style=\"color:#db7093;\">A massive thank you to:</span></strong><br>HyperspaceTowel and lizardphunk for guidance<br>magnetuning for the dialogue editing resources<br>Poppeii for testing<br><br><strong><span style=\"color:#db7093;\">Mods used in preview images</span></strong><br>Astarion's Earrings - bubble-bones<br>Disguise Self - Origins and Companions - MiahTRT <br>Faces of Faerun - Aloija<br>Sanguine Ornaments - Amulet of Bhaal Earrings - Mine<br>Wyll Vanilla Hair Edit - Aimryax</span></p>\n<p> </p>\n<p>My Ko-fi: <a href=\"https://ko-fi.com/revoscribe\">https://ko-fi.com/revoscribe</a></p>",
+    "date_added": 1765394382,
+    "date_updated": 1776782619,
+    "date_live": 1765399517,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/bite-nights",
+    "submitted_by": {
+      "id": 44553098,
+      "name_id": "revolutionscribe",
+      "username": "RevolutionScribe",
+      "profile_url": "https://mod.io/u/revolutionscribe",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/237f/44553098/crop_100x100/durgeicon.png"
+    },
+    "modfile": {
+      "id": 7130237,
+      "mod_id": 5565334,
+      "version": "1.0.0.11",
+      "filename": "astarionbitenights_9bed499f-b2-8tqb.zip",
+      "changelog": "Disables the bite scene on nights where there is a queued camp event to avoid an issue with a certain bard.",
+      "date_added": 1765489646,
+      "date_updated": 0,
+      "date_scanned": 1765489651,
+      "filesize": 66939,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "bitenightsthumblarge.png",
+      "original": "https://image.modcdn.io/mods/9f61/5565334/bitenightsthumblarge.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9f61/5565334/crop_320x180/bitenightsthumblarge.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9f61/5565334/crop_640x360/bitenightsthumblarge.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9f61/5565334/crop_1280x720/bitenightsthumblarge.png"
+    },
+    "tags": [
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7130237
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7130237
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7130237
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7130237
+      }
+    ]
+  },
+  {
     "id": 5570559,
     "game_id": 6715,
     "name": "College of Winter Spirit - Ice Mage Bard",
@@ -136857,6 +137417,212 @@
     ]
   },
   {
+    "id": 5747759,
+    "game_id": 6715,
+    "name": "Cat Shadowheart",
+    "name_id": "cat-shadowheart",
+    "summary": "Turns Shadowheart into a cat.",
+    "description": "<p>Baldur's Gate 3 came out in 2023, and was immediately heralded as one of the best games ever made. But it had one fatal flaw: no catgirls. Clearly Larian recognized this error, as they released that one animated short ordaining that some modder go forth and turn Shadowheart into a Tabaxi. Now, finally, their wishes have been fulfilled.</p>\n<p> </p>\n<p>Known Issues:</p>\n<ul>\n<li>Shadowheart's portrait doesn't update immediately. You have to level her up for it to change. I have been unable to fix this. If anyone is aware of a solution let me know.</li>\n</ul>\n<p> </p>\n<p>Non-furry version: <a href=\"https://mod.io/g/baldursgate3/m/catgirl-shadowheart\">https://mod.io/g/baldursgate3/m/catgirl-shadowheart</a></p>",
+    "date_added": 1769877625,
+    "date_updated": 1776783157,
+    "date_live": 1769942943,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/cat-shadowheart",
+    "submitted_by": {
+      "id": 54898273,
+      "name_id": "sharlse",
+      "username": "sharlse",
+      "profile_url": "https://mod.io/u/sharlse",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/48d6/54898273/crop_100x100/ea6537ddc63550673da7f9ed20f7e02.jpg"
+    },
+    "modfile": {
+      "id": 7555204,
+      "mod_id": 5747759,
+      "version": "1.0.2.119",
+      "filename": "catoheart_3c6ec49a-4d0f-486b-9-dzzv.zip",
+      "changelog": "Fixed dialog loop issue",
+      "date_added": 1774531407,
+      "date_updated": 0,
+      "date_scanned": 1774531521,
+      "filesize": 70425775,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2026-02-17004133_2.png",
+      "original": "https://image.modcdn.io/mods/28a6/5747759/screenshot2026-02-17004133_2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/28a6/5747759/crop_320x180/screenshot2026-02-17004133_2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/28a6/5747759/crop_640x360/screenshot2026-02-17004133_2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/28a6/5747759/crop_1280x720/screenshot2026-02-17004133_2.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7555204
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7555204
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7555204
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7555204
+      }
+    ]
+  },
+  {
+    "id": 5748035,
+    "game_id": 6715,
+    "name": "Catgirl Shadowheart",
+    "name_id": "catgirl-shadowheart",
+    "summary": "Turns Shadowheart into a catgirl, as Ao intended.",
+    "description": "<p>Baldur's Gate 3 came out in 2023, and was immediately heralded as one of the best games ever made. But it had one fatal flaw: no catgirls. Clearly Larian recognized this error, as they released that one animated short ordaining that some modder go forth and turn Shadowheart into a Tabaxi. Now, finally, their wishes have been fulfilled.</p>\n<p> </p>\n<p>This is an alternate version of my Cat Shadowheart mod, for cowards.</p>\n<p> </p>\n<p>Furry version: <a href=\"https://mod.io/g/baldursgate3/m/cat-shadowheart\">https://mod.io/g/baldursgate3/m/cat-shadowheart</a></p>",
+    "date_added": 1769881322,
+    "date_updated": 1776783232,
+    "date_live": 1770293458,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/catgirl-shadowheart",
+    "submitted_by": {
+      "id": 54898273,
+      "name_id": "sharlse",
+      "username": "sharlse",
+      "profile_url": "https://mod.io/u/sharlse",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/48d6/54898273/crop_100x100/ea6537ddc63550673da7f9ed20f7e02.jpg"
+    },
+    "modfile": {
+      "id": 7546358,
+      "mod_id": 5748035,
+      "version": "1.0.2.18",
+      "filename": "catgirloheart_e662e777-bded-e3-hary.zip",
+      "changelog": "Fixed some minor issues",
+      "date_added": 1774358949,
+      "date_updated": 0,
+      "date_scanned": 1774358975,
+      "filesize": 11929027,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2026-02-17003431_2.1.png",
+      "original": "https://image.modcdn.io/mods/5698/5748035/screenshot2026-02-17003431_2.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5698/5748035/crop_320x180/screenshot2026-02-17003431_2.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5698/5748035/crop_640x360/screenshot2026-02-17003431_2.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5698/5748035/crop_1280x720/screenshot2026-02-17003431_2.1.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7546358
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7546358
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7546358
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7546358
+      }
+    ]
+  },
+  {
     "id": 5750287,
     "game_id": 6715,
     "name": "Aardi's Chest of Presents",
@@ -137217,6 +137983,149 @@
       {
         "platform": "ps5",
         "modfile_live": 7512956
+      }
+    ]
+  },
+  {
+    "id": 5808036,
+    "game_id": 6715,
+    "name": "Cosmic Knight - Progressive Equipment Set",
+    "name_id": "cosmic-knight-progressive-equipment-set",
+    "summary": "Cosmic Knight Armor + Weapon set. Includes camp clothing and vanilla weapon version",
+    "description": "<p>A full set of progressive armor, weapons, camp clothing and vanilla weapon version of the Cosmic Knight.</p>\n<p>Fully Dyeable<br>Bodytype 2</p>\n<p><strong>!!!!!!!!!! IMPORTANT !!!!!!!!!! </strong><br>if you come across an animation bug (eg. animation plays but only a single delayed hit with the character getting stuck after), a simple fix is to swap to your ranged weapon set, and then back to the melee set (press f on pc; hold left d-pad on controller)<br>known triggers: loading a save with the weapon already equipped; changing zone with a loading screen (eg. rivington &gt; lower city); triggering multiclass</p>\n<p> </p>\n<p><strong>Highlight</strong></p>\n<p></p><video controls width=\"600\" height=\"300\">\n<source src=\"https://i.imgur.com/F72NWDR.mp4\" type=\"video/mp4\"></source></video>\n<p>Commissioned by FlermFlam</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Credits:<br><a href=\"https://www.fab.com/listings/d237534b-9ba7-4c48-8cd9-8a1fd1965119\">Armor</a> model by AhmedSagov<br><a href=\"https://sketchfab.com/3d-models/the-witcher-3-aerondight-sword-5eba8baf40614b83b92d493fd227e70a\">Sword</a> model by mefq<br>Meshes and Textures has been modified<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me and/or becoming a member at the link below!<a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "date_added": 1771654249,
+    "date_updated": 1776782780,
+    "date_live": 1771655502,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/cosmic-knight-progressive-equipment-set",
+    "submitted_by": {
+      "id": 35718117,
+      "name_id": "skirbie",
+      "username": "Skirbie",
+      "profile_url": "https://mod.io/u/skirbie",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
+    },
+    "modfile": {
+      "id": 7421427,
+      "mod_id": 5808036,
+      "version": "1.0.0.3",
+      "filename": "cmknght_a06d06db-8026-b97a-720-7bmd.zip",
+      "changelog": null,
+      "date_added": 1771654840,
+      "date_updated": 0,
+      "date_scanned": 1771654906,
+      "filesize": 32869195,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/dcd3/5808036/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/dcd3/5808036/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/dcd3/5808036/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/dcd3/5808036/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7421427
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7421427
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7421427
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7421427
       }
     ]
   },
@@ -138082,6 +138991,114 @@
     ]
   },
   {
+    "id": 5876396,
+    "game_id": 6715,
+    "name": "Choose Your Camp",
+    "name_id": "choose-your-camp",
+    "summary": "Choose what camp you want to go to when hitting the Go To Camp button. Have you ever been in a certain area of an Act and wanted to go to a different camp? Now you can! *limited to the camps available in the current Act.",
+    "description": "<h3><span style=\"font-size:x-large;\"><strong>Choose Your Camp<br><br>Ever found yourself deep in the Underdark but longing for the open sky of the wilderness camp? Stuck at Moonrise Towers when you'd rather rest in the shadow-cursed wilds? Now you have the choice.<br><br>Choose Your Camp adds a spell that lets you pick exactly which camp you want to travel to when you hit \"Go To Camp\". No more being forced into whatever camp the game decides for you.<br></strong></span></h3>\n<hr>\n<p> </p>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">Features</span><br></strong></span></h3>\n<p> </p>\n<h3>Select your preferred camp from a simple spell menu</h3>\n<h3>Works with all camp variants across all three acts</h3>\n<h3>Persists until you change it or travel to a new act</h3>\n<h3>\"Default Camp\" option to return to normal game behavior at any time</h3>\n<h3>Spell automatically granted to all player characters</h3>\n<p> </p>\n<hr>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">Available Camps</span><br><br>Act 1 — Wilderness</strong></span></h3>\n<h3>Wilderness Camp (main outdoor camp)</h3>\n<h3>Basement Camp</h3>\n<h3>Granite Cave Camp</h3>\n<h3>Sandstone Cave Camp</h3>\n<h3>Abbey Ruins Camp</h3>\n<h3>Shar Temple Camp</h3>\n<h3>Underdark Camp<br><br></h3>\n<h3><span style=\"font-size:x-large;\"><strong>Act 2 — Shadow-Cursed Lands</strong></span></h3>\n<h3>Mountain Pass Camp</h3>\n<h3>Shadow-Cursed Lands Camp</h3>\n<h3>Moonrise Towers Camp<br><br></h3>\n<h3><span style=\"font-size:x-large;\"><strong>Act 3 — Baldur's Gate</strong></span></h3>\n<h3>Elfsong Tavern Camp</h3>\n<h3>Farm Camp</h3>\n<p> </p>\n<hr>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">How To Use</span><br></strong></span></h3>\n<p> </p>\n<h3>Find the <strong>\"Camp Selection\"</strong> spell (camp sack icon) on your hotbar</h3>\n<h3>Select your desired camp</h3>\n<h3>Hit \"Go To Camp\" as normal. You'll travel to your selected camp.</h3>\n<h3><span style=\"font-size:x-large;\"><strong>To return to default behavior, simply cast \"Default Camp\" from the same menu.<br><br></strong></span></h3>\n<hr>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">Compatibility</span></strong></span></h3>\n<h3><span style=\"color:#00ff00;\">✓</span> Compatible with most (if not all) other mods</h3>\n<h3><span style=\"color:#00ff00;\">✓</span> Safe to add mid-playthrough</h3>\n<h3><span style=\"color:#00ff00;\">✓</span> Works in multiplayer</h3>\n<h3><span style=\"color:#ffff00;\">?</span> May conflict with other mods that modify camp selection logic, although I'm not aware of any of those currently existing</h3>\n<h3><span style=\"color:#00ff00;\">✓</span> NO Script Extender required</h3>\n<p> </p>\n<hr>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">FAQ</span><br><br>Q: Why can't I select certain camps?<br>A: Camps are restricted by act. You can only choose camps that exist in your current act. If you try to select an invalid camp, you'll get a message explaining it's not available.<br><br>Q: What happens when I travel to a new act?<br>A: Your camp selection automatically clears if it's not valid in the new area. You'll return to default behavior until you make a new selection.<br><br>Q: Does this affect companions at camp?<br>A: No. Your companions will be at whatever camp you travel to, just like normal.<br><br>Q: I don't see the spell in my spellbook!<br>A: Try saving and reloading. The spell is granted on level load, so a quick save/load should trigger it.<br><br>Q: Are there any negative or side effects to going to the same camp throughout a whole act?<br>A: I honestly don't know. If you use this to intentionally avoid a place that has a cutscene or related quest, I'm not clear what effect that has. Feel free to test and report if you have a specific instance in mind.<br><br>Q: Will this come to consoles?<br>A: Hopefully! It was made appropriately and I have submitted it to Larian. The rest is up to them.<br><br></strong></span></h3>\n<p> </p>\n<hr>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">Known Issues</span><br></strong></span></h3>\n<h3>None currently. Please report any bugs in the comments or on my Discord.</h3>\n<p> </p>\n<hr>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">Questions/Comments/Feedback/Mod Requests?<br><a href=\"https://discord.gg/AgsPzTwfjR\">Visit my Discord!</a></span></strong></span></h3>\n<hr>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">Appreciate my work?<br><a href=\"https://ko-fi.com/for_kiramay\">Buy me a coffee!</a></span></strong></span></h3>\n<hr>\n<h3><span style=\"font-size:x-large;\"><strong><span style=\"font-size:large;\">Want to see more awesome mods like custom items, maps, and utilities?<br><a href=\"https://nexusmods.com/profile/ForKiramay/mods\">Check out my profile!</a></span></strong></span></h3>",
+    "date_added": 1773702835,
+    "date_updated": 1776782931,
+    "date_live": 1773702835,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/choose-your-camp",
+    "submitted_by": {
+      "id": 48531518,
+      "name_id": "forkiramay",
+      "username": "For_Kiramay",
+      "profile_url": "https://mod.io/u/forkiramay",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/07b4/48531518/crop_100x100/kiradiscord.png"
+    },
+    "modfile": {
+      "id": 7512896,
+      "mod_id": 5876396,
+      "version": "1.0.0.10",
+      "filename": "campselector_8c02baf3-c697-3ee-a6s0.zip",
+      "changelog": null,
+      "date_added": 1773702846,
+      "date_updated": 0,
+      "date_scanned": 1773702917,
+      "filesize": 18916366,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/c7ec/5876396/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/c7ec/5876396/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/c7ec/5876396/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/c7ec/5876396/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7512896
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7512896
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7512896
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7512896
+      }
+    ]
+  },
+  {
     "id": 5877371,
     "game_id": 6715,
     "name": "Darling face - New heads",
@@ -138354,6 +139371,134 @@
       {
         "platform": "ps5",
         "modfile_live": 7514661
+      }
+    ]
+  },
+  {
+    "id": 5890274,
+    "game_id": 6715,
+    "name": "Fiamma Volante - Outfit Ensemble",
+    "name_id": "fiamma-volante-outfit-ensemble",
+    "summary": "A set of armor and wings woven with fire. For BT1/2 tall races only. Multiple stats and modulars available. Wings can be hidden in cutscenes.",
+    "description": "<h4>Adds two flaming wings and matching flaming outfits to the game. For BT1/BT2 tall races (human, elf, half-elf, drow, tiefling).</h4>\n<hr>\n<p>Wings and armors spun from living fire, draped upon you like the last breath of a phoenix before its glorious rebirth.🐦‍🔥🔥🪽</p>\n<p>Main Features:</p>\n<p>This mod adds two flaming wings and matching flaming outfits to the game.</p>\n<p>Available for Body Type 1 and 2 tall races (Human, Elf, Half-Elf, Drow, Tiefling). </p>\n<p>Has OP stats and ordinary stats available, also included a custom made chest as usual ;)</p>\n<p>Both wings use wing animations from deva in game.</p>\n<p> </p>\n<h2>Item List:</h2>\n<p><span style=\"text-decoration:underline;\"><strong>I’ll skip the super lengthy item list for this time…basically, it includes these:</strong></span></p>\n<h4><strong>Fiamma Volante (Wings):</strong></h4>\n<p>These have both blue and orange variants. Both grant users the ability to fly.</p>\n<p>Each has a hide-in-cutscenes and show-in-cutscenes version. Equippable in cloak slot.</p>\n<p>※NexusMods version also unlocks a very OP firestorm spell, orange with orange variant outfit, blue with blue variant outfit. This doesn’t exist in the <a href=\"https://mod.io\">Mod.io</a> version ‘cause I don’t know how to change spell VFX color…:(</p>\n<h4><strong>Fiamma Volante (Full Outfit):</strong></h4>\n<p>These have both blue and orange variants. Both have two stats options, one is ordinary stats with AC10 and no bonuses, the other is OP stats with AC20 and all the passives from Helldusk Armour (Infernal Retribution, Prime Aegis of Fire). Equippable in breast armor slot.</p>\n<h4><strong>Fiamma Volante (Torso+Legs Only Outfit):</strong></h4>\n<p>These have both blue and orange variants. These only have ordinary stats with AC10. Equippable in breast armor slot.</p>\n<h4><strong>Fiamma Volante (Arm Rings Only):</strong></h4>\n<p>These have both blue and orange variants. These don’t have stats and are equippable in gloves slot.</p>\n<p> </p>\n<h2>Item Location:</h2>\n<p>All 12 items are contained in a chest called “Fiamma Volante Chest” (can be placed on ground, have open animation), you can find it in:</p>\n<ul>\n<li>\n<p>Tutorial Chest</p>\n</li>\n<li>\n<p>Vendors across the map, including:</p>\n</li>\n</ul>\n<p><span style=\"text-decoration:underline;\"><em>Volo in Campsite</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Arron from Emerald Grove</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Dammon from Last Light Inn and Lower City</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Roah Moonglow from Goblin Camp</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Esther from Rosymorn Monastery</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Kith from Grymforge</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Omeluum from Underdark</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Anna Lidwin from Reithwin Town</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Araj Oblodra from Moonrise Towers</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Entharl Danthelon from Wyrm's Crossing</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Helsik from Devil’s Fee</em></span></p>\n<p><span style=\"text-decoration:underline;\"><em>Figaro Pennygood from Lower City</em></span></p>\n<p> </p>\n<h2>Mods used in showcase images:</h2>\n<p>Hair:<a href=\"https://www.nexusmods.com/baldursgate3/mods/16198\"> Myky’s Hairstyles</a> (Hyacinth’s fringes), <a href=\"https://www.nexusmods.com/baldursgate3/mods/17353\">Flaming Hair - Fire Hairstyles</a> (Hyacinth’s main hair), <a href=\"https://www.patreon.com/posts/wwm-hairstyles-149563127\">WWM Hairstyles </a>(Hyacinth’s main orange hair),<a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\"> Hijimare Hairs</a> (Hyacinth’s hair extension)</p>\n<p>Colors:<a href=\"https://www.nexusmods.com/baldursgate3/mods/2536\"> Astralities' Skintone Expansion</a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/2002\">Astralities' Hair Color Supplement</a></p>\n<p>Head presets:<a href=\"https://www.nexusmods.com/baldursgate3/mods/19563\"> Berry’s Heads - Hyacinth</a> (V3)</p>\n<p>Tattoo/Scar:<a href=\"https://www.nexusmods.com/baldursgate3/mods/16595\"> Kaz x Astralities - Scarred Visage</a>,<a href=\"https://www.nexusmods.com/baldursgate3/mods/16325\"> KAVT</a></p>\n<p>Utilities: <a href=\"https://www.nexusmods.com/baldursgate3/mods/17737\">QSAT</a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/17934\">Snapshots</a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/14364\">Lighty Lights and Photo Mode stuff</a></p>\n<p> </p>",
+    "date_added": 1774104413,
+    "date_updated": 1776782859,
+    "date_live": 1774104413,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/fiamma-volante-outfit-ensemble",
+    "submitted_by": {
+      "id": 43867185,
+      "name_id": "berrysemifreddo",
+      "username": "BerrySemifreddo",
+      "profile_url": "https://mod.io/u/berrysemifreddo",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3cdf/43867185/crop_100x100/dyingpillow-transparent.png"
+    },
+    "modfile": {
+      "id": 7533576,
+      "mod_id": 5890274,
+      "version": "1.0.0.6",
+      "filename": "fiammavolanteensemble_a7ffc8aa-9blv.zip",
+      "changelog": "Toned down the emission power (glowing strength) by half.",
+      "date_added": 1774136714,
+      "date_updated": 0,
+      "date_scanned": 1774136764,
+      "filesize": 25151120,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "wingscover.png",
+      "original": "https://image.modcdn.io/mods/61e7/5890274/wingscover.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/61e7/5890274/crop_320x180/wingscover.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/61e7/5890274/crop_640x360/wingscover.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/61e7/5890274/crop_1280x720/wingscover.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7533576
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7533576
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7533576
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7533576
       }
     ]
   }
