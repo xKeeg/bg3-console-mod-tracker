@@ -56649,7 +56649,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour (Level 4), Heavy Armour (Level 7, Selected Subclass), Shields (Level 7)</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1776711639,
+    "date_updated": 1776828058,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -56663,15 +56663,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1e98/37197746/crop_100x100/duskblade.1.png"
     },
     "modfile": {
-      "id": 7655775,
+      "id": 7660141,
       "mod_id": 4407068,
-      "version": "1.0.318.0",
-      "filename": "duskblade_0b9fe8cc-f707-9980-c-1mhl.zip",
-      "changelog": "- Updated visual effects of Armored Mage, Arcane Channeling, Arcane Aura, Arcane Reflection, Arcane Strike, Arcane Momentum, Arcane Absorption, Dancing Lights, and Ghost Sound\n- Updated target criteria of Flare and Ghost Sound\n- Updated Level 10 Arcane Channeling damage bonus\n- Updated Armour Proficiency progression\n- Updated descriptions\n- Updated Arcane Accuracy, Improved Critical, and Superior Critical to only grant bonus to melee weapon attacks\n- Added Interrupt for Arcane Channeling (Off-Hand)\n- Added a new Level 8 Abjuration spell Energy Aegis to the class spell list",
-      "date_added": 1776711613,
+      "version": "1.0.320.0",
+      "filename": "duskblade_0b9fe8cc-f707-9980-c-aqug.zip",
+      "changelog": "- Updated visual effects of Armored Mage, Arcane Channeling, Arcane Aura, Arcane Reflection, Arcane Strike, Arcane Momentum, Arcane Absorption, Arcane Flurry, Dancing Lights, and Ghost Sound\n- Updated target criteria of Flare and Ghost Sound\n- Updated Level 10 Arcane Channeling damage bonus\n- Updated Armour Proficiency progression\n- Updated descriptions\n- Updated Arcane Accuracy, Improved Critical, and Superior Critical to only grant bonus to melee weapon attacks\n- Added Interrupt for Arcane Channeling (Off-Hand)\n- Added a new Level 8 Abjuration spell Energy Aegis to the class spell list",
+      "date_added": 1776828019,
       "date_updated": 0,
-      "date_scanned": 1776711633,
-      "filesize": 9781628,
+      "date_scanned": 1776828040,
+      "filesize": 9783260,
       "platforms": [
         {
           "platform": "windows",
@@ -56765,7 +56765,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7655775
+        "modfile_live": 7660141
       }
     ]
   },
@@ -113841,7 +113841,7 @@
     "summary": "BG3 - Chocolate Edition is a massive rebalance mod touching almost every aspect of character building. Spells, feats, classes, subclasses, initiative, and more have all seen changes to make the game a different flavor of fun for a new run.",
     "description": "<h2><span style=\"text-decoration:underline;\">DO NOT UPDATE MID RUN (ESPECIALLY ON HONOR MODE) IF YOU WANT TO KEEP USING YOUR V2 BUILD. BUILDS WILL CHANGE FOR VERSION 3!</span></h2>\n<h2>For full mod details, check out the website! <a href=\"https://bg3chocolate.carrd.co\" target=\"_blank\" rel=\"noopener noreferrer\">bg3chocolate.carrd.co</a></h2>\n<h2>Welcome to Chocolate Edition v3! This is a homebrew, chocolate coating on the excellent Vanilla core BG3 experience with changes to almost every aspect of character building including:</h2>\n<ul>\n<li>\n<h3>Initiative Changes</h3>\n</li>\n<li>\n<h3>Weapon Cantrip Rule Changes</h3>\n</li>\n<li>\n<h3>Major Class Changes</h3>\n</li>\n<li>\n<h3>Minor Class Changes</h3>\n</li>\n<li>\n<h3>Extra Feats at level 2</h3>\n</li>\n<li>\n<h3>New Origin Classes</h3>\n</li>\n<li>\n<h3>New \"minor classes\" for non-Origin companions and Durge</h3>\n</li>\n<li>\n<h3>Cantrip - Level 6 Spell changes</h3>\n</li>\n<li>\n<h3>Feat Changes</h3>\n</li>\n<li>\n<h3>16 New Feats</h3>\n</li>\n</ul>\n<h3>This is intended to be a one stop shop to a fresh BG3 experience without relying on other mods to be kept updated, and without bloating your load order on console. Why use lot mod when one mod do trick?</h3>\n<p> </p>\n<p>Remember! Before submitting bugs, check the PDF for anything relevant in case what you think is a bug is just a feature! Once you've done that, feel free to comment or report bugs through the official feature, or to <a href=\"https://discord.gg/CP36VuDYHu\">join my discord to chat about what's going on.</a></p>\n<h3>Recommended Mod Categories to Use Alongside BG3 - Chocolate Edition - These will all add some additional flavor to the delicious chocolate of this mod.</h3>\n<ul>\n<li>\n<p>Tactician Enhanced (or other difficulty mods) - Tactician Enhanced will help you customize the experience if you want a little or a lot more difficulty.</p>\n</li>\n<li>\n<p><strong>Extra Encounters</strong></p>\n</li>\n<li>\n<p>Item mods (these can be unbalanced at times)</p>\n</li>\n<li>\n<p>Enemy mods</p>\n</li>\n<li>\n<p>Appearance mods</p>\n<ul>\n<li>\n<p>Replacer mods for Origins are compatible. Magic Mirror for Companions type mods are incompatible.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Randomizer mods for encounters or items</p>\n</li>\n<li>\n<p>Race mods (if you aren't on console)</p>\n</li>\n</ul>\n<p>Feel free to use new class mods alongside this, but I would HIGHLY recommend not using any mods that modify vanilla classes listed anywhere in the patch notes. I cannot offer support for bugs caused by mod conflicts very often. I would also advise against using spell rebalance mods, though spell addition mods like Mystra's Spells should be fine (excluding the balancing differences between Mystra's Spells and this mod).</p>\n<h2><span style=\"text-decoration:underline;\">Conflicts</span></h2>\n<ul>\n<li>Any mod that alters the \"Origin\" entries in the toolkit including mods that allow origin characters to use the Magic Mirror</li>\n<li>Spell rebalance mods</li>\n<li>Mods that alter subclasses or classes</li>\n<li>Mods that alter or rebalance feats</li>\n<li>Mods that alter or rebalance elixirs</li>\n<li>Mods that *add* subclasses should use progression merges for best practices, but conflicts with Wizard, Ranger, Warlock, Druid, and Paladin subclasses from previous versions have been resolved on the Chocolate Edition side as of the most recent version available on PC. Console awaits an update still.</li>\n</ul>\n<p>Note about conflicts: Mod conflicts are not inherently a bad thing. You just need to make sure the mod you want to \"win\" the conflict is loaded later in your load order. To do this on consoles or through the in game mod manager, supposedly you can de-activate all mods in your list and then reactivate them in the order that you choose. This will tell the game what order to load the mods in.</p>",
     "date_added": 1748866806,
-    "date_updated": 1776792349,
+    "date_updated": 1776828910,
     "date_live": 1748868463,
     "visible": 1,
     "status": 1,
@@ -113855,15 +113855,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2890/34817058/crop_100x100/fe72795fb0c88912cc6ec75f1c125df.jpg"
     },
     "modfile": {
-      "id": 7658406,
+      "id": 7660159,
       "mod_id": 4985426,
-      "version": "3.0.0.98",
-      "filename": "vanillaplus_d932c3e8-991e-ef52-0v7u.zip",
-      "changelog": "Fixed interactions between Toxic Barrage and the Arcane Synergy items as well as the Potent Robe. See the full PDF's on Toxic Barrage for more details.\nAdded Ensnaring Strands from the Swarmkeeper's kit to Spell Sniper's extended range.\nFixed a tooltip issue for Branding Smite.",
-      "date_added": 1776792164,
+      "version": "3.0.0.99",
+      "filename": "vanillaplus_d932c3e8-991e-ef52-a4ey.zip",
+      "changelog": "Rework to Toxic Barrage again. It is now a 2-4 target spell instead of 2-4 projectiles. This makes each hit an independent attack roll. If I figure out how to require you to target the same thing with each barb, I will eventually do that.\n\nArcane Synergy has also been disabled on Toxic Barrage. The Potent Robe now adds your full Charisma Modifier to each Toxic Barrage barb.",
+      "date_added": 1776828550,
       "date_updated": 0,
-      "date_scanned": 1776792226,
-      "filesize": 22084636,
+      "date_scanned": 1776828592,
+      "filesize": 22084589,
       "platforms": [
         {
           "platform": "windows",
@@ -114002,7 +114002,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7658406
+        "modfile_live": 7660159
       }
     ]
   },
@@ -128800,9 +128800,9 @@
     "name": "DarkRanger(Necro Ranger)",
     "name_id": "darkrangersse",
     "summary": "A Ranger who deals in the necromantic and blight instead of life and survival. With 3 reworked ranger classes to fit dark ranger and 6 custom classes.",
-    "description": "<h4><span style=\"color:#674ea7;\"><span style=\"font-size:xx-large;\"><strong>Dark Ranger<br></strong></span></span></h4>\n<p><strong>Not all who walk among the withered trees and crumbling bones of the wild are agents of cruelty. Some rangers find purpose in the shadowed cycles of the natural world where decay feeds the soil, disease culls the weak, and winter’s chill grants the land its rest. These rangers are keepers of the quiet balance, understanding that rot and ruin are as vital as growth and bloom.</strong></p>\n<p><strong>Dark Rangers wield necromantic arts not to dominate the dead, but to guide them, ensuring the fallen return to the earth, or rise briefly as guardians of sacred places. They commune with carrion birds, fungi, and blackened roots, seeing beauty in what others call corruption. Their arrows may drip with pestilence, not out of malice, but as a hunter’s tool no different than flame or steel.</strong></p>\n<p><strong>To the Dark Ranger, death is not an ending, but a season in the endless turning wheel of nature. Their presence unsettles those who cling only to life and light, yet in the wild places where plague and frost creep, they are both shepherd and sentinel.</strong></p>\n<div> </div>\n<h2><strong>Custom Starting Gear</strong></h2>\n<p><strong>You start with recolored armor, hood, and cloak, as well as fully custom scimitars, bow, and a quiver made by me specifically for this class.</strong></p>\n<p> </p>\n<p> </p>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 1</span></h4>\n<h4><span style=\"font-size:large;\"><strong>Black Arrow:<br></strong></span><a href=\"https://youtu.be/IiNqtUCl0hQ\">Video of Black Arrow</a><br>Beginning at 1st level, you gain 3 Black Arrow charges, allowing you to cast various versions of Black Arrow, each taking up a separate charge. You gain an additional charge at Dark Ranger levels<strong> 4</strong> and <strong>10</strong>.<br><br></h4>\n<ul>\n<li><strong>Black Arrow: Minor -</strong> (1: Charge) Ranged Weapon Attack + deals 2 * Darkranger level Necrotic damage.</li>\n<li><strong>Black Arrow: Moderate -</strong> (2: Charges) Ranged Weapon Attack + deals e* Darkranger level Necrotic Damage.</li>\n<li><strong>Black Arrow: Major -</strong> (3: Charges) Ranged Weapon Attack + deals a* Darkranger level Necrotic Damage.</li>\n</ul>\n<p><br><strong><span style=\"font-size:large;\">Cull the Weak</span></strong><br><span style=\"font-size:medium;\">Beginning at 1st level, you gain an advantage on all attack rolls made upon an enemy who is below 50% health, as well your critical strike roll requirement is reduced by <strong>1</strong> every <strong>3</strong> levels until<strong> 9</strong>.</span><br><br><strong><span style=\"font-size:large;\">Supernatural Predator</span></strong><br><span style=\"font-size:medium;\">Beginning at the 1st level, you can pick one of the following passives.<br><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>Point Blank:</strong> Removes disadvantage in melee range for ranged weapons</span></li>\n<li><span style=\"font-size:medium;\"><strong>Deathly Sense: </strong>Gain max darkvision distance.</span></li>\n<li><span style=\"font-size:medium;\"><strong>Haunting Movement:</strong> 2 + Gain your Dark Ranger level divided by 2 in movement speed.</span></li>\n<li><span style=\"font-size:medium;\"><strong>Restless Perception:</strong> Gain advantage on perception checks.</span></li>\n<li> </li>\n</ul>\n<p><span style=\"font-size:medium;\">Starting at level 6, you unlock additional options:<br><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>Elusive Death:</strong> Gain advantage on death rolls.</span></li>\n<li><span style=\"font-size:medium;\"><strong>Resistant Necrosis: </strong>Gain resistance to necrotic damage.</span></li>\n<li><span style=\"font-size:medium;\"><strong>Spectral Presence:</strong> Gain advantage on stealth checks</span></li>\n</ul>\n<p><span style=\"font-size:medium;\">You can choose one additional passive at levels<strong> 3,</strong> <strong>6</strong>, <strong>10</strong><br></span></p>\n<p> </p>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 2</span></h4>\n<h4><strong><span style=\"font-size:large;\">Fighting Style</span></strong><br><span style=\"font-size:medium;\">At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options.<br><br></span></h4>\n<ul>\n<li><strong><span style=\"font-size:medium;\">Archery</span></strong></li>\n<li><strong><span style=\"font-size:medium;\">Defense</span></strong></li>\n<li><strong><span style=\"font-size:medium;\">Dueling</span></strong></li>\n<li><strong><span style=\"font-size:medium;\">Two-Weapon Fighting</span></strong></li>\n</ul>\n<p> </p>\n<p> </p>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 3</span></h4>\n<h4><strong><span style=\"font-size:large;\">Dark Ranger Subclasses</span></strong><br><span style=\"font-size:medium;\">At 3rd level, you choose an archetype that you strive to emulate.</span><br><br></h4>\n<p> </p>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 5</span></h4>\n<h4><span style=\"font-size:large;\"><strong>Extra Attack</strong></span><br>Begging at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</h4>\n<h4> </h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 8</span></h4>\n<h4><strong><span style=\"font-size:large;\">Land's Stride</span></strong><br><span style=\"font-size:medium;\">Starting at level 8, Difficult Terrain no longer slows you down.</span></h4>\n<h4> </h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 10</span></h4>\n<h4><strong><span style=\"font-size:large;\">Hide in Plain Sight</span></strong><br><span style=\"font-size:medium;\">Starting at level 10, become Invisible and gain +a 10 bonus to Stealth Checks as long as you stand still.<br></span></h4>\n<h4> </h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 11</span></h4>\n<h4><strong><span style=\"font-size:large;\">Savage Attacker Feat</span></strong></h4>\n<h4> </h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Level 12</span></h4>\n<h4><strong><span style=\"color:#f4f4f4;\"><span style=\"font-size:large;\">Feat</span></span></strong><br><br></h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Spells:</span></h4>\n<h4>(Note: Spells are gained and earned at the same levels and amounts normal rangers get them)</h4>\n<p> </p>\n<h4><strong><span style=\"font-size:large;\">Starting Spell:</span></strong><br><strong>Cantrap:</strong><span style=\"font-size:medium;\"> Chilling Touch, Toll the Bell</span><br><br><strong><span style=\"font-size:x-large;\">Level 1 Spells</span></strong><br><span style=\"font-size:medium;\">Longstrider<br>Enhance Leap<br>Fog Cloud<br>False life<br>Inflict wound <br>Withering Mark - Debuffs Necro Resist<br>Hunters Mark<br></span>Ray of Sickness<br><br><br><strong><span style=\"font-size:x-large;\">Level 2 Spells</span></strong><br><span style=\"font-size:medium;\">Darkness<br>Corpse skin (Gives AC / Poison Resist)<br>Darkvision<br>Pass without Trace<br>Silence<br>Blindness<br></span>Ray of Enfeeblement<br><br><span style=\"font-size:x-large;\"><strong>Level 3 Spells</strong></span><span style=\"font-size:medium;\"><br>Wailing Arrow (2d6 necrotic damage to those in range and an aoe silence on dex save)<br>Bestow Curse<br>Speak with the dead<br>Vampiric touch<br>Lesser Blight (blight with less damage)</span><br><br><br></h4>\n<h4><span style=\"color:#674ea7;font-size:xx-large;\">Sub Classes:</span></h4>\n<p><img src=\"https://i.imgur.com/B16C481.png\" alt=\"\" width=\"150\" height=\"150\"></p>\n<h4><strong><span style=\"font-size:x-large;\">Wraith Touched</span><br>Your dark hunter has made a pact with a wraith and now shares your body.<br><br><span style=\"font-size:large;\">Level 3:</span><br>Two - Minds: - You gain advantage on fear and charm rolls<br>Wraith Step: Basically a teleport that works just like Misty Step.<br><br><span style=\"font-size:large;\">Level 5: </span><br>Wraith Shot: <br>Consume one of your spell slots to enhance a ranged bow attack with cold damage: a level 1 spell slot is 1d6 damage cold, a level 2 is 2d6, a level 3 is 3d6.<br><br><span style=\"font-size:large;\">level 7: </span><br>Dominate Beast:<br>Dominate the mind of a beast<br><br><span style=\"font-size:large;\">level 9:</span><br>Dominate Person: Dominate the mind of a person<br><span style=\"font-size:large;\"><br>level 11:</span><br>Reposite: Consume 1 riposte charge to use reactive action to counterattack for 1d8 damage with a melee weapon when a enemy in melee range misses you. You have 5 charges and they regenerate upon rest.</strong></h4>\n<h4> </h4>\n<h4><strong><img src=\"https://i.imgur.com/9D2pFoX.png\" alt=\"\" width=\"150\" height=\"150\"></strong><strong><br><span style=\"font-size:x-large;\">Necromycos</span><br><span style=\"font-size:large;\">Level 3:</span><br>Cantrip: </strong>Bursting Sinew<strong><br>Resistance To Poison<br>Symbiosis: </strong>Once per long rest you can form a symbiotic relationship with a party member, they will gain advantage on all attack rolls, but you will recieve all damage they take instead of them. <strong><br><br><span style=\"font-size:large;\">Level 5: </span><br>Fungal Infestation:<br></strong>Raises a mildewed, mould-encrusted zombie from a corpse, you can do this infinite number of times, however you are limited to only 1. <strong><br><br>Brittle Lung: <br></strong>When the zombie is struck by a melee attack it releases spores with a 13 con save, upon being infected by these person suffers silence and disadvantage on attack rolls for 2 turns.<strong><br><br><span style=\"font-size:large;\">level 7: </span><span style=\"font-size:large;\"><br></span>Mycelial Brand:<br></strong> A concentration free hunters mark that does not consume a spell slot. Only usable once in combat, however you can reapply after the target is dead. Does 1d8 Extra damage.<strong><br><br><span style=\"font-size:large;\">Level 9<br></span>Spell: Animate Dead<br>Symbiotic Awareness: <br></strong>Both parties gain 2 ac from their symbiotic relationship allowing each other to be more awarere of their surroundings.<strong><br><br><span style=\"font-size:large;\">Level 11:</span><br>Symbiotic Hunt: <br></strong>The party member who you share symbiosis with can now use the effects of your Mycelial Brand as well.<strong><br></strong></h4>\n<h4><strong><br><span style=\"font-size:x-large;\"><br><span style=\"color:#ff0000;\">-=Reflavored Sub Classes=-</span></span><br></strong></h4>\n<h4><strong><img src=\"https://i.imgur.com/WyherEl.png\" alt=\"\" width=\"150\" height=\"150\"><br><span style=\"font-size:x-large;\">Cloakwood Warden:</span></strong><br>Functionally the same as Beast Master, but with different pets</h4>\n<p><strong><span style=\"font-size:x-large;\">Undead Dog</span><br>Abilities and attacks are same as wolf<br></strong><br><strong><span style=\"font-size:x-large;\">Needle Blight</span><br></strong>1d6 Ranged Needle Attack<br><strong>Damage Shield</strong> - When struct by a melee attack deals damage to attacker<br><strong>Cursed Vines -</strong> Leaves behind cursed vines that causes damage when it dies<br><strong>Vine Burst</strong> - At level 5, 2d6 area needle attack<br><br><strong><span style=\"font-size:x-large;\">Grave Spider</span></strong><br><strong>Abilities are the same as regular companion spiders</strong><br><strong><span style=\"font-size:large;\"><br></span></strong><strong><span style=\"font-size:x-large;\">Vine Blight</span></strong><br><strong>1d6 bludge attack</strong></p>\n<p> </p>\n<p><strong>Level 1:<br>Taunt<br></strong><br><strong>level 5:</strong><br>Ability Spreads vines around you<br><br><strong>Level 11:</strong><br>Constrict the target locking them in place<br><span style=\"font-size:x-large;\"><br></span><strong><span style=\"font-size:x-large;\">Cursed Raven</span></strong><br>functionally same as raven<br><br><strong><span style=\"font-size:x-large;\">Displacer Beast</span></strong><br><span style=\"font-size:medium;\">1d4 piercing and 1d4 bludnging attack<br>Create Illusion<br>Jump<br><br><strong>level 5: </strong><br>Teleport with someone<br><br><strong>level 11:</strong><br>Ambush: Always crit if caught anenemy by surprise.</span></p>\n<p> </p>\n<p><img src=\"https://i.imgur.com/crrbUeT.png\" alt=\"\" width=\"150\" height=\"150\"></p>\n<p><strong><span style=\"font-size:x-large;\">Death Stalker:</span></strong><br>Same as Gloom Stalker but for Dark Ranger</p>\n<p> </p>\n<p> </p>\n<p><img src=\"https://i.imgur.com/nY4UWSC.png\" alt=\"\" width=\"150\" height=\"150\"></p>\n<p><strong><span style=\"font-size:x-large;\">Blighted Hunter:</span></strong><br>Same as Hunter but for Dark Ranger.<br><br><span style=\"color:#ff0000;\"><span style=\"font-size:x-large;\"><strong>My Other Mods</strong></span></span><br><span style=\"color:#00ff00;\"><span style=\"font-size:large;\">CLASS AND RACE:</span></span><strong><span style=\"font-size:large;\"><br></span></strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/12835\"><strong><span style=\"font-size:large;\">Fiendish Races: Race</span></strong></a><br><br><span style=\"color:#00ff00;\"><span style=\"font-size:large;\">WEAPONS</span></span><br><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/10998\">Katen Kyokostu</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10976\">Tensa Zangetsu</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10857\">Battleworn Shield</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10771\">Bruenor Battlehammers Shield</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10410\">Grimsaws Tooth</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10376\">Marcelines Bass Axe</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10107\">Raeshalare, Deaths Whisper</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/8209\">Aegis Fang<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/8209\">Cravens Edge</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/7551\">Twinkle and Icingdeath<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/7617\">Taulmaril The HeartSeeker</a></span></p>",
+    "description": "<h4><span style=\"color:#674ea7;\"><span style=\"font-size:xx-large;\"><strong>Dark Ranger<br></strong></span></span></h4>\n<blockquote>\n<p>Not all who walk among the withered trees and crumbling bones of the wild are agents of cruelty. Some rangers find purpose in the shadowed cycles of the natural world where decay feeds the soil, disease culls the weak, and winter’s chill grants the land its rest. These rangers are keepers of the quiet balance, understanding that rot and ruin are as vital as growth and bloom.<br>Dark Rangers wield necromantic arts not to dominate the dead, but to guide them, ensuring the fallen return to the earth, or rise briefly as guardians of sacred places. They commune with carrion birds, fungi, and blackened roots, seeing beauty in what others call corruption. Their arrows may drip with pestilence, not out of malice, but as a hunter’s tool no different than flame or steel.<br>To the Dark Ranger, death is not an ending, but a season in the endless turning wheel of nature. Their presence unsettles those who cling only to life and light, yet in the wild places where plague and frost creep, they are both shepherd and sentinel.</p>\n</blockquote>\n<p><strong>For full break down of the class you can find it on my nexus page: <a href=\"https://www.nexusmods.com/baldursgate3/mods/12095\">Here</a></strong></p>",
     "date_added": 1758345100,
-    "date_updated": 1776811468,
+    "date_updated": 1776831375,
     "date_live": 1758345100,
     "visible": 1,
     "status": 1,
@@ -128816,15 +128816,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7659409,
+      "id": 7660218,
       "mod_id": 5245595,
-      "version": "1.0.0.47",
-      "filename": "darkrangersse_bb210517-afb7-5a-3mas.zip",
-      "changelog": "- Updated Cloakwood Warden summons to address some minor issues\n- Added Wither and bloom as a general spell a level 2 necro spell\n- a few small unnoticable adjustments.",
-      "date_added": 1776811295,
+      "version": "1.0.0.49",
+      "filename": "darkrangersse_bb210517-afb7-5a-1imh.zip",
+      "changelog": "- Forgot to set the spell slot consume on wither... Ooops\n- Added custom VFX to Wither and Bloom.",
+      "date_added": 1776831265,
       "date_updated": 0,
-      "date_scanned": 1776811462,
-      "filesize": 88141209,
+      "date_scanned": 1776831425,
+      "filesize": 88141742,
       "platforms": [
         {
           "platform": "windows",
@@ -128845,11 +128845,11 @@
       ]
     },
     "logo": {
-      "filename": "darkranger_title.png",
-      "original": "https://image.modcdn.io/mods/ba25/5245595/darkranger_title.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/ba25/5245595/crop_320x180/darkranger_title.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/ba25/5245595/crop_640x360/darkranger_title.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/ba25/5245595/crop_1280x720/darkranger_title.png"
+      "filename": "darkranger_title.1.png",
+      "original": "https://image.modcdn.io/mods/ba25/5245595/darkranger_title.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ba25/5245595/crop_320x180/darkranger_title.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ba25/5245595/crop_640x360/darkranger_title.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ba25/5245595/crop_1280x720/darkranger_title.1.png"
     },
     "tags": [
       {
@@ -128893,7 +128893,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7659409
+        "modfile_live": 7660218
       }
     ]
   },
