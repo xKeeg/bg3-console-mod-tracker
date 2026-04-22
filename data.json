@@ -59629,7 +59629,7 @@
     "summary": "Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.",
     "description": "<p>Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.</p>\n<p> </p>\n<p> </p>",
     "date_added": 1729165055,
-    "date_updated": 1776785857,
+    "date_updated": 1776836839,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -59643,15 +59643,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 7658085,
+      "id": 7660324,
       "mod_id": 4419649,
-      "version": "4.3.9.1",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-1x4w.zip",
+      "version": "4.3.9.2",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-2rpd.zip",
       "changelog": null,
-      "date_added": 1776785845,
+      "date_added": 1776836813,
       "date_updated": 0,
-      "date_scanned": 1776786012,
-      "filesize": 43129282,
+      "date_scanned": 1776836891,
+      "filesize": 43129311,
       "platforms": [
         {
           "platform": "windows",
@@ -59768,7 +59768,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7658085
+        "modfile_live": 7660324
       }
     ]
   },
@@ -86211,8 +86211,8 @@
     "game_id": 6715,
     "name": "No Abs Astarion",
     "name_id": "no-abs-astarion",
-    "summary": "Smooths out Astarion's chiseled abs to give him a softer look, more fitting for his 8 strength and rat-based diet.",
-    "description": "<h2>Smooths out Astarion's chiseled abs to give him a softer look, more fitting for his 8 strength and rat-based diet.</h2>\n<p style=\"text-align:center;\"><em><strong>Will not work with any other mods that edit Astarion's visuals!</strong></em></p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/5d16/33698962/profile/sparklessmall.png\" alt=\"\" width=\"64\" height=\"64\"></p>\n<p style=\"text-align:center;\">I've finally updated this! </p>\n<p style=\"text-align:center;\"><strong>Changelog:</strong></p>\n<ul>\n<li>Edited the textures just a little to reflect my current skillset better. (AKA: it looks better in my opinion now, but I'm nitpicky, so it shouldn't change too much lol)</li>\n<li>Deleted some files in the mod folder that were causing it to get rejected for console approval (caused by a bug in a previous version of the toolkit. Shouldn't affect anything.)</li>\n</ul>\n<p> </p>\n<h3>I will be re-applying for console + mac approval with this new version!</h3>\n<p style=\"text-align:center;\">The timeline on said approval is out of my hands, but it should not get rejected this time once it gets verified, as the files that caused it to get denied previously have been removed!</p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/5d16/33698962/profile/iconsmaller.png\" alt=\"\" width=\"128\" height=\"128\"></p>",
+    "summary": "Smooths out Astarion's chiseled abs, giving him a softer look more fitting for his 8 strength and rat-based diet.",
+    "description": "<h2>Smooths out Astarion's chiseled abs, giving him a softer look more fitting for his 8 strength and rat-based diet.</h2>\n<p style=\"text-align:center;\"><em><strong>Will not work with any other mods that edit Astarion's visuals!</strong></em></p>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/5d16/33698962/profile/sparklessmall.png\" alt=\"\" width=\"64\" height=\"64\"></p>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\">I've finally updated this! </p>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"><strong>Changelog:</strong></p>\n<ul style=\"text-align:center;\">\n<li>Edited the textures just a little to reflect my current skill set better. (AKA: it looks better in my opinion now, but I'm nitpicky, so it shouldn't change too much lol)</li>\n</ul>\n<p style=\"text-align:center;\"> </p>\n<ul style=\"text-align:center;\">\n<li>Deleted some files in the mod folder that were causing it to get rejected for console approval (caused by a bug in a previous version of the toolkit. Shouldn't affect anything.)</li>\n</ul>\n<p style=\"text-align:center;\"> </p>\n<h3>I will be re-applying for console + mac approval with this new version!</h3>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\">The timeline for said approval is out of my hands, but once it's verified, it shouldn't be rejected this time, as the files that caused it to be denied previously have been removed!</p>\n<p style=\"text-align:center;\"> </p>\n<h2>UPDATE (22/04/2026): CONSOLE AND MAC APPROVAL IS FINALLY HERE !!!!</h2>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/5d16/33698962/profile/iconsmaller.png\" alt=\"\" width=\"128\" height=\"128\"></p>",
     "date_added": 1736957177,
     "date_updated": 1776782182,
     "date_live": 1736957207,
