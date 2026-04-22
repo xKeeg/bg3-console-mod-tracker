@@ -119219,7 +119219,7 @@
     "summary": "Adds a powerful radiant-themed gear set designed for divine warriors. Includes custom armor, weapon, and accessories with unique effects, auras, and synergy built around radiant damage and control.",
     "description": "<h2>CAUTION: Please Read!</h2>\n<p>So, I'm getting reports from users who are having issues with the mod crashing their games, breaking multiplayer, not letting them upgrade/downgrade/uninstall, etc. The mod seems to be working for MOST people, but the amount of reports is not insignificant. Even if the number was small, if there's a chance my mod is ruining saves people have put potentially hundreds of hours into, then this is a real problem. I've been trying to troubleshoot this for a couple months now and even after everything I've tried, the reports are coming in. I'm not sure what else I can do. It seems that something is corrupt within the mod that I just can't seem to pinpoint.</p>\n<ul>\n<li>If you have the mod installed and it's <strong>working </strong>for you, <strong>DO NOT DO ANYTHING</strong>. Upgrading could break things.\n<ul>\n<li>If you are worried things could break your saves down the road and want to get rid of it (which is totally fair), I will post some uninstall instructions for you below.</li>\n</ul>\n</li>\n<li>If you are among the unfortunate victims of this issue, I am <strong>so unbelievably sorry</strong>. I really hope to be able to fix it, but I have not had a reporter yet who has been willing to help me troubleshoot. No one will respond to my messages on mod.io requesting more information and I've exhausted everything I know about to reach a fix. So if you're in this boat, I urge you to reach out to me and/or respond to me if you've submitted a report and I have contacted you. I need helpful information to drill down and figure out where the issue is stemming from.</li>\n</ul>\n<h3>My plan (I think)</h3>\n<p>Due to my inability to find a solution, I believe my course of action is to leave this mod as is for all the people who it is working for and are able to enjoy it, and sadly... stop updating and supporting it. Hopefully my caution in the title will be enough to alert new users to the dangers of installing.</p>\n<p>When I made this mod I was very much a beginner. For example, very early on in development, I naively deleted a root template which broke tons of peoples' saves. There have been a lot of learning experiences and with the new skills that I've continued to accumulate, I have gone through and validated all the stats and made sure things were written more efficiently. Regardless, this problem still eludes me, which is why I believe the issue stems from issues with my old PC forcing me to transfer everything over to a new one to continue working on it. I think something got corrupted in that process because all of my levels in the toolkit show question marks next to every object in the scene. It's the only thing I can think of that could be causing all this trouble.</p>\n<h3>What does this mean for the mod?</h3>\n<p>When I find some time I am going to rebuild it. From scratch. From the ground up. Not reusing anything. Writing it all new. My skills have grown tenfold since the release of the mod and all of my mods are version controlled and backed up on GitHub now, so fear of corruption and losing stuff isn't really a thing anymore. I hope that you all can have confidence in me that the new version will be bug free and will not break your saves, but I understand any hesitance you may have.</p>\n<hr>\n<h2>Uninstall Instructions</h2>\n<p>IF YOU ARE ON WINDOWS:</p>\n<ol>\n<li>Make sure <a href=\"https://github.com/LaughingLeader/BG3ModManager/releases\">BG3MM</a> (Baldur's Gate 3 Mod Manager) and <a href=\"https://github.com/Norbyte/bg3se\">Script Extender</a> are installed</li>\n<li>Head to nexus and download <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n<li>Drag the Mod Uninstaller (and any requirements or dependencies) into your load order</li>\n<li>Choose \"Save Load Order to File\" followed by \"Export Order to Game\"</li>\n<li>Launch BG3 and load up your save</li>\n<li>Open up Mod Configuration Menu (required to use the uninstaller) and click on Mod Uninstaller in the left sidebar</li>\n<li>Choose my mod in the list and uninstall it.</li>\n<li>Save your game and then exit to main menu</li>\n<li>Go into your in-game mod manager</li>\n<li>Disable my mod, then unsubscribe</li>\n</ol>\n<p>IF YOU ARE ON CONSOLE:</p>\n<p>Unfortunately there is not much you can do. Jay Dunna has a video that can potentially work for you - <a href=\"https://www.youtube.com/watch?v=q6AUFZMM_Qg\">https://www.youtube.com/watch?v=q6AUFZMM_Qg</a></p>\n<p>Otherwise, I apologize again... The only other solution is to disable and unsubscribe, then create a new save.</p>\n<hr>\n<h2>About the Mod</h2>\n<p>This mod adds a full legendary radiant-themed gear set designed for divine warriors, spellcasters, and champions of the light. Every item features powerful radiant synergy, custom passives, and unique abilities — all built to make you feel like a living conduit of divine power.</p>\n<hr>\n<h4>The Story:</h4>\n<blockquote>\n<p>They were more than warriors. She, a brilliant cleric known as <em>Lightpiercer</em>, and he, a steadfast paladin named <em>Dawnwarden</em>. Together, they were radiant — a symbol of love defying the darkness of the Blood War.</p>\n<p>But their bond was shattered by a devil’s deception. Their souls were bound into a sword and shield, their power dormant, their vow unfulfilled.</p>\n<p>An ancient order called the <strong>Bondsworn</strong> took up their cause. They recovered the sword and shield and forged relics of radiant power to protect them, hoping one day to reawaken the light.</p>\n<p>Now that order is gone. But their trail remains.</p>\n<p>Many years later, a trio of adventurers tried and failed to follow that trail, leaving clues on how to continue the quest.</p>\n<p>Will you pick up where they left off?</p>\n</blockquote>\n<p><strong>PLEASE NOTE: </strong>This is not a quest mod. You will not receive objectives. You must find the relics yourself, guided only by the Bondsworn’s notes and your own intuition. For those who enjoy uncovering secrets and piecing together stories buried in the world — this is for you. Also, the scavenger hunt starts when you first get off the nautiloid, so using it on a new playthrough is the best experience (if you want to do the story/scavenger hunt)</p>\n<hr>\n<h3><strong>Recommendations:</strong></h3>\n<ul>\n<li><strong>Want to skip the hunt?</strong> Use a mod like <em>Tutorial Chest Summoning</em> to grab all relics immediately.</li>\n<li><strong>Want a challenge?</strong> This set is powerful. For a more balanced experience, use <em>Combat Extender</em> or another difficulty-scaling mod.</li>\n<li><strong>For the best experience</strong>: explore Act 1 naturally and let the lore guide you. The story was written to reward curiosity and attention to detail.</li>\n</ul>\n<hr>\n<h3>Known Issues:</h3>\n<ul>\n<li>There's some armor clipping here and there, ESPECIALLY for all the dudes. I don't know why, but the armors wouldn't fit on the male (especially for small races) bodies super well no matter what I did, so I had to change them completely so they'd actually work (sorry, I don't know blender or I'd fix them).</li>\n<li>The lighting effect from the sword is working functionally, but the visuals aren't working for me</li>\n<li>The Greatsword does not have a cool glowing sword model like the longsword does. Unfortunately I am too inexperienced currently to figure out how to incorporate that into the model (the model already existed in-game for the longsword), but as I learn I will revisit the mod when I figure it out.</li>\n<li>I know the item set is super unbalanced. I'm trying to think of things that I can make more balanced without taking away from the fun of the set. Open to suggestions :)</li>\n</ul>\n<hr>\n<h3>Special Thanks</h3>\n<ul>\n<li>Members of the BG3 modders community on Discord (JuuM, EvilSnake, XiphiasRex and Rydiak especially for this one)</li>\n</ul>\n<h3>As always, feel fr** to make recommendations or hit me up with bugs you're experiencing! ENJOY!</h3>\n<hr>\n<h3>Item Locations</h3>\n<p>========================================</p>\n<p>Many people are struggling to find items so, by request:</p>\n<p>THIS SECTION WILL TELL YOU WHERE EVERYTHING IS.<br>IF YOU DON'T WANT SPOILERS, DO NOT KEEP SCROLLING!</p>\n<p>Thank You! :)</p>\n<p>========================================</p>\n<ol>\n<li><strong>Longsword </strong>- In some rocks close to where you crash land after the nautiloid</li>\n<li><strong>Crown </strong>- Tollhouse with the Paladins of Tyr</li>\n<li><strong>Boots </strong>- Hidden stash outside owlbear cave</li>\n<li><strong>The Bondsworn Ledger</strong> - Pickpocketable off of auntie ethel while she's still in the grove. If you don't do that, you can loot it off of her. I also added it to her workshop after the fight for all that choose not to kill her for... hairy reasons.</li>\n<li><strong>Gloves </strong>- Corpse hidden near the magic mirror that leads to the Necromancy of Thay</li>\n<li><strong>Ring (Callous Coruscation)</strong> - Myconid Colony reward room (behind the vines)</li>\n<li><strong>Cloak </strong>- Myconid Colony reward room (behind the vines)</li>\n<li><strong>Amulet </strong>- On a dark justiciar body near the area that you can convince the deep rothe to destroy the rocks for you</li>\n<li><strong>Armor </strong>- On a corpse in a cell near the entrance of the creche</li>\n<li><strong>Shield </strong>- Outside of the cell where you find the armor</li>\n<li><strong>Ring (bondsworn)</strong> - In a chest above the stained glass room in Rosymorn monastery</li>\n</ol>",
     "date_added": 1751340578,
-    "date_updated": 1776570914,
+    "date_updated": 1776874903,
     "date_live": 1751341239,
     "visible": 1,
     "status": 1,
@@ -119233,19 +119233,31 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/b3bd/46121555/crop_100x100/img_6001.jpeg"
     },
     "modfile": {
-      "id": 7649722,
+      "id": 7661184,
       "mod_id": 5057667,
-      "version": "1.0.0.29",
-      "filename": "unyieldingradiance_e4fd9872-e4-gabu.zip",
-      "changelog": "Test update (for troubleshooting)",
-      "date_added": 1776570870,
+      "version": "1.0.0.30",
+      "filename": "unyieldingradiance_e4fd9872-e4-5j87.zip",
+      "changelog": "This will likely be the last patch I release for all platforms:\n- Ensured all the proper textures are being used\n- Removed a few stray files from older versions that could cause issues\n- Groomed the equipment data to fix any issues I might've missed in previous versions and/or textures that might not be loading properly.",
+      "date_added": 1776874761,
       "date_updated": 0,
-      "date_scanned": 1776570923,
-      "filesize": 28023803,
+      "date_scanned": 1776875332,
+      "filesize": 28022432,
       "platforms": [
         {
           "platform": "windows",
           "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
         }
       ]
     },
@@ -119275,6 +119287,61 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
         "date_added": 0
       },
       {
@@ -119313,7 +119380,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7649722
+        "modfile_live": 7661184
       }
     ]
   },
