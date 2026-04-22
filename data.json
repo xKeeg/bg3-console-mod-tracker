@@ -58229,7 +58229,7 @@
     "summary": "* A full spell theft and transmog system!",
     "description": "<p style=\"text-align:center;\">Be anyone. Learn any spell. Transmog Items.<br>Over 100+ different character options, and you can choose more as you play!<br><br></p>\n<div style=\"text-align:center;\"><span style=\"color:#ffff00;font-size:large;\">Have you ever seen a really cool NPC and wanted to BE that NPC? <br>Or really, really wanted to go deep in the whole RP scene? <br>Have you ever wanted to play a TRUE Doppelganger, or a thief that can wear faces?<br>Have you ever seen a spell cast by another party member, or NPC, and wished you could cast it? <br><br>Go --&gt; <a href=\"https://docs.google.com/document/d/1dodmId5y0is2RNnrTlpgkoEnoYanei17KAg07kDmya4/\">HERE</a> &lt;-- for instructions!</span></div>\n<p><br>** With the ability to store forms, as well as ~100 pre-saved forms to choose from!<br>** With a Makeover! ability that allows you to change the visual of NPCs! See my article link above for details **<br>** For those playing non-human characters, I made <a href=\"https://mod.io/g/baldursgate3/m/alignment-and-species-reactions#description\">this mod</a> specifically for you! **<br><br>* This mod allows you to steal your targets entire identity, and also give others the ability to do so<br>- This includes: tags, name, appearance, buffs, and some spells<br>- This also includes spells cast on you (may not include AoE spells)<br>- Works on corpses, so you can murder someone, hide their body, and take their place (should not affect the story, RP purposes only)<br><br>* <span style=\"color:#ffff00;\">TO USE</span>: Put on the ring. Cast the spell. To reclaim your identity, click Reclaim Identity.<br>- To add or remove Identity Theft from a companion/summon that is NOT using the ring, cast Identification Theft Training on it. This spell performs both functions.<br>* You will be able to steal your targets next cast spell for up to TEN turns (60 seconds). The stolen spell is permanent.<br>* Stolen spells retain their requirements, which means any spell requiring special conditions will be unusable.<br>* Toggle on the Mental Fatigue passive to add damage-on-learning.<br>* Use Steal Identity on yourself to reapply your most recent stolen form if you were forcibly removed from it. This ONLY works if the form is available on that map. Does not work for pre-saved forms.<br><br>- The <span style=\"color:#ffff00;\">Orb</span> is meant for those not wanting to use the ring, but still wanting the Spell Thief abilities.<br>- Toggle on the Observe and Learn passive (Orb in inventory or Ring equipped) to be able to automatically learn one spell per fight.<br><br>-- Wildshaping into a creature marks it as a Wildshape for recall purposes. If you save that form (cannot save while Wildshaped), then recall it, it will Wildshape you again.<br>-- To mark a Wildshape form as not-Wildshape, use Wild Shape: Remove on the target. Recalling that form will transform you normally.<br>-- To re-mark a form as Wildshape, simply cast the Wild Shape ability on it again.<strong><br><br></strong>Note: You cannot transform into a child if the <a href=\"https://mod.io/g/baldursgate3/m/child-protective-services#description\">CPS (Activator)</a> passive is toggled off. This is automatically turned on, so shouldn't even be noticed by most of you.<strong><br><br>If you prefer <a href=\"https://mod.io/g/baldursgate3/m/true-doppelganger2#description\">race</a> and <a href=\"https://mod.io/g/baldursgate3/m/spell-thief#description\">subclass</a> mods, try these out instead.<br><br>** Additional functions **<br><br></strong><span style=\"color:#ffff00;\">Item transmogs:<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">-- There are two options for use;<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">---- &gt; Equip the item you wish to transmog and cast the appropriate spell on the item you wish it to look like. This will change your equipped item’s look.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">OR<br>---- &gt; Equip the item you wish to transmog and cast the appropriate spell on the character that is wearing the item you wish to copy.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">– You MUST use the Equip Item spell on your xmogged item if you drop it. Xmogging an item makes it impossible to click-equip or right-click equip.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">-- To remove a transmog, cast the Remove Xmog spell on the item. This only works on items with the Transmogrified status.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ff0000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">– THIS IS IMPORTANT!! SAVE and RELOAD your game OR toggle your vanity slot on/off to apply the new visuals</span><br>** Notes: <br>- xmogging armor when the stolen armor would not normally fit a character may cause visual issues, such as Githyanki Plate Mail. If this happens, simply remove the xmog.<br>- the text for xmogged items will turn grey. These items retain their statuses, abilities, and damage. Removing an xmog will return the item to normal.<br>- xmogs do not show in cutscenes for some reason, but do show in Photo Mode.<br><br><span style=\"color:#ffff00;\">Makeover!</span> ability that allows you to turn any NPC into a form you have Recalled onto yourself.<br>-- To cast YOUR form on another NPC, you must have the Makeover Mirror in your inventory. It is available on some vendors (Arron, Harper QMaster and Sticky)<br>-- To cast another form on a NPC, you must first Revert a saved form onto yourself or use one of the Other Forms on yourself, then cast Makeover! on the NPC (without the mirror in your inventory!).<br>-- To return a NPC to normal, recast Makeover! on them.<br><br>- <span style=\"color:#ffff00;\">Summon: Super-Special Spell and Ability Removal Skull</span> and cast the spell you wish to remove.<br>-- Only works for stolen spells, does not work for spells obtained via progression!<br>-- Will kill itself once you cast a stolen spell.<br><br>- <span style=\"color:#ffff00;\">Wheel of Faces</span><br>-- 2 versions: Humanoid and Non-Humanoid<br>-- Summon the Wheel of Faces and spin! It will turn you into a random form based on the wheel you chose from those available in the map you are on or maps you have previously visited.<br>-- Currently available for PC only. Due to the mod only recently being released for consoles I want to leave Larian alone for a bit.<br><br>MOD LIMITATIONS:<br>- <strong>Due to guidelines involving children and mods, the ability to transform into a child character has been removed.</strong><br>- You cannot learn spells that have containers, such as Command and Bestow Curse.<br>- You cannot use a spell or ability you have learned if that spell or ability requires special statuses or passives, such as some Honor Mode spells.<br>- The item xmog will not show in cutscenes. I believe cutscenes load the base template and ignore any transforms.</p>",
     "date_added": 1729008224,
-    "date_updated": 1768477632,
+    "date_updated": 1776866853,
     "date_live": 1729008592,
     "visible": 1,
     "status": 1,
@@ -58243,30 +58243,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
     },
     "modfile": {
-      "id": 7046904,
+      "id": 7660935,
       "mod_id": 4415333,
-      "version": "1.0.0.409",
-      "filename": "ringofidentitytheft_99746726-6-lbsq.zip",
-      "changelog": "* Makeover! auto-applying is now limited to global templates.",
-      "date_added": 1763907719,
+      "version": "1.0.0.434",
+      "filename": "ringofidentitytheft_99746726-6-cwos.zip",
+      "changelog": "* Possible multiplayer code update",
+      "date_added": 1776866776,
       "date_updated": 0,
-      "date_scanned": 1763907754,
-      "filesize": 18033387,
+      "date_scanned": 1776866811,
+      "filesize": 18036810,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -58477,10 +58465,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7046904
-      },
-      {
         "platform": "mac",
         "modfile_live": 7046904
       },
@@ -58491,6 +58475,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7046904
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7660935
       }
     ]
   },
