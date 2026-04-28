@@ -34679,7 +34679,7 @@
     "summary": "1 chest and 1 backpack that can be purchased at vendors, which includes more than 15 of sets of weapons and armour split into three version of each to provide differing levels of power. - Rare (Dormant), Very Rare (Awakened), Legendary (Exalted).",
     "description": "<p>The Treasure Trove</p>\n<p> </p>\n<p>1 chest and 1 backpack that can be purchased at vendors, which includes more than 15 of sets of weapons and armour split into three version of each to provide differing levels of power. - Rare (Dormant), Very Rare (Awakened), Legendary (Exalted). The main difference between is:</p>\n<p>Dormant - Have 1 or 2 spells of between Levels 1-3. Have 1 or 2 passives per item. AC has been lowered on some items where they were previously increased. <br>Awakened - Carry over spells &amp; passives from Dormant version with 1 or 2 additional spells of level 3-5 and 1 or 2 additional passives.<br>Exalted - Carry over everything previously added with 1 or 2 high powered spells and 1 or 2 additional passives.<br><br></p>\n<p>NEW USERS!</p>\n<p>Hi console players! thank you for downloading this mod, this mod creates a lot of new items and there are a very small handful of known issues which are:<br><br>- Animation bugs: ring of necrosis - death finger, elemental unity and steel fist armour - ki restoration, infernal servant's gloves - hell's embrace<br><br>This mod also removes spell slot requirements for a few spells. This is deliberate and it is entirely down to you if you want to spam magic missile 40 times in combat - some people want to let loose and enjoy that, other's don't and that's okay.</p>\n<p> </p>\n<p><em>The sets include:</em><br><br>Cleric:<br>Stardust Armour Set, Shard of Moonlight (Spear), Blade of Moonlight (Longsword), Stardust Shield, </p>\n<p>Paladin:<br>Angelic Armour Set, Blade of Dawn (Longsword), Fist of Dawn (Mace), Radiant Justice (Greatsword)</p>\n<p>Monk:<br>Elemental Unity Armour Set, Avatar of the Elements (Quarterstaff)</p>\n<p>Druid:<br>Wildmother Armour Set, Wildmother's Staff (Staff), Wildmother's Blade (Scimitar)</p>\n<p>Warlock:<br>Infernal Servant Armour Set, Infernal Servant's Rapier (Rapier)</p>\n<p>Bard:<br>Storyteller Armour Set, Sharp Retort (Rapier), Crescendo (Violin), Lohse's Lute (Lute)</p>\n<p>Sorcerer:<br>Stormweaver Armour Set, Raging Storm (Staff)</p>\n<p>Barbarian:<br>Wild Temper Armour Set, Force Hammer (Warhammer), Magician's Judge (Greatsword), Lightning Bolt (Pike)</p>\n<p>Ranger:<br>Lone Strider Armour Set, Longshot (Longbow), Cloudshift (Crossbow)</p>\n<p>Sharran Cleric:<br>Shade Daughter Armour Set</p>\n<p>Rogue:<br>Shadow Mercy Armour Set, Shadow Piercer (dagger), Ice Shard (dagger), Slayers Blade (dagger), Slayers Crossbow (Light &amp; Hand)</p>\n<p>Fighter:<br>Blademaster Armour set, Wild Surge (Greataxe)</p>\n<p>Wizard (Necromancy)<br>Necrosis robe, armour (alternative to robe but uses same stats), staff and ring</p>\n<p>Githyanki:<br>Dragon Rider Armour Set, Dragon Blade (Greatsword)</p>\n<p>Jaheira:<br>High Harper Set, Seedling (Scimitar), Sapling (Scimitar), Scorch (Scimitar)</p>\n<p>Gale:<br>Waterdeep armour set<br><br>Cleric (Life)<br>Lathander's Protector Armour Set</p>\n<p>Paladin (Oathbreaker)<br>Oath Reaper Armour Set<br><br>Monk (Any subclass):<br>Steel Fist Armour Set</p>\n<p>Fighter/Monk:<br>Pugilist Armour Set</p>\n<p>Wizard/Sorcerer:<br>Igneous Robe, Icesnap Robe, Toxic Robe, Old Man's Walking Stick (staff)</p>\n<p>Rings &amp; Amulets:<br>Cantrip Slinger, Ring of Blaze, Ring of Frost, Ring of Lightning, Ring of Conjure Allies (Level 4, 8 &amp; 12), Kareska's Amulet </p>\n<p> </p>\n<p>Additionally, the chest includes alternative camp clothes, mostly taken from the Epilogue.</p>\n<p>The Treasure Trove Chest can be found in the Tutorial Chest at the start of the game and (hopefully) at the following vendors:<br><br>Arron - Emerald Grove<br>The High Harper Quartermaster - Last Light Inn<br>Danthelon - Danthelon's Dancing Axe</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>This mod works really well with my Summonable NPCs mod, just saying.</p>\n<p> </p>\n<p> </p>\n<p><em>Note:</em> You will find the icon for the chest armour for Wild Temper, Shade Daughter Robes and Lone Strider is different to the actual armour style in the game, I haven't figured out how to update the icon yet. The Shade Daughter Armour chest piece also looks different between female/male body types (on males it will be the normal Justiciar armour), i will try and update this at a later date.</p>\n<p> </p>\n<p><em>Getting the chest to appear in shops:</em></p>\n<p>Have a long rest first! If it's not working, there is a mod somewhere that allows you to summon the Tutorial Chest, I suggest downloading that mod and you can access the chest that way.</p>\n<p>Any issues please do let me know. This mod includes so many different items doing many things so there might be some hiccups here and there.</p>\n<p> </p>\n<p>You can reach out to me here: <a href=\"https://x.com/Horizon_VP\">https://x.com/Horizon_VP</a> :)</p>",
     "date_added": 1726649861,
-    "date_updated": 1770383062,
+    "date_updated": 1777369274,
     "date_live": 1726651246,
     "visible": 1,
     "status": 1,
@@ -34709,15 +34709,15 @@
         },
         {
           "platform": "mac",
-          "status": 2
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 2
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 2
+          "status": 1
         }
       ]
     },
@@ -34837,19 +34837,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 6276982
+      },
+      {
         "platform": "mac",
-        "modfile_live": 5741050
+        "modfile_live": 6276982
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 5741050
+        "modfile_live": 6276982
       },
       {
         "platform": "ps5",
-        "modfile_live": 5741050
-      },
-      {
-        "platform": "windows",
         "modfile_live": 6276982
       }
     ]
@@ -67555,6 +67555,184 @@
     ]
   },
   {
+    "id": 4451267,
+    "game_id": 6715,
+    "name": "CL_Rage Queen Barbarian Gear",
+    "name_id": "rage-queen-barbarian-gear1",
+    "summary": "First of all, being a Rage Queen is gender neutral. It's a state of mind, not a gender. Secondly, this pack includes - 11 armors - 6 gloves - 6 boots - 3 hats - 4 cloaks - 2 axes Fully dyeable, fits all bodies, and stats scale with level!",
+    "description": "<h2>An ode...</h2>\n<p>To anger. To rage. To kicking *** when it's called for. Being a rage queen transcends gender: it's a state of mind, because sometimes things need killin' and killin' hard.</p>\n<p style=\"text-align:center;\"><strong>Stats scale with level! See item desc for info. </strong></p>\n<p style=\"text-align:center;\"><strong>If a stat doesn't change, un-equip and re-equip.</strong></p>\n<p>Mod features:</p>\n<ul>\n<li>11 Armors!</li>\n<li>6 Gloves!</li>\n<li>6 Boots!</li>\n<li>3 Hats!</li>\n<li>4 Cloaks!</li>\n<li>2 Axes!</li>\n</ul>\n<p>All for the ultimate rage experience. Fully dyeable, and made to fit all body types--though unfortunately due to toolkit limitations, there is some clipping with some bodies and also some accessories weren't available for everyone.</p>\n<p>Available in the tutorial chest, or you can buy it from Dammon in act 1, the bugbear at Moonrise in act 2, or Popper in act 3.</p>\n<p>Check out my other gear mods if you like this one!</p>\n<p><a href=\"https://ko-fi.com/P5P217AKKL\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://storage.ko-fi.com/cdn/kofi4.png?v=6\" alt=\"Buy Me a Coffee at ko-fi.com\" height=\"30\"></a></p>",
+    "date_added": 1730185212,
+    "date_updated": 1777369613,
+    "date_live": 1730248026,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/rage-queen-barbarian-gear1",
+    "submitted_by": {
+      "id": 33602659,
+      "name_id": "mcw717",
+      "username": "copperleaves",
+      "profile_url": "https://mod.io/u/mcw717",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/7007/33602659/crop_100x100/img_1774.jpeg"
+    },
+    "modfile": {
+      "id": 7275244,
+      "mod_id": 4451267,
+      "version": "2.3.0.59",
+      "filename": "barbarmor_44130117-79be-3617-9-0xl2.zip",
+      "changelog": "Trying to correct clipping",
+      "date_added": 1768525921,
+      "date_updated": 0,
+      "date_scanned": 1768526053,
+      "filesize": 79461950,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/3439/4451267/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/3439/4451267/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/3439/4451267/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/3439/4451267/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7275244
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7275244
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7275244
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7275244
+      }
+    ]
+  },
+  {
     "id": 4451838,
     "game_id": 6715,
     "name": "Raptor Tamer Subclass (Ranger)",
@@ -88844,6 +89022,184 @@
     ]
   },
   {
+    "id": 4703187,
+    "game_id": 6715,
+    "name": "CL_Instruments of Darkness - Cleric Gear",
+    "name_id": "cl-instruments-of-darkness-cleric-gear",
+    "summary": "Unleash your dark side. Includes over 300 pieces for worshipers of 4 dark gods: Bhaal, Lolth, Tiamat, and Vlaakith; with 5 Domains: Death, Life, Light, Tempest, and War. Also includes camp clothes! Fully dye-able, fits all bodies, stats scale w lvl.",
+    "description": "<div style=\"text-align:center;\"><span style=\"color:#efefef;\"><strong>The instruments of darkness tell us truths;<br>win us with honest trifles, to betray's<br>in deepest consequences.</strong></span><strong><br><span style=\"font-size:large;\"><em>Macbeth</em> 1.3.132</span></strong></div>\n<p><br><br></p>\n<div style=\"text-align:center;\">It's time to get Dark! Copperleaves Couture Clothiers presents our (my; it's just me) biggest, most ambitious mod yet! Over 300 pieces for Bhaal, Lolth, Tiamat, and Vlaakith--plus camp clothes!</div>\n<p><br><br></p>\n<div style=\"text-align:center;\"><span style=\"color:#00ffff;\"><span style=\"font-size:large;\"><strong>All pieces scale with level as explained in each piece's description.</strong></span></span><br><br>All skills will show from level 1, but they won’t work until the appropriate level. Make sure to un-equip and re-equip to activate the bonuses!</div>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Things to keep in mind...</strong></span></blockquote>\n<ul>\n<li>Each Domain's armor within a pantheon looks the same.</li>\n<li>All chest piece buffs are the same across the pantheons, EXCEPT War.</li>\n<li>Death Domain: The aura thingie can be toggled on and off, so you can just have it on for battle or have it on all the time. Up to you! It's default off.</li>\n<li>Styles are not limited to worshipers of said deity - <strong>EXCEPT SHIELDS</strong></li>\n<li>Having said that, Vlaakith's amour is Gith-exclusive; anyone else wearing it will be naked.</li>\n<li>In that same vein, the \"Queen Vlaakith\" set is for body type 1 Gith only. Everyone else will be naked.</li>\n<li>Invisible cloaks: Bhaal, Lolth, and Tiamat each have an invisible cloak. You can either wear a cloak and have the shoulders floating, or not wear a cloak and have your weapon floating; the power is YOURS!</li>\n<li>I've linked a Bhaal deity mod below, so check that out.</li>\n<li>Un-equip and re-equip at the appropriate levels to ensure all bonuses are working correctly.</li>\n</ul>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Bhaalist set includes...</strong></span></blockquote>\n<ul>\n<li>10 armours each for 5 domains - Death, Life, Light, Tempest, and War!</li>\n<li>7 hats!</li>\n<li>8 gloves!</li>\n<li>5 boots! (including bare feet)</li>\n<li>4 cloaks! (including an invisible one)</li>\n<li>2 shields!</li>\n</ul>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Lolth-sworn set includes...</strong></span></blockquote>\n<ul>\n<li>9 armours each for 5 domains!</li>\n<li>5 hats!</li>\n<li>8 gloves!</li>\n<li>5 boots!</li>\n<li>4 cloaks! (including an invisible one)</li>\n<li>a shield!</li>\n</ul>\n<p><br><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Tiamatan set includes...</strong></span></blockquote>\n<ul>\n<li>10 armours each for 5 domains!</li>\n<li>5 hats!</li>\n<li>6 gloves!</li>\n<li>5 boots!</li>\n<li>6 cloaks! (including an invisible one)</li>\n<li>a shield!</li>\n</ul>\n<p><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Vlaakith (Gith only) set includes...</strong></span></blockquote>\n<ul>\n<li>8 armours each for 5 domains!</li>\n<li>6 hats!</li>\n<li>7 gloves!</li>\n<li>3 boots!</li>\n<li>6 cloaks!</li>\n<li>a shield!</li>\n</ul>\n<p><br><br>Plenty of options for all your darkest deeds. Fully dye-able, and made to fit all body types.<br><br><br></p>\n<blockquote><span style=\"font-size:large;\"><strong>Mods to try with this one...</strong></span></blockquote>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/more-roleplay-options-deities\">Class &amp; Race Deity Options by TheMawTM</a> - you MUST have a Bhaal deity mod to use the Bhaal shield(s)!</li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/deathcleric1\">Death Domain Cleric by ExecutiveElf</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/cl-shadowheart-gear\">The Inconstant Moon - Cleric Gear</a> - my Selune/Shar Cleric Gear mod so Shadowheart can have cool stuff too</li>\n</ul>\n<p><br><br>~~~~~~~~~~~~~~~~~~~~~~~~~~<br><br><br>Available in the tutorial chest, or you can buy it from Dammon in act 1, the bugbear at Moonrise in act 2, or Popper and Helsik (The Devil's Fee) in act 3. If you’ve already visited one (or more) of these merchants before you install the mod, it won’t show up in their inventory until after a long rest or two. Or three.<br><br><br>You shouldn't have any issue loading this mod mid-game, but never try to UNload clothing/equipment mods if they're already in your and/or a merchant's inventory.<br><br><br><a href=\"https://ko-fi.com/copperleaves\"><img src=\"https://i.imgur.com/XRa3ZXF.png\" alt=\"XRa3ZXF.png\"></a><br><br><br>Check out my other gear mods for Barbarian, Bard, Fighter, Mage, Paladin, and Rogue!<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13571\">Neil's Bangin' Bard Gear VOLUME 2</a> (recommended)<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13186\">Neil's Bangin' Bard Gear VOLUME 1</a> (outdated)<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13186\">Rage Queen Barbarian Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14165\">Grim Visag'd War - Fighter Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14081\">Magic and Might - Mage Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13219\">Big...Darn Heroes Paladin Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13435\">Dastardly Accoutrement - Rogue Gear</a></p>",
+    "date_added": 1738535254,
+    "date_updated": 1777369660,
+    "date_live": 1738542246,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/cl-instruments-of-darkness-cleric-gear",
+    "submitted_by": {
+      "id": 33602659,
+      "name_id": "mcw717",
+      "username": "copperleaves",
+      "profile_url": "https://mod.io/u/mcw717",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/7007/33602659/crop_100x100/img_1774.jpeg"
+    },
+    "modfile": {
+      "id": 7184472,
+      "mod_id": 4703187,
+      "version": "1.0.0.40",
+      "filename": "cl_evilclericgear_53c9f341-7ec-bm1l.zip",
+      "changelog": "Updated for Patch 8!",
+      "date_added": 1766647450,
+      "date_updated": 0,
+      "date_scanned": 1766647735,
+      "filesize": 189244684,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "screenshot2025-02-02172256.1.png",
+      "original": "https://image.modcdn.io/mods/fbf3/4703187/screenshot2025-02-02172256.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/fbf3/4703187/crop_320x180/screenshot2025-02-02172256.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/fbf3/4703187/crop_640x360/screenshot2025-02-02172256.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/fbf3/4703187/crop_1280x720/screenshot2025-02-02172256.1.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7184472
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7184472
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7184472
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7184472
+      }
+    ]
+  },
+  {
     "id": 4705395,
     "game_id": 6715,
     "name": "Dress That Devil - turn into Raphael or Haarlep",
@@ -89071,6 +89427,104 @@
       {
         "platform": "ps5",
         "modfile_live": 6330694
+      }
+    ]
+  },
+  {
+    "id": 4718314,
+    "game_id": 6715,
+    "name": "Consort's Wardrobe",
+    "name_id": "consorts-wardrobe",
+    "summary": "Adds 3 outfits (Daisy Dress, Florrick's outfit, Viconia's robe) and 2 shoes (Ascended Astarion's Epilogue shoes, Tav's Epilogue shoes) as armors and camp clothes. Items are available in the camp chest.",
+    "description": "<p>3 dresses (Daisy Dress, Florrick's outfit, and Viconia's Robe) and 2 shoes (Ascended Astarion's Epilogue shoes, Tav/Durge's Epilogue shoes) as armors and camp clothes. </p>\n<p> </p>\n<p><strong>Items can be found in the camp chest. </strong></p>\n<p> </p>\n<p>Florrick's outfit is only available for Human/Elf/Drow/Half-Elf/Tiefling BT1. Daisy Dress and Viconia's Robe are available for all BTs and races, but visuals will be different.  </p>",
+    "date_added": 1739097644,
+    "date_updated": 1777370019,
+    "date_live": 1739098058,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/consorts-wardrobe",
+    "submitted_by": {
+      "id": 38248078,
+      "name_id": "modiouser3303902",
+      "username": "Iracebeth12",
+      "profile_url": "https://mod.io/u/modiouser3303902",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6074731,
+      "mod_id": 4718314,
+      "version": "1.0.0.6",
+      "filename": "consortswardrobe_f88f014f-9737-fz1o.zip",
+      "changelog": null,
+      "date_added": 1739097651,
+      "date_updated": 0,
+      "date_scanned": 1739097742,
+      "filesize": 1889336,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "consortdress1.png",
+      "original": "https://image.modcdn.io/mods/8ea7/4718314/consortdress1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8ea7/4718314/crop_320x180/consortdress1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8ea7/4718314/crop_640x360/consortdress1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8ea7/4718314/crop_1280x720/consortdress1.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6074731
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6074731
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6074731
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6074731
       }
     ]
   },
@@ -97555,6 +98009,114 @@
     ]
   },
   {
+    "id": 4841903,
+    "game_id": 6715,
+    "name": "Granny Armour Pack",
+    "name_id": "granny-armour-pack",
+    "summary": "Fulls sets of armor, accessories and camp gear immersively waiting for you to claim it. All located in one location. Guidebook delivered to your camp chest.",
+    "description": "<p>Granny always said, <em>\"A well-dressed adventurer is a well-prepared adventurer.\"<br></em>Knowing her grandchildren would face dangers untold on their journey to Baldur’s Gate,<br>she set to work in secret, weaving enchantments into fine threads and sturdy leathers.</p>\n<p>With needle and magic, she crafted an armor set as stylish as it was protective,<br>ensuring her dear ones would turn heads—whether in battle or at a noble’s gala.</p>\n<p>But fashion this fine couldn’t simply be left in plain sight! With a knowing wink,<br>Granny entrusted her creations to the hidden depths of a long-forgotten Selunite<br>Outpost in the Underdark. There, where moonlight once graced stone now shrouded in shadow,<br>her grandchildren would have to prove their wit and will to claim her gift.</p>\n<p>After all, looking good should never be too easy.</p>\n<p>Where to Find your Gear</p>\n<p><del><strong>Underdark</strong> - Selûnite Outpost: In a locked and trapped opulent chest.<br></del>Those pesky harpies claimed Granny's Amour Pack and are hoarding over<br>it. Head over to the <strong>Harpy Nest</strong> and claim it for yourself. </p>\n<p><strong>Branded Gifts</strong><br>If you are branded by The Brand of the Absolute, you get the following bonuses:</p>\n<p><strong>Headwear:</strong> Unlock \"Detect Thoughts\"<br><strong>Body Armour:</strong> +1 Damage<br><strong>Gloves: </strong>+1 Attack<br><strong>Boots:</strong> Misty Step</p>\n<p><strong>Forbidden Gifts</strong><br>If you have \"Forbidden Knowledge\" from the Necromancy of Thay,<br>you get the following bonuses:</p>\n<p><strong>Headwear: </strong>Unlock \"Disguise Self\"<br><strong>Body Armour: </strong>Unlock \"Faerie Fire\"<br><strong>Gloves:</strong> Unlock \"Bone Chill\"<br><strong>Boots:</strong> Play Music</p>\n<p>You can combine Granny Armour with your favorite vanilla armour gear. <br>See Granny Armour Guide book for combinations, </p>\n<p>Fused Armour Pieces</p>\n<p>Now you can fuse your Granny Armour Headgear with your gear from Granny Crowns. </p>\n<p>To fuse Granny Armour Pack headgear with Granny Crowns, you will need<br>the Helm of the Forge (requires Granny Crowns). </p>\n<p><img src=\"https://image.modcdn.io/members/fbc9/42535331/profilegcrowns/helmoftheforge_wearing.png\" alt=\"\" width=\"500\" height=\"500\"></p>\n<p> </p>\n<p>You can find the helm here: </p>\n<p><img src=\"https://image.modcdn.io/members/fbc9/42535331/profilegcrowns/helm_location.png\" alt=\"\" width=\"500\" height=\"500\"></p>\n<p>Wear the helm to summon the mysterous furnance and fuse the crowns <br>together (crafting guide found in the guide book). </p>\n<p><img src=\"https://image.modcdn.io/members/fbc9/42535331/profilegcrowns/helmspell.png\" alt=\"\" width=\"500\" height=\"500\"></p>\n<p> </p>\n<p>Enjoy!</p>\n<p>Granny, xoxoxoxoxo</p>\n<p> </p>",
+    "date_added": 1743680706,
+    "date_updated": 1777369011,
+    "date_live": 1743684866,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/granny-armour-pack",
+    "submitted_by": {
+      "id": 42535331,
+      "name_id": "sem67",
+      "username": "_SEM",
+      "profile_url": "https://mod.io/u/sem67",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fbc9/42535331/crop_100x100/pixlr-image-generator-685c4d5eb.png"
+    },
+    "modfile": {
+      "id": 7398853,
+      "mod_id": 4841903,
+      "version": "1.0.0.99",
+      "filename": "grannyarmourpack_52eeddcc-1199-9vew.zip",
+      "changelog": "Shadowhearts fused crowns can now be crafted to combine with Nightsong's Helmet and Shar's Crown (gear from Granny Armour Pack).",
+      "date_added": 1771140052,
+      "date_updated": 0,
+      "date_scanned": 1771140584,
+      "filesize": 4704858,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "grannyarmorthumbupdate.1.png",
+      "original": "https://image.modcdn.io/mods/c913/4841903/grannyarmorthumbupdate.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/c913/4841903/crop_320x180/grannyarmorthumbupdate.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/c913/4841903/crop_640x360/grannyarmorthumbupdate.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/c913/4841903/crop_1280x720/grannyarmorthumbupdate.1.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7398853
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7398853
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7398853
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7398853
+      }
+    ]
+  },
+  {
     "id": 4843154,
     "game_id": 6715,
     "name": "Dawnstar's Grimoire",
@@ -101435,6 +101997,114 @@
       {
         "platform": "ps5",
         "modfile_live": 6278238
+      }
+    ]
+  },
+  {
+    "id": 4873691,
+    "game_id": 6715,
+    "name": "Fabled Armaments",
+    "name_id": "fabled-armaments-mod",
+    "summary": "A collection of various themed armour sets and weapons, some utilizing unique item models.",
+    "description": "<p>Latest update: Applied a fix to an outfit to make it console friendly, also restored a missing item</p>\n<p>This update adds several new items, including additional armour sets and a bag containing elemental weapons.</p>\n<p>This mod was created primarily with the hope of eventually being available on console, as I’m a console player myself. After a long period of waiting for console approval and not receiving any updates, I’ve found it difficult to stay motivated to continue expanding the project further at this time. </p>\n<p>I had originally planned to add features such as transmog compatibility and additional world-placed items, but I’ve decided to pause development beyond this update until there’s more clarity on the mod’s future.</p>\n<p>I still hope the mod reaches console one day, and if that happens I’d be happy to revisit these ideas as a companion mod. For now, this update represents a stable stopping point.</p>\n<p>An equipment mod I created, contains themed armour sets and weapons, some using appearances not normally obtainable by the player.</p>\n<p>Note: Some chest pieces will clip with underwear, removing the underwear resolves any clipping.</p>\n<p>Some of the armour sets will vary by body type, some of the images showcase the difference between the sets.</p>\n<p>All items can be found in a bag in the Tutorial chest as well as the Traveller's chest in camp.</p>\n<p> </p>",
+    "date_added": 1744793872,
+    "date_updated": 1777370173,
+    "date_live": 1744794371,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/fabled-armaments-mod",
+    "submitted_by": {
+      "id": 45387459,
+      "name_id": "verlir",
+      "username": "Verlir",
+      "profile_url": "https://mod.io/u/verlir",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/65fb/45387459/crop_100x100/20250514024757.png"
+    },
+    "modfile": {
+      "id": 7383588,
+      "mod_id": 4873691,
+      "version": "1.0.0.56",
+      "filename": "assassin_5759ef0f-de1b-e450-0e-2hma.zip",
+      "changelog": "Restored a missing item\nApplied changes to dancer outfit that was bypassing nudity filter",
+      "date_added": 1770769155,
+      "date_updated": 0,
+      "date_scanned": 1770769193,
+      "filesize": 20051494,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "20250903003334.1.png",
+      "original": "https://image.modcdn.io/mods/ae67/4873691/20250903003334.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ae67/4873691/crop_320x180/20250903003334.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ae67/4873691/crop_640x360/20250903003334.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ae67/4873691/crop_1280x720/20250903003334.1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7383588
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7383588
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7383588
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7383588
       }
     ]
   },
@@ -107696,7 +108366,7 @@
     "summary": "A combination of Fade's Equipment Distribution and all the Class Equipment Packs.",
     "description": "<p>Experience all of Fade's Equipment mods in one convenient package! This combined mod includes Fade's Equipment Distribution and all class-specific equipment mods (excluding Gifts of the Absolute). Enjoy translated versions in Chinese, Korean, Brazilian Portuguese, Russian, French, Japanese, and Spanish. Console players will find improved compatibility with AMP/REL as this mod is designed to automatically load lower in the mod order (due to its alphabetical naming).</p>\n<p><strong>Translation Credits:</strong> <br>Chinese Translations by <a href=\"https://next.nexusmods.com/profile/yangyangmeiiii?gameId=3474\">yangyangmei</a><br>Russian Translations by <a href=\"https://next.nexusmods.com/profile/dxo1a\">dxo1a</a> and <a href=\"https://next.nexusmods.com/profile/venomuspool\">venomuspool</a> <br>Korean Translations by <a href=\"https://www.nexusmods.com/profile/Eolaloe?gameId=3474\">Eolaloe</a><br>Brazilian Portuguese by <a href=\"https://next.nexusmods.com/profile/kaironn2\">kaironn2</a><br>Spanish Translations by <a href=\"https://next.nexusmods.com/profile/Sokrof2\">Sokrof2</a><br>French Translations by <a href=\"https://www.nexusmods.com/profile/Tojii1\">Tojii1</a> <br>Japanese Translations by <a href=\"https://www.nexusmods.com/profile/hawchangJA\">hawchangJA</a></p>\n<p> </p>\n<p><strong>List of all item locations with images - <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vThKpJZeUVZIp_mBGlPRUV9blJFcpNH7hJnDh82T46-R7YAM892mmtvKRh9HaqLzClPP3FtTezsLV9u/pubhtml\">Link</a></strong></p>\n<p> </p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br>If you download this mod, do <strong>NOT</strong> have the other mods that are included in the mod downloaded/enabled. Do <strong>NOT</strong> have Fade's Equipment Distribution installed, as it is already included in this mod. if you do, this may cause duplicate items.<br><br></p>\n<p><strong>Compatibility:</strong></p>\n<ul>\n<li><strong>AMP/REL Users:</strong> Compatibility for AMP/REL should be seamless for console players, if you are on PC I would still highly recommend you verify that this mod is placed BELOW AMP/REL. (I will not be balancing the drop rates between AMP/REL and FED combined.)(AMP/REL does <strong>NOT</strong> add any items from my equipment mods to it's randomized loot pool.)</li>\n<li><strong>Other Mod Conflicts:</strong> This mod may conflict with mods that alter the core files for characters or items, a list of incompatible mods are on the Nexus mod page.<br><br>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a><br>Buy me a coffee 💜</p>\n<div style=\"text-align:center;\"><a href=\"https://ko-fi.com/graphicfade/donate\"><img src=\"https://i.imgur.com/mnuuR3n.png\" alt=\"mnuuR3n.png\"></a><br><br><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"btn_donate_LG.gif\"></a></div>\n<p> </p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a></p>\n<p> </p>\nSpells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a><br><br>Visuals ---<br><a href=\"https://mod.io/g/baldursgate3/m/shadow-cursed-nimbus#description\">Shadow-Cursed Nimbus (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/nimbus-recolored#description\">Nimbus Recolored (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/scratch-recolored-husky#description\">Scratch Recolored: Husky</a><br><br>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest#description\">Fade's Camp Chest</a><br><a href=\"https://mod.io/g/baldursgate3/m/simply-more-gold-2x#description\">Simply More Gold (2x)</a><br><br>Gameplay ---<br><a href=\"https://mod.io/g/baldursgate3/m/early-access-illithid-powers-restored#description\">Early Access Illithid Powers Restored</a><br><a href=\"https://mod.io/g/baldursgate3/m/leader-homebrew-class#description\">Leader Homebrew Class</a><br><a href=\"https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul#description\">Sorcerer Subclass - Conflagrant Soul</a></li>\n</ul>",
     "date_added": 1746390180,
-    "date_updated": 1774461143,
+    "date_updated": 1777368389,
     "date_live": 1746391440,
     "visible": 1,
     "status": 1,
@@ -107726,15 +108396,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -107884,19 +108554,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7551821
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7405742
+        "modfile_live": 7551821
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7405742
+        "modfile_live": 7551821
       },
       {
         "platform": "ps5",
-        "modfile_live": 7405742
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7551821
       }
     ]
@@ -109602,6 +110272,154 @@
       {
         "platform": "ps5",
         "modfile_live": 6356078
+      }
+    ]
+  },
+  {
+    "id": 4931448,
+    "game_id": 6715,
+    "name": "Spider's Weave Set [1.0 Version]",
+    "name_id": "spiders-weave-set",
+    "summary": "A new unique full clothing set, inspired by the deity Lloth. This versions will not be updated as I have since reworked and plan to start rolling the 2.0 versions later this year in an AIO pack with the rest of my deity sets",
+    "description": "<p style=\"text-align:center;\"><strong>1.0 version of this set. This versions will not be updated as I have since reworked it </strong><br><strong>and plan to start rolling the 2.0 versions later this year in an AIO pack with the rest of my currently available deity inspired sets</strong></p>\n<p style=\"text-align:center;\"><em>Thank you sincerely to <a href=\"https://mod.io/g/baldursgate3/u/azazelwastaken\">AzazeL</a> for taking the time to convert my deity collection armor sets over to toolkit and allowing it to be shared via mod.io</em></p>\n<p> </p>\n<p style=\"text-align:center;\"><strong><u>Works in both Patch 7 &amp; Patch 8<br></u>[Items should also be granted into your camp chest] </strong></p>\n<p> </p>\n<p style=\"text-align:center;\"><strong>→ </strong>Adds unique set inspired around the deity <strong>Lloth</strong>.<br>Including gloves, boots, cloak and headwear.<br><strong>→ <u>Found in tutorial chest</u></strong> within the <u>\"Cobweb Chest\"</u><br><br><strong>→ <u>Supports every in game feminine Body-type and Race.</u></strong><br><strong>(Human, Elf, Githyanki, Tiefling, Dragonborn, Strong Bodies,</strong><br><strong>Half Orc, Dwarf, Gnome, &amp; Halfling)</strong><br><br><strong>→ </strong>Stats/Passives added to each piece (image above shows what has what)<br><strong>→ </strong>Includes both a camp and non-camp version for the clothing<br><br><em>[</em><strong><em><u>Possible Bugs/Clipping</u>: • </em></strong><em>BT3, DGB &amp; ORC (mostly dgb) skirt may be bit a wonky with it's physics/clipping at times I tried everything I could to fully fix but it's still minimally present, I apologize </em><strong><em>• </em></strong><em>Physics for cloak and skirt pieces are very flowy so they might easily clip into each other here and there but nothing truly major </em><strong><em>•</em></strong><em> There may be possible very minor clipping still that I could have overlooked or simply not noticed, </em><strong><em><u>please do let me know if there are any issues/bugs at all, that way I can make the attempts to fix it with an update</u>.</em></strong><em>]</em></p>\n<p> </p>\n<p style=\"text-align:center;\">☽ 𝚛𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍𝚎𝚍 ☾<br>✧ <a href=\"https://www.nexusmods.com/baldursgate3/mods/457\">Tutorial Chest Summoning</a>  <br>✧ <a href=\"https://www.nexusmods.com/baldursgate3/mods/2922\">Transmog Enhanced</a> (If you'd prefer different stats)<br>✧ <u>Any dye mods you may like</u>  <br><br>☽ 𝚌𝚛𝚎𝚍𝚒𝚝𝚜 ☾<br><em>Volno for their </em><a href=\"https://www.nexusmods.com/baldursgate3/mods/15414\">Lazy Tailor Tool</a><br><em>ByteBard for their </em><a href=\"https://github.com/Byte0Bard/BG3-Equipment-Generator/releases\">BG3 Equipment Generator</a>  <br><em>ShinyHobo for their </em><a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\">BG3 Modders Multitool</a><em> </em>  <br><em>Norbyte for their </em><a href=\"https://github.com/Norbyte/lslib/releases\">lslib tool </a><br><em>other resources used: </em><a href=\"https://www.blender.org/download/releases/4-2/\">blender</a><em>, </em><a href=\"https://www.adobe.com/products/substance3d/apps/painter.html?sdid=DRCF12SK&amp;mv=search&amp;mv2=paidsearch&amp;gad_source=1&amp;gclid=Cj0KCQjwq_G1BhCSARIsACc7NxoOnd_tFDcb-_YiwanpGc4wiXAErpkRhih_kkvApkJjzAiNk1P55VsaAr2lEALw_wcB\">adobe substance 3D painter</a><em>, </em><a href=\"https://www.gimp.org/\">gimp</a></p>\n<p> </p>\n<p style=\"text-align:center;\"><br><em>This set is tailored to be a part of project collection, I have newly started. A collection to not only be widely diverse and compatible between races and body-types but a large and vast lore-friendly deity inspired collection to inspire many new ideas in creating new characters and stories outside or inside BG3. This collection will be updated in parts ♡</em><br><br><em>Sincerely, I express my gratitude to all of my supporters and patreon members for the continued kindness, patience and support. Thank you from the bottom of my heart ♡</em></p>",
+    "date_added": 1746935611,
+    "date_updated": 1777369507,
+    "date_live": 1747005540,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/spiders-weave-set",
+    "submitted_by": {
+      "id": 35138009,
+      "name_id": "azazelwastaken",
+      "username": "AzazeLwasTaken",
+      "profile_url": "https://mod.io/u/azazelwastaken",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f797/35138009/crop_100x100/redgirl2.png"
+    },
+    "modfile": {
+      "id": 6356148,
+      "mod_id": 4931448,
+      "version": "1.0.0.1",
+      "filename": "mb0spw_48faceed-f373-376e-4a0d-7rdl.zip",
+      "changelog": null,
+      "date_added": 1746935635,
+      "date_updated": 0,
+      "date_scanned": 1746935784,
+      "filesize": 83895364,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/a897/4931448/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a897/4931448/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a897/4931448/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a897/4931448/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6356148
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6356148
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6356148
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6356148
       }
     ]
   },
@@ -121401,6 +122219,204 @@
     ]
   },
   {
+    "id": 5073449,
+    "game_id": 6715,
+    "name": "CL_Drowned In Moonlight",
+    "name_id": "cl-drownedinmoonlight",
+    "summary": "A gear mod designed to work with the Sword Dancer Cleric subclass mod made by Kara. Tall body types 1-4, fully dyeable, includes 12 shirts, 5 gloves, 6 hats, 6 boots, 3 cloaks, a scimitar, and camp clothes!",
+    "description": "<div><span style=\"font-size:x-large;\">Drowned in Moonlight: a Sword Dancer of Eilistraee Gear Mod</span></div>\n<p> </p>\n<div><span style=\"color:#d2691e;\"><span style=\"font-size:large;\"><strong>Designed to be used with wingsofhegemon's <a href=\"https://www.nexusmods.com/baldursgate3/mods/17362\" rel=\"nofollow\">Sword Dancer Cleric Subclass</a>.</strong></span></span></div>\n<p> </p>\n<figure class=\"quote col-3-3\"></figure>\n<figure class=\"quote col-3-3\">\n<blockquote><span style=\"font-size:large;\"><strong>Things to keep in mind...</strong></span></blockquote>\n</figure>\n<ul>\n<li>Most styles fit all bodies! Look for \"Everyone\" in the item description.</li>\n<li>The sword can ONLY be equipped by worshipers of Eilistraee. If you don't want to play a cleric, grab a <a href=\"https://mod.io/g/baldursgate3/m/diety-for-all1#description\">Deities mod</a>.</li>\n<li>Designed specifically to use with wingsofhegemon's <a href=\"https://www.nexusmods.com/baldursgate3/mods/17362\" rel=\"nofollow\">Sword Dancer subclass</a> (Nexus only), but it would work just as well with the other recent <a href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee#description\">Sword Dancers</a> release by zx10rx.</li>\n<li>Grab <a href=\"https://www.nexusmods.com/baldursgate3/mods/11134\" rel=\"nofollow\">Astra's Spellbook</a> (Nexus only) by astralities and <a href=\"https://www.nexusmods.com/baldursgate3/mods/15046\" rel=\"nofollow\">Phalar Aluve Replacer</a> (Nexus only) by Siaell for extra fun and immersion!</li>\n</ul>\n<p> </p>\n<figure class=\"quote col-3-3\"></figure>\n<figure class=\"quote col-3-3\">\n<blockquote><span style=\"font-size:large;\"><strong>Set includes...</strong></span></blockquote>\n</figure>\n<ul>\n<li>12 Armours each for Wisdom and Charisma</li>\n<li>5 Gloves</li>\n<li>6 Hats</li>\n<li>6 Boots</li>\n<li>3 Cloaks</li>\n<li>1 Scimitar</li>\n<li>1 Dye</li>\n<li>Camp Clothes!</li>\n</ul>\n<p><br>Fully dyeable!<br><br>~~~~~~~~~~~~~~~~~~~~~~~~~~<br><br><br>Available in the tutorial chest, or you can buy it from Dammon in act 1, the bugbear at Moonrise in act 2, or Popper and Helsik (The Devil's Fee) in act 3. If you’ve already visited one (or more) of these merchants before you install the mod, it won’t show up in their inventory until after a long rest or two. Or three.<br><br><br>You shouldn't have any issue loading this mod mid-game, but never try to UNload clothing/equipment mods if they're already in your and/or a merchant's inventory.<br><br><br><br></p>\n<div><span style=\"font-size:large;\"><span style=\"color:#d2691e;\"><strong>HUGE ENORMOUS thank you to...</strong></span></span><br><br><span style=\"color:#cd5c5c;\"><strong>The kind members of the BG3 Modding Community discord and the Faerun Fashionistas discord</strong></span><br><span style=\"color:#dda0dd;\"><strong>DieRadian for the thumbnail and wingsofhegemon for the banner</strong></span><br><span style=\"color:#00ced1;\"><strong>wingsofhegemon for the Sword Dancer subclass</strong></span><br><span style=\"color:#f8f8ff;\"><strong>Siaell for the Phalar Replacer</strong></span><br><strong>Astra for every mod they've ever made</strong><br><strong>MissRen, Kikyo, Lili, Forosnai, Munchy, Bren, wingsofhegemon, and DieRadian for the gorgeous pics</strong><br><span style=\"color:#7cfc00;\"><strong><a href=\"https://next.nexusmods.com/profile/beanedsprout?gameId=3474\" rel=\"nofollow\">Beanedsprout</a> for letting me use her beautiful circlet</strong></span></div>\n<p><br><br></p>\n<div>\n<div><img src=\"https://i.imgur.com/B2YTvWY.png\" alt=\"B2YTvWY.png\"></div>\n</div>\n<p><br><br><br></p>\n<div>\n<div><img src=\"https://i.imgur.com/JZvvu4s.png\" alt=\"JZvvu4s.png\"></div>\n<div><img src=\"https://i.imgur.com/6y7AaVc.png\" alt=\"6y7AaVc.png\"></div>\n<br><br>\n<div><img src=\"https://i.imgur.com/icPzr09.png\" alt=\"icPzr09.png\"></div>\n<div><img src=\"https://i.imgur.com/KHxYVkj.png\" alt=\"KHxYVkj.png\"></div>\n<br><br>\n<div><img src=\"https://i.imgur.com/tv0LIgx.png\" alt=\"tv0LIgx.png\"></div>\n<div><img src=\"https://i.imgur.com/DJR3xEi.png\" alt=\"DJR3xEi.png\"></div>\n<br><br>\n<div><img src=\"https://i.imgur.com/g6krQJf.png\" alt=\"g6krQJf.png\"></div>\n<div><img src=\"https://i.imgur.com/gwfeCdm.png\" alt=\"gwfeCdm.png\"></div>\n<br><br>\n<div><img src=\"https://i.imgur.com/kz6JhCg.png\" alt=\"kz6JhCg.png\"></div>\n</div>\n<p><br><br><br></p>\n<div><a href=\"https://ko-fi.com/copperleaves\" rel=\"nofollow\"><img src=\"https://i.imgur.com/XRa3ZXF.png\" alt=\"XRa3ZXF.png\"></a></div>\n<p><br><br><br>Check out my other gear mods for Barbarian, Bard, Cleric, Druid, Fighter, Mage, Paladin, and Rogue!<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13571\" rel=\"nofollow\">Neil's Bangin' Bard Gear VOLUME 2</a> (recommended)<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13186\" rel=\"nofollow\">Neil's Bangin' Bard Gear VOLUME 1</a> (outdated)<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13186\" rel=\"nofollow\">Rage Queen Barbarian Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14875\" rel=\"nofollow\">Instruments of Darkness - Dark Cleric Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13774\" rel=\"nofollow\">The Inconstant Moon - Shar and Selune Cleric Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14165\" rel=\"nofollow\">Grim Visag'd War - Fighter Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14081\" rel=\"nofollow\">Magic and Might - Mage Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13219\" rel=\"nofollow\">Big...Darn Heroes Paladin Gear</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13435\" rel=\"nofollow\">Dastardly Accoutrement - Rogue Gear</a></p>\n<p> </p>",
+    "date_added": 1751843090,
+    "date_updated": 1777369780,
+    "date_live": 1752544099,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/cl-drownedinmoonlight",
+    "submitted_by": {
+      "id": 33602659,
+      "name_id": "mcw717",
+      "username": "copperleaves",
+      "profile_url": "https://mod.io/u/mcw717",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/7007/33602659/crop_100x100/img_1774.jpeg"
+    },
+    "modfile": {
+      "id": 7275307,
+      "mod_id": 5073449,
+      "version": "1.0.0.16",
+      "filename": "cl_sworddancer_d6020a91-6f7e-8-dxih.zip",
+      "changelog": "Trying to fix nudity issues",
+      "date_added": 1768527155,
+      "date_updated": 0,
+      "date_scanned": 1768527456,
+      "filesize": 115199281,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "bg3_dx11_2025-07-06_15-52-17_54.png",
+      "original": "https://image.modcdn.io/mods/5906/5073449/bg3_dx11_2025-07-06_15-52-17_54.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5906/5073449/crop_320x180/bg3_dx11_2025-07-06_15-52-17_54.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5906/5073449/crop_640x360/bg3_dx11_2025-07-06_15-52-17_54.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5906/5073449/crop_1280x720/bg3_dx11_2025-07-06_15-52-17_54.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Dyes",
+        "name_localized": "Dyes",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Modathon",
+        "name_localized": "Modathon",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7275307
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7275307
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7275307
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7275307
+      }
+    ]
+  },
+  {
     "id": 5076001,
     "game_id": 6715,
     "name": "BaldGate3",
@@ -124841,6 +125857,224 @@
       {
         "platform": "ps5",
         "modfile_live": 6866970
+      }
+    ]
+  },
+  {
+    "id": 5131953,
+    "game_id": 6715,
+    "name": "ASE Angel Race for Console and PC",
+    "name_id": "ase-angel-race",
+    "summary": "UPDATE: Companion Versions! - - - Become an Angel! Fly through battle with celestial powers like Flame Strike, Lay on Hands, and Celestial Party Time. Console-friendly disguise mod that feels just like a custom race.",
+    "description": "<h2>🪽 ASE RACES – Angels 🧬</h2>\n<p><strong>Console-Compatible Disguise Mod</strong> | Feels Like a Full Race!</p>\n<p>Become a divine force in Baldur’s Gate 3! ASE Angels is a console-friendly <strong>disguise mod</strong> that delivers the <strong>full fantasy of playing as an Angel</strong>, complete with <strong>wings, holy powers, dialogue tags, and racial passives</strong>—all while staying within console release rules.</p>\n<hr>\n<h3>✨ Features</h3>\n<ul>\n<li>\n<p>🎮 <strong>PC &amp; Console Ready</strong> – Works for Custom &amp; Origin characters, and all Companions!</p>\n</li>\n<li>\n<p>🔁 Toggle your Angel form on/off anytime with a passive</p>\n</li>\n<li>\n<p>🎭 Adds <strong>dialogue tags</strong> like Bard, Monk, Sorcerer, Elf for roleplay variety</p>\n</li>\n<li>\n<p>🧬 Grants <strong>unique racial passives</strong> and <strong>divine-themed spells</strong></p>\n</li>\n<li>\n<p>👗 <strong>20 Preset Angel Looks</strong>:  with fixed a armor presets</p>\n</li>\n<li>\n<p>💡 8 Looks that keep your own armor, male &amp; female options, cis- and trans- options</p>\n</li>\n<li>\n<p>🩲 Use <strong>Angel Underwear</strong> to transform – no need for CC slots!</p>\n</li>\n</ul>\n<hr>\n<h3>🧬 Racial Passives</h3>\n<p>🕊️ Chasm &amp; Frightened Immunity<br>🪽 Winged Grace<br>🛡️ Divine Allegiance, 💖 Divine Health, ✋ Lay On Hands<br>🔥 Holy Rebuke, 🌟 Angel’s Inner Light<br>🦜 Speak with Animals, 💀 Speak with Dead<br>🌘 Darkvision, 🎯 Surprise Immunity, 👁️ Advantage on Perception<br>🎭 Charisma +5<br>🔮 Proficiencies: Insight, Religion, Instruments, History, Persuasion<br>⚔️ Attack of Opportunity</p>\n<hr>\n<h3>🌟 Racial Spells &amp; Powers</h3>\n<p>🕊️ Fly<br>🙏 <strong>Divine Intervention</strong> <em>(usable once — <em>does</em> count for Cleric class progression)</em><br>✋ Lay on Hands: Divine Touch<br>😡 Wrathful Smite, 🔥 Searing Smite, ☄️ Flame Strike<br>🎉 <strong>Celestial Party Time</strong> – summon a firewine barrel 🍷 and make everyone dance 💃🕺<br>💀 Turn Undead<br>🛡️ Protection from Evil and Good</p>\n<hr>\n<h3>📦 How to Become an Angel</h3>\n<ol>\n<li>\n<p><strong>Find your Angelic Chest</strong></p>\n<ul>\n<li>\n<p><strong>Nautiloid</strong>: First Room</p>\n</li>\n<li>\n<p><strong>Act 1–2</strong>: Dammon &amp; Roah Moonglow</p>\n</li>\n<li>\n<p><strong>Act 3</strong>: Popper &amp; Sorcerous Sundries</p>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Equip the Angelic Underwear</strong> matching your desired look</p>\n</li>\n<li>\n<p><strong>Congratulations—you’re divine!</strong> Unlocks racial passives &amp; spells.</p>\n</li>\n<li>\n<p>Want more angels? Just give companions their own underwear!</p>\n</li>\n</ol>\n<hr>\n<h3>❌ Limitations (for console compatibility)</h3>\n<ul>\n<li>\n<p>🧍 Not available in character creation (use disguise item instead)</p>\n</li>\n<li>\n<p>🪞 No Magic Mirror support (use a different underwear to swap looks)</p>\n</li>\n<li>\n<p>🗣️ No unique Angel voice or dialogue, but roleplay tags are included</p>\n</li>\n<li>\n<p>📈 Level-up screen shows base form, not Angel appearance</p>\n</li>\n</ul>\n<hr>\n<h3>🔜 Upcoming &amp; Planned Features</h3>\n<ul>\n<li>\n<p>🖼️ <strong>Custom Angel Portraits</strong> – coming soon for each look</p>\n</li>\n<li>\n<p>🤝 <strong>Companion Versions</strong> – will be added in an update (definitely!)</p>\n<blockquote>\n<p>✅ Would you prefer:<br>– <strong>Pre-made companion versions</strong> with fixed Angel appearances?<br>– Or <strong>armor-compatible versions</strong> (but all female companions would appear with the strong body type)?<br>Let me know in the comments!</p>\n</blockquote>\n</li>\n<li>\n<p>🌈 <strong>Angel Sub-Races</strong> – <em>might</em> be added later (e.g. solar, fallen)</p>\n<blockquote>\n<p>Still evaluating how much extra work this would add — your feedback can help decide!</p>\n</blockquote>\n</li>\n</ul>\n<hr>\n<h3>💌 Feedback Welcome!</h3>\n<p>Your input matters!<br>Please share your feedback in the comments or posts section:</p>\n<ul>\n<li>\n<p>What worked well?</p>\n</li>\n<li>\n<p>What felt off or could be improved?</p>\n</li>\n<li>\n<p>What kind of angels or powers would you love to see next?</p>\n</li>\n</ul>",
+    "date_added": 1753960025,
+    "date_updated": 1777369163,
+    "date_live": 1753960976,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ase-angel-race",
+    "submitted_by": {
+      "id": 46459401,
+      "name_id": "ase243",
+      "username": "ase243",
+      "profile_url": "https://mod.io/u/ase243",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dcb0/46459401/crop_100x100/877709d5-09ee-40ce-a695-c1c8fc9.png"
+    },
+    "modfile": {
+      "id": 7621636,
+      "mod_id": 5131953,
+      "version": "1.0.0.6",
+      "filename": "ase_nr_angels_d8ff005f-ef4b-4d-0xr0.zip",
+      "changelog": "Updated for Console Support (Note to Devs: Modesty Leafs added)",
+      "date_added": 1775909240,
+      "date_updated": 0,
+      "date_scanned": 1775909247,
+      "filesize": 2287306,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "ase_races_angels_optimized_unde.png",
+      "original": "https://image.modcdn.io/mods/4794/5131953/ase_races_angels_optimized_unde.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4794/5131953/crop_320x180/ase_races_angels_optimized_unde.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4794/5131953/crop_640x360/ase_races_angels_optimized_unde.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4794/5131953/crop_1280x720/ase_races_angels_optimized_unde.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
+        "date_added": 0
+      },
+      {
+        "name": "Halsin",
+        "name_localized": "Halsin",
+        "date_added": 0
+      },
+      {
+        "name": "Jaheira",
+        "name_localized": "Jaheira",
+        "date_added": 0
+      },
+      {
+        "name": "Karlach",
+        "name_localized": "Karlach",
+        "date_added": 0
+      },
+      {
+        "name": "Lae'zel",
+        "name_localized": "Lae'zel",
+        "date_added": 0
+      },
+      {
+        "name": "Minsc",
+        "name_localized": "Minsc",
+        "date_added": 0
+      },
+      {
+        "name": "Minthara",
+        "name_localized": "Minthara",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      },
+      {
+        "name": "Wyll",
+        "name_localized": "Wyll",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7621636
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7621636
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7621636
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7621636
       }
     ]
   },
