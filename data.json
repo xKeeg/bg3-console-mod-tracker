@@ -46299,7 +46299,7 @@
     "summary": "Adds 600+ items for the camp clothes, camp shoes, and underwear slots :) Each item has a simple cantrip or level 1 spell usable once each rest, as well as a +1 to a random skill.",
     "description": "<p><span style=\"text-decoration:underline;\"><strong>Warning: </strong></span></p>\n<p>Avoid updating in the middle of a playthrough, and avoid uninstalling. This can cause issues when loading the save. If you want to attempt uninstalling, make sure you save your game after removing each item from your character's inventories. <span style=\"text-decoration:underline;\">New installs mid-playthrough are completely safe</span>. </p>\n<p>I have only uploaded files for this mod on Mod IO (In game mod manager) and Nexus, which is linked at the end of this description. Please be aware that if you download this mod from any other source it could contain malicious material such as malware because I cannot guarantee safety for a file that I myself did not upload. I have seen this mod listed on sketchy websites, do not engage with such websites. </p>\n<hr>\n<h2>How The Mod Works</h2>\n<p>When entering camp for the first time, a golden chest containing 700+ items will <strong><span style=\"text-decoration:underline;\">appear in the camp chest</span></strong>. The golden chest contains several mini chests in which the clothing items are organized. <span style=\"text-decoration:underline;\"><strong>If you update the mod mid playthrough or download mid playthrough you will need to</strong></span> <span style=\"text-decoration:underline;\"><strong>purchase them from listed vendors as listed below</strong></span>!</p>\n<p><span style=\"text-decoration:underline;\"><strong>All outfits and armor will take the camp clothes slot</strong></span>, allowing you to wear whatever you would like while keeping the function of the armor you have equipped. This allows for minor transmogging if camp clothes are set to always show, especially for console players who do not have access to script mods.</p>\n<p><span style=\"text-decoration:underline;\"><strong>All shoes will take the camp shoes slot.</strong></span> </p>\n<p><span style=\"text-decoration:underline;\"><strong>All items that are not set outfits or shoes will take the underwear slot</strong></span> including: hats, hoods, cloaks, gloves. Keep in mind that items in the underwear slot may cause clipping and will show up over normal armor. </p>\n<p>Keep in mind that <span style=\"text-decoration:underline;\"><strong>not every outfit will work with every body type</strong></span>, read the descriptions of each item to determine whether an outfit will function on your character. Putting a dress on Astarion may cause him to appear only in his underwear, putting Lae'zel in the wrong corset could cause severe visual glitches. </p>\n<p><span style=\"text-decoration:underline;\"><strong>All items have a +1 to skills and a simple spell attachment</strong></span> (does not apply to items in the underwear slot). For example, a robe may grant a +1 to arcana checks and allow you to cast magic missile once per rest. This function is more significant in early game and less so in late game. </p>\n<p>The items are also <span style=\"text-decoration:underline;\"><strong>available for purchase at the following vendors</strong></span>: Aaron (Grove), Blurg (Underdark), Esther (Mountain), Talli (Last Light), Mamzell (Wyrm's Rock), and as of patch 8 Mystic Carrion (Lower City). If anything new is added in an update you will need to purchase the new items from the vendors if you want them after a long rest, they will not automatically spawn in the camp chest unless you are starting a new game. </p>\n<p><span style=\"text-decoration:underline;\"><strong>Multiplayer:</strong></span> I have set it up that each player will have their own version in their unique camp chest. My hope is that this will fix the prior issues with this mod and multiplayer. </p>\n<p><span style=\"text-decoration:underline;\"><strong>Crossplay: </strong></span>If you are attempting crossplay across different formats (i.e. pc and console), whoever plays on pc will have to manually downgrade their mod to the version that was last available to console at least until console is updated to the newest version. See the FAQ below. </p>\n<hr>\n<h2>Pending for Console: </h2>\n<p>Console and Mac updates are delayed as they must go through a testing period before release. I do not have control over this process and cannot guarantee when updates will be approved. It is entirely up to Larian's team. </p>\n<hr>\n<h2>Video Showcase</h2>\n<p>The following is a video showcase showing most of what comes with the mod, missing only things from the most recent update. </p>\n<p><a href=\"https://youtu.be/lnOKCsn4y8k?si=xIDMFyTPdPCGZifV\">FearTaylor's Camp Clothes</a></p>\n<p>I do not currently have a photo showcase and likely won't be making one. </p>\n<hr>\n<h2>FAQ</h2>\n<p><strong>302 Errors/Server Crashes/Saves Not Loading: </strong></p>\n<ul>\n<li>This usually happens because you have tried to uninstall the mod mid-playthrough or you have tried to update from the oldest versions to the newer version mid-playthrough.</li>\n<li>Simply, you may need to downgrade to the version you previously had. This can usually be done from in-game if the version you had is still available on Mod.IO. Try to load the save and click the optional down-grade button when prompted. </li>\n</ul>\n<ul>\n<li>\\Users\\%USERNAME%\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods</li>\n<li>Place the downloaded file in this folder in your computer to downgrade manually, it may change if you downloaded anywhere other than Steam. Then load the game and avoid updating until you're ready to start a new playthrough. </li>\n</ul>\n<p><strong>Where are the items? / They're not in the camp chest? </strong></p>\n<ul>\n<li>Make sure that the mod is enabled when you load your save and that you have <span style=\"text-decoration:underline;\">long rested before looking</span>. </li>\n<li><span style=\"text-decoration:underline;\">If downloaded mid-playthrough, they may not spawn in the traveler's chests and will need to be purchased from vendors after a long rest. This is due to multiplayer fixes</span>. </li>\n<li>Remember, they spawn inside of the Traveler's Chest, it will not spawn in the middle of your camp. They will not spawn in the tutorial chest. In multiplayer, there should be one version of the chest inside each multiplayer traveler's chest. </li>\n</ul>\n<p><strong>Clipping? </strong></p>\n<ul>\n<li>Clipping is inevitable as most of the items and outfits used were not designed to go together or be used by player characters at all. I cannot edit meshes so I can't fix them myself. </li>\n</ul>\n<p><strong>Can I make an outfit available for all body types? </strong></p>\n<ul>\n<li>No. I cannot edit meshes, it's just not in my skill set. I don't have the time to learn. I am limited to the assets as they were made by Larian. A lot of the items were not meant to be used by player characters, thus there are some assets made specifically for some races that will not work on others and the same for genders. Most skirts won't work on males because they never made a male character or a character with a male body type that they wanted to wear that asset. </li>\n</ul>\n<p><strong>Bodies are invisible after updating / Items stopped working or can't be equipped / Characters are naked</strong></p>\n<ul>\n<li>Make sure that you are reading the description to ensure that the outfit fits the body type you are using. </li>\n<li>This is more commonly reported by console players. </li>\n<li>Due to stats issues, I had to recreate a lot of the items in the later updates. A new chest with the corrected items will spawn in your camp chest after a long rest. Sell the old items or find another way to dispose of them and you'll be good. </li>\n</ul>\n<p><strong>Is there a version without spells? </strong></p>\n<ul>\n<li>Yes! Check my profile. It is currently pending on console. </li>\n</ul>\n<p><strong>Icon Glitch</strong></p>\n<ul>\n<li>I have seen some posts stating that some of the headpieces in the underwear slot can cause visual glitches to portraits. Its my understanding that removing the item before leveling up then reequipping, or going into the magic mirror fixes this issue. </li>\n</ul>\n<p><strong>Mod won't download/update.</strong></p>\n<ul>\n<li>This is not an issue with the mod. This is an issue with the mod manager. Reporting the issue on the mod goes to me and is ineffective as there is nothing that I can do to fix this issue. Please report the issue to Larian's team directly.</li>\n</ul>\n<p><strong>Cross-Play</strong></p>\n<ul>\n<li>If you intend to use this mod between PC and console whether through multiplayer or single player playthroughs, you (and your multiplayer friends) will need to manually downgrade to the version of the mod that is available on console. It will not downgrade automatically. You can see this in the files tab of this page. This will not work on existing playthroughs using the most recent version of this mod until the console version is updated the match the most recent version available to pc. </li>\n<li>If you choose to return to an older version of the mod, make sure that you do not have duplicates in your mod folder after downgrading/upgrading!</li>\n</ul>\n<p><strong>Will there be anymore updates? </strong></p>\n<ul>\n<li>Other than bug fixes, no. Requests and suggestions are closed. </li>\n</ul>\n<hr>\n<h2>Reports</h2>\n<p><strong>Please provide the following information in your reports!</strong></p>\n<ul>\n<li>The platform you play on</li>\n<li>A detailed description of what the problem is.\n<ul>\n<li>If it is an issue with a particular outfit, please tell me which one specifically and what is wrong with it.</li>\n<li>If the issue is a spell, please tell me which spell and which outfit it's connected to. </li>\n<li>If the issue is multiplayer, please tell me exactly which version of the mod you are using, if you are doing cross-play, and other details. </li>\n<li>If the issue is that it fails to show up, tell me if it fails to show up in camp/specific vendors listed earlier in the description. </li>\n</ul>\n</li>\n</ul>\n<p>I answer any legitimate concerns through the chat feature on Mod.IO, or the comments if you post in the discussion tab. You can also message me on Nexus or Reddit. </p>\n<p>I cannot answer a report if all you tell me is \"doesn't work\" or \"wont load\" or other vague descriptions. I will not answer or message you if this is all you send me. </p>\n<p>I will not answer or message you if the answer to your issue is already within the mod description. </p>\n<p>If the mod says that there is an update but it will not load, you can check the files tab to see when the last update was released (it has been a long while). If this occurs, it is not an issue with the mod itself, it is an issue with the mod manager and should be reported to Larian directly as this is not the only mod facing such issues. </p>\n<p><strong>Remember always that there is always inherent risk when downloading mods, you are ultimately responsible for your game's integrity when you choose to download any mod. Mods are made by fans of the game and are not going to be on a similar level of quality to paid dlcs. </strong><strong>General rule of thumb is to always read the description before you download anything.</strong></p>\n<hr>\n<h3>My Other Mods Include: </h3>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/ft-dye-official\">FearTaylor's Dye</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylors-dye-20\">FearTaylor's Dye 2.0</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylor-dye-30#description\">FearTaylor's Dye 3.0</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylors-camp-clothes-no-spells\">FearTaylor's Camp Clothes (No Spells)</a></li>\n</ul>\n<h3>Other Accounts to Reach Me: </h3>\n<ul>\n<li>Youtube: <a href=\"https://youtube.com/@feartaylor?si=iRaiMzmTQGBmsIgW\">@FearTaylor</a></li>\n<li>Reddit: <a href=\"https://www.reddit.com/user/_FearTaylor_/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">u/_FearTaylor_</a></li>\n<li>Nexus: <a href=\"https://www.nexusmods.com/baldursgate3/mods/13885\">FearTaylor</a></li>\n<li>TikTok: @FearTaylor</li>\n</ul>",
     "date_added": 1727823431,
-    "date_updated": 1773527214,
+    "date_updated": 1777370424,
     "date_live": 1727823822,
     "visible": 1,
     "status": 1,
@@ -46329,15 +46329,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -46467,19 +46467,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7504462
+      },
+      {
         "platform": "mac",
-        "modfile_live": 5734470
+        "modfile_live": 7504462
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 5734470
+        "modfile_live": 7504462
       },
       {
         "platform": "ps5",
-        "modfile_live": 5734470
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7504462
       }
     ]
@@ -63467,6 +63467,179 @@
     ]
   },
   {
+    "id": 4434041,
+    "game_id": 6715,
+    "name": "FearTaylor's Camp Clothes (No Spells)",
+    "name_id": "feartaylors-camp-clothes-no-spells",
+    "summary": "Adds 600+ items for the camp clothes, camp shoes, and underwear slots :) This version lacks the spells and skill additions. Everything else is exactly the same, leaving this version of the mod compeltely cosmetic.",
+    "description": "<h3>Do not use both versions of this mod at the same time. They are incompatible together. </h3>\n<p><span style=\"text-decoration:underline;\"><strong>Warning: </strong></span></p>\n<p>Avoid updating in the middle of a playthrough, and avoid uninstalling. This can cause issues when loading the save. If you want to attempt uninstalling, make sure you save your game after removing each item from your character's inventories. <span style=\"text-decoration:underline;\">New installs mid-playthrough are completely safe</span>. </p>\n<p>I have only uploaded files for this mod on Mod IO (In game mod manager) and Nexus, which is linked at the end of this description. Please be aware that if you download this mod from any other source it could contain malicious material such as malware because I cannot guarantee safety for a file that I myself did not upload. I have seen this mod listed on sketchy websites, do not engage with such websites. </p>\n<hr>\n<h2>How The Mod Works</h2>\n<p>When entering camp for the first time, a golden chest containing 700+ items will <strong><span style=\"text-decoration:underline;\">appear in the camp chest</span></strong>. The golden chest contains several mini chests in which the clothing items are organized. <span style=\"text-decoration:underline;\"><strong>If you update the mod mid playthrough or download mid playthrough you will need to</strong></span> <span style=\"text-decoration:underline;\"><strong>purchase them from listed vendors as listed below</strong></span>!</p>\n<p><span style=\"text-decoration:underline;\"><strong>All outfits and armor will take the camp clothes slot</strong></span>, allowing you to wear whatever you would like while keeping the function of the armor you have equipped. This allows for minor transmogging if camp clothes are set to always show, especially for console players who do not have access to script mods.</p>\n<p><span style=\"text-decoration:underline;\"><strong>All shoes will take the camp shoes slot.</strong></span> </p>\n<p><span style=\"text-decoration:underline;\"><strong>All items that are not set outfits or shoes will take the underwear slot</strong></span> including: hats, hoods, cloaks, gloves. Keep in mind that items in the underwear slot may cause clipping and will show up over normal armor. </p>\n<p>Keep in mind that <span style=\"text-decoration:underline;\"><strong>not every outfit will work with every body type</strong></span>, read the descriptions of each item to determine whether an outfit will function on your character. Putting a dress on Astarion may cause him to appear only in his underwear, putting Lae'zel in the wrong corset could cause severe visual glitches. </p>\n<p>The items are also <span style=\"text-decoration:underline;\"><strong>available for purchase at the following vendors</strong></span>: Aaron (Grove), Blurg (Underdark), Esther (Mountain), Talli (Last Light), Mamzell (Wyrm's Rock), and as of patch 8 Mystic Carrion (Lower City). If anything new is added in an update you will need to purchase the new items from the vendors if you want them after a long rest, they will not automatically spawn in the camp chest unless you are starting a new game. </p>\n<p><span style=\"text-decoration:underline;\"><strong>Multiplayer:</strong></span> I have set it up that each player will have their own version in their unique camp chest. My hope is that this will fix the prior issues with this mod and multiplayer. </p>\n<p><span style=\"text-decoration:underline;\"><strong>Crossplay: </strong></span>If you are attempting crossplay across different formats (i.e. pc and console), whoever plays on pc will have to manually downgrade their mod to the version that was last available to console at least until console is updated to the newest version. See the FAQ below. </p>\n<hr>\n<h2>Pending for Console: </h2>\n<p>Console and Mac updates are delayed as they must go through a testing period before release. I do not have control over this process and cannot guarantee when updates will be approved. It is entirely up to Larian's team. </p>\n<hr>\n<h2>Video Showcase</h2>\n<p>The following is a video showcase showing most of what comes with the mod, missing only things from the most recent update. </p>\n<p><a href=\"https://youtu.be/lnOKCsn4y8k?si=xIDMFyTPdPCGZifV\">FearTaylor's Camp Clothes</a></p>\n<p>I do not currently have a photo showcase and likely won't be making one. </p>\n<hr>\n<h2>FAQ</h2>\n<p><strong>302 Errors/Server Crashes/Saves Not Loading: </strong></p>\n<ul>\n<li>This usually happens because you have tried to uninstall the mod mid-playthrough or you have tried to update from the oldest versions to the newer version mid-playthrough.</li>\n<li>Simply, you may need to downgrade to the version you previously had. This can usually be done from in-game if the version you had is still available on Mod.IO. Try to load the save and click the optional down-grade button when prompted. </li>\n</ul>\n<ul>\n<li>\\Users\\%USERNAME%\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods</li>\n<li>Place the downloaded file in this folder in your computer to downgrade manually, it may change if you downloaded anywhere other than Steam. Then load the game and avoid updating until you're ready to start a new playthrough. </li>\n</ul>\n<p><strong>Where are the items? / They're not in the camp chest? </strong></p>\n<ul>\n<li>Make sure that the mod is enabled when you load your save and that you have <span style=\"text-decoration:underline;\">long rested before looking</span>. </li>\n<li><span style=\"text-decoration:underline;\">If downloaded mid-playthrough, they may not spawn in the traveler's chests and will need to be purchased from vendors after a long rest. This is due to multiplayer fixes</span>. </li>\n<li>Remember, they spawn inside of the Traveler's Chest, it will not spawn in the middle of your camp. They will not spawn in the tutorial chest. In multiplayer, there should be one version of the chest inside each multiplayer traveler's chest. </li>\n</ul>\n<p><strong>Clipping? </strong></p>\n<ul>\n<li>Clipping is inevitable as most of the items and outfits used were not designed to go together or be used by player characters at all. I cannot edit meshes so I can't fix them myself. </li>\n</ul>\n<p><strong>Can I make an outfit available for all body types? </strong></p>\n<ul>\n<li>No. I cannot edit meshes, it's just not in my skill set. I don't have the time to learn. I am limited to the assets as they were made by Larian. A lot of the items were not meant to be used by player characters, thus there are some assets made specifically for some races that will not work on others and the same for genders. Most skirts won't work on males because they never made a male character or a character with a male body type that they wanted to wear that asset. </li>\n</ul>\n<p><strong>Bodies are invisible after updating / Items stopped working or can't be equipped / Characters are naked</strong></p>\n<ul>\n<li>Make sure that you are reading the description to ensure that the outfit fits the body type you are using. </li>\n<li>This is more commonly reported by console players. </li>\n<li>Due to stats issues, I had to recreate a lot of the items in the later updates. A new chest with the corrected items will spawn in your camp chest after a long rest. Sell the old items or find another way to dispose of them and you'll be good. </li>\n</ul>\n<p><strong>Icon Glitch</strong></p>\n<ul>\n<li>I have seen some posts stating that some of the headpieces in the underwear slot can cause visual glitches to portraits. Its my understanding that removing the item before leveling up then reequipping, or going into the magic mirror fixes this issue. </li>\n</ul>\n<p><strong>Mod won't download/update.</strong></p>\n<ul>\n<li>This is not an issue with the mod. This is an issue with the mod manager. Reporting the issue on the mod goes to me and is ineffective as there is nothing that I can do to fix this issue. Please report the issue to Larian's team directly.</li>\n</ul>\n<p><strong>Cross-Play</strong></p>\n<ul>\n<li>If you intend to use this mod between PC and console whether through multiplayer or single player playthroughs, you (and your multiplayer friends) will need to manually downgrade to the version of the mod that is available on console. It will not downgrade automatically. You can see this in the files tab of this page. This will not work on existing playthroughs using the most recent version of this mod until the console version is updated the match the most recent version available to pc. </li>\n<li>If you choose to return to an older version of the mod, make sure that you do not have duplicates in your mod folder after downgrading/upgrading!</li>\n</ul>\n<p><strong>Will there be anymore updates? </strong></p>\n<ul>\n<li>Other than bug fixes, no. Requests and suggestions are closed. </li>\n</ul>\n<hr>\n<h2>Reports</h2>\n<p><strong>Please provide the following information in your reports!</strong></p>\n<ul>\n<li>The platform you play on</li>\n<li>A detailed description of what the problem is.\n<ul>\n<li>If it is an issue with a particular outfit, please tell me which one specifically and what is wrong with it.</li>\n<li>If the issue is a spell, please tell me which spell and which outfit it's connected to. </li>\n<li>If the issue is multiplayer, please tell me exactly which version of the mod you are using, if you are doing cross-play, and other details. </li>\n<li>If the issue is that it fails to show up, tell me if it fails to show up in camp/specific vendors listed earlier in the description. </li>\n</ul>\n</li>\n</ul>\n<p>I answer any legitimate concerns through the chat feature on Mod.IO, or the comments if you post in the discussion tab. You can also message me on Nexus or Reddit. </p>\n<p>I cannot answer a report if all you tell me is \"doesn't work\" or \"wont load\" or other vague descriptions. I will not answer or message you if this is all you send me. </p>\n<p>I will not answer or message you if the answer to your issue is already within the mod description. </p>\n<p>If the mod says that there is an update but it will not load, you can check the files tab to see when the last update was released (it has been a long while). If this occurs, it is not an issue with the mod itself, it is an issue with the mod manager and should be reported to Larian directly as this is not the only mod facing such issues. </p>\n<p><strong>Remember always that there is always inherent risk when downloading mods, you are ultimately responsible for your game's integrity when you choose to download any mod. Mods are made by fans of the game and are not going to be on a similar level of quality to paid dlcs. </strong><strong>General rule of thumb is to always read the description before you download anything.</strong></p>\n<hr>\n<h3>My Other Mods Include: </h3>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/ft-dye-official\">FearTaylor's Dye</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylors-dye-20\">FearTaylor's Dye 2.0</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylor-dye-30#description\">FearTaylor's Dye 3.0</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/feartaylors-camp-clothes-no-spells\">FearTaylor's Camp Clothes (No Spells)</a></li>\n</ul>\n<h3>Other Accounts to Reach Me: </h3>\n<p>Youtube: <a href=\"https://youtube.com/@feartaylor?si=iRaiMzmTQGBmsIgW\">@FearTaylor</a></p>\n<p>Reddit: <a href=\"https://www.reddit.com/user/_FearTaylor_/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">u/_FearTaylor_</a></p>\n<p>Nexus: <a href=\"https://www.nexusmods.com/baldursgate3/mods/13885\">FearTaylor</a></p>\n<p>TikTok: @FearTaylor</p>",
+    "date_added": 1729568500,
+    "date_updated": 1777370408,
+    "date_live": 1729569139,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/feartaylors-camp-clothes-no-spells",
+    "submitted_by": {
+      "id": 34710135,
+      "name_id": "feartaylor",
+      "username": "FearTaylor",
+      "profile_url": "https://mod.io/u/feartaylor",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2cd0/34710135/crop_100x100/f9cc2cdfb3e386d489831492407d806.jpg"
+    },
+    "modfile": {
+      "id": 7504543,
+      "mod_id": 4434041,
+      "version": "1.0.0.17",
+      "filename": "ftccnospells_90fa3aa7-867d-f89-0cjq.zip",
+      "changelog": "Fixed nudity filters on certain pieces and decreased pricing for vendors.",
+      "date_added": 1773528450,
+      "date_updated": 0,
+      "date_scanned": 1773528460,
+      "filesize": 2646348,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/2f20/4434041/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2f20/4434041/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2f20/4434041/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2f20/4434041/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7504543
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7504543
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7504543
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7504543
+      }
+    ]
+  },
+  {
     "id": 4434073,
     "game_id": 6715,
     "name": "More Beards 3",
@@ -70684,6 +70857,129 @@
       {
         "platform": "windows",
         "modfile_live": 7635832
+      }
+    ]
+  },
+  {
+    "id": 4465847,
+    "game_id": 6715,
+    "name": "Slayer Assets Pearl - Dark Urge Dragonborn CC",
+    "name_id": "slayer-assets-pearl-dark-urge-dragonborn-cc",
+    "summary": "Adds Slayer CrestTops, Jaw for heads from Pearl mod",
+    "description": "<h2><strong>Want more?</strong></h2>\n<h4>Check out my other dragonborn mods <strong><a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a></strong>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></h4>\n<h4><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> </strong></h4>\n<h4><strong>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></h4>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/b1tiUoSJafs?t=3s&amp;ab_channel=AkELkA\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h4><span style=\"font-size:x-large;\">Slayer Assets - Dark Urge Dragonborn CC pack</span></h4>\n<h4><strong>Pack includes CrestTops, Jaws for heads from <a href=\"https://mod.io/g/baldursgate3/m/pearl-seadragon-dragonborn-cc\">Pearl - Seadragon - Dragonborn CC</a></strong> mod</h4>\n<p> </p>\n<p><strong>Slayer consumes everything - the body and soul of the host </strong>- which is why I incorporated elements of it into this pack</p>\n<p><strong>For a Slayer-ish appearance, use the Dragonborn color: Black 4</strong></p>\n<p> </p>\n<p>All head assets have broken var (left and right)</p>\n<p>The spikes on Crest, Jaw and Tail have two different material approaches - one based purely on Dragonborn material and the other on Horns material (Horns Tab). Go wild with it!</p>\n<p> </p>\n<h2>Spikes coloring</h2>\n<p>Spikes colors trough Horns tab</p>\n<p>You need to select assets (crest, jaw, tail) marked \"Horns\" in the name </p>\n<p><iframe src=\"https://www.youtube.com/embed/4a252K46X74?si=OY_wMubKxOki8kW5\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2>Extra</h2>\n<h3><a href=\"https://www.nexusmods.com/baldursgate3/articles/1160\"><strong>All Extra Assets avaliabl* to Pearl</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">You could check them separatly by link above</p>\n<h3><a href=\"https://next.nexusmods.com/baldursgate3/collections/zykoge\"><strong>Pearl Dragonborn Collection</strong></a></h3>\n<p style=\"font-size:14px;font-weight:400;\">Pearl and All assets from other packs in Vortex collection</p>\n<p style=\"font-size:14px;font-weight:400;\"><a style=\"background-color:transparent;color:#ffffff;font-family:Roboto, sans-serif;\" href=\"https://next.nexusmods.com/baldursgate3/collections/zykoge\"><img src=\"https://i.imgur.com/IoNFK65.png\" alt=\"IoNFK65.png\"></a></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<p><a style=\"color:#e1b894;\" href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1730781243,
+    "date_updated": 1777371136,
+    "date_live": 1730781994,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/slayer-assets-pearl-dark-urge-dragonborn-cc",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 7633040,
+      "mod_id": 4465847,
+      "version": "1.0.0.6",
+      "filename": "slayer_assets_pearl_54da0a5b-0-bk8r.zip",
+      "changelog": "Crest tops grip handlers updated (hats handling)",
+      "date_added": 1776162853,
+      "date_updated": 0,
+      "date_scanned": 1776162895,
+      "filesize": 7724413,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "sa_pearl_bannercopy.1.png",
+      "original": "https://image.modcdn.io/mods/0e59/4465847/sa_pearl_bannercopy.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0e59/4465847/crop_320x180/sa_pearl_bannercopy.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0e59/4465847/crop_640x360/sa_pearl_bannercopy.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0e59/4465847/crop_1280x720/sa_pearl_bannercopy.1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Scars",
+        "name_localized": "Scars",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7633040
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7633040
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7633040
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7633040
       }
     ]
   },
@@ -84130,6 +84426,109 @@
       {
         "platform": "ps5",
         "modfile_live": 7457746
+      }
+    ]
+  },
+  {
+    "id": 4625002,
+    "game_id": 6715,
+    "name": "Eladrin",
+    "name_id": "eladrin",
+    "summary": "An adaptation of the Eladrin race from 5E.",
+    "description": "<blockquote>\n<p>\"Eladrin are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. An eladrin is associated with one of the four seasons and has colouration reminiscent of that season, which can also affect the eladrin's mood.\"</p>\n</blockquote>\n<p>This mod adds eladrin as a playable elven subrace. Because it is a subrace and not a new race entirely, it should be compatible with cosmetic mods that add new heads, hair, etc. without issue! In fact, I strongly recommend <a title=\"Feywild Heads and Antlers for Elves\" href=\"https://www.nexusmods.com/baldursgate3/mods/14540\"><strong>this head mod</strong></a> I made to go with it (shown in the preview).</p>\n<hr>\n<h3>Along with the inherited general elf traits, eladrin have the following:</h3>\n<ul>\n<li><strong>Fey Step</strong> - As a bonus action, teleport to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. When you reach 3rd level, your Fey Step gains an additional effect based on your season:\n<ul>\n<li><strong>Autumn </strong>- Charm and teleport to an enemy.</li>\n<li><strong>Winter </strong>- Frighten and teleport to an enemy.</li>\n<li><strong>Spring </strong>- Teleport yourself in the place of another person you can see.</li>\n<li><strong>Summer </strong>- **** fire damage and teleport to an enemy.</li>\n</ul>\n</li>\n<li><strong>Trance </strong>- When you reach 3rd level, you can change your season once per long rest.</li>\n</ul>\n<hr>\n<p>As a bonus, this mod also includes four reusable seasonal dyes for your armour/clothing! They will be in your inventory when you start the game.</p>",
+    "date_added": 1736179250,
+    "date_updated": 1777371326,
+    "date_live": 1736180228,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/eladrin",
+    "submitted_by": {
+      "id": 33661686,
+      "name_id": "tepkunset",
+      "username": "tepkunset",
+      "profile_url": "https://mod.io/u/tepkunset",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/94a9/33661686/crop_100x100/tepkunseticon.png"
+    },
+    "modfile": {
+      "id": 5952024,
+      "mod_id": 4625002,
+      "version": "1.0.0.12",
+      "filename": "eladrin_1276f9f4-4dd6-dcc3-edc-cmow.zip",
+      "changelog": null,
+      "date_added": 1736179261,
+      "date_updated": 0,
+      "date_scanned": 1736179286,
+      "filesize": 21434374,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/5f04/4625002/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5f04/4625002/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5f04/4625002/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5f04/4625002/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5952024
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5952024
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5952024
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5952024
       }
     ]
   },
@@ -102074,6 +102473,11 @@
         "date_added": 0
       },
       {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
         "name": "Armor",
         "name_localized": "Armor",
         "date_added": 0
@@ -103567,6 +103971,119 @@
       {
         "platform": "ps5",
         "modfile_live": 6287948
+      }
+    ]
+  },
+  {
+    "id": 4880828,
+    "game_id": 6715,
+    "name": "Weave Monk",
+    "name_id": "weave-monk",
+    "summary": "A monk that uses magic-imbued physical attacks and defense. This mod delivers the Weave Monk as a stand-alone class with four distinct subclasses. Can be used together with other mods that add Monk subclasses. Progressions to level 20.",
+    "description": "<h2><span style=\"text-decoration:underline;\">Recent Changes</span></h2>\n<p>05 April 2026 (v2.0.0.6) - Removed generated shader files blocking console approval.</p>\n<p> </p>\n<p>All Weave Monk subclasses are also available as subclasses for Monk in this mod: <a href=\"https://mod.io/g/baldursgate3/m/weave-monk-subclasses-reworked-and-standalone#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Weave Monk Subclasses Reworked and Standalone</strong></a>.</p>\n<p> </p>\n<h2>Subclasses</h2>\n<p><em>Way of Samsara</em> - This subclass focuses on dealing Radiant and Necrotic damage which it draws from the weave through the continuous cycle of life and death.</p>\n<p><em>Way of Mo'Verdine</em> - This subclass draws power from the flow of the elements of the earth, wind and fire through weave. These monks use their ki to control these energies to imbue their attacks and bolster their defenses.</p>\n<p><em>Way of Eldritch Magic - </em>This subclass captures the haunting and mysterious powers of the weave and enhances their techniques with force and psychic magic.</p>\n<p><em>Way of the Storm Rider</em> - This subclass draws on the elemental energies the power the raging tempest, dealing thunder, lightning and cold damage across a variety of techniques.</p>\n<h3> </h3>\n<h3>Orders</h3>\n<p>Weave monks are a scholars in a specialized monastic order that offer training in unique skills and abilities.</p>\n<p><em>Order of Precognition</em> - You gain a bonus to Initiative that scales with your level. At level 3, you can no longer be confused. At level 6, you can no longer be surprised. At level 9, you gain immunity from being charmed. And at level 12, you can no longer be stunned.</p>\n<p><em>Order of the Bujin</em> - Years of advanced arcane martial training grant you +1 to Wisdom every 8 levels. At level 5, you gain a reaction and at level 9 you gain a bonus action.</p>\n<p><em>Order of the Sangoma</em> - Your training connects you through the weave to ancestral spirits and power, granting you restorative techniques. Whenever you heal, gain additional hit points equal to half your Monk level + Wisdom modifier. You also gain <em>Ethereal Healing</em> that passively restores HP for 2 + wisdom modifier # of turns.</p>\n<p><em>Order of the Arcanist</em> - You are a master of the arcana and subtlies of the weave. You gain +1 bonus to spell save DC every 7 levels and reduce damage taken from spells by a level-scaled die + your wisdom modifier.</p>\n<p> </p>\n<h3>Passives</h3>\n<p><em>Weave Arts: Agonizing Strikes - </em>Adds Wisdom modifer of Force damage to unarmed attacks</p>\n<p><em>Weave Arts: Swift Strikes - </em>Adds Wisdom + Dexterity modifers of Force damage to unarmed attacks</p>\n<p><em>Weave Arts: Braiding</em> - Allows you to harness damage taken of a specific type that can be unleashed on multiple targets as a separate action. Stacks up to 3x.</p>\n<p><em>Weave Arts: Retribution</em> - Upon taking damage of a specific type, you automatically reflect its reciprocal type back on the attacker.</p>\n<p><em>Weave Arts: Coalesce Braids -</em> Focus your ki and use the weave to amplify the braided energy you've harnessed, doubling the damage when released.</p>\n<p><em>Weave Arts: Ply-Split Braids - </em>You are able to force your ki through the braided energy, unraveling braided magic into additional strands and increasing damage.</p>\n<p><em>Weave Arts: Penitence - </em>You sacrifice part of yourself and take one type of magical damage in order to empower your unarmed attacks with the reciprocal energy type, amplifying it even further.</p>\n<p><em>Weave Arts: Attunement - </em>Grants you advantage when attacking beings aligned with certain magical energies and their disadvantage when attacking you.</p>\n<p><em>Weave Arts: Deeper Attunement</em> - Grants you resistence and +1 AC when being attacked by beings aligned with certain magical energies.</p>\n<p><em>Weave Arts: Fundamental Attunement</em><em> - </em>Grants you immunity to certain status effects and add your wisdom modifier to your AC when being attacked by beings aligned with certain magical energies.</p>\n<p><em>Weave Arts: Enlightened Attunement</em><em> - </em>Grants you immunity to certain damage types and add your constitution modifier to your AC when being attacked by beings aligned with certain magical energies.</p>\n<p><em>Dreadful Blast: Trauma - </em>Add Force damage equal to your Dexterity modifier to each beam of <em>Dreadful Blast</em></p>\n<p><em>Dreadful Blast: Torment - </em>Add Psychic damage equal to your Wisdom modifier to each beam of <em>Dreadful Blast</em></p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\"><em>Weave Arts: Braiding</em></span></p>\n<p>This passive accumulates a specific of damage, up to three stacks, for up to 10 turns. Weave monks can use this energy is multiple ways. With any number of braids, the magic can be released as a projectile onto a single target. It can also be used for melee and defense. With a single braid, add 1d4 of the damage type to your unarmed attacks. With a pair, add 1d8 damage and gain resistance to that magic type. At three braids, add 1d12 and gain immunity to that damage type.</p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\"><em>Weave Arts: Te Waza Techniques</em></span></p>\n<p><em>Iron Fist - </em>Your unarmed strikes have a chance to knock your opponent back and on a critical hit leave them reeling.</p>\n<p><em>Bloody Knuckles - </em>Your unarmed strikes have a chance to inflict bleeding and on a critical hit leave them bloodless.</p>\n<p><em>Brass Knuckles </em>- Your unarmed strikes have a chance to knock your opponent prone and on a critical hit leave them with chest trauma.</p>\n<p><em>Carpal Tunnel </em>- Your unarmed strikes have a chance to knock your opponent's weapon away and on a critical hit leave them with weak grip.</p>\n<p><em>Filed Nails </em>- Deal additional 1d8 + Wisdom piercing damage on critical hit.</p>\n<p><em>Five Fingers of Fate </em>- On dealing a critical hit, there is a slight chance of gaining either a bonus action or ki point.  <em>Order of the Bujin </em>weave monks have 5% better chance.</p>\n<p><em>Snare</em> - Hold your opponent on a critical hit.<em> Order of the Arcanist</em> weave monks have a 5% better chance and extend the effect by 1 turn.</p>\n<p><em>Soft Hands</em> - Regenerate 1d8 + Wisdom when you cause an attacker to critically miss.  <em>Order of the Sangoma</em> weave monks heal an additional 1d8</p>\n<p><em>Touch of Evil</em> - When you cause an attacker to critically miss, deal 1d8 + Wisdom necrotic and possibly curse them.</p>\n<p><em>Sidestep</em> - Increase your AC +1 vs melee attacks.</p>\n<p><em>Dropstep</em> - When you take slashing damage from a weapon attack, there is a slight chance you gain a bonus action. <em>Order of the Bujin</em> weave monks have 5% better chance.</p>\n<p><em>Death Point Counter</em> - When you take melee or weapon damage, counter with a technique that has a chance to deal 1d8+Wisdom force damage and a very, very slight chance to instantly kill the attacker.</p>\n<p><em>Touched Nerve</em> - When you take a critical hit, counter with 1d8+Wisdom Psychic and a chance to paralyze the attacker.</p>\n<p><em>All Thumbs<strong> </strong></em>- When you take a critical hit, counter by disarming your opponent and possibly leave them hindered.</p>\n<p><em>Idle Hands</em> -  When making an opportunity attack, add you dexterity modifier to the attack roll and your wisdom modifier to the damage.</p>\n<p><em>Stance Breaker</em>-  Your bonus unarmed strike is made with advantage and your opponent must make a strength save or become stance-broken for 2 turns.</p>\n<p><em>Shunt </em>-  As a reaction, halve damage taken from stance-broken attackers and reflect half of that back to them, along with 1d8 force to any other stance-broken enemy up to 2m away.</p>\n<p><em>Prediction </em>-  Add (Wisdom Modifier + Dexterity Modifier)/2 to your attack rolls. <em>Order of Precognition</em> weave monks use the greater of the two.</p>\n<p><em>Undisciplined </em>-  You attack with disadvantage but increase your chance of critical hits by 1 and deal additional 1d10 plus the greater of your strength and dexterity modifiers to unarmed attacks. You lose your wisdom bonus to AC and enemies have advantage attacking you but you reduce incoming melee and ranged damage by 1d4 plus your dexterity modifier. You also gain advantage on strength and dexterity saving throws.</p>\n<p><em>Pugilist</em> - You have advanced training in hand-to-hand defense and counter-punching. Incoming Bludgeoning damange is reduced by your dexterity modifier and your unarmed attacks do additional damage equal to half your wisdom modifier and have a chance to daze your opponent and will knock them out on critical hit.</p>\n<p><em>Savage Striker - </em>When making unarmed melee attacks, you roll your damage dice twice and use the highest result.</p>\n<p><em>Heavy Hitter - </em>Reroll 1s on damage dice and your bonus unarmed attack does additional force damage equal to the greater of your strength and dexterity modifiers.</p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\"><em>Weave Arts: Death Rituals</em></span></p>\n<p><em>Death Pact - </em>Revive an ally by sacrificing your ki in exchange for their soul - they will be reborn with HP equal to your monk level - but you and others around you pay the cost. You endure radiant and necrotic damage as the spell takes hold and again as you are freed from your obligation (this is halved for Order of Precognition weave monks). The target will erupt in death magic, dealing necrotic damage and steal this lifeforce for their own.</p>\n<p><em>Primal Release - </em>Release the ki from a corpse in successive waves of powerful energy. You and your allies heal as you absorb the life force while your foes take psychic damage.</p>\n<p><em>Return Stroke</em> - Force-channel your storm-bound ki though a downed ally. As they struggle to stay alive, their ki rages through the weave, clashing with yours, generating and electrified field and causing lightning strikes dealing damage per turn to anyone caught inside. The surge wanes upon recovery, death or break in your concentration. Order of the Arcanist weave monks have concerntration advantage when performing this ritual.</p>\n<p><em>Immolation</em> - When you are downed or killed, you briefly revive only to sacrifice yourself back to the weave in a column of fire, dealing massive fire damage to all caught within. Order of Bujin weave monks deal extra. </p>\n<p> </p>\n<h3>Class Actions </h3>\n<p><em>Weave Arts:</em> <em>Abduction </em>- Submit an enemy and pull them through a weave portal, inflicting multiple types of magic damage and teleporting you both up to 10m.</p>\n<p><em>Weave Arts: Ki Strikes - </em>Infuse your specialized magical energy into an unarmed attack, inflicting status effects and adding magical damage on top of unarmed damage.</p>\n<p><em>Weave Arts:</em> <em>Ki Pulse - </em>Bind your ki to the weave and unleash a concentrated blast of magical energy into everything within 4m.</p>\n<p><em>Weave Arts: Ki Armor</em><em> - </em>Infuse your body with ki and deal 1d10 Force damage to any creature that hits you with a melee attack.</p>\n<p><em>Weave Arts: Kuzushi - </em>Weave-powered balance-breaking technique that pushes targets away and they must save or become stance-broken.</p>\n<p><em>Weave Shield - </em>Wreathe your body in magical energy, adding +1 AC and dealing 2d8 damage to attackers.</p>\n<p><em>Randori -</em> Attack up to 3 targets in 180 degree arc, dealing an additional 1d4 Force damage and possibly Disarming them.</p>\n<p><em>Advanced Randori -</em> Attack up to 4 targets in 270 degree arc, dealing an additional 1d6 Force damage and possibly Disarming them. </p>\n<p><em>Randori Mastery</em> - Attack up to 5 targets in full circle, dealing an additional 1d8 Force damage and possibly Disarming them. </p>\n<p><em>Holy Hands </em>- Channel your ki into a holy strike and possibly Blind and Turn your target. Additional 1d6 + Wisdom Radiant</p>\n<p><em>Mind Blast</em> - Same as base Illithid spell. 2d6 + Wisdom Psychic + Stun</p>\n<p><em>Sweaty Palms </em>- A soaking unarmed attack that drenches your enemy and creates a water surface.</p>\n<p><em>Cold Snap </em>- A freezing unarmed attack that deals an additional 1d4 Cold damage and creates a icy surface.</p>\n<p><em>Thunder Clap </em>- A earsplitting unarmed attack dealing an additional 1d6 Thunder damage that knocks your opponent back.</p>\n<p><em>Throw Sparks </em>- An unarmed assault dealing lightning damage that branches out to nearby enemies, inflicting 1d8 Lightning to each hit.</p>\n<p><em>Dreadful Blast </em>- Violently wrench eldritch magic from the weave into a beam of torturous energy. Damage scales with character level. Additional Ki can add targets.</p>\n<p><em>Wrathful Strike</em> - Channel your ki into a menacing strike and possibly Frighten your target. They'll have Disadvantage on Ability Checks and Attack Rolls and be unable to move.</p>\n<p><em>Hateful Strike </em>- Channel your ki into a menacing strike and possibly Frighten and Stun your target. They'll have Disadvantage on Ability Checks and Attack Rolls and be unable to move.</p>\n<p><em>Withering Hands</em> - Channel ki from the other side into a deadly strike and possibly inflict Necrotic Infection on your target. They'll take additional 1d4 Necrotic damage per turn.</p>\n<p><em>Decaying Hands</em> - Channel ki from the other side into a deadly strike and possibly inflict Necrotic Decay on your target. They'll take additional 1d6 Necrotic damage per turn.</p>\n<p><em>Rotting Hands</em> - Channel ki from the other side into a deadly strike and possibly inflict Necrotic Rot on your target. They'll take additional 1d8 Necrotic damage per turn.</p>\n<p><em>Weave Skin: Bark</em> - Same as Barkskin</p>\n<p><em>Weave Skin: Stone</em> - Same as Stoneskin</p>\n<p><em>Weave Skin: Crystal</em> - Same as Crystalskin</p>\n<p><em>Exhale Frost</em> - Channeling your ki you expel a flurry of frost, crisp air, and condensed snow crystals (180 degrees). 3d6 + Wisdom Cold </p>\n<p><em>Exhale Frost 2</em> - Channeling your ki you expel a flurry of frost, crisp air, and condensed snow crystals (360 degrees). 6d6 + Wisdom Cold</p>\n<p><em>Cloud of Magma </em>- Conjure a cloud of spinning boulders of magma that hit anyone inside. 2d6 Bludgeoning + 3d6 Fire</p>\n<p><em>Weave Weapon</em> - Use ki points to imbue a weapon with either a +2 attack bonus or 1d4 damage.</p>\n<p><em>Flame Lash</em> - Lash out with flaming rope targeting multiple (level-scaled) enemies inflicting fire damage (also level-scaled) and burning. At level 7, the technique is enhanced to snap the lashes in subsequent turns (similar to how Witch Bolt works) to deal additional fire damage and force targets to make a strength save or become vulnerable to fire.</p>\n<p><em>Wind Tunnels</em> - You create and deliver tunnels of magical wind energy onto your foes dealing bludgeoning damage (as with <em>Flame Lash</em>, target count and damage scale with levels). While concentrating, targets caught in a tunnel have their movement speed reduced and take 1d6 bludgeoning per turn. They must also make a strength save or be knocked back 2m.</p>\n<p><em>Cascading Strikes </em>- A unarmed attack through which you bind your ki to your enemies, enabling you to enhance particular damage types they take in subsequent attacks, as long as you maintain concentration. Enemies can make a Constitution save to break free. Target count and damage scale with levels.</p>\n<p><em>Ki Embedding</em> - Transfer and embed your ki to an ally granting them +2 attack bonus, 1d4 damage of a partilcar type and resistance to the same damage type. You take 1d6 damage per turn as long as you maintain concentration.</p>\n<p> </p>\n<h3>Base Progression</h3>\n<p>Level 1 - Unarmored Defense, Unarmed Damage, Dexterous Unarmed Attacks, Bonus Unarmed Strike (all same as base game Monk)</p>\n<p>               Subclass Feature: <em>Woven Order, </em><em>Weave Arts: Braiding</em></p>\n<p>Level 2 - Unarmored Movement, <em>Weave Arts: Agonizing Strikes, Weave Arts: Te Waza (x1)</em></p>\n<p>               Subclass Feature: <em>Weave Arts: Retribution, Cascading Strikes</em></p>\n<p>Level 3 - Feather Fall, Deflect Missles, <em>Kuzushi</em></p>\n<p>               Subclass Feature: <em>Weave Arts: Attunement</em></p>\n<p>Level 4 - Slow Fall, <em>Randori</em></p>\n<p>               Subclass Feature: <em>Weave Arts: Abduction</em></p>\n<p>Level 5 - Extra Attack, <em>Weave Arts: Coalesce Braids, Weave Arts: Te Waza (x1)</em></p>\n<p>               Subclass Feature: <em>Ki Embedding</em></p>\n<p>Level 6 - Unarmored Movement 2 (replaces Unarmored Movement<em>)</em>, <em>Weave Arts: Ki Armor</em></p>\n<p>               Subclass Feature: <em>Weave Arts: Penitence, Weave Shield</em></p>\n<p>Level 7 - Evasion, <em>Advanced Randori (</em>replaces <em>Randori</em>)</p>\n<p>Level 8 - <em>Weave Arts: Swift Strikes</em> (replaces <em>Agonizing Strikes</em>)<em>, Weave Arts: Te Waza (x1)</em></p>\n<p>               Subclass Feature: <em>Weave Arts: Deeper Attunement (</em>replaces <em>Attunement), Weave Arts: Death Ritual</em></p>\n<p>Level 9 - Unarmored Movement: Difficult Terrain</p>\n<p>               Subclass Feature: <em>Ki Strikes</em></p>\n<p>Level 10 - Unarmored Movement 3 (replaces Unarmored Movement 2), <em>Weave Arts: Ply-Split Braids</em></p>\n<p>Level 11 - <em>Randori Mastery</em> (replaces <em>Advanced Randori), Weave Arts: Te Waza (x1)</em></p>\n<p>Level 12 - Subclass Feature: <em>Weave Arts: Fundamental Attunement (</em>replaces <em>Deeper Attunement)</em></p>\n<p>               Subclass Feature: <em>Ki Pulse</em></p>\n<p>Level 14 - <em>Weave Arts: Te Waza (x1)</em></p>\n<p>Level 15 - Subclass Feature: <em>Weave Arts: Enlightened Attunement (</em>replaces <em>Fundamental Attunement)</em></p>\n<p>Level 17 - <em>Weave Arts: Te Waza (x1)</em></p>\n<h3> </h3>\n<h3>Way of Samsara</h3>\n<p>Level 1 - <em>Weave Arts: Braid Death</em></p>\n<p>Level 3 - <em>Withering Hands</em></p>\n<p>Level 5 - <em>Holy Hands</em></p>\n<p>Level 6 - <em>Weave Shield: Death, Life</em></p>\n<p>Level 7 - <em>Decaying Hands (</em>replaces <em>Withering Hands)</em></p>\n<p>Level 8 - <em>Death Pact</em></p>\n<p>Level 9 - <em>Sun Strike, Soul Strike</em></p>\n<p>Level 10 - <em>Rotting Hands (</em>replaces <em>Decaying Hands)</em></p>\n<p>Level 12 - <em>Ki Pulse Necrotic, Ki Pulse Radiant</em></p>\n<h3> </h3>\n<h3>Way of Mo'Verdine</h3>\n<p>Level 1 - <em>Weave Arts: Braid Fire, Flame Lash</em></p>\n<p>Level 3 - <em>Weave Skin: Bark, Wind Tunnels</em></p>\n<p>Level 6 - <em>Weave Shield: Wind, FIre</em></p>\n<p>Level 7 - <em>Weave Skin: Stone, Flame Lash Enhanced (</em>replaces <em>Flame Lash)</em></p>\n<p>Level 8 - <em>Immolation</em></p>\n<p>Level 9 - <em>Ember Strike, Wind Strike</em></p>\n<p>Level 10 - <em>Cloud of Magma</em></p>\n<p>Level 11 - <em>Weave Skin: Crystal</em></p>\n<p>Level 12 - <em>Ki Pulse Fire, Ki Pulse Wind, Ki Pulse Stone</em></p>\n<h3> </h3>\n<h3>Way of Eldritch Magic</h3>\n<p>Level 1 - <em>Weave Arts: Braid Psionics</em></p>\n<p>Level 3 - <em>Dreadful Blast, Wrathful Strike</em></p>\n<p>Level 5 - <em>Mind Blast</em></p>\n<p>Level 6 - <em>Weave Shield: Force, Psychic; </em>Unlock <em>Dreadful Blast</em><em> </em> with 2 and 3 targets.</p>\n<p>Level 7 - <em>Hateful Strike (</em>replaces <em>Wrathful Strike); Dreadful Blast: Trauma </em></p>\n<p>Level 8 - <em>Primal Release</em></p>\n<p>Level 9 - <em>Eldritch Strike</em></p>\n<p>Level 10 - <em>Baleful Strike (</em>replaces <em>Hateful Strike); Unlock Dreadful Blast</em> with 4 and 5 targets.</p>\n<p>Level 12 - <em>Ki Pulse Eldritch, Harrowing Strike (replaces Baleful Strike); Dreadful Blast: Torment</em></p>\n<p>Level 14 - <em>Harrowing Strike (replaces Baleful Strike)</em></p>\n<p> </p>\n<h3>Way of the Storm Rider</h3>\n<p>Level 1 - <em>Weave Arts: Braid Lightning, Sweaty Palms</em></p>\n<p>Level 2 - <em>Cold Snap</em></p>\n<p>Level 3 - <em>Thunder Clap</em></p>\n<p>Level 4 - <em>Throw Sparks</em></p>\n<p>Level 5 - <em>Exhale Frost</em></p>\n<p>Level 6 - <em>Weave Shield: Thunder, Lightning</em></p>\n<p>Level 8 - <em>Return Stroke</em></p>\n<p>Level 9 - <em>Storm Strike</em></p>\n<p>Level 10 - <em>Expel Frost </em></p>\n<p>Level 12 - <em>Ki Pulse Storm, Ki Pulse Blizzard</em></p>\n<p> </p>\n<h2>Disclaimers &amp; Credits</h2>\n<p>This is my first mod and mostly just wanted to figure out how the toolkit and its systems worked. I really l*** playing monks during my play-throughs and tried a handful of different mods that introduce new subclasses. I wanted to try to mix more magic into the class but as melee options. I haven't really play-tested this so I have no idea how the skills scale in-game. Also, there's still oddities I haven't figured out like why some actions show up as spells and others do not.</p>\n<p>The class and spell icons are all over the place, most are generated with either Gemini or Craiyon and edited with GIMP, some are just recycled from the bas* game. I may try to normalize these at some point. Some suck. Some are kinda cool. None match. Whatever.</p>\n<p>I didn't duplicate all the details and damage output for all actions and spells here. Many scale like cantrips.</p>\n<p>Happy to hear feedback, might even implement requests or suggestions. Hope someone enjoys it.</p>\n<p>If you got the Mo'Verdine reference - right on, let's groove.</p>\n<p>Shout out to Larian for an epic game and anyone who ever tried to make a mod and put it out there to spread the fun. You all rock. </p>",
+    "date_added": 1745022279,
+    "date_updated": 1777371496,
+    "date_live": 1745022279,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/weave-monk",
+    "submitted_by": {
+      "id": 45548325,
+      "name_id": "modiouser5611121",
+      "username": "purplesaurusrex",
+      "profile_url": "https://mod.io/u/modiouser5611121",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 7597555,
+      "mod_id": 4880828,
+      "version": "2.0.0.6",
+      "filename": "weavemonk_013589bf-afef-410c-6-7quj.zip",
+      "changelog": "Removed generated shader files",
+      "date_added": 1775350502,
+      "date_updated": 0,
+      "date_scanned": 1775350597,
+      "filesize": 60678248,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/01da/4880828/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/01da/4880828/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/01da/4880828/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/01da/4880828/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Monk",
+        "name_localized": "Monk",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7597555
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7597555
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7597555
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7597555
       }
     ]
   },
@@ -130483,6 +131000,154 @@
     ]
   },
   {
+    "id": 5254488,
+    "game_id": 6715,
+    "name": "Vestments Of The Faithful",
+    "name_id": "vestments-of-the-faithful",
+    "summary": "For the faithful of Bane, Bhaal, Myrkul, Asmodeus, Auppenser, Chauntea, Corellon, Cyric, Eldath, Eilistraee, Ghaunadaur, Ilmater, Kelemvor, Kiaransalee, Lathander, Loviatar, Milil, Mystra, Oghma, the Raven Queen, Selune, Shar, Silvanus, Sune, ...",
+    "description": "<div style=\"text-align:center;\"> </div>\n<div style=\"text-align:center;\"><img src=\"https://i.imgur.com/69QhG4Y.png\" alt=\"69QhG4Y.png\"></div>\n<div style=\"text-align:center;\"> </div>\n<div style=\"text-align:center;\"><span style=\"font-size:large;\">400+ armours, robes, and accessories for followers of Bane, Bhaal, Myrkul, Asmodeus, Auppenser, Corellon, Cyric, Eilistraee, Ghaunadaur, Ilmater, Kelemvor, Kiaransalee, Lathander, Loviatar, Milil, Mystra, Oghma, the Raven Queen, Selûne, Shar, Silvanus, Sune, Talona, Talos, Tymora, Umberlee, and Waukeen<br></span></div>\n<div style=\"text-align:center;\"> </div>\n<p style=\"text-align:center;\">Please note that all the items in this mod use Baldur's Gate 3's \"vanilla\" assets--<em>i.e.</em>, these are <em>unaltered </em>models from the game itself. While minor issues like unrendered textures have been corrected, major bugs such as model clipping and missing cloth physics may be present until Larian Studios makes alterations in a future patch. Furthermore, most of the items in this mod were created by the developers for use by NPCs in the game and were not intended for player use, so visuals for a particular item might not be available for every body type.</p>\n<p style=\"text-align:center;\">For a complete description of the mod, please visit <a href=\"https://www.nexusmods.com/baldursgate3/mods/4718\">https://www.nexusmods.com/baldursgate3/mods/4718</a>.</p>\n<p><br>13 April 2026: This mod has been rejected for console curation and will be available for Windows PC users only.</p>\n<p> </p>\n<p><strong>Acquisition:</strong> </p>\n<ul>\n<li>the Tutorial Chest on the nautiloid</li>\n<li>Arron, the Emerald Grove (Act 1)</li>\n<li>Roah Moonglow, Goblin Camp (Act 1) and Moonrise Towers (Act 2)</li>\n<li>Quartermater Talli, Last Light Inn (Act 2)</li>\n<li>Entharl Danthelon, Danthelon's Dancing Axe (Act 3)</li>\n</ul>\n<p> </p>\n<p style=\"text-align:center;\">Please visit my other BG3 mod</p>\n<p style=\"text-align:center;\"><span style=\"font-size:large;\"><strong><a href=\"https://mod.io/g/baldursgate3/m/armouries-of-the-allegiant\" target=\"_blank\" rel=\"noopener noreferrer\">Armouries of the Allegiant</a></strong></span></p>\n<div style=\"text-align:center;\"><a href=\"https://mod.io/g/baldursgate3/m/armouries-of-the-allegiant\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nR8r9Az.png\" alt=\"nR8r9Az.png\"></a></div>\n<div> </div>\n<div> </div>\n<p><strong>Changelog:</strong></p>\n<div><strong>5.5.1.2</strong> - </div>\n<div>\n<ul>\n<li>New Clergies: The Cults of Ghaunadaur and Kiaransalee.</li>\n<li>Chauntea: Added 2 more variants of the Cape of Floronic Transformation.</li>\n<li>Lathander: Corrected the visuals of the Ferronnière of Spring Growth for tieflings, githyanki, and dragonborn.</li>\n<li>Loviatar: The Gag Order ability of the Paingiver's Studded Gloves now imposes Muted instead of Silenced.</li>\n<li>Selune: Added the Floating ability to the Mooncloak.</li>\n<li>Talos: Added the missing Thunderous Conversion ability to the Divine Stormlord Gauntlets.</li>\n<li>Tymora: The Accursed Spirits spell of the Contemptuous Gloves of the Jinx can now be only cast once per long rest.</li>\n<li>Umberlee: The Voice Stealer spell of the Sea Witch Talisman now imposes the Muted condition instead of Silenced.</li>\n<li>Umberlee: The Insulated armor property now also grants Resistance to Thunder damage at 5th level.</li>\n<li>Umberlee: The Wild Shape: Water Elemental ability now costs a bonus action instead of an action.</li>\n</ul>\n</div>\n<div><strong>5.4.1.5</strong> - </div>\n<div>\n<ul>\n<li>New Clergies: The Churches of Chauntea and Eldath.</li>\n<li>Myrkul: Deathbringer's Pauldrons now have the same properties as the Deathbringer's Armours (most do not stack).</li>\n<li>Oghma: Reduced the temporary HP granted by the Chant of Life from \"Wisdom modifier x Level\" to \"Wisdom modifier + Level\"</li>\n<li>Selûne: Renamed Shard's Pauldrons to Shard's Celestial Pauldrons, assigned it properties similar to Shard's Celestial Armour (most do not stack).</li>\n<li>Silvanus: Upgraded the basic shoulder leaf decor to Druidic Foliage Adornments and added a second variant.</li>\n<li>Silvanus: Added a second variant of the Headdress of the Horned Hunter.</li>\n<li>Talona: The Blightlord’s Overgrown Armour now grants 2 Wild Shape charges (as stated in the description) instead of just 1.</li>\n<li>Talona: Removed Resistance to Bludgeoning/Piercing/Slashing damage from shadowcursed shambling mound wild shape, replaced it with Necrotic Resistance.</li>\n</ul>\n</div>\n<div><strong>5.3.1.9</strong> - </div>\n<div>\n<ul>\n<li>Global: Added a book/scroll of lore to each of the reliquaries.</li>\n</ul>\n</div>\n<div><strong>5.3.0.8</strong> - </div>\n<div>\n<ul>\n<li>New clergies: Added gear for followers of Cyric and Auppenser.</li>\n<li>Lathander: Added new variants of Boots of Athleticism and Robe of Spring Renewal.</li>\n<li>Leira: Added the Astounding Illusionist's Top Hat and the Gloves of Legerdemain.</li>\n<li>Leira: Revised the 5th level and 8th level abilities of the Gambeson of the Scoundrel so it won't overlap with other Leiran items' abilities.</li>\n<li>Oghma: Changed Loremaster Secrets I and II from \"once every long rest\" to \"once every short rest.\"</li>\n</ul>\n</div>\n<div><strong>5.1.0.6</strong> - [never went live but can be accessed through the archive]</div>\n<div>\n<ul>\n<li>Equipment for the faithful of Bane, Bhaal, Myrkul, Asmodeus, Corellon, Eilistraee, Ilmater, Kelemvor, Lathander, Loviatar, Milil, Mystra, Oghma, the Raven Queen, Selûne, Shar, Silvanus, Sune, Talona, Talos, Tymora, Umberlee, and Waukeen.</li>\n</ul>\n</div>\n<div> </div>\n<div> </div>\n<div>\n<p><strong>Frequently Asked Questions:</strong></p>\n<p> </p>\n<blockquote>\n<p>I'm a modder, can I use this mod's assets / make this mod a requirement for my own mod?</p>\n</blockquote>\n<p>Feel free to unpack this mod's pak files and copy what you need, no need to ask permission from me. Everything here is vanilla and therefore owned by Larian. You can also DM me in Nexus or in Discord (same username) if you have any questions. Happy modding!</p>\n<p> </p>\n<blockquote>\n<p>Do you take commissions?</p>\n</blockquote>\n<p>No, but I will take suggestions for items or sets that fit the theme of this mod. The <a href=\"https://discord.gg/8xYpau9p\">Down by the River</a> Discord server has a channel for commissions, or just reach out to your favorite modders directly if their commissions are open so you don't get scammed.</p>\n<p> </p>\n<blockquote>\n<p>Can you make a certain item available for a certain body type? / Can you fix the clipping issue for this item? / Can you extract the clothing from an NPC belonging to a non-playable race?</p>\n</blockquote>\n<p>These require knowledge of 3D editing software, something that is beyond my modding skill. So, no. </p>\n<p> </p>\n<blockquote>\n<p>Would you consider distributing the items to the game world as drops or random treasure?</p>\n</blockquote>\n<p>Vestments of the Faithful was created as more like a roleplayer's dress-up mod rather than a loot mod. That is, if you conceptualized your Tav as a follower of a certain god, it will help them look the part and give them thematic abilities, as well. For now, this mod will remain as a collection of fixed equipment sets. </p>\n<p> </p>\n<blockquote>\n<p>Can you make a set for my favorite Forgotten Realms deity?</p>\n</blockquote>\n<p>My goal for this mod is to promote FR lore (or \"Realmslore\") to BG3 players who may be new to the setting, and deities are a great way to do that. If I find a certain piece of armor or clothing asset in the files that could potentially be used to represent a follower of a certain god, then I would surely try to make a set. That said, we don't have a lot of assets to work with and after 2 years of working on this mod I've pretty much combed through all of them. There might still be a few items in there but it's like scraping the bottom of the barrel at this point.</p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\">Most requested deities:</span></p>\n<ul>\n<li>Eilistraee - The Sword Dancer is an iconic Realms archetype. It's difficult to put together a costume that both reflects Eilistraee's values (beauty, art, friendship) and made for dancing half-naked under the moonlight. Something like a diaphanous dancer's robe or bejeweled body chain would do but I don't think I can pull one off with just BG3's assets. And no, I don't want to make a Sword Dancer garb that's just glorified lingerie. But check out <a href=\"https://mod.io/g/baldursgate3/m/cl-drownedinmoonlight\">Drowned in Moonlight</a> by copperleaves.</li>\n<li>Tyr, Torm, Helm, Bahamut - The clergy for these gods wear knightly gear, your stereotypical \"knight in shining armor.\" Consider the Order of the Gauntlet set from my other mod <a href=\"https://mod.io/g/baldursgate3/m/armouries-of-the-allegiant\">Armouries of the Allegiant</a>.</li>\n<li>Gruumsh - The chief orc deity and his wife Luthic are top of mind for me (and the rest of the orcish pantheon to a certain extent). A wild, shamanic look could conceivably be assembled using vanilla hide armors and barbarian gear but it's going to be a challenge.</li>\n<li>Lolth - No plans.</li>\n<li>Vlaakith - 2 sets of githyanki gear are in Armouries of the Allegiant.</li>\n<li>Mielikki - under development.</li>\n<li>Kossuth - Nobody asked for this set but it's under active development.</li>\n</ul>\n</div>\n<div> </div>\n<div> </div>\n<div> </div>\n<div style=\"text-align:center;\"><img src=\"https://i.imgur.com/dv3tnRF.jpg\" alt=\"dv3tnRF.jpg\"></div>",
+    "date_added": 1758683927,
+    "date_updated": 1777370306,
+    "date_live": 1758683927,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/vestments-of-the-faithful",
+    "submitted_by": {
+      "id": 38976091,
+      "name_id": "modiouser3550218",
+      "username": "FrancisN934757",
+      "profile_url": "https://mod.io/u/modiouser3550218",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f96c/38976091/crop_100x100/anupreviewimage.jpg"
+    },
+    "modfile": {
+      "id": 7386652,
+      "mod_id": 5254488,
+      "version": "5.5.1.2",
+      "filename": "vestmentsofthefaithful_4176096-6e78.zip",
+      "changelog": "New Clergies: The Cults of Ghaunadaur and Kiaransalee.\nChauntea: Added 2 more variants of the Cape of Floronic Transformation.\nLathander: Corrected the visuals of the Ferronnière of Spring Growth for tieflings, githyanki, and dragonborn.\nLoviatar: The Gag Order ability of the Paingiver's Studded Gloves now imposes Muted instead of Silenced.\nSelune: Added the Floating ability to the Mooncloak.\nTalos: Added the missing Thunderous Conversion ability to the Divine Stormlord Gauntlets.\nTymora: The Accursed Spirits spell of the Contemptuous Gloves of the Jinx can now be only cast once per long resty.\nUmberlee: The Voice Stealer spell of the Sea Witch Talisman now imposes the Muted condition instead of Silenced.\nUmberlee: The Insulated armor property now also grants Resistance to Thunder damage at 5th level.\nUmberlee: The Wild Shape: Water Elemental ability now costs a bonus action instead of an action.",
+      "date_added": 1770860976,
+      "date_updated": 0,
+      "date_scanned": 1770861062,
+      "filesize": 47868961,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "origins_companions_vestments_wp.6.png",
+      "original": "https://image.modcdn.io/mods/7003/5254488/origins_companions_vestments_wp.6.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7003/5254488/crop_320x180/origins_companions_vestments_wp.6.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7003/5254488/crop_640x360/origins_companions_vestments_wp.6.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7003/5254488/crop_1280x720/origins_companions_vestments_wp.6.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Dyes",
+        "name_localized": "Dyes",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Books",
+        "name_localized": "Books",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7386652
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7386652
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7386652
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7386652
+      }
+    ]
+  },
+  {
     "id": 5279335,
     "game_id": 6715,
     "name": "Ember's Wardrobe",
@@ -131031,6 +131696,124 @@
       {
         "platform": "ps5",
         "modfile_live": 6849977
+      }
+    ]
+  },
+  {
+    "id": 5293627,
+    "game_id": 6715,
+    "name": "Feat: Dexterous Weapon Master",
+    "name_id": "feat-dexterous-weapon-master",
+    "summary": "A Feat specific to Finesse weapons akin to Great Weapon Master with a unique twist. Created in collaboration with Dedewhale, who provided the idea and direction for this Feat.",
+    "description": "<p>Have you ever wished that Finesse weapons had a Great Weapon Master equivalent? Do you love sword-and-board characters, but the Duelling Fighting Style just doesn't cut it for you?</p>\n<p> </p>\n<p>Have no fear, Dexterous Weapon Master is here!</p>\n<p> </p>\n<p>Dexterous Weapon Master (DWM) is a feat which grants you a toggleable passive, reducing your attack rolls by 3 while increasing your damage by 6 with any Finesse weapon with which you are Proficient. Additionally, when you land a Critical Hit on an enemy with a melee weapon attack, you Stagger them, opening up their defenses and allowing you to strike harder, dealing additional damage equal to your Proficiency Bonus.</p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e05c/34834066/profiledwm/dwmstaggeringwounds.1.png\" alt=\"Dexterous Weapon Master: Staggering Wounds\" width=\"1080\" height=\"304\"></p>\n<p><img src=\"https://image.modcdn.io/members/e05c/34834066/profiledwm/dwmallin.2.png\" alt=\"Dexterous Weapon Master: All In\" width=\"1080\" height=\"304\"></p>\n<p> </p>\n<p>This mod was created in collaboration with Dedewhale, who provided the idea and direction for the Feat. It was created out of a need to fill a hole left by the likes of GWM and Sharpshooter, allowing your DEX-based Fighters and Rogues to shine without being constrained to two-handed or ranged weapons.</p>\n<p> </p>\n<p>If you like this mod, and want to see more (especially if you like 5e subclasses), check out my <a title=\"IncogneatoBurrito\" href=\"https://mod.io/u/incogneatoburrito/\">profile</a>.</p>\n<p> </p>\n<p>Lastly, if you enjoy my work, please consider a donation as a show of support!</p>\n<p><a href=\"https://ko-fi.com/incogneatoburrito\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/e05c/34834066/profile/support_me_on_kofi_blue.png\" alt=\"IncogneatoBurrito's Ko-Fi\" width=\"360\" height=\"73\"></a></p>",
+    "date_added": 1760475969,
+    "date_updated": 1777371446,
+    "date_live": 1760479733,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/feat-dexterous-weapon-master",
+    "submitted_by": {
+      "id": 34834066,
+      "name_id": "incogneatoburrito",
+      "username": "IncogneatoBurrito",
+      "profile_url": "https://mod.io/u/incogneatoburrito",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e05c/34834066/crop_100x100/incogneatoburritoprofilepic.png"
+    },
+    "modfile": {
+      "id": 6883498,
+      "mod_id": 5293627,
+      "version": "1.0.0.5",
+      "filename": "finesseweaponmasterfeat_3b49f1-11rf.zip",
+      "changelog": "1.0.0.5\n - Fixed feat description to reflect damage change introduced in 1.0.0.4.\n\n1.0.0.4\n - Boosted bonus damage for \"Dexterous Weapon Master: All In\" to 6\n\n1.0.0.3\n - Fixed typos in the spelling of the Feat name and passives\n\n1.0.0.2\n - Initial Release",
+      "date_added": 1761596563,
+      "date_updated": 0,
+      "date_scanned": 1761597345,
+      "filesize": 825476,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "01-dexterousweaponmasterfeat.png",
+      "original": "https://image.modcdn.io/mods/9645/5293627/01-dexterousweaponmasterfeat.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9645/5293627/crop_320x180/01-dexterousweaponmasterfeat.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9645/5293627/crop_640x360/01-dexterousweaponmasterfeat.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9645/5293627/crop_1280x720/01-dexterousweaponmasterfeat.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6883498
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6883498
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6883498
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6883498
       }
     ]
   },
@@ -135805,6 +136588,184 @@
       {
         "platform": "ps5",
         "modfile_live": 7334556
+      }
+    ]
+  },
+  {
+    "id": 5636525,
+    "game_id": 6715,
+    "name": "Homebrew Blade Cantrips",
+    "name_id": "homebrew-blade-cantrips",
+    "summary": "Collection of Homebrew Blade Cantrips. Includes Tidal Blade, Ember Blade, Static Blade, Blue-Frost Blade, Bright Blade, Cerebral Blade, Corrosive Blade, Virulent Blade, Warding Blade and Decaying Blade",
+    "description": "<div> </div>\n<div>\n<div>Mod contains 8 homebrew Blade Cantrips for different damge types within the game as well as a new Blade Cantrip Adept feat. Some of the cantrips are homebrewed by me and others have all taken inspiration or direct implementation from this post on <a title=\"DnD Beyond\" href=\"https://www.dndbeyond.com/forums/dungeons-dragons-discussion/homebrew-house-rules/83978-homebrew-blade-cantrips-please-give-feedback\" target=\"_blank\" rel=\"noopener noreferrer\">DnD Beyond</a> by Leviathan of Levistus, so credit to him for allowing me to take his ideas for implementation and modify accordingly due to game mechanics.</div>\n<div> </div>\n<div>All the blade cantrips are implemented according to DnD rules and not implementation of larians booming blade. Meaning, the cantrips in this mod are considered cantrips and will not benefit from extra attack. If you want to cast a blade cantrip and use a weapon attack then grab the Blade Cantrip Adept feat that comes in this mod.</div>\n<br><br>\n<div>All Mind Weaver subclasses are allowed to select 2 Blade Cantrips at Level 2 (except Bright Blade) and all 3 subclasses of Sword Dancers of Eilistraee gain Bright Blade and Blue-Frost Blade at Level 1 automatically.</div>\n<br><iframe src=\"https://www.youtube.com/embed/JUv2VPw7TWI\" width=\"560\" height=\"314\"></iframe><br>\n<h4><strong>Blade Cantrip Adept (Feat)</strong></h4>\n<div>After casting a blade cantrip, you can make one melee weapon attack as a Bonus Action. This attack deals one-third of your weapon damage at Level 4, half weapon damage at Level 5, and full weapon damage at Level 6.</div>\n<div> </div>\n<div>\n<div>\n<div>When you select this feat, you can also choose two Blade Cantrips.</div>\n</div>\n</div>\n<br>\n<h4><strong>Static Blade (Available to Sorcerer, Warlock, Wizard, Mind Weaver and Druid)</strong></h4>\n<div>Strike a creature with a weapon and charging it with lightning until the start of your next turn. If the charged creature or another creature moves within 3m of each other, you may cause lightning to arc between them dealing Lightning damage to new target and the charged target.</div>\n<div>At 5th level, the melee attack deals an extra 1d4 Lightning damage to the target, and the damage the secondary target takes increases to 2d4. Both damage rolls increase by 1d4 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Blue-Frost Blade (Available to Sorcerer, Warlock, Mind Weaver, Sword Dancers of Eilistraee and Warlock)</strong></h4>\n<div>Strike a creature with a weapon inflicting hypothermic frost until the end of your next turn. If the target uses a Reaction or Bonus Action, it takes Cold damage and the frost dissipates.</div>\n<div>At 5th level, the melee attack deals an extra 1d8 Cold damage to the target, and the hypothermic frost damage increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Corrosive Blade (Available to Sorcerer, Warlock, Wizard, Mind Weaver and Druid)</strong></h4>\n<div>Strike a creature with a weapon, coating it in magical acid and reducing its AC by 1. Until the end of your next turn, the target takes Acid damage equal to your Spellcasting Ability Modifier when it fails on a Dexterity Saving Throw.</div>\n<div>At 5th level, the melee attack deals an extra 1d6 Acid damage to the target, and the damage the target takes on failed Dexterity save increases to 1d6 + your Spellcasting Ability Modifer. Both damage rolls increase by 1d6 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Bright Blade (Available to Cleric and Sword Dancers of Eilistraee)</strong></h4>\n<div>Strike a creature with a weapon causing it to glow with radiant light. Until the end of your next turn, the next melee hit against the glowing creature deals additional Radiant damage and ends the effect.</div>\n<div>Radiant Light</div>\n<div>At 5th level, the melee attack deals an extra 1d6 Radiant damage to the target, and the radiant light damage increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Warding Blade (Available to Sorcerer, Warlock, Mind Weaver and Wizard)</strong></h4>\n<div>Strike a creature with a weapon attack gaining a shield with 1d6 Temporary Hit Points until the end of your next turn. If these temporary hit points are already active, hitting a creature refreshes their duration instead of rerolling them. When a hit removes them, the attacker takes 1d4 Force damage.</div>\n<div>At 5th level, the melee attack deals an extra 1d6 Force damage to the target, and the Temporary HP you gain increases to 2d6. Both rolls increase by 1d6 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Decaying Blade (Available to Sorcerer, Warlock, Wizard, Druid, Mind Weaver and Cleric)</strong></h4>\n<div>Strike a creature with a weapon attack. On a hit, the target is infused with necrotic decay, granting you a free cast of Shared Decay, which 1d8 Necrotic damage to both the target and the caster until the end of your current turn</div>\n<div>At 5th level, the melee attack deals an extra 1d8 Necrotic damage to the target, and the Shared Decay damage increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Cerebral Blade (Available to Sorcerer, Warlock, Wizard, Mind Weaver and Bard)</strong></h4>\n<div>Strike a creature with a weapon attack, slicing into its thoughts causing a Mental Fracture. Until the end of your next turn, the first time the target casts a spell or cantrip, it takes 1d8 Psychic damage and the effect ends.</div>\n<div>At 5th level, the melee attack deals an extra 1d8 Psychic damaghe to the target, and the Mental Fracture damage increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Virulent Blade (Available to Sorcerer, Warlock, Wizard, Mind Weaver and Druid)</strong></h4>\n<div>Strike a creature with a weapon infecting it with Virulent Poison and on a failed Constitution Saving Throw, its next weapon attack is made with Disadvantage. If the target misses a weapon attack while Virulent Poison is active, it takes 1d6 Poison damage and the poison is removed.</div>\n<div>At 5th level, the melee attack deals an extra 1d6 Poison damage to the target, and the Virulent Poison damage increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.</div>\n</div>\n<p> </p>",
+    "date_added": 1767123851,
+    "date_updated": 1777370923,
+    "date_live": 1767125276,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/homebrew-blade-cantrips",
+    "submitted_by": {
+      "id": 33530167,
+      "name_id": "zx10rx",
+      "username": "zx10rx",
+      "profile_url": "https://mod.io/u/zx10rx",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e51d/33530167/crop_100x100/id.png"
+    },
+    "modfile": {
+      "id": 7525136,
+      "mod_id": 5636525,
+      "version": "1.0.0.31",
+      "filename": "hbbladecantrips_33eec47a-b349-4qpk.zip",
+      "changelog": "Added 2 more Blade Cantrips. A water based Tidal Blade and fire based Ember Blade.",
+      "date_added": 1774021042,
+      "date_updated": 0,
+      "date_scanned": 1774021057,
+      "filesize": 4588148,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "20418-1767178483-1116470464.png",
+      "original": "https://image.modcdn.io/mods/b6c5/5636525/20418-1767178483-1116470464.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b6c5/5636525/crop_320x180/20418-1767178483-1116470464.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b6c5/5636525/crop_640x360/20418-1767178483-1116470464.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b6c5/5636525/crop_1280x720/20418-1767178483-1116470464.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "Bard",
+        "name_localized": "Bard",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "Druid",
+        "name_localized": "Druid",
+        "date_added": 0
+      },
+      {
+        "name": "Fighter",
+        "name_localized": "Fighter",
+        "date_added": 0
+      },
+      {
+        "name": "Monk",
+        "name_localized": "Monk",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "Ranger",
+        "name_localized": "Ranger",
+        "date_added": 0
+      },
+      {
+        "name": "Rogue",
+        "name_localized": "Rogue",
+        "date_added": 0
+      },
+      {
+        "name": "Sorcerer",
+        "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      },
+      {
+        "name": "Wizard",
+        "name_localized": "Wizard",
+        "date_added": 0
+      },
+      {
+        "name": "Feats",
+        "name_localized": "Feats",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7525136
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7525136
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7525136
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7525136
       }
     ]
   },
@@ -140730,6 +141691,129 @@
       {
         "platform": "ps5",
         "modfile_live": 7533576
+      }
+    ]
+  },
+  {
+    "id": 5979387,
+    "game_id": 6715,
+    "name": "Tail Accessories",
+    "name_id": "tailaccessories",
+    "summary": "Equippable tail accessories for BT1, 2, 3, and 4 Tieflings! Equipment, not CC!",
+    "description": "<p>This mod has been an idea I've been sitting on for quite a while but never got around to implementing until now. I'm super excited to share it with you all.<br><br>This mod contains a whopping <strong>28</strong> different equippable tail accessories, all of which are for <strong>all</strong> tiefling body types. These are equippable like armour/clothing and are not a CC option.<br><br>The pieces all are made to fit over the vanilla tiefling tails. Most of the pieces should work with the similarly sized tails in the <a href=\"https://www.nexusmods.com/baldursgate3/mods/6442\" rel=\"nofollow\">Alternate Tiefling Tails</a> mod or other tail replacers. Eventually I plan to add support for Dragonborn as well, but each piece will need to be refit for each of the three tail options for both bodies. Needless to say that is a lot of work and thus will happen at a later time.<br><br>Note that if you use a mod to give other races a tail, including Devil Wyll mods that give him a tail, <u>that these pieces will not work</u>. If the character doesn't use the tiefling equipment race the tail accessory will not show up. I have not tested this with half-tiefs.<br><br>Items spawn in two containers in the tutorial chest and the camp chest via OneTimeRewards: one container for cloak slot and one container for underwear slot. You can use <a href=\"https://www.nexusmods.com/baldursgate3/mods/19642\" rel=\"nofollow\">Equipment Slots</a> to convert to other slots. Most pieces are dyeable. Those that are not dyeable say so in their description.<br><br>Currently this mod requires <a href=\"https://mod.io/g/baldursgate3/m/ornamental-body-jewellery#description\">Ornamental Body Jewellery</a> as a dependency for some of the textures. Please load it <u>before</u> the Tail Accessories mod in your load order.</p>\n<div><br><a href=\"https://ko-fi.com/baeator\" rel=\"nofollow\"> </a>\n<div><a href=\"https://ko-fi.com/baeator\" rel=\"nofollow\"><img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" alt=\"githubbutton_sm.svg\"></a></div>\n<a href=\"https://ko-fi.com/baeator\" rel=\"nofollow\"> </a></div>\n<p>Thank you to Sol the Witch, pwnelope, MissRen, and Hound for their VP!<br>Huge thank you to <a href=\"https://www.nexusmods.com/profile/KinntheGreen\" rel=\"nofollow\">KinntheGreen</a> for allowing me to use their albino batstarion textures from the <a href=\"https://www.nexusmods.com/baldursgate3/mods/9681\" rel=\"nofollow\">Lord Batstarion</a> mod for this.</p>\n<p> </p>\n<p> </p>\n<p><strong>*** MOD HAS BEEN SUBMIT FOR CONSOLE APPROVAL. IT IS OUT OF MY HANDS ***</strong></p>",
+    "date_added": 1776100545,
+    "date_updated": 1777371085,
+    "date_live": 1776101079,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/tailaccessories",
+    "submitted_by": {
+      "id": 32519507,
+      "name_id": "baeator",
+      "username": "baeator",
+      "profile_url": "https://mod.io/u/baeator",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/bdea/32519507/crop_100x100/b_waxseal.1.png"
+    },
+    "modfile": {
+      "id": 7630750,
+      "mod_id": 5979387,
+      "version": "1.0.0.3",
+      "filename": "tailaccessories_e790a92a-83b2-8uz6.zip",
+      "changelog": null,
+      "date_added": 1776100634,
+      "date_updated": 0,
+      "date_scanned": 1776100709,
+      "filesize": 65249897,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/0399/5979387/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0399/5979387/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0399/5979387/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0399/5979387/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7630750
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7630750
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7630750
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7630750
       }
     ]
   }
