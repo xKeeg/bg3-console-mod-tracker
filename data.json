@@ -56649,7 +56649,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour (Level 4), Heavy Armour (Level 7, Selected Subclass), Shields (Level 7)</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1777345251,
+    "date_updated": 1777347203,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -56663,15 +56663,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1e98/37197746/crop_100x100/duskblade.1.png"
     },
     "modfile": {
-      "id": 7682200,
+      "id": 7682261,
       "mod_id": 4407068,
-      "version": "1.0.328.0",
-      "filename": "duskblade_0b9fe8cc-f707-9980-c-gceu.zip",
+      "version": "1.0.330.0",
+      "filename": "duskblade_0b9fe8cc-f707-9980-c-8cb7.zip",
       "changelog": "- Updated visual effects\n- Updated target criteria of Flare and Ghost Sound\n- Updated Level 10 Arcane Channeling damage bonus\n- Updated Armour Proficiency progression\n- Updated descriptions\n- Updated Arcane Accuracy, Improved Critical, and Superior Critical to only grant bonus to melee weapon attacks\n- Updated Arcane Strike and Arcane Absorption\n- Added Interrupt for Arcane Channeling (Off-Hand)\n- Added a new Level 8 Abjuration spell Energy Aegis to the class spell list",
-      "date_added": 1777345210,
+      "date_added": 1777347162,
       "date_updated": 0,
-      "date_scanned": 1777345277,
-      "filesize": 10113370,
+      "date_scanned": 1777347247,
+      "filesize": 10151245,
       "platforms": [
         {
           "platform": "windows",
@@ -56765,7 +56765,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7682200
+        "modfile_live": 7682261
       }
     ]
   },
@@ -128734,7 +128734,7 @@
     "summary": "A Ranger who deals in the necromantic and blight instead of life and survival. With 3 reworked ranger classes to fit dark ranger and 6 custom classes.",
     "description": "<h4><span style=\"color:#674ea7;\"><span style=\"font-size:xx-large;\"><strong>Dark Ranger<br></strong></span></span></h4>\n<blockquote>\n<p>Not all who walk among the withered trees and crumbling bones of the wild are agents of cruelty. Some rangers find purpose in the shadowed cycles of the natural world where decay feeds the soil, disease culls the weak, and winter’s chill grants the land its rest. These rangers are keepers of the quiet balance, understanding that rot and ruin are as vital as growth and bloom.<br>Dark Rangers wield necromantic arts not to dominate the dead, but to guide them, ensuring the fallen return to the earth, or rise briefly as guardians of sacred places. They commune with carrion birds, fungi, and blackened roots, seeing beauty in what others call corruption. Their arrows may drip with pestilence, not out of malice, but as a hunter’s tool no different than flame or steel.<br>To the Dark Ranger, death is not an ending, but a season in the endless turning wheel of nature. Their presence unsettles those who cling only to life and light, yet in the wild places where plague and frost creep, they are both shepherd and sentinel.</p>\n</blockquote>\n<p><strong>For full break down of the class you can find it on my nexus page: <a href=\"https://www.nexusmods.com/baldursgate3/mods/12095\">Here</a></strong></p>",
     "date_added": 1758345100,
-    "date_updated": 1776831375,
+    "date_updated": 1777353091,
     "date_live": 1758345100,
     "visible": 1,
     "status": 1,
