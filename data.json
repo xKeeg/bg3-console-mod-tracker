@@ -60729,7 +60729,7 @@
     "summary": "The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 as close to their 5th edition versions as they can elegantly be, with improvements made to Booming Blade.",
     "description": "<p>The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 from their 5th edition versions:<br>Green-Flame Blade<br>Lightning Lure<br>Sword Burst</p>\n<p>Additionally, Booming Blade is greatly enhanced including better functionality (such as level 10 scaling), bug fixes, VFX, and sound.</p>\n<p>All spells have their own visual effects and icons, with Green-Flame Blade notably being green!</p>\n<p>The 'War Caster' feat also includes Booming Blade as a reaction choice.<br><br>Looking for a way to expand the usage of these blade cantrips?  Try <a title=\"Feat - Spell Blade\" href=\"https://mod.io/g/baldursgate3/m/feat-spell-blade\">Feat - Spell Blade</a></p>",
     "date_added": 1729286972,
-    "date_updated": 1777180400,
+    "date_updated": 1777421884,
     "date_live": 1729286972,
     "visible": 1,
     "status": 1,
@@ -60743,15 +60743,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7674462,
+      "id": 7684771,
       "mod_id": 4423191,
-      "version": "2.3.2.1",
-      "filename": "5e_blade_cantrips_14943f09-f25-acco.zip",
-      "changelog": "- fresnel color change for Green-Flame Blade",
-      "date_added": 1777180361,
+      "version": "2.3.2.2",
+      "filename": "5e_blade_cantrips_14943f09-f25-2w6m.zip",
+      "changelog": "- Korean localization added\n- Minor localization tweaks",
+      "date_added": 1777421857,
       "date_updated": 0,
-      "date_scanned": 1777180366,
-      "filesize": 574219,
+      "date_scanned": 1777421862,
+      "filesize": 574955,
       "platforms": [
         {
           "platform": "windows",
@@ -60873,6 +60873,11 @@
         "name": "Ukrainian",
         "name_localized": "Ukrainian",
         "date_added": 0
+      },
+      {
+        "name": "Korean",
+        "name_localized": "Korean",
+        "date_added": 0
       }
     ],
     "platforms": [
@@ -60890,7 +60895,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7674462
+        "modfile_live": 7684771
       }
     ]
   },
@@ -81005,9 +81010,9 @@
     "name": "Item and Spell Bug Fixes",
     "name_id": "item-and-spell-bug-fixes",
     "summary": "The unofficial community bug fix mod - Over 2400 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
-    "description": "<p>The unofficial community bug fix mod - <strong>Over 2400 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish<br>Nyxveilithra and Vituperioso - Brazilian Portuguese</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
+    "description": "<p>The unofficial community bug fix mod - <strong>Over 2400 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish<br>Nyxveilithra and Vituperioso - Brazilian Portuguese<br>Ahdarugo - Korean</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1777081159,
+    "date_updated": 1777424285,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -81021,15 +81026,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7668798,
+      "id": 7684904,
       "mod_id": 4561805,
-      "version": "4.4.21.1",
-      "filename": "itembugfix_010e73d5-9342-e528-apwr.zip",
-      "changelog": "- All consumables should now correctly cost a Bonus Action and (when applicable) display their effects directly on their tooltips (16 objects changed)\n- Spoiled Treacle Tart 'Treacly Tummy' condition is now correctly displayed on the character afflicted with it\n- 'Treacly Tummy', 'Nauseated' and 'Sickened' are now part of the Poison status group instead of having no status group\n- Mysterious Elixir now correctly functions as a potion instead of a Scroll of Feign Death\n- Hunger of Hadar upcast to spell level 4 now has the correct target sound",
-      "date_added": 1777081138,
+      "version": "4.4.22.2",
+      "filename": "itembugfix_010e73d5-9342-e528-dzdj.zip",
+      "changelog": "- Korean localization has been added thanks to Ahdarugo!\n- Passives which apply a stacking condition to the bearer should now also trigger more than once when attacking multiple enemies (10 changed)\n- Bind Pact Weapon/Bind Hexed Weapon no longer states in its description that it is removed if the weapon is away from the Warlock\n- Minor localization changes",
+      "date_added": 1777424260,
       "date_updated": 0,
-      "date_scanned": 1777081142,
-      "filesize": 603273,
+      "date_scanned": 1777424267,
+      "filesize": 617983,
       "platforms": [
         {
           "platform": "windows",
@@ -81121,6 +81126,11 @@
         "name": "Ukrainian",
         "name_localized": "Ukrainian",
         "date_added": 0
+      },
+      {
+        "name": "Korean",
+        "name_localized": "Korean",
+        "date_added": 0
       }
     ],
     "platforms": [
@@ -81138,7 +81148,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7668798
+        "modfile_live": 7684904
       }
     ]
   },
