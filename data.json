@@ -115778,7 +115778,7 @@
     "date_live": 1748947653,
     "visible": 1,
     "status": 1,
-    "dependencies": false,
+    "dependencies": true,
     "profile_url": "https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee",
     "submitted_by": {
       "id": 33530167,
