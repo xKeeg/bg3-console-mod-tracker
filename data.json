@@ -81012,7 +81012,7 @@
     "summary": "The unofficial community bug fix mod - Over 2400 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 2400 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - German<br>kon4arich - Russian<br>ZorkyNinja - Ukrainian<br>Fuyou1066 - Chinese Simplified/Traditional<br>Giacogiac - French<br>MarcoReckless - Italian<br>Meto - Spanish<br>Nyxveilithra and Vituperioso - Brazilian Portuguese<br>Ahdarugo - Korean</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1777630245,
+    "date_updated": 1777683942,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -81026,15 +81026,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7685452,
+      "id": 7694563,
       "mod_id": 4561805,
-      "version": "4.4.22.5",
-      "filename": "itembugfix_010e73d5-9342-e528-hhnr.zip",
-      "changelog": "- Korean localization has been added thanks to Ahdarugo!\n- Passives which apply a stacking condition to the bearer should now also trigger more than once when attacking multiple enemies (10 changed)\n- Bind Pact Weapon/Bind Hexed Weapon no longer states in its description that it is removed if the weapon is away from the Warlock\n- Items which provide additional resources once per long rest now consume these resources last\n-- Fixed additional Amulet of the Devout 'Godswill' exploit\n- Minor localization changes",
-      "date_added": 1777440494,
+      "version": "4.4.23.1",
+      "filename": "itembugfix_010e73d5-9342-e528-gfkl.zip",
+      "changelog": "- The Skinburster 'Skinburster Force' no longer incorrectly provides 2 turns of Force Conduit per DealDamage function per attack, and correctly checks for Force Conduit and applies technical conditions on the attacker instead of the target\n- Swires' Sledboard 'Shield Conduit' now correctly displays a visual effect on the wielder when obtaining turns of Force Conduit\n- Hexblade's Curse no longer incorrectly has a BoostContext check\n- Code functionality review/improvement",
+      "date_added": 1777683891,
       "date_updated": 0,
-      "date_scanned": 1777440500,
-      "filesize": 618275,
+      "date_scanned": 1777683899,
+      "filesize": 618532,
       "platforms": [
         {
           "platform": "windows",
@@ -81148,7 +81148,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7685452
+        "modfile_live": 7694563
       }
     ]
   },
@@ -115066,7 +115066,7 @@
     "summary": "BG3 - Chocolate Edition is a massive rebalance mod touching almost every aspect of character building. Spells, feats, classes, subclasses, initiative, and more have all seen changes to make the game a different flavor of fun for a new run.",
     "description": "<h2><span style=\"text-decoration:underline;\">DO NOT UPDATE MID RUN (ESPECIALLY ON HONOR MODE) IF YOU WANT TO KEEP USING YOUR V2 BUILD. BUILDS WILL CHANGE FOR VERSION 3!</span></h2>\n<h2>For full mod details, check out the website! <a href=\"https://bg3chocolate.carrd.co\" target=\"_blank\" rel=\"noopener noreferrer\">bg3chocolate.carrd.co</a></h2>\n<h2>Welcome to Chocolate Edition v3! This is a homebrew, chocolate coating on the excellent Vanilla core BG3 experience with changes to almost every aspect of character building including:</h2>\n<ul>\n<li>\n<h3>Initiative Changes</h3>\n</li>\n<li>\n<h3>Weapon Cantrip Rule Changes</h3>\n</li>\n<li>\n<h3>Major Class Changes</h3>\n</li>\n<li>\n<h3>Minor Class Changes</h3>\n</li>\n<li>\n<h3>Extra Feats at level 2</h3>\n</li>\n<li>\n<h3>New Origin Classes</h3>\n</li>\n<li>\n<h3>New \"minor classes\" for non-Origin companions and Durge</h3>\n</li>\n<li>\n<h3>Cantrip - Level 6 Spell changes</h3>\n</li>\n<li>\n<h3>Feat Changes</h3>\n</li>\n<li>\n<h3>16 New Feats</h3>\n</li>\n</ul>\n<h3>This is intended to be a one stop shop to a fresh BG3 experience without relying on other mods to be kept updated, and without bloating your load order on console. Why use lot mod when one mod do trick?</h3>\n<p> </p>\n<p>Remember! Before submitting bugs, check the PDF for anything relevant in case what you think is a bug is just a feature! Once you've done that, feel free to comment or report bugs through the official feature, or to <a href=\"https://discord.gg/CP36VuDYHu\">join my discord to chat about what's going on.</a></p>\n<h3>Recommended Mod Categories to Use Alongside BG3 - Chocolate Edition - These will all add some additional flavor to the delicious chocolate of this mod.</h3>\n<ul>\n<li>\n<p>Tactician Enhanced (or other difficulty mods) - Tactician Enhanced will help you customize the experience if you want a little or a lot more difficulty.</p>\n</li>\n<li>\n<p><strong>Extra Encounters</strong></p>\n</li>\n<li>\n<p>Item mods (these can be unbalanced at times)</p>\n</li>\n<li>\n<p>Enemy mods</p>\n</li>\n<li>\n<p>Appearance mods</p>\n<ul>\n<li>\n<p>Replacer mods for Origins are compatible. Magic Mirror for Companions type mods are incompatible.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Randomizer mods for encounters or items</p>\n</li>\n<li>\n<p>Race mods (if you aren't on console)</p>\n</li>\n</ul>\n<p>Feel free to use new class mods alongside this, but I would HIGHLY recommend not using any mods that modify vanilla classes listed anywhere in the patch notes. I cannot offer support for bugs caused by mod conflicts very often. I would also advise against using spell rebalance mods, though spell addition mods like Mystra's Spells should be fine (excluding the balancing differences between Mystra's Spells and this mod).</p>\n<h2><span style=\"text-decoration:underline;\">Conflicts</span></h2>\n<ul>\n<li>Any mod that alters the \"Origin\" entries in the toolkit including mods that allow origin characters to use the Magic Mirror</li>\n<li>Spell rebalance mods</li>\n<li>Mods that alter subclasses or classes</li>\n<li>Mods that alter or rebalance feats</li>\n<li>Mods that alter or rebalance elixirs</li>\n<li>Mods that *add* subclasses should use progression merges for best practices, but conflicts with Wizard, Ranger, Warlock, Druid, and Paladin subclasses from previous versions have been resolved on the Chocolate Edition side as of the most recent version available on PC. Console awaits an update still.</li>\n</ul>\n<p>Note about conflicts: Mod conflicts are not inherently a bad thing. You just need to make sure the mod you want to \"win\" the conflict is loaded later in your load order. To do this on consoles or through the in game mod manager, supposedly you can de-activate all mods in your list and then reactivate them in the order that you choose. This will tell the game what order to load the mods in.</p>",
     "date_added": 1748866806,
-    "date_updated": 1777630269,
+    "date_updated": 1777686002,
     "date_live": 1748868463,
     "visible": 1,
     "status": 1,
@@ -115080,15 +115080,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2890/34817058/crop_100x100/fe72795fb0c88912cc6ec75f1c125df.jpg"
     },
     "modfile": {
-      "id": 7686386,
+      "id": 7694652,
       "mod_id": 4985426,
-      "version": "3.0.0.107",
-      "filename": "vanillaplus_d932c3e8-991e-ef52-5g7e.zip",
-      "changelog": "- Toxic Barrage properly works with the Potent Robe again. -- I swear I will be done tinkering with this eventually.\n- Pact of the Blade's Extra attack will no longer stack with Extra Attack on any difficulty.",
-      "date_added": 1777478251,
+      "version": "3.0.0.108",
+      "filename": "vanillaplus_d932c3e8-991e-ef52-1sd3.zip",
+      "changelog": "Minor bugfix with major consequences: All Rangers will have to respec after updating.\n- Fix to Ranger spell list UUIDs being backwards for level 1 and level 2 spells.\n- Improved compatibility of the Ranger class with other mods that may modify the base class with merges.\n- Hardened War Priest is no longer toggleable or in the temporary section. It is correctly always active.\n- War Priest's toggle will now automatically turn itself off after you have attacked to reduce button clicks.",
+      "date_added": 1777685851,
       "date_updated": 0,
-      "date_scanned": 1777478326,
-      "filesize": 23004480,
+      "date_scanned": 1777685898,
+      "filesize": 23004261,
       "platforms": [
         {
           "platform": "windows",
@@ -115227,7 +115227,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7686386
+        "modfile_live": 7694652
       }
     ]
   },
