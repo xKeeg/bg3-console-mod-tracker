@@ -115066,7 +115066,7 @@
     "summary": "BG3 - Chocolate Edition is a massive rebalance mod touching almost every aspect of character building. Spells, feats, classes, subclasses, initiative, and more have all seen changes to make the game a different flavor of fun for a new run.",
     "description": "<h2><span style=\"text-decoration:underline;\">DO NOT UPDATE MID RUN (ESPECIALLY ON HONOR MODE) IF YOU WANT TO KEEP USING YOUR V2 BUILD. BUILDS WILL CHANGE FOR VERSION 3!</span></h2>\n<h2>For full mod details, check out the website! <a href=\"https://bg3chocolate.carrd.co\" target=\"_blank\" rel=\"noopener noreferrer\">bg3chocolate.carrd.co</a></h2>\n<h2>Welcome to Chocolate Edition v3! This is a homebrew, chocolate coating on the excellent Vanilla core BG3 experience with changes to almost every aspect of character building including:</h2>\n<ul>\n<li>\n<h3>Initiative Changes</h3>\n</li>\n<li>\n<h3>Weapon Cantrip Rule Changes</h3>\n</li>\n<li>\n<h3>Major Class Changes</h3>\n</li>\n<li>\n<h3>Minor Class Changes</h3>\n</li>\n<li>\n<h3>Extra Feats at level 2</h3>\n</li>\n<li>\n<h3>New Origin Classes</h3>\n</li>\n<li>\n<h3>New \"minor classes\" for non-Origin companions and Durge</h3>\n</li>\n<li>\n<h3>Cantrip - Level 6 Spell changes</h3>\n</li>\n<li>\n<h3>Feat Changes</h3>\n</li>\n<li>\n<h3>16 New Feats</h3>\n</li>\n</ul>\n<h3>This is intended to be a one stop shop to a fresh BG3 experience without relying on other mods to be kept updated, and without bloating your load order on console. Why use lot mod when one mod do trick?</h3>\n<p> </p>\n<p>Remember! Before submitting bugs, check the PDF for anything relevant in case what you think is a bug is just a feature! Once you've done that, feel free to comment or report bugs through the official feature, or to <a href=\"https://discord.gg/CP36VuDYHu\">join my discord to chat about what's going on.</a></p>\n<h3>Recommended Mod Categories to Use Alongside BG3 - Chocolate Edition - These will all add some additional flavor to the delicious chocolate of this mod.</h3>\n<ul>\n<li>\n<p>Tactician Enhanced (or other difficulty mods) - Tactician Enhanced will help you customize the experience if you want a little or a lot more difficulty.</p>\n</li>\n<li>\n<p><strong>Extra Encounters</strong></p>\n</li>\n<li>\n<p>Item mods (these can be unbalanced at times)</p>\n</li>\n<li>\n<p>Enemy mods</p>\n</li>\n<li>\n<p>Appearance mods</p>\n<ul>\n<li>\n<p>Replacer mods for Origins are compatible. Magic Mirror for Companions type mods are incompatible.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Randomizer mods for encounters or items</p>\n</li>\n<li>\n<p>Race mods (if you aren't on console)</p>\n</li>\n</ul>\n<p>Feel free to use new class mods alongside this, but I would HIGHLY recommend not using any mods that modify vanilla classes listed anywhere in the patch notes. I cannot offer support for bugs caused by mod conflicts very often. I would also advise against using spell rebalance mods, though spell addition mods like Mystra's Spells should be fine (excluding the balancing differences between Mystra's Spells and this mod).</p>\n<h2><span style=\"text-decoration:underline;\">Conflicts</span></h2>\n<ul>\n<li>Any mod that alters the \"Origin\" entries in the toolkit including mods that allow origin characters to use the Magic Mirror</li>\n<li>Spell rebalance mods</li>\n<li>Mods that alter subclasses or classes</li>\n<li>Mods that alter or rebalance feats</li>\n<li>Mods that alter or rebalance elixirs</li>\n<li>Mods that *add* subclasses should use progression merges for best practices, but conflicts with Wizard, Ranger, Warlock, Druid, and Paladin subclasses from previous versions have been resolved on the Chocolate Edition side as of the most recent version available on PC. Console awaits an update still.</li>\n</ul>\n<p>Note about conflicts: Mod conflicts are not inherently a bad thing. You just need to make sure the mod you want to \"win\" the conflict is loaded later in your load order. To do this on consoles or through the in game mod manager, supposedly you can de-activate all mods in your list and then reactivate them in the order that you choose. This will tell the game what order to load the mods in.</p>",
     "date_added": 1748866806,
-    "date_updated": 1777686002,
+    "date_updated": 1777698436,
     "date_live": 1748868463,
     "visible": 1,
     "status": 1,
@@ -115080,15 +115080,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2890/34817058/crop_100x100/fe72795fb0c88912cc6ec75f1c125df.jpg"
     },
     "modfile": {
-      "id": 7694652,
+      "id": 7695231,
       "mod_id": 4985426,
-      "version": "3.0.0.108",
-      "filename": "vanillaplus_d932c3e8-991e-ef52-1sd3.zip",
-      "changelog": "Minor bugfix with major consequences: All Rangers will have to respec after updating.\n- Fix to Ranger spell list UUIDs being backwards for level 1 and level 2 spells.\n- Improved compatibility of the Ranger class with other mods that may modify the base class with merges.\n- Hardened War Priest is no longer toggleable or in the temporary section. It is correctly always active.\n- War Priest's toggle will now automatically turn itself off after you have attacked to reduce button clicks.",
-      "date_added": 1777685851,
+      "version": "3.0.0.109",
+      "filename": "vanillaplus_d932c3e8-991e-ef52-dibg.zip",
+      "changelog": "Minor bugfix with major consequences: All Rangers will have to respec after updating.\n- Fix to Ranger spell list UUIDs being backwards for level 1 and level 2 spells.\n- Improved compatibility of the Ranger class with other mods that may modify the base class with merges. - level 2 also works now for multiclassing\n- Hardened War Priest is no longer toggleable or in the temporary section. It is correctly always active.\n- War Priest's toggle will now automatically turn itself off after you have attacked to reduce button clicks.",
+      "date_added": 1777698355,
       "date_updated": 0,
-      "date_scanned": 1777685898,
-      "filesize": 23004261,
+      "date_scanned": 1777698393,
+      "filesize": 23004327,
       "platforms": [
         {
           "platform": "windows",
@@ -115227,7 +115227,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7694652
+        "modfile_live": 7695231
       }
     ]
   },
@@ -132360,7 +132360,7 @@
     "summary": "All of my fun things, together! (Makes life easier for console users)",
     "description": "<p>A collection of my more fun, less-invasive mods! Compiled in one package for console users to help with that annoying 100-mod cap.<br><br>Any mods in this pack that have any actual effect on gameplay can be turned off, or must be manually turned on.<br>There are four ways I give you control:<br>- Some require you to drink a potion to activate.<br>- Items such as the Book of Plagues and Bone Sculptor Tome affect you by simply being in your inventory.<br>- Passives that can be toggled on or off.<br>- Functions that appear only in camp (general tab).<br><br>includes:<br>* <a href=\"https://mod.io/g/baldursgate3/m/auto-spawn-items#description\">Gabe's Bag of Holding</a> (a dependency for most of my mods, built into this one)<br>-- Note: Activating the Enemy Leveling function in camp will improve Enemy Loot Randomizer results!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/critical-mockery#description\">Critical Mockery</a> (mock enemies when you score a critical hit)<br>-- Note: This is an interrupt. Disable to turn mockery off. Does not affect the spell.<br>-- To disable: turn off associated interrupt<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/enemy-loot-randomizer#description\">Enemy Loot Randomizer</a> (randomizes enemy loot and vendor stock. Functions can be toggled on/off mid-game)<br>-- Note: Vendor++ is on by default. Amounts and value of loot/stock increase with enemy/player level.<br>-- To disable: turn off associated passives<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-bg3-mystic-forge#description\">The BG3 Mystic Forge</a> (gamble your junk for a chance at something epic!)<br>-- Note: Put 4 items in the pouch. Close pouch. Good luck!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/treasuregoblins#description\">Treasure Goblins</a> (yep, just like diablo)<br>-- To disable: turn off associated passive<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabesmod-combat-ai-and-optional-cooldown-reset#description\">Gabe's Mod</a> (combat AI for companions and summons)<br>-- Note: Use the Default option for AI if you are unsure what to choose.<br>-- To disable: turn off associated passives<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-dragonborn-and-draconic-sorcery#description\">Gabe's Dragonborn</a> (ever wish Draconic Ancestry was available for other classes?)<br>-- Note: If you do not wish to use this, simply select None on the CC screen.<br>-- Compatible with <a href=\"https://mod.io/g/baldursgate3/m/ezuneos-draconic-body-scales#description\">Ezuneo's Draconic Body Scales</a> and <a href=\"https://mod.io/g/baldursgate3/m/gem-draconic-ancestries#description\">Gem Draconic ancestries</a><br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-bone-sculptor#description\">The Bone Sculptor</a> (an undead crafting mod)<br>-- Note: Recipes are <a href=\"https://docs.google.com/document/d/1FFg-wSUT0NTm0EdpKEonDf0WTiytfpY7KiEfsG3RLOo/edit?tab=t.0\">HERE</a> (console users, use your phone/tablet) or may be found by reading the Scrawlings (3 total)<br>-- To disable: drop the tome<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-pets#description\">Gabe's Pets</a> (various pet-type summons I put in a mod. Some cute, some not. Has Pocket dragons!)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-restless-dead#description\">The Restless Dead</a> (the dead may come back to life to attempt to get revenge)<br>-- Note: The Horn of the Dead will awaken the dead and must be activated manually.<br>-- To disable: turn on Let the Dead rest (passive)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/explosives#description\">Explosives!</a> (just what you think it is, a mod specifically about things that explode)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-plague#description\">The Plague</a> (diseases based off of real-world diseases. Utilizes poison damage)<br>-- Notes: the spells for this mod are distributed differently. If the character that drank the potion has the book in their inventory and reads it, the goblin will not return. Spells in this mod are NOT given to you all at once! There is a progressive unlock mechanism, so you only get one to start with. One of the vendors in the Fungus camp in the Underdark sells a purple Noblestalk that unlocks all the spells, if you want to go that route.<br>-- To disable: kill the goblin, loot and read the book, do not use spells.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/anyone-can-be-a-vendor#description\">Any Summon Can be a Vendor</a> (make any summon a vendor)<br>-- To use: Apply to a summon using Vendor Policies and Procedures or summon the Mimic Vendor. Open Merchant Abilities, use the three functions in order.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/dwarf-tossing#description\">Dwarf Tossing!</a> (Dwarves you can throw, and a throwin' kitty)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-darts#description\">Gabe's Darts and Daggers</a><br>-- Note: Requires a vendor from Any Summon Can be a Vendor OR the Mimic vendor from that mod.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/feat-barbaric-brawler#description\">Feat: Barbaric Brawler</a> (a pair of feats that allows Barbarians to fight unarmed at almost Monk-like levels)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/underpants-gnomes#description\">Underpants Gnomes</a> (yep, they exist)<br>-- To disable: turn off associated passive<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/death-penalties#description\">Death Penalties</a><br>-- Note: This has to be activated manually in camp, so is completely optional. Exp loss is available in 5% increments.<br>-- To disable: turn off functions from camp<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/it-follows-weeping-angels#description\">It Follows (Weeping Angels)</a><br>-- This is very important... do not pick up the Strange Gem if you do not want this mod enabled.<br>-- To disable: drop the Strange gem<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/arachnaphobia#description\">Arachnophobia</a><br>-- This is toggled OFF by default and must be turned on after every rest!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/chaos-magic#description\">Chaos Magic!</a><br>-- To use: use the spell<br>-- To avoid using: do not use the spell<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-soulstone#description\">The Soulstone</a><br>-- Can be obtained from Withers<br>-- Throw away if you wish to disable this mod. Existing Souls will remain.<br>-- Use the Soulstone on your Tav to prevent Souls and Settlers from following you.</p>",
     "date_added": 1761386002,
-    "date_updated": 1777561696,
+    "date_updated": 1777696397,
     "date_live": 1761388652,
     "visible": 1,
     "status": 1,
@@ -132374,15 +132374,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
     },
     "modfile": {
-      "id": 7689395,
+      "id": 7695167,
       "mod_id": 5312062,
-      "version": "1.0.0.447",
-      "filename": "gabesfunpack_fb149320-e537-4d2-etdo.zip",
-      "changelog": "* Code adjustment to Loot Randomizer",
-      "date_added": 1777561670,
+      "version": "1.0.0.467",
+      "filename": "gabesfunpack_fb149320-e537-4d2-abuv.zip",
+      "changelog": "* Added a method of completely disabling the mod (see the Q&amp;A on the Discussions tab of the Soulstone mod page)\n* Souls and Settlers will not react to evil Tavs (NPC Reactions mod)",
+      "date_added": 1777696343,
       "date_updated": 0,
-      "date_scanned": 1777561709,
-      "filesize": 19449190,
+      "date_scanned": 1777696379,
+      "filesize": 19449581,
       "platforms": [
         {
           "platform": "windows",
@@ -132466,7 +132466,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7689395
+        "modfile_live": 7695167
       }
     ]
   },
