@@ -102290,9 +102290,9 @@
     "name": "Fabled Armaments",
     "name_id": "fabled-armaments-mod",
     "summary": "A collection of various themed armour sets and weapons, some utilizing unique item models.",
-    "description": "<p>Latest update: Applied a fix to an outfit to make it console friendly, also restored a missing item</p>\n<p>This update adds several new items, including additional armour sets and a bag containing elemental weapons.</p>\n<p>An equipment mod I created, contains themed armour sets and weapons, some using appearances not normally obtainable by the player.</p>\n<p>Note: Some chest pieces will clip with underwear, removing the underwear resolves any clipping.</p>\n<p>Some of the armour sets will vary by body type, some of the images showcase the difference between the sets.</p>\n<p>All items can be found in a bag in the Tutorial chest as well as the Traveller's chest in camp.</p>\n<p> </p>",
+    "description": "<p>Latest update: Restored a missing item, fixed equipment types for some weapons, a good amount of the elemental weapons weren't behaving correctly</p>\n<p>This update adds several new items, including additional armour sets and a bag containing elemental weapons.</p>\n<p>An equipment mod I created, contains themed armour sets and weapons, some using appearances not normally obtainable by the player.</p>\n<p>Note: Some chest pieces will clip with underwear, removing the underwear resolves any clipping.</p>\n<p>Some of the armour sets will vary by body type, some of the images showcase the difference between the sets.</p>\n<p>All items can be found in a bag in the Tutorial chest as well as the Traveller's chest in camp.</p>\n<p> </p>",
     "date_added": 1744793872,
-    "date_updated": 1777370173,
+    "date_updated": 1777789869,
     "date_live": 1744794371,
     "visible": 1,
     "status": 1,
@@ -102306,15 +102306,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/65fb/45387459/crop_100x100/20250514024757.png"
     },
     "modfile": {
-      "id": 7383588,
+      "id": 7699849,
       "mod_id": 4873691,
-      "version": "1.0.0.56",
-      "filename": "assassin_5759ef0f-de1b-e450-0e-2hma.zip",
-      "changelog": "Restored a missing item\nApplied changes to dancer outfit that was bypassing nudity filter",
-      "date_added": 1770769155,
+      "version": "1.0.0.57",
+      "filename": "assassin_5759ef0f-de1b-e450-0e-c6b2.zip",
+      "changelog": "Fixed equipment types for various weapons\nFixed stats on an item\nRestored a missing item",
+      "date_added": 1777789790,
       "date_updated": 0,
-      "date_scanned": 1770769193,
-      "filesize": 20051494,
+      "date_scanned": 1777789831,
+      "filesize": 20053576,
       "platforms": [
         {
           "platform": "windows",
@@ -102322,15 +102322,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -102380,10 +102380,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7383588
-      },
-      {
         "platform": "mac",
         "modfile_live": 7383588
       },
@@ -102394,6 +102390,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7383588
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7699849
       }
     ]
   },
