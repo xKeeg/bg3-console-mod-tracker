@@ -29848,6 +29848,104 @@
     ]
   },
   {
+    "id": 4337722,
+    "game_id": 6715,
+    "name": "Easy Toggle Tutorial Chest",
+    "name_id": "easy-toggle-tutorial-chest",
+    "summary": "A one click summon/dismiss tutorial chest with a passive. No more confirm the spell or change to turn mode to use it.",
+    "description": "<div>\n<p style=\"text-align:center;\"><span style=\"color:#ff0000;font-size:xx-large;\"><strong>No longer supported</strong></span></p>\n<p style=\"text-align:center;\"> </p>\n<div style=\"text-align:center;\"><strong>Mod is here only for those who need it to load a save. Comments are locked and I won't answer any DM about this mod.</strong></div>\n<p> </p>\n</div>\n<div> </div>\n<div> </div>\n<div style=\"text-align:center;\"><span style=\"font-size:medium;\">While I was setting my mods for patch 7 playthrough, and more specifically while testing my own mods, I realized I wanted a more comfortable way to use the tutorial chest. So I made this.</span></div>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"><span style=\"font-family:'Lucida Sans Unicode';\"><br><span style=\"font-size:x-large;\"><br><span style=\"color:#ffff00;\"><strong>Description</strong></span></span><br><br><span style=\"font-size:small;\">By drinking a tutorial chest potion you’ll find in the tutorial chest itself (or at a trader if you want to use this on an ongoing playthrough), your character will unlock the ability to summon or dismiss the tutorial chest with a passive toggle.</span><br><span style=\"font-size:small;\">Just toggle on to add the tutorial chest to your inventory, toggle off to dismiss it.</span><br><br><strong><span style=\"color:#ffff00;\"><span style=\"font-size:x-large;\">Location</span></span></strong><br><br><span style=\"font-size:small;\">You can find the potion on the <strong>tutorial chest itself</strong> if you are starting a new game. You can also found a unique version of it at the first merchant you visit from <strong>Arron</strong>, <strong>Quartermaster Tally</strong>, or <strong>Stylin' Horst</strong>.</span></span></p>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"><span style=\"font-family:'Lucida Sans Unicode';\"><span style=\"font-size:small;\"><br>To make it as least intrusive as possible, this potion version is a different one from the one in the tutorial chest itself. It’s unique, which means it can only be found on the first trader you visit and it won’t restock, but after using it on one character, you can use the normal version of the potion found in the tutorial chest itself to give the ability to other characters.</span></span></p>\n<p style=\"text-align:center;\"> </p>\n<p style=\"text-align:center;\"><span style=\"font-family:'Lucida Sans Unicode';\"><span style=\"font-size:small;\"><br><span style=\"font-size:14px;\">Like any other item added to trader's stock, you may need a long rest (basically you'll need it if you already interact with the trader) for the potion to appear.</span><br><br></span>You can also just use the <strong>potion UUID</strong>: 90408371-ed76-4334-b88a-ba1af9d006b3<br><br><strong><span style=\"color:#ffff00;\"><span style=\"font-size:x-large;\">Tips</span></span></strong><br><br><span style=\"font-size:small;\">Remember that if you don’t use the ability often, you can always drag and drop it from your hotbar. When you need it later, you can drag it back from your character sheet.</span><br><br><span style=\"color:#ffff00;\"><span style=\"font-size:x-large;\"><strong>Known Issues</strong></span></span><br><br><span style=\"font-size:small;\">If you toggle on the tutorial chest with your inventory open, it takes more time than normal to load (at least if a lot of items are inside it). Better just toggle on without the inventory open (it will load instantly) and then open the inventory (you don’t have any hurry anyway as the tutorial chest won’t go anywhere until you turn it off).</span><br><br><span style=\"color:#ffff00;\"><span style=\"font-size:x-large;\"><strong>Known Issues that aren’t</strong></span></span><br><br><span style=\"font-size:small;\"><strong>You can’t move the tutorial chest itself from the summoner’s inventory</strong>; this is intended, otherwise the dismiss feature will break. As always, you can move and send anywhere all contents within it without problem.</span><strong><br></strong></span><strong><br><br><span style=\"color:#ffff00;\"><span style=\"font-size:x-large;\">If you want to tip me:</span></span><br></strong><a style=\"background-color:transparent;\" href=\"https://ko-fi.com/kharneth\"><img src=\"https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png\" alt=\"kofi_bg_tag_dark.png\"><br><br></a></p>\n<p style=\"text-align:center;\"> </p>\n<h2><strong><a href=\"https://next.nexusmods.com/profile/kharneth/mods?gameId=3474\">My other BG3 Mods on Nexus</a></strong></h2>\n<p> </p>\n<p>Update (16/9/24): Improved summon/dismiss when a lot of items are on the tutorial chest.</p>",
+    "date_added": 1726315733,
+    "date_updated": 1732556130,
+    "date_live": 1726316874,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/easy-toggle-tutorial-chest",
+    "submitted_by": {
+      "id": 32942014,
+      "name_id": "kharneth888",
+      "username": "Kharneth888",
+      "profile_url": "https://mod.io/u/kharneth888",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 5576229,
+      "mod_id": 4337722,
+      "version": "1.0.0.12",
+      "filename": "easytoggletc_84ecbc58-b82a-0f4-04tx.zip",
+      "changelog": "Improved Summon/Dismiss when there's a lot of items in the tutorial chest",
+      "date_added": 1726480041,
+      "date_updated": 0,
+      "date_scanned": 1726480047,
+      "filesize": 2084032,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/31f4/4337722/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/31f4/4337722/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/31f4/4337722/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/31f4/4337722/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5576229
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5576229
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5576229
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5576229
+      }
+    ]
+  },
+  {
     "id": 4338589,
     "game_id": 6715,
     "name": "Marvelous DiceSet",
