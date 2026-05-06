@@ -82173,7 +82173,7 @@
       "mod_id": 4561805,
       "version": "4.4.24.1",
       "filename": "itembugfix_010e73d5-9342-e528-a6or.zip",
-      "changelog": "- The second selection of 'Revivify' can no longer target a dead creature, leading to odd interactions\n- The second selection of 'Bitter Divorce' can no longer target a dead creature, leading to odd interactions\n- Contagion 'Stricken With Slimy Doom' should now correctly stun creatures that have additional passives which trigger on taking damage\n- NPC passives which trigger on taking/dealing damage should now correctly always trigger (4 changed)\n- Gnoll 'Rampage' passive now correctly allows the use of a bonus action to make a bite attack",
+      "changelog": "- The second selection of 'Revivify' can no longer target a dead creature, which lead to odd interactions\n- The second selection of 'Bitter Divorce' can no longer target a dead creature, which lead to odd interactions\n- Contagion 'Stricken With Slimy Doom' should now correctly stun creatures that have additional passives which trigger on taking damage\n- NPC passives which trigger on taking/dealing damage should now correctly always trigger (4 changed)\n- Gnoll 'Rampage' passive now correctly allows the use of a bonus action to make a bite attack",
       "date_added": 1778028624,
       "date_updated": 0,
       "date_scanned": 1778028631,
