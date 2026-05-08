@@ -127016,7 +127016,7 @@
     "summary": "Long braid for all races - autosnaps if your race has humanoid, fey, fiend or celestial tags.",
     "description": "<p style=\"text-align:center;\">Long braid for all races - autosnaps if your race has humanoid, fey, fiend or celestial tags. Compatible with modded races that use said tags.<br>Just the one hair for now. Fully colorable.</p>\n<p> </p>\n<div style=\"text-align:center;\"><img src=\"https://i.imgur.com/S9ti832.png\" alt=\"S9ti832.png\"></div>\n<p> </p>\n<p style=\"text-align:center;\"><br><br>Special thanks to everyone in the</p>\n<p> </p>\n<div style=\"text-align:center;\"><img src=\"https://cdn.discordapp.com/emojis/1251279134940729424.webp?size=44\" alt=\"1251279134940729424.webp?size=44\"></div>\n<p> </p>\n<p style=\"text-align:center;\"><br>discord for all the joy &amp; support!! ❤️</p>",
     "date_added": 1752868862,
-    "date_updated": 1777991693,
+    "date_updated": 1778204269,
     "date_live": 1752869087,
     "visible": 1,
     "status": 1,
@@ -127030,30 +127030,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/8962/36671176/crop_100x100/7c1373844111c75244e7d915bf5fbee.jpg"
     },
     "modfile": {
-      "id": 7117527,
+      "id": 7714858,
       "mod_id": 5102038,
-      "version": "1.0.0.11",
-      "filename": "snailshair_f970913d-0c16-d590-0jko.zip",
-      "changelog": "removed cheaty hat",
-      "date_added": 1765140008,
+      "version": "1.0.0.16",
+      "filename": "snailshair_f970913d-0c16-d590-bl8y.zip",
+      "changelog": "minor improvement to hair display",
+      "date_added": 1778204223,
       "date_updated": 0,
-      "date_scanned": 1765140064,
-      "filesize": 32162120,
+      "date_scanned": 1778204286,
+      "filesize": 32161210,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -127159,10 +127147,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7117527
-      },
-      {
         "platform": "mac",
         "modfile_live": 7117527
       },
@@ -127173,6 +127157,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7117527
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7714858
       }
     ]
   },
