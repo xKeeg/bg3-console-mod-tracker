@@ -132402,7 +132402,7 @@
     "summary": "A Ranger who deals in the necromantic and blight instead of life and survival. With 3 reworked ranger classes to fit dark ranger and 6 custom classes.",
     "description": "<h4><span style=\"color:#674ea7;\"><span style=\"font-size:xx-large;\"><strong>Dark Ranger<br></strong></span></span></h4>\n<blockquote>\n<p>Not all who walk among the withered trees and crumbling bones of the wild are agents of cruelty. Some rangers find purpose in the shadowed cycles of the natural world where decay feeds the soil, disease culls the weak, and winter’s chill grants the land its rest. These rangers are keepers of the quiet balance, understanding that rot and ruin are as vital as growth and bloom.<br>Dark Rangers wield necromantic arts not to dominate the dead, but to guide them, ensuring the fallen return to the earth, or rise briefly as guardians of sacred places. They commune with carrion birds, fungi, and blackened roots, seeing beauty in what others call corruption. Their arrows may drip with pestilence, not out of malice, but as a hunter’s tool no different than flame or steel.<br>To the Dark Ranger, death is not an ending, but a season in the endless turning wheel of nature. Their presence unsettles those who cling only to life and light, yet in the wild places where plague and frost creep, they are both shepherd and sentinel.</p>\n</blockquote>\n<p><strong><br>For full break down of the class you can find it on my nexus page: <a href=\"https://www.nexusmods.com/baldursgate3/mods/12095\">Here</a></strong></p>\n<p> </p>\n<p><span style=\"color:#ff0000;font-size:large;\"><strong>NOTE: Gravewing Warden MIGHT appear for some of you as a option, I have it disabled but I suspect it might be a mod interaction. This sub class is not meant to show its a WIP so try it but understand its not finished yet.</strong></span></p>",
     "date_added": 1758345100,
-    "date_updated": 1777701211,
+    "date_updated": 1778218974,
     "date_live": 1758345100,
     "visible": 1,
     "status": 1,
@@ -132416,15 +132416,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7695332,
+      "id": 7715193,
       "mod_id": 5245595,
-      "version": "1.0.0.64",
-      "filename": "darkrangersse_bb210517-afb7-5a-jdxn.zip",
-      "changelog": "Change Umbral Vision to no longer have a VFX above the head, you can now tell if you are in shadows and its in effect by the status icon highlight on the UI on the left side.",
-      "date_added": 1777700799,
+      "version": "1.0.0.68",
+      "filename": "darkrangersse_bb210517-afb7-5a-gkdr.zip",
+      "changelog": "- Final (Planned) subclass is added, Gravewing Warden. Bring your undead dragon companion with you to help you in your adventures!",
+      "date_added": 1778218374,
       "date_updated": 0,
-      "date_scanned": 1777700956,
-      "filesize": 88224020,
+      "date_scanned": 1778218552,
+      "filesize": 101671559,
       "platforms": [
         {
           "platform": "windows",
@@ -132493,7 +132493,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7695332
+        "modfile_live": 7715193
       }
     ]
   },
