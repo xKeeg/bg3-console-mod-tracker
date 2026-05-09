@@ -125994,10 +125994,10 @@
     "game_id": 6715,
     "name": "Treehome - Persistent Player Housing",
     "name_id": "kira-player-housing-treehome",
-    "summary": "Treehome is your peaceful, hidden, persistent residence perfect for decorating, relaxing, RP, and storage that you can reach from anywhere. The key to teleport there is added to your inventory at game start or when installed. Key useable in combat.",
-    "description": "<h2>Kira Player Housing – Personal<strong> Persistent Pocket Dimensions</strong></h2>\n<p><img src=\"https://image.modcdn.io/members/07b4/48531518/profile/20250713165720.png\" alt=\"\" width=\"400\" height=\"226\">      <img src=\"https://image.modcdn.io/members/07b4/48531518/profile/20250713165736.png\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p><img src=\"https://image.modcdn.io/members/07b4/48531518/profile/20250713165754.png\" alt=\"\" width=\"400\" height=\"225\">   <img src=\"https://image.modcdn.io/members/07b4/48531518/profile/screenshot2025-07-13165600.png\" alt=\"\" width=\"320\" height=\"235\"></p>\n<p> </p>\n<p><strong><span style=\"color:#ff0000;\"><span style=\"font-size:large;\">WARNING: Using any type of complete custom level mod currently will initiate a \"clean up\" when teleporting. This is<br>the same as when you leave an Act. So, be sure not to have any <br>Act-sensitive quests uncompleted before using Teleport on this mod.</span></span></strong><strong><span style=\"color:#ffff00;\"><u><span style=\"font-size:large;\"><br></span></u></span></strong></p>\n<p><strong>Transform the way you experience Baldur’s Gate 3 with true player housing.</strong><br>Tired of camp sites changing every act, ruining your carefully decorated spaces? Wish you had a home base you could truly call your own, where your creative efforts persist across your entire adventure? The <strong>Kira Player Housing</strong> mod is the solution.</p>\n<hr>\n<h3>What the Mod Does</h3>\n<ul>\n<li>\n<p><strong>Personal Pocket Dimension:</strong><br>This mod introduces magical teleport keys that instantly whisk you away to your own private, persistent player housing area—starting with the tranquil “Treehome.”<br>Unlike the game’s normal camps, which reset and change as you progress, Treehome is a pocket dimension you can decorate, personalize, and return to any time. Your changes and customizations will remain intact throughout your playthrough.</p>\n</li>\n<li>\n<p><strong>Decorate and Make It Yours:</strong><br>With support for decoration mods like <strong>ASE</strong> and other item spawning mods, you can truly make your house a home. Place furniture, trophies, or even entire collections—Treehome will keep everything exactly where you left it, no matter how the story unfolds.</p>\n</li>\n<li>\n<p><strong>Seamless Access:</strong><br>Upon starting a new game, your character receives the <strong>Treehome Key</strong> in their inventory. Use it from anywhere to teleport instantly to your personal sanctuary. (even works in combat!)</p>\n</li>\n</ul>\n<hr>\n<h3>Why Player Housing?</h3>\n<p>Baldur’s Gate 3’s dynamic camp system makes decorating and personalizing your space nearly impossible—camps move, change, or reset, and your efforts disappear. <strong>KPH</strong> finally brings true, persistent housing to BG3, giving you:</p>\n<ul>\n<li>\n<p>A permanent, private space for RP, trophies, or downtime</p>\n</li>\n<li>\n<p>Creative freedom—furnish and decorate as you like</p>\n</li>\n<li>\n<p>A consistent “home base” that doesn’t change with the game’s story</p>\n</li>\n<li>\n<p>A solution for anyone who loves collecting, decorating, or just wants a quiet escape</p>\n</li>\n</ul>\n<hr>\n<h3>Current Features</h3>\n<ul>\n<li>\n<p><strong>Treehome</strong> – the first custom housing dimension, serene and ready to decorate</p>\n</li>\n<li>\n<p><strong>Instant Access Key</strong> – Treehome Key is granted at game start for immediate use</p>\n</li>\n<li>\n<p><strong>Persistence</strong> – everything you place in Treehome stays put, act to act, save to save</p>\n</li>\n</ul>\n<hr>\n<h3>Planned Expansions</h3>\n<ul>\n<li>\n<p><strong>Multiple Custom Player Homes:</strong><br>Treehome is just the beginning! Future updates will introduce a selection of unique player housing options—each with its own style, layout, and atmosphere. Choose the perfect base for your character or party, or collect them all.</p>\n</li>\n<li>\n<p><strong>Immersive Real Estate System:</strong><br>In an upcoming version, teleport keys to different homes will no longer be handed out at game start. Instead, you’ll be able to purchase or earn them from in-game vendors at various prices, making your home truly feel earned or bought—perfect for immersion and roleplay.</p>\n</li>\n</ul>\n<hr>\n<h3>How to Use</h3>\n<ol>\n<li>\n<p><strong>Install the Mod</strong> (BG3 Mod Manager)</p>\n</li>\n<li>\n<p><strong>Start Your Game</strong> – the Treehome Key will appear in your inventory</p>\n</li>\n<li>\n<p><strong>Use the Key</strong> – teleport to your persistent Treehome from anywhere, even during combat*<br>*may effect Act sensitive quests, use wisely!</p>\n</li>\n</ol>\n<hr>\n<p> </p>\n<p><strong>Questions/Comments/Feedback/Mod Requests? Visit my Discord!: https://discord.gg/AgsPzTwfjR</strong></p>",
+    "summary": "Treehome is your peaceful, hidden, persistent residence perfect for decorating, relaxing, RP, and storage. The key to teleport there is automatically added to your inventory at the start of a new game. Key useable in combat.",
+    "description": "<h2>TREEHOME – Personal<strong> Persistent Pocket Dimension</strong></h2>\n<p><img src=\"https://image.modcdn.io/members/07b4/48531518/profile/20250713165720.png\" alt=\"\" width=\"400\" height=\"226\">      <img src=\"https://image.modcdn.io/members/07b4/48531518/profile/20250713165736.png\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p><img src=\"https://image.modcdn.io/members/07b4/48531518/profile/20250713165754.png\" alt=\"\" width=\"400\" height=\"225\">   <img src=\"https://image.modcdn.io/members/07b4/48531518/profile/screenshot2025-07-13165600.png\" alt=\"\" width=\"320\" height=\"235\"></p>\n<p> </p>\n<p><strong><span style=\"color:#ff0000;\"><span style=\"font-size:large;\">MAJOR UPDATE!!!:<br>The Safe Travel dependency is now BUILT IN to Treehome, meaning no more issues with going from the base game to Treehome and back. This is a major, first-of-its-kind achievement!<br>I've also added a return teleport mechanism that when you use the key again after going to Treehome, you will be brought right back to wherever in the game you used the key from!</span></span></strong></p>\n<p> </p>\n<p><strong>Transform the way you experience Baldur’s Gate 3 with true player housing.</strong><br>Tired of camp sites changing every act, ruining your carefully decorated spaces? Wish you had a home base you could truly call your own, where your creative efforts persist across your entire adventure? The <strong>Kira Player Housing</strong> mod is the solution.</p>\n<hr>\n<h3>What the Mod Does</h3>\n<ul>\n<li>\n<p><strong>Personal Pocket Dimension:</strong><br>This mod introduces magical teleport keys that instantly whisk you away to your own private, persistent player housing area—starting with the tranquil “Treehome.”<br>Unlike the game’s normal camps, which reset and change as you progress, Treehome is a pocket dimension you can decorate, personalize, and return to any time. Your changes and customizations will remain intact throughout your playthrough.</p>\n</li>\n<li>\n<p><strong>Decorate and Make It Yours:</strong><br>With support for decoration mods like <strong>ASE</strong> and other item spawning mods, you can truly make your house a home. Place furniture, trophies, or even entire collections—Treehome will keep everything exactly where you left it, no matter how the story unfolds.</p>\n</li>\n<li>\n<p><strong>Seamless Access:</strong><br>Upon starting a new game, your character receives the <strong>Treehome Key</strong> in their inventory. Use it from anywhere to teleport instantly to your personal sanctuary. (even works in combat!)</p>\n</li>\n</ul>\n<hr>\n<h3>Why Player Housing?</h3>\n<p>Baldur’s Gate 3’s dynamic camp system makes decorating and personalizing your space nearly impossible—camps move, change, or reset, and your efforts disappear. <strong>KPH</strong> finally brings true, persistent housing to BG3, giving you:</p>\n<ul>\n<li>\n<p>A permanent, private space for RP, trophies, or downtime</p>\n</li>\n<li>\n<p>Creative freedom—furnish and decorate as you like</p>\n</li>\n<li>\n<p>A consistent “home base” that doesn’t change with the game’s story</p>\n</li>\n<li>\n<p>A solution for anyone who loves collecting, decorating, or just wants a quiet escape</p>\n</li>\n</ul>\n<hr>\n<h3>Current Features</h3>\n<ul>\n<li>\n<p><strong>Treehome</strong> – the first custom housing dimension, serene and ready to decorate</p>\n</li>\n<li>\n<p><strong>Instant Access Key</strong> – Treehome Key is granted at game start for immediate use</p>\n</li>\n<li>\n<p><strong>Persistence</strong> – everything you place in Treehome stays put, act to act, save to save</p>\n</li>\n</ul>\n<p> </p>\n<hr>\n<h3>How to Use</h3>\n<ol>\n<li>\n<p><strong>Install the Mod</strong> (BG3 Mod Manager)</p>\n</li>\n<li>\n<p><strong>Start Your Game</strong> – the Treehome Key will appear in your inventory</p>\n</li>\n<li>\n<p><strong>Use the Key</strong> – teleport to your persistent Treehome from anywhere, even during combat<br><br></p>\n</li>\n</ol>\n<hr>\n<p> </p>\n<p><strong>Questions/Comments/Feedback/Mod Requests? Visit my Discord!: https://discord.gg/AgsPzTwfjR</strong></p>",
     "date_added": 1752439972,
-    "date_updated": 1778288706,
+    "date_updated": 1778330976,
     "date_live": 1752441099,
     "visible": 1,
     "status": 1,
@@ -126011,15 +126011,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/07b4/48531518/crop_100x100/kiradiscord.png"
     },
     "modfile": {
-      "id": 6634975,
+      "id": 7718974,
       "mod_id": 5090747,
-      "version": "1.0.0.12",
-      "filename": "treehome_32f69441-ea04-b3af-ac-0fh3.zip",
-      "changelog": "Fixed fireplace and added hole to back area in case anyone was using it. Added regular bed, several chests for storage, and tons of little decorative items. Added Tutorial Chest copy to help in retrieving items from other mods.",
-      "date_added": 1754245464,
+      "version": "1.0.0.22",
+      "filename": "treehome_32f69441-ea04-b3af-ac-1xrb.zip",
+      "changelog": "Major update. Safe Travel system built in to eliminate cross level issues. Return teleport system built to return you to where you used the key from on second key use.",
+      "date_added": 1778330526,
       "date_updated": 0,
-      "date_scanned": 1754245506,
-      "filesize": 23668743,
+      "date_scanned": 1778330580,
+      "filesize": 22282227,
       "platforms": [
         {
           "platform": "windows",
@@ -126027,24 +126027,24 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
     "logo": {
-      "filename": "treehome2.png",
-      "original": "https://image.modcdn.io/mods/b479/5090747/treehome2.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/b479/5090747/crop_320x180/treehome2.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/b479/5090747/crop_640x360/treehome2.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/b479/5090747/crop_1280x720/treehome2.png"
+      "filename": "thome.png",
+      "original": "https://image.modcdn.io/mods/b479/5090747/thome.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b479/5090747/crop_320x180/thome.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b479/5090747/crop_640x360/thome.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b479/5090747/crop_1280x720/thome.png"
     },
     "tags": [
       {
@@ -126075,10 +126075,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6634975
-      },
-      {
         "platform": "mac",
         "modfile_live": 6634975
       },
@@ -126089,6 +126085,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6634975
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7718974
       }
     ]
   },
