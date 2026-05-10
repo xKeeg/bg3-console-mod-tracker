@@ -116528,7 +116528,7 @@
     "summary": "BG3 - Chocolate Edition is a massive rebalance mod touching almost every aspect of character building. Spells, feats, classes, subclasses, initiative, and more have all seen changes to make the game a different flavor of fun for a new run.",
     "description": "<h2>IF YOU UPDATE MID GAME from 3.0.0.107 (or earlier) to 3.0.0.108 (or higher) AND ARE PLAYING A RANGER - YOU <strong>MUST RESPEC. If you are experiencing crashing while trying to level up a ranger, you must respec. I had to fix a bug I caused who knows when which required a UUID fix to Ranger spell lists and their progression table. If you do not respec, you are likely to get a repeatable crash.</strong></h2>\n<h2><span style=\"text-decoration:underline;\">DO NOT UPDATE MID RUN (ESPECIALLY ON HONOR MODE) IF YOU WANT TO KEEP USING YOUR V2 BUILD. BUILDS WILL CHANGE FOR VERSION 3!</span></h2>\n<h2>For full mod details, check out the website! <a href=\"https://bg3chocolate.carrd.co\" target=\"_blank\" rel=\"noopener noreferrer\">bg3chocolate.carrd.co</a></h2>\n<h2>Welcome to Chocolate Edition v3! This is a homebrew, chocolate coating on the excellent Vanilla core BG3 experience with changes to almost every aspect of character building including:</h2>\n<ul>\n<li>\n<h3>Initiative Changes</h3>\n</li>\n<li>\n<h3>Weapon Cantrip Rule Changes</h3>\n</li>\n<li>\n<h3>Major Class Changes</h3>\n</li>\n<li>\n<h3>Minor Class Changes</h3>\n</li>\n<li>\n<h3>Extra Feats at level 2</h3>\n</li>\n<li>\n<h3>New Origin Classes</h3>\n</li>\n<li>\n<h3>New \"minor classes\" for non-Origin companions and Durge</h3>\n</li>\n<li>\n<h3>Cantrip - Level 6 Spell changes</h3>\n</li>\n<li>\n<h3>Feat Changes</h3>\n</li>\n<li>\n<h3>16 New Feats</h3>\n</li>\n</ul>\n<h3>This is intended to be a one stop shop to a fresh BG3 experience without relying on other mods to be kept updated, and without bloating your load order on console. Why use lot mod when one mod do trick?</h3>\n<p> </p>\n<p>Remember! Before submitting bugs, check the PDF for anything relevant in case what you think is a bug is just a feature! Once you've done that, feel free to comment or report bugs through the official feature, or to <a href=\"https://discord.gg/CP36VuDYHu\">join my discord to chat about what's going on.</a></p>\n<h3>Recommended Mod Categories to Use Alongside BG3 - Chocolate Edition - These will all add some additional flavor to the delicious chocolate of this mod.</h3>\n<ul>\n<li>\n<p>Tactician Enhanced (or other difficulty mods) - Tactician Enhanced will help you customize the experience if you want a little or a lot more difficulty.</p>\n</li>\n<li>\n<p><strong>Extra Encounters</strong></p>\n</li>\n<li>\n<p>Item mods (these can be unbalanced at times)</p>\n</li>\n<li>\n<p>Enemy mods</p>\n</li>\n<li>\n<p>Appearance mods</p>\n<ul>\n<li>\n<p>Replacer mods for Origins are compatible. Magic Mirror for Companions type mods are incompatible.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Randomizer mods for encounters or items</p>\n</li>\n<li>\n<p>Race mods (if you aren't on console)</p>\n</li>\n</ul>\n<p>Feel free to use new class mods alongside this, but I would HIGHLY recommend not using any mods that modify vanilla classes listed anywhere in the patch notes. I cannot offer support for bugs caused by mod conflicts very often. I would also advise against using spell rebalance mods, though spell addition mods like Mystra's Spells should be fine (excluding the balancing differences between Mystra's Spells and this mod).</p>\n<h2><span style=\"text-decoration:underline;\">Conflicts</span></h2>\n<ul>\n<li>Any mod that alters the \"Origin\" entries in the toolkit including mods that allow origin characters to use the Magic Mirror</li>\n<li>Spell rebalance mods</li>\n<li>Mods that alter subclasses or classes</li>\n<li>Mods that alter or rebalance feats</li>\n<li>Mods that alter or rebalance elixirs</li>\n<li>Mods that *add* subclasses should use progression merges for best practices, but conflicts with Wizard, Ranger, Warlock, Druid, and Paladin subclasses from previous versions have been resolved on the Chocolate Edition side as of the most recent version available on PC. Console awaits an update still.</li>\n</ul>\n<p>Note about conflicts: Mod conflicts are not inherently a bad thing. You just need to make sure the mod you want to \"win\" the conflict is loaded later in your load order. To do this on consoles or through the in game mod manager, supposedly you can de-activate all mods in your list and then reactivate them in the order that you choose. This will tell the game what order to load the mods in.</p>",
     "date_added": 1748866806,
-    "date_updated": 1778302305,
+    "date_updated": 1778387342,
     "date_live": 1748868463,
     "visible": 1,
     "status": 1,
@@ -116542,15 +116542,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2890/34817058/crop_100x100/fe72795fb0c88912cc6ec75f1c125df.jpg"
     },
     "modfile": {
-      "id": 7718185,
+      "id": 7722428,
       "mod_id": 4985426,
-      "version": "3.0.0.113",
-      "filename": "vanillaplus_d932c3e8-991e-ef52-4gou.zip",
-      "changelog": "- Power of the Orb now correctly adds damage to all weapon attack cantrips, even from other mods. Toxic Barrage only gains +1 per shot instead of +1d4 per shot.\n\t- Beast Master's panther summon should now resummon itself on long rest, and when you level up like other beast master summons.\n    - Other beast master summons shouldn't (hopefully) lose their extra attack on long rest anymore.\n\t- Hopefully improved the reliability of the Auto Extra Attack feature for Lae'zel's and Karlach's origin classes.",
-      "date_added": 1778302223,
+      "version": "3.0.0.114",
+      "filename": "vanillaplus_d932c3e8-991e-ef52-q0tm.zip",
+      "changelog": "- Origin Classes no longer grant their saving throw proficiencies when multiclassed into\n\t- Blizzard Blitz no longer works with extra attack as intended. (This is a Witch class spell for now. Will be integrated into other spell lists at a later date, or in version 4)",
+      "date_added": 1778387255,
       "date_updated": 0,
-      "date_scanned": 1778302516,
-      "filesize": 23014070,
+      "date_scanned": 1778387309,
+      "filesize": 23014112,
       "platforms": [
         {
           "platform": "windows",
@@ -116689,7 +116689,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7718185
+        "modfile_live": 7722428
       }
     ]
   },
