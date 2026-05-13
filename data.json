@@ -140632,7 +140632,7 @@
     "summary": "Aylin will always summon Moonlight Slivers when confronting Lorroakan.",
     "description": "<p>In the vanilla game, Aylin will summon three <a href=\"https://bg3.wiki/wiki/Moonlight_Sliver\" rel=\"nofollow\">Moonlight Slivers</a> to her aid if the party decides to hand her over to Lorroakan.<br>This mod changes it so that she will summon the Slivers even if you side with her against Lorroakan.</p>\n<p><strong><span style=\"font-size:medium;\">💬Dialogue and Gameplay Changes</span></strong></p>\n<p><strong><span style=\"font-size:medium;\">🌙Before:</span></strong> </p>\n<ul>\n<li><strong>Side with Lorroakan</strong>: Aylin summons three Moonlight Slivers, and Lorroakan summons four elemental <a href=\"https://bg3.wiki/wiki/Myrmidon\" rel=\"nofollow\">Myrmidons</a>. The Moonlight Slivers and Aylin are hostile to<em> </em>the party. Lorroakan, the Myrmidons, <a href=\"https://bg3.wiki/wiki/Miklaur\" rel=\"nofollow\">Miklaur</a> and <a href=\"https://bg3.wiki/wiki/Krank\" rel=\"nofollow\">Krank</a> will ally <em>with </em>the party.</li>\n<li><strong>Side with Aylin</strong>: Aylin doesn’t summon the Slivers — she alone allies with the party. Lorroakan and his crew are hostile.</li>\n</ul>\n<p><strong><span style=\"font-size:medium;\">🌕After:</span></strong> </p>\n<ul>\n<li><strong>Side with Lorroakan</strong>: Unchanged. The Slivers and Myrmidons are summoned as usual.</li>\n<li><strong>Side with Aylin</strong>: Aylin summons three Moonlight Slivers, and they ally with the party. Lorroakan and his crew are hostile.</li>\n</ul>\n<p><strong><span style=\"font-size:medium;\">🎬Cutscene Changes</span></strong></p>\n<p><strong><span style=\"font-size:medium;\">🌙Before:</span></strong> </p>\n<ul>\n<li>All the Slivers in the cutscene have the exact same appearance<span style=\"font-size:medium;\"><strong>.</strong></span></li>\n</ul>\n<p><strong><span style=\"font-size:medium;\">🌕After:</span></strong> </p>\n<ul>\n<li>The cutscene correctly displays each Sliver's unique appearance.</li>\n</ul>\n<p> </p>\n<p>❗ <strong>Please Note</strong></p>\n<p>This mod is designed to enhance the story experience by making an often-missed scene more easily accessible. It is not intended to provide balanced combat. Aylin and the Slivers will wipe the floor with Lorroakan and his lackeys (as they should).</p>\n<p> </p>\n<p>ℹ️ <strong>Additional Notes on Slivers Behaviour</strong></p>\n<p>In the vanilla game, the only way to get rid of the Moonlight Slivers is to kill them. I've had to come up with a more peaceful way to get them to please leave the building. <br>The trigger for them to leave is after Aylin has completed her wresting move on Lorroakan. If for some reason that doesn't happen, the backup trigger is for them to leave when Aylin does (after a long rest).<br>If for whatever reason Aylin can't get her backbreaker on (if Lorroakan has been yeeted to one of the lower floors), don't worry if the Slivers are just milling about looking shifty. They'll leave eventually.</p>\n<p> </p>\n<p>Safe to install/uninstall anytime.</p>",
     "date_added": 1769201997,
-    "date_updated": 1776233615,
+    "date_updated": 1778665765,
     "date_live": 1769201997,
     "visible": 1,
     "status": 1,
@@ -140662,15 +140662,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -140700,19 +140700,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7635618
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7307539
+        "modfile_live": 7635618
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7307539
+        "modfile_live": 7635618
       },
       {
         "platform": "ps5",
-        "modfile_live": 7307539
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7635618
       }
     ]
