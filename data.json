@@ -128339,9 +128339,9 @@
     "name": "Queen's Garments",
     "name_id": "queens-garments",
     "summary": "Queen's Garments is a pack that has undergarments fit for royalty. They feature many customisation options such as body sculpts and PHYSICS.",
-    "description": "<p>A collection fit for your queen and all her needs<br>Only for bt1; pillar outfit available for bt3; roughly half of the outfits are also compatible with tiefling bt1<br>Uses camp clothing, camp shoes and underwear slot (accessories)</p>\n<p>Some of the included outfits:<br>Crimson Wings, Royal Knight, Bifrost, Eternal Queen, Scarlet<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits1.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Crimson Monarch, Secret Therapy, Artor, Valkyrie, Pillar<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits2.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Tactical Dress, Duskraven, Loveless, Cyber Bunny, Chic<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits3.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Commissioned for Morgana Evelyn<br>Pillar/Valkyrie BT3 refit commissioned for JC<br>Valkyrie outfit commissioned for Anonymous<br>Aesir outfit commissioned for Albion<br>Tiefling bt1 compatibility commissioned for Noir<br><br>Credits:<br>Duskraven - <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Secret Therapy - outfit by <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Additional glamour screenshots - Lara</p>\n<p>Find Queen's Garments at the following locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>A collection fit for your queen and all her needs<br>Only for bt1; pillar outfit available for bt3; roughly half of the outfits are also compatible with tiefling bt1<br>Uses camp clothing, camp shoes and underwear slot (accessories)</p>\n<p>Some of the included outfits:<br>Crimson Wings, Royal Knight, Bifrost, Eternal Queen, Scarlet<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits1.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Crimson Monarch, Secret Therapy, Artor, Valkyrie, Pillar<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits2.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Tactical Dress, Duskraven, Loveless, Cyber Bunny, Chic<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits3.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Commissioned for Morgana Evelyn<br>Pillar/Valkyrie BT3 refit commissioned for JC<br>Valkyrie outfit commissioned for Anonymous<br>Aesir outfit commissioned for Albion<br>Tiefling bt1 compatibility commissioned for Noir, Tina and Anonymous<br><br>Credits:<br>Duskraven - <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Secret Therapy - outfit by <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Additional glamour screenshots - Lara</p>\n<p>Find Queen's Garments at the following locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1754207608,
-    "date_updated": 1776788737,
+    "date_updated": 1778929700,
     "date_live": 1754210788,
     "visible": 1,
     "status": 1,
@@ -128355,15 +128355,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7658226,
+      "id": 7742041,
       "mod_id": 5138870,
-      "version": "1.0.0.35",
-      "filename": "eqlngerie_7b25c953-f727-cab3-3-a2os.zip",
-      "changelog": "- added a dye container\n- added 3 more dyes",
-      "date_added": 1776788704,
+      "version": "1.0.0.36",
+      "filename": "eqlngerie_7b25c953-f727-cab3-3-dp7s.zip",
+      "changelog": "- added Queen version of bikini (fixed the previous version name to Princess)\n- added tiefling bt1 support for bikini and scarlet",
+      "date_added": 1778929641,
       "date_updated": 0,
-      "date_scanned": 1776789146,
-      "filesize": 246021332,
+      "date_scanned": 1778930072,
+      "filesize": 248581817,
       "platforms": [
         {
           "platform": "windows",
@@ -128467,7 +128467,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7658226
+        "modfile_live": 7742041
       }
     ]
   },
@@ -134520,7 +134520,7 @@
     "summary": "All of my fun things, together! (Makes life easier for console users)",
     "description": "<p>A collection of my more fun, less-invasive mods! Compiled in one package for console users to help with that annoying 100-mod cap.<br><br>Any mods in this pack that have any actual effect on gameplay can be turned off, or must be manually turned on.<br>There are four ways I give you control:<br>- Some require you to drink a potion to activate.<br>- Items such as the Book of Plagues and Bone Sculptor Tome affect you by simply being in your inventory.<br>- Passives that can be toggled on or off.<br>- Functions that appear only in camp (general tab).<br><br>includes:<br>* <a href=\"https://mod.io/g/baldursgate3/m/auto-spawn-items#description\">Gabe's Bag of Holding</a> (a dependency for most of my mods, built into this one)<br>-- Note: Activating the Enemy Leveling function in camp will improve Enemy Loot Randomizer results!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/critical-mockery#description\">Critical Mockery</a> (mock enemies when you score a critical hit)<br>-- Note: This is an interrupt. Disable to turn mockery off. Does not affect the spell.<br>-- To disable: turn off associated interrupt<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/enemy-loot-randomizer#description\">Enemy Loot Randomizer</a> (randomizes enemy loot and vendor stock. Functions can be toggled on/off mid-game)<br>-- Note: Vendor++ is on by default. Amounts and value of loot/stock increase with enemy/player level.<br>-- To disable: turn off associated passives<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-bg3-mystic-forge#description\">The BG3 Mystic Forge</a> (gamble your junk for a chance at something epic!)<br>-- Note: Put 4 items in the pouch. Close pouch. Good luck!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/treasuregoblins#description\">Treasure Goblins</a> (yep, just like diablo)<br>-- To disable: turn off associated passive<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabesmod-combat-ai-and-optional-cooldown-reset#description\">Gabe's Mod</a> (combat AI for companions and summons)<br>-- Note: Use the Default option for AI if you are unsure what to choose.<br>-- To disable: turn off associated passives<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-dragonborn-and-draconic-sorcery#description\">Gabe's Dragonborn</a> (ever wish Draconic Ancestry was available for other classes?)<br>-- Note: If you do not wish to use this, simply select None on the CC screen.<br>-- Compatible with <a href=\"https://mod.io/g/baldursgate3/m/ezuneos-draconic-body-scales#description\">Ezuneo's Draconic Body Scales</a> and <a href=\"https://mod.io/g/baldursgate3/m/gem-draconic-ancestries#description\">Gem Draconic ancestries</a><br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-bone-sculptor#description\">The Bone Sculptor</a> (an undead crafting mod)<br>-- Note: Recipes are <a href=\"https://docs.google.com/document/d/1FFg-wSUT0NTm0EdpKEonDf0WTiytfpY7KiEfsG3RLOo/edit?tab=t.0\">HERE</a> (console users, use your phone/tablet) or may be found by reading the Scrawlings (3 total)<br>-- To disable: drop the tome<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-pets#description\">Gabe's Pets</a> (various pet-type summons I put in a mod. Some cute, some not. Has Pocket dragons!)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-restless-dead#description\">The Restless Dead</a> (the dead may come back to life to attempt to get revenge)<br>-- Note: The Horn of the Dead will awaken the dead and must be activated manually.<br>-- To disable: turn on Let the Dead rest (passive)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/explosives#description\">Explosives!</a> (just what you think it is, a mod specifically about things that explode)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-plague#description\">The Plague</a> (diseases based off of real-world diseases. Utilizes poison damage)<br>-- Notes: the spells for this mod are distributed differently. If the character that drank the potion has the book in their inventory and reads it, the goblin will not return. Spells in this mod are NOT given to you all at once! There is a progressive unlock mechanism, so you only get one to start with. One of the vendors in the Fungus camp in the Underdark sells a purple Noblestalk that unlocks all the spells, if you want to go that route.<br>-- To disable: kill the goblin, loot and read the book, do not use spells.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/anyone-can-be-a-vendor#description\">Any Summon Can be a Vendor</a> (make any summon a vendor)<br>-- To use: Apply to a summon using Vendor Policies and Procedures or summon the Mimic Vendor. Open Merchant Abilities, use the three functions in order.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/dwarf-tossing#description\">Dwarf Tossing!</a> (Dwarves you can throw, and a throwin' kitty)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-darts#description\">Gabe's Darts and Daggers</a><br>-- Note: Requires a vendor from Any Summon Can be a Vendor OR the Mimic vendor from that mod.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/feat-barbaric-brawler#description\">Feat: Barbaric Brawler</a> (a pair of feats that allows Barbarians to fight unarmed at almost Monk-like levels)<br>-- Fun Pack version is NOT tied to Barbarian-only and should work with any class.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/underpants-gnomes#description\">Underpants Gnomes</a> (yep, they exist)<br>-- To disable: turn off associated passive<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/death-penalties#description\">Death Penalties</a><br>-- Note: This has to be activated manually in camp, so is completely optional. Exp loss is available in 5% increments.<br>-- To disable: turn off functions from camp<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/it-follows-weeping-angels#description\">It Follows (Weeping Angels)</a><br>-- This is very important... do not pick up the Strange Gem if you do not want this mod enabled.<br>-- To disable: drop the Strange gem<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/arachnaphobia#description\">Arachnophobia</a><br>-- This is toggled OFF by default and must be turned on after every rest!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/chaos-magic#description\">Chaos Magic!</a><br>-- To use: use the spell<br>-- To avoid using: do not use the spell<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-soulstone#description\">The Soulstone</a><br>-- Can be obtained from Withers<br>-- Throw away if you wish to disable this mod. Existing Souls will remain.<br>-- Use the Soulstone on your Tav to prevent Souls and Settlers from following you.</p>",
     "date_added": 1761386002,
-    "date_updated": 1778544981,
+    "date_updated": 1778930297,
     "date_live": 1761388652,
     "visible": 1,
     "status": 1,
@@ -134534,19 +134534,31 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
     },
     "modfile": {
-      "id": 7728876,
+      "id": 7742068,
       "mod_id": 5312062,
-      "version": "1.0.0.475",
-      "filename": "gabesfunpack_fb149320-e537-4d2-igjc.zip",
-      "changelog": "* Vendor++ is no longer on by default. This makes it easier to use for me personally with my new mod",
-      "date_added": 1778544928,
+      "version": "1.0.0.477",
+      "filename": "gabesfunpack_fb149320-e537-4d2-04na.zip",
+      "changelog": "* Removed the Soulstone scripting, getting too many complaints. Statuses etc are left behind so it shouldn't crash on update, but I make no guarantees so save beforehand.",
+      "date_added": 1778930234,
       "date_updated": 0,
-      "date_scanned": 1778544966,
-      "filesize": 19449803,
+      "date_scanned": 1778930274,
+      "filesize": 19431944,
       "platforms": [
         {
           "platform": "windows",
           "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
         }
       ]
     },
@@ -134614,7 +134626,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7728876
+        "modfile_live": 7742068
       }
     ]
   },
