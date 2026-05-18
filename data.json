@@ -67037,6 +67037,104 @@
     ]
   },
   {
+    "id": 4447185,
+    "game_id": 6715,
+    "name": "ShadowDomain",
+    "name_id": "shadowdomain",
+    "summary": "A custom cleric domain built around being obscured and dealing necrotic damage. Likely a bit stronger than most base game domains, but hopefully not too overpowered.",
+    "description": "<p>A custom cleric domain built around being obscured and dealing necrotic damage.</p>\n<h2><strong>Proficiencies</strong></h2>\n<ul>\n<li>Scimitars, Shortswords, Longbows</li>\n<li>Expertise in 2 out of Sleight of Hand, Stealth and Deception (Doesn't require proficiency in those skills)</li>\n</ul>\n<h2>Domain Spells</h2>\n<ol>\n<li>Disguise Self, Hex</li>\n<li>Darkness, Invisibility</li>\n<li>Vampiric Touch, Hunger of Hadar</li>\n<li>Blight, Greater Invisibility</li>\n<li>Cloudkill, Destructive Wave</li>\n</ol>\n<h2>Subclass Features</h2>\n<h3>Level 1</h3>\n<h4>Umbral Assault</h4>\n<p>While obscured, weapon attacks deals 1d6 bonus Necrotic damage.</p>\n<h3>Level 2</h3>\n<h4>Channel Divinity: Shadow Bolt</h4>\n<p>Ranged projectile attack that deals 1d8 Necrotic damage per character level to one target, blinding it for 2 turns if it fails a Constitution saving throw.</p>\n<h4>Born into Darkness</h4>\n<p>Grants 24m darkvision, ability to see through magical and nonmagical darkness and immunity to blindness.</p>\n<h3>Level 6</h3>\n<h4>Unseen Strike</h4>\n<p>Melee attack that deals normal weapon damage. Costs a reaction instead of an action and can only be used while obscured.</p>\n<h3>Level 8</h3>\n<h4>Improved Umbral Assault</h4>\n<p>Umbral Assault now deals 1d8 damage plus additional damage equal to your Wisdom modifer.</p>\n<h4>Disciple of Shadows</h4>\n<p>Spells and attacks that deals Necrotic damage deals bonus damage equal to your Wisdom modifer, and all your Necrotic damage ignores resistance.</p>",
+    "date_added": 1730041319,
+    "date_updated": 1756235924,
+    "date_live": 1730042726,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/shadowdomain",
+    "submitted_by": {
+      "id": 37565979,
+      "name_id": "jmlyan",
+      "username": "Sarrach",
+      "profile_url": "https://mod.io/u/jmlyan",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/a6ff/37565979/crop_100x100/5e849c07b60a0c463a78998b723431a.jpg"
+    },
+    "modfile": {
+      "id": 6628817,
+      "mod_id": 4447185,
+      "version": "1.0.0.20",
+      "filename": "shadowdomain_15a9d750-6a38-d98-5r5b.zip",
+      "changelog": "Fixed the missing visual cone of the darkvision from the Born into Darkness passive.",
+      "date_added": 1754084004,
+      "date_updated": 0,
+      "date_scanned": 1754084056,
+      "filesize": 192560,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/28ff/4447185/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/28ff/4447185/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/28ff/4447185/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/28ff/4447185/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6628817
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6628817
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6628817
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6628817
+      }
+    ]
+  },
+  {
     "id": 4447595,
     "game_id": 6715,
     "name": "Tasha's Additional Bard Spells",
