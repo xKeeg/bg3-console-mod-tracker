@@ -110876,7 +110876,7 @@
     "summary": "Default Human Underwear",
     "description": "<p>A custom under garment for the underwear or camp clothing slot that includes a garter + stocking</p>\n<p>This mod doesn't replace base human underwear</p>\n<p>only for bodytype 1</p>\n<p>contains 1 debug spells version</p>\n<p>Find Evelyn’s Default Human Underwear at the follow locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1746778161,
-    "date_updated": 1778757728,
+    "date_updated": 1779195608,
     "date_live": 1746781287,
     "visible": 1,
     "status": 1,
@@ -110890,30 +110890,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7685202,
+      "id": 7753664,
       "mod_id": 4926075,
-      "version": "1.0.0.34",
-      "filename": "evundwr_84a7a370-f9cc-95b3-115-4khp.zip",
-      "changelog": "- added full restoration skill to the training rat",
-      "date_added": 1777431051,
+      "version": "1.0.0.35",
+      "filename": "evundwr_84a7a370-f9cc-95b3-115-6yhr.zip",
+      "changelog": "- added minor illusion\n- added a battle start with surprised for training rat",
+      "date_added": 1779195579,
       "date_updated": 0,
-      "date_scanned": 1777431078,
-      "filesize": 12493652,
+      "date_scanned": 1779195605,
+      "filesize": 12494010,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -110984,10 +110972,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7685202
-      },
-      {
         "platform": "mac",
         "modfile_live": 7685202
       },
@@ -110998,6 +110982,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7685202
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7753664
       }
     ]
   },
