@@ -111602,7 +111602,7 @@
     "summary": "Default Human Underwear",
     "description": "<p>A custom under garment for the underwear or camp clothing slot that includes a garter + stocking</p>\n<p>This mod doesn't replace base human underwear</p>\n<p>only for bodytype 1</p>\n<p>contains 1 debug spells version</p>\n<p>Find Evelyn’s Default Human Underwear at the follow locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1746778161,
-    "date_updated": 1779225232,
+    "date_updated": 1779271227,
     "date_live": 1746781287,
     "visible": 1,
     "status": 1,
@@ -111616,15 +111616,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7754888,
+      "id": 7756442,
       "mod_id": 4926075,
-      "version": "1.0.0.36",
-      "filename": "evundwr_84a7a370-f9cc-95b3-115-9kcy.zip",
-      "changelog": "- added a giga Black Hole spell",
-      "date_added": 1779225188,
+      "version": "1.0.0.37",
+      "filename": "evundwr_84a7a370-f9cc-95b3-115-rsoj.zip",
+      "changelog": "- added the summon magic club spell",
+      "date_added": 1779271194,
       "date_updated": 0,
-      "date_scanned": 1779225214,
-      "filesize": 12609429,
+      "date_scanned": 1779271254,
+      "filesize": 12610507,
       "platforms": [
         {
           "platform": "windows",
@@ -111711,7 +111711,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7754888
+        "modfile_live": 7756442
       }
     ]
   },
