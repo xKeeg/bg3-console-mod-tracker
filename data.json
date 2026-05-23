@@ -74490,7 +74490,7 @@
     "summary": "The fastest and safest way to leave the tutorial level while saving Shadowheart and the Intellect Devourer 'US' earns you experience, a fire dipped greatsword, gold, spells and tools. 'Withers' will be freed and awaits in Camp.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/tutorialexit3.png\" alt=\"\" width=\"512\" height=\"288\"></p>\n<p> </p>\n<p><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">Tutorial Exit By SFR</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">This guide explains the fastest and safest way to leave the </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">tutorial level</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">while saving both </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Shadowheart and the Intellect Devourer \"Us\" </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">along the way. As a reward, you’ll earn experience, a </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Greatsword always dipped in fire,</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> spells, tools, and gold. </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">The Tutorial Ches</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">t is located right at the starting position and can be looted immediately without needing to travel far.</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Shadowheart</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> is a spell that teleports your character to </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Shadowheart</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">,</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> who is trapped.</span><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Freeing her is optional</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, as she will automatically be freed when you use the Exit spell. However, you may choose to loot the Elaborate Chest and other items in her area.</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Exit</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\"> is a spell that teleports your character directly to the beach, </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">skipping the crash cutscene.</span><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Shadowheart will be lying on the ground</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, and you may wake her up (optional).</span><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Two waypoints will also be unlocked: \"Chapel Waypoint\" and \"Top Waypoint.\"</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">Upon arriving at the beach, </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">the skeletons in the crypt will perish</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">and Withers will be freed from his tomb to join your camp</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, where he will await your party. All loot from the tomb and skeletons will be transferred to the selected character's inventory.</span><br><br><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">Additionally, when entering combat with the </span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#ffff00;\">Intellect Devourers at the beach</span><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">, you will have the option to kill them immediately. If you choose \"yes,\" they will Die instantly. </span></p>\n<p><span style=\"font-family:Arial;font-size:large;background-color:#444444;color:#00ff00;\">To Get more Experience there is a </span><span style=\"background-color:#444444;color:#ffff00;font-family:Arial;font-size:large;\">Barrel </span><span style=\"background-color:#444444;color:#00ff00;font-family:Arial;font-size:large;\">near the Chapel Entrance on opening it the Party will get rewarded with big XP.<br><br>to have the timer Disabled at the Helm use<br><br><a href=\"https://mod.io/g/baldursgate3/m/timeless-helm-fight#description\">Timeless Helm Fight for Baldur's Gate 3 - mod.io</a> </span></p>\n<p> </p>\n<p> </p>\n<p>*the Barrel is half in water</p>\n<p> </p>\n<p> </p>",
     "date_added": 1731350126,
-    "date_updated": 1778833563,
+    "date_updated": 1779565253,
     "date_live": 1731848605,
     "visible": 1,
     "status": 1,
@@ -74504,15 +74504,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 7640477,
+      "id": 7768027,
       "mod_id": 4480823,
-      "version": "8.1.8.4",
-      "filename": "tutorialexit_65244f13-7e0d-8e1-catj.zip",
-      "changelog": "Adjusted XP values\nPlayer position on arriving at the beach now correctly matches the original entry point\nSpells are removed when exiting the ship if they were not used\nMinor fixes and improvements",
-      "date_added": 1776374379,
+      "version": "8.1.8.6",
+      "filename": "tutorialexit_65244f13-7e0d-8e1-7vrs.zip",
+      "changelog": "Added a Wolf Dream Point that was not granted when saving Shadowheart.",
+      "date_added": 1779565171,
       "date_updated": 0,
-      "date_scanned": 1776374419,
-      "filesize": 17949685,
+      "date_scanned": 1779565206,
+      "filesize": 17949904,
       "platforms": [
         {
           "platform": "windows",
@@ -74520,15 +74520,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -74568,10 +74568,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7640477
-      },
-      {
         "platform": "mac",
         "modfile_live": 7640477
       },
@@ -74582,6 +74578,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7640477
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7768027
       }
     ]
   },
