@@ -37356,6 +37356,212 @@
     ]
   },
   {
+    "id": 4351799,
+    "game_id": 6715,
+    "name": "Volo's Guide to Amorous Tattoos",
+    "name_id": "volos-guide-to-amorous-tattoos",
+    "summary": "This mod imagines 26 humorous ways Volo would \"help\" Tav with their crush as a tattooist. Astarion, Lae'zel, Minthara, and Shadowheart included in volume 1. At least three designs per romancible companion included.",
+    "description": "<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>What is this mod?</strong></span></span></h3>\n<ul>\n<li><span class=\"bbcode-size-14\">Vol 2. adds a total of <strong>26 unhinged tattoos</strong> of ultimate companion affection! (by Volo's standards) </span></li>\n<li><span class=\"bbcode-size-14\">At least 3 designs each for <strong>Astarion, Lae'zel, Minthara, and Shadowheart </strong>included.</span></li>\n<li><span class=\"bbcode-size-14\"><strong>Replaces</strong> the vanilla BG3 tattoos</span></li>\n<li><span class=\"bbcode-size-14\">Most tattoos are available on the side or front of Tav's neck.</span></li>\n<li><span style=\"font-size:medium;\">This mod was featured in the <strong><a href=\"https://bsky.app/profile/bg3vpzine.bsky.social\">Baldur's Eyes Virtual Photography and Modding Zine</a></strong>.</span></li>\n</ul>\n<h3> </h3>\n<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>Installation</strong></span></span></h3>\n<p><span class=\"bbcode-size-14\">Simply drop the .zip into the<strong> BG3 Mod Manager</strong>. It is also available via the in-game mod manager.</span></p>\n<p> </p>\n<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>Known Conflicts</strong></span></span></h3>\n<ul>\n<li><span class=\"bbcode-size-14\">You can only use one volume of Volo's at a time.</span></li>\n<li><span class=\"bbcode-size-14\">Other tattoo replacer mods.</span></li>\n</ul>\n<h3> </h3>\n<h3><span class=\"bbcode-size-14\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;\"><strong>Frequently Asked Questions</strong></span></span></span></h3>\n<ol>\n<li><span class=\"bbcode-size-14\">Can you make your mods work with my favorite mod that someone else other than you or I created?</span>\n<ul>\n<li>Unfortunately, the answer is no. Why? With all the countless other mods in existance, there's simply too many permutations and it exponentially complicates maintenance on my mods.</li>\n<li>But I'm a mod author and I'd like for our mods to play nicely together!!!\n<ul>\n<li>Send me a DM and we can talk about it. With your intimate knowledge of how your mod is built, there's a chance we can make it work!</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>I've run into a problem with your mod. How do I submit a bug report?\n<ul>\n<li><span class=\"bbcode-size-14\">First thing's first. Unload ALL other mods and try the mod you're having trouble with one more time.</span>\n<ul>\n<li><span class=\"bbcode-size-14\">If that fixed it that means you've found a mod conflict. Please see FAQ 1 about addressing mod conflicts.</span></li>\n</ul>\n</li>\n<li><span class=\"bbcode-size-14\">Still having trouble? Drop me a note and I'll look into it.</span></li>\n</ul>\n</li>\n</ol>\n<p><span class=\"bbcode-size-14\">Thanks so much in advance for your understanding and continued support. 🙏❤️ </span></p>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;font-size:large;\">Special Thanks to <a href=\"https://bsky.app/profile/gcolquhoun.bsky.social\" target=\"_blank\" rel=\"noopener noreferrer\">Germaine C.</a> for their VP donation!</span></span></span></strong></h3>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><span style=\"font-family:Arial;\">The Following Were Used in the VP for this Mod</span></span></span></strong></h3>\n<ul>\n<li>“Lae’zel” tattoo model (Li’louvre)<br>\n<ul>\n<li><a href=\"https://www.patreon.com/posts/nereid-female-1-153046070\">Nereid</a></li>\n<li><a href=\"https://www.patreon.com/posts/gith-humanlike-139700984\">Gith-humanlike body replacer for fem Githyanki</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/4689\">Kawaii’s Dye Catalog</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/21386\">FAN-tastic Poses</a></li>\n</ul>\n</li>\n<li>“Shart” tattoo model<br>\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2900\">Astralities' Fantasy Skintone Expansion</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/14132\">Some FF Hairs (Autosnap for all races)</a></li>\n<li><a href=\"https://www.patreon.com/posts/renegade-non-vt-147899261\">Renegade</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/9607\">Kylin’s Piercings</a></li>\n</ul>\n</li>\n<li>Locations<br>\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/17934\">Snapshots</a></li>\n</ul>\n</li>\n</ul>\n<h3><span style=\"color:#6d9eeb;\"><strong><span class=\"bbcode-size-4\">Created with the Official BG3 Mod Toolkit</span></strong></span></h3>\n<p><a href=\"https://discord.gg/bg3mods\"><img src=\"https://i.imgur.com/r4g8fs4.png\" alt=\"r4g8fs4.png\"></a></p>\n<p>🎉 This mod is available on all platforms!</p>",
+    "date_added": 1726869512,
+    "date_updated": 1749203055,
+    "date_live": 1726872925,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/volos-guide-to-amorous-tattoos",
+    "submitted_by": {
+      "id": 34836700,
+      "name_id": "cobaltcactus",
+      "username": "CobaltCactus",
+      "profile_url": "https://mod.io/u/cobaltcactus",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2fd7/34836700/crop_100x100/cobaltcactus.png"
+    },
+    "modfile": {
+      "id": 6290966,
+      "mod_id": 4351799,
+      "version": "1.0.0.2",
+      "filename": "volo_amorous_tattoos_vol_1_d36-ddh3.zip",
+      "changelog": "Patch 8 compatible!",
+      "date_added": 1745092864,
+      "date_updated": 0,
+      "date_scanned": 1745092891,
+      "filesize": 13021142,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnailvol1.png",
+      "original": "https://image.modcdn.io/mods/81d5/4351799/thumbnailvol1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/81d5/4351799/crop_320x180/thumbnailvol1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/81d5/4351799/crop_640x360/thumbnailvol1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/81d5/4351799/crop_1280x720/thumbnailvol1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Tattoos",
+        "name_localized": "Tattoos",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6290966
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6290966
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6290966
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6290966
+      }
+    ]
+  },
+  {
+    "id": 4351805,
+    "game_id": 6715,
+    "name": "Volo's Guide to Amorous Tattoos Vol. 2",
+    "name_id": "volos-guide-to-amorous-tattoos-vol-2",
+    "summary": "This mod imagines 26 more humorous ways Volo would \"help\" Tav with their crush as a tattooist. Gale, Halsin, Karlach, and Wyll included in volume 2. At least three designs per romancible companion included.",
+    "description": "<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>What is this mod?</strong></span></span></h3>\n<ul>\n<li><span class=\"bbcode-size-14\">Vol 2. adds a total of <strong>26 unhinged tattoos</strong> of ultimate companion affection! (by Volo's standards) </span></li>\n<li><span class=\"bbcode-size-14\">At least 3 designs each for <strong>Gale, Halsin, Karlach, Wyll </strong>included.</span></li>\n<li><span class=\"bbcode-size-14\"><strong>Replaces</strong> the vanilla BG3 tattoos</span></li>\n<li><span class=\"bbcode-size-14\">Most tattoos are available on the side or front of Tav's neck.</span></li>\n<li><span style=\"font-size:medium;\">This mod was featured in the <strong><a href=\"https://bsky.app/profile/bg3vpzine.bsky.social\">Baldur's Eyes Virtual Photography and Modding Zine</a></strong>.</span></li>\n</ul>\n<h3> </h3>\n<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>Installation</strong></span></span></h3>\n<p><span class=\"bbcode-size-14\">Simply drop the .zip into the<strong> BG3 Mod Manager</strong>. It is also available via the in-game mod manager.</span></p>\n<p> </p>\n<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>Known Conflicts</strong></span></span></h3>\n<ul>\n<li><span class=\"bbcode-size-14\">You can only use one volume of Volo's at a time.</span></li>\n<li><span class=\"bbcode-size-14\">Other tattoo replacer mods.</span></li>\n</ul>\n<h3> </h3>\n<h3><span class=\"bbcode-size-14\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;\"><strong>Frequently Asked Questions</strong></span></span></span></h3>\n<ol>\n<li><span class=\"bbcode-size-14\">Can you make your mods work with my favorite mod that someone else other than you or I created?</span>\n<ul>\n<li>Unfortunately, the answer is no. Why? With all the countless other mods in existance, there's simply too many permutations and it exponentially complicates maintenance on my mods.</li>\n<li>But I'm a mod author and I'd like for our mods to play nicely together!!!\n<ul>\n<li>Send me a DM and we can talk about it. With your intimate knowledge of how your mod is built, there's a chance we can make it work!</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>I've run into a problem with your mod. How do I submit a bug report?\n<ul>\n<li><span class=\"bbcode-size-14\">First thing's first. Unload ALL other mods and try the mod you're having trouble with one more time.</span>\n<ul>\n<li><span class=\"bbcode-size-14\">If that fixed it that means you've found a mod conflict. Please see FAQ 1 about addressing mod conflicts.</span></li>\n</ul>\n</li>\n<li><span class=\"bbcode-size-14\">Still having trouble? Drop me a note and I'll look into it.</span></li>\n</ul>\n</li>\n</ol>\n<p><span class=\"bbcode-size-14\">Thanks so much in advance for your understanding and continued support. 🙏❤️ </span></p>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;font-size:large;\">Special Thanks to <a href=\"https://bsky.app/profile/gcolquhoun.bsky.social\" target=\"_blank\" rel=\"noopener noreferrer\">Germaine C.</a> for their VP donation!</span></span></span></strong></h3>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><span style=\"font-family:Arial;\">The Following Were Used in the VP for this Mod</span></span></span></strong></h3>\n<ul>\n<li>“Mama K” tattoo model (Tennen)\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/205\">New Character Creation Presets</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/dint999-hairstyles#description\">Dint999’s Hairstyles</a><strong><br></strong></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2002\">Astralities' Hair Color Supplement</a><strong><br></strong></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/10573\">Understated - Eye Color Collection</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/4681\">P4 Bang Bangs Everywhere</a></li>\n<li><a href=\"https://www.patreon.com/posts/midnight-female-140724520\">Midnight Huntress</a></li>\n<li><a href=\"https://www.patreon.com/posts/ren-jeans-by-ren-146808079\">Jeans by REN</a></li>\n<li><a href=\"https://mod.io/Modern%20Modular%20Collection\">Modern Modular Collection</a></li>\n<li><a href=\"https://www.patreon.com/posts/download-alpha-138772901\">Pearl Necklaces</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/18159\">K-POP Inspired Armors Set</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2067\">Trips’ Accessories Collection</a><strong><br></strong></li>\n</ul>\n</li>\n<li>Locations\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/17934\">Snapshots</a><strong><br></strong></li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<h3><span style=\"color:#6d9eeb;\"><strong><span class=\"bbcode-size-4\">Created with the Official BG3 Mod Toolkit</span></strong></span></h3>\n<p><a href=\"https://discord.gg/bg3mods\"><img src=\"https://i.imgur.com/r4g8fs4.png\" alt=\"r4g8fs4.png\"></a></p>\n<p>🎉 This mod is available on all platforms!</p>",
+    "date_added": 1726869800,
+    "date_updated": 1749203099,
+    "date_live": 1726872933,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/volos-guide-to-amorous-tattoos-vol-2",
+    "submitted_by": {
+      "id": 34836700,
+      "name_id": "cobaltcactus",
+      "username": "CobaltCactus",
+      "profile_url": "https://mod.io/u/cobaltcactus",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2fd7/34836700/crop_100x100/cobaltcactus.png"
+    },
+    "modfile": {
+      "id": 6290975,
+      "mod_id": 4351805,
+      "version": "1.0.0.2",
+      "filename": "volo_amorous_tattoos_vol_2_931-blaw.zip",
+      "changelog": "Patch 8 ready!",
+      "date_added": 1745093071,
+      "date_updated": 0,
+      "date_scanned": 1745093096,
+      "filesize": 11456931,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnailvol2.4.png",
+      "original": "https://image.modcdn.io/mods/0d10/4351805/thumbnailvol2.4.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0d10/4351805/crop_320x180/thumbnailvol2.4.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0d10/4351805/crop_640x360/thumbnailvol2.4.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0d10/4351805/crop_1280x720/thumbnailvol2.4.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Tattoos",
+        "name_localized": "Tattoos",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6290975
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6290975
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6290975
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6290975
+      }
+    ]
+  },
+  {
     "id": 4352148,
     "game_id": 6715,
     "name": "Allergic Gale",
@@ -94840,6 +95046,219 @@
     ]
   },
   {
+    "id": 4782769,
+    "game_id": 6715,
+    "name": "Notable Dream Guardians",
+    "name_id": "notable-dream-guardians",
+    "summary": "This mod replaces all non-strong guardians with race appropriate NPC's. I've tried to match the subraces as best as I could, but there is some deviation due to the lack of notable NPC's in the category.",
+    "description": "<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>What is this Mod?</strong></span></span></h3>\n<ul>\n<li>42 recognizable NPC examples of appropriate race/subrace dream guardian presets</li>\n<li>Limited deviation due to lack of notable NPC's in the category.</li>\n<li><span style=\"font-size:medium;\">This mod was featured in the <strong><a href=\"https://bsky.app/profile/bg3vpzine.bsky.social\">Baldur's Eyes Virtual Photography and Modding Zine</a></strong>.</span></li>\n</ul>\n<h3> </h3>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\">Installation</span></span></strong></h3>\n<p><span class=\"bbcode-size-14\">Simply drop the .zip into the <strong>BG3 Mod Manager</strong>. It is also available via the in-game mod manager.</span></p>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\">Known Conflicts / Manual Tweaks Needed for a Select Few:</span></span></strong></h3>\n<ul>\n<li>Not compatible with <a href=\"https://mod.io/g/baldursgate3/m/notable-guardians-vol-2\" target=\"_blank\" rel=\"noopener noreferrer\">Notable Dream Guardians Vol. 2</a>. They edit the same files!</li>\n<li>Z'rell - Set tattoo to Totemic Throat, set scar to Scar 1 for some reason Half Orc guardians can't have preset tatts and scars? </li>\n<li>Olodan - Set tattoo intensity to 80% for game accurate tint</li>\n<li>Datamined Nightsong - to make her look right, human undies needed to be invisible. Pick your PC's replacement set up in the Tut chest!</li>\n</ul>\n<p> </p>\n<h3><span class=\"bbcode-size-14\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;\"><strong>Frequently Asked Questions</strong></span></span></span></h3>\n<ol>\n<li><span class=\"bbcode-size-14\">Can you make your mods work with my favorite mod that someone else other than you or I created?</span>\n<ul>\n<li>Unfortunately, the answer is no. Why? With all the countless other mods in existance, there's simply too many permutations and it exponentially complicates maintenance on my mods.</li>\n<li>But I'm a mod author and I'd like for our mods to play nicely together!!!\n<ul>\n<li>Send me a DM and we can talk about it. With your intimate knowledge of how your mod is built, there's a chance we can make it work!</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>I've run into a problem with your mod. How do I submit a bug report?\n<ul>\n<li><span class=\"bbcode-size-14\">First thing's first. Unload ALL other mods and try the mod you're having trouble with one more time.</span>\n<ul>\n<li><span class=\"bbcode-size-14\">If that fixed it that means you've found a mod conflict. Please see FAQ 1 about addressing mod conflicts.</span></li>\n</ul>\n</li>\n<li><span class=\"bbcode-size-14\">Still having trouble? Drop me a note and I'll look into it.</span></li>\n</ul>\n</li>\n</ol>\n<p><span class=\"bbcode-size-14\"> Thanks so much in advance for your understanding and continued support. 🙏❤️</span></p>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;font-size:large;\">Special Thanks to <a href=\"https://bsky.app/profile/gcolquhoun.bsky.social\" target=\"_blank\" rel=\"noopener noreferrer\">Germaine C.</a> for their VP donation!</span></span></span></strong></h3>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><span style=\"font-family:Arial;\">The Following Were Used in the VP for this Mod</span></span></span></strong></h3>\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/3633\" target=\"_blank\" rel=\"noopener noreferrer\">Lazy’s Head and Hair</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2900\" target=\"_blank\" rel=\"noopener noreferrer\">Astralities' Fantasy Skintone Expansion</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/5020\" target=\"_blank\" rel=\"noopener noreferrer\">Astralities' Hair Color Overhaul</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/14321\" target=\"_blank\" rel=\"noopener noreferrer\">Blood Moon - Raptor's Ascendant Glow Eyes and Astarion Vanilla CC</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/340\">P4 Horn Makeup Lip and Tattoo Colours (Custom and Vanilla)</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/12007\" target=\"_blank\" rel=\"noopener noreferrer\">EasyDye</a></li>\n</ul>\n<h3> </h3>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\">Created with the BG3 Official Mod Toolkit</span></span></strong></h3>\n<p><a href=\"https://discord.gg/bg3mods\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/r4g8fs4.png\" alt=\"r4g8fs4.png\"></a></p>\n<p>💔This mod has been disapproved for Mac and console.</p>",
+    "date_added": 1741482709,
+    "date_updated": 1761925647,
+    "date_live": 1741483804,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/notable-dream-guardians",
+    "submitted_by": {
+      "id": 34836700,
+      "name_id": "cobaltcactus",
+      "username": "CobaltCactus",
+      "profile_url": "https://mod.io/u/cobaltcactus",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2fd7/34836700/crop_100x100/cobaltcactus.png"
+    },
+    "modfile": {
+      "id": 6578764,
+      "mod_id": 4782769,
+      "version": "1.0.0.12",
+      "filename": "notable_guardians_a8abde8c-60f-gefo.zip",
+      "changelog": "Mod should know it's incompatible with Dream Guardians Vol. 2.\nOrpheus' appearance is now in-game accurate including piercings.",
+      "date_added": 1752779760,
+      "date_updated": 0,
+      "date_scanned": 1752779854,
+      "filesize": 61026387,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "zannerlogovol1.png",
+      "original": "https://image.modcdn.io/mods/4104/4782769/zannerlogovol1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4104/4782769/crop_320x180/zannerlogovol1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4104/4782769/crop_640x360/zannerlogovol1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4104/4782769/crop_1280x720/zannerlogovol1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Eye Colors",
+        "name_localized": "Eye Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Eye Makeup",
+        "name_localized": "Eye Makeup",
+        "date_added": 0
+      },
+      {
+        "name": "Face Paint",
+        "name_localized": "Face Paint",
+        "date_added": 0
+      },
+      {
+        "name": "Hair Colors",
+        "name_localized": "Hair Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Lip Makeup",
+        "name_localized": "Lip Makeup",
+        "date_added": 0
+      },
+      {
+        "name": "Skin Colors",
+        "name_localized": "Skin Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6578764
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6578764
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6578764
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6578764
+      }
+    ]
+  },
+  {
     "id": 4784526,
     "game_id": 6715,
     "name": "Missed Connections: Shadowheart",
@@ -127482,6 +127901,224 @@
       {
         "platform": "ps5",
         "modfile_live": 6571814
+      }
+    ]
+  },
+  {
+    "id": 5095917,
+    "game_id": 6715,
+    "name": "Notable Dream Guardians Vol. 2",
+    "name_id": "notable-guardians-vol-2",
+    "summary": "This mod contains 53 presets that replace a slew of guardians with recognizable NPC's. Unlike Vol. 1, there wasn't a real attempt to match the NPC's with their guardian's race / subrace. Most of them are just for fun!",
+    "description": "<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>What is this Mod?</strong></span></span></h3>\n<ul>\n<li><strong>53 recognizable NPC's</strong> that replace most dream guardian presets.</li>\n<li>Unlike Vol. 1, there wasn't a real attempt to match the NPC's with their guardian's race / subrace.</li>\n<li>Most of them are just for fun!</li>\n<li><span style=\"font-size:medium;\">This mod was featured in the <strong><a href=\"https://bsky.app/profile/bg3vpzine.bsky.social\">Baldur's Eyes Virtual Photography and Modding Zine</a></strong>.</span></li>\n</ul>\n<h3> </h3>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\">Installation</span></span></strong></h3>\n<p><span class=\"bbcode-size-14\">Simply drop the .zip into the <strong>BG3 Mod Manager</strong>. It is also available via the in-game mod manager.</span></p>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\">Known Conflicts / Manual Tweaks Needed for a Select Few:</span></span></strong></h3>\n<ul>\n<li>Not compatible with <a href=\"https://mod.io/g/baldursgate3/m/notable-dream-guardians\" target=\"_blank\" rel=\"noopener noreferrer\">Notable Dream Guardians Vol. 1</a>. They edit the same files!</li>\n<li>Xeph - Set horns / horn tip color to Dusty 6 </li>\n<li>Fezzerk - Set tattoo to Blue 2, 80% opacity</li>\n<li>Ironfinger - Set tattoo to be Beholder Gorgon</li>\n<li>Minsc - Set tattoo to Deep Purple, 73% opacity</li>\n<li>Some presets required default undies to be invisible. Pick up replacement visible ones in the Tut Chest for Dragonborn, Gnomes, Halflings, and Tieflings.</li>\n</ul>\n<p> </p>\n<h3><span class=\"bbcode-size-14\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;\"><strong>Frequently Asked Questions</strong></span></span></span></h3>\n<ol>\n<li><span class=\"bbcode-size-14\">Can you make your mods work with my favorite mod that someone else other than you or I created?</span>\n<ul>\n<li>Unfortunately, the answer is no. Why? With all the countless other mods in existance, there's simply too many permutations and it exponentially complicates maintenance on my mods.</li>\n<li>But I'm a mod author and I'd like for our mods to play nicely together!!!\n<ul>\n<li>Send me a DM and we can talk about it. With your intimate knowledge of how your mod is built, there's a chance we can make it work!</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>I've run into a problem with your mod. How do I submit a bug report?\n<ul>\n<li><span class=\"bbcode-size-14\">First thing's first. Unload ALL other mods and try the mod you're having trouble with one more time.</span>\n<ul>\n<li><span class=\"bbcode-size-14\">If that fixed it that means you've found a mod conflict. Please see FAQ 1 about addressing mod conflicts.</span></li>\n</ul>\n</li>\n<li><span class=\"bbcode-size-14\">Still having trouble? Drop me a note and I'll look into it.</span></li>\n</ul>\n</li>\n</ol>\n<p><span class=\"bbcode-size-14\"> Thanks so much in advance for your understanding and continued support. 🙏❤️</span></p>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;font-size:large;\">Special Thanks to <a href=\"https://bsky.app/profile/gcolquhoun.bsky.social\">Germaine C.</a> for their VP donation!</span></span></span></strong></h3>\n<p> </p>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><span style=\"font-family:Arial;\">The Following Were Used in the VP for this Mod</span></span></span></strong></h3>\n<ul>\n<li><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/4974\" target=\"_blank\" rel=\"noopener noreferrer\">Demon Eyes - Eye Color Collection</a></span></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/10390\" target=\"_blank\" rel=\"noopener noreferrer\">Wyll Vanilla Hair Edit</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2900\" target=\"_blank\" rel=\"noopener noreferrer\">Astralities' Fantasy Skintone Expansion</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/5020\" target=\"_blank\" rel=\"noopener noreferrer\">Astralities' Hair Color Overhaul</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/8782\" target=\"_blank\" rel=\"noopener noreferrer\">Tintable Piercings</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/14027\" target=\"_blank\" rel=\"noopener noreferrer\">Poesielibre's Metallic and Glossy Face Tattoos</a></li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/1774\" target=\"_blank\" rel=\"noopener noreferrer\">Extra Dyes for the Fashionable Folk of Faerun</a></li>\n</ul>\n<p> </p>\n<p>🎉 This mod is available on all platforms!</p>",
+    "date_added": 1752628411,
+    "date_updated": 1754470600,
+    "date_live": 1752628875,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/notable-guardians-vol-2",
+    "submitted_by": {
+      "id": 34836700,
+      "name_id": "cobaltcactus",
+      "username": "CobaltCactus",
+      "profile_url": "https://mod.io/u/cobaltcactus",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2fd7/34836700/crop_100x100/cobaltcactus.png"
+    },
+    "modfile": {
+      "id": 6573638,
+      "mod_id": 5095917,
+      "version": "1.0.0.2",
+      "filename": "notable_guardians_2_f4732d93-9-d3cp.zip",
+      "changelog": "Initial release.",
+      "date_added": 1752628426,
+      "date_updated": 0,
+      "date_scanned": 1752628471,
+      "filesize": 25906105,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "orinlogo.png",
+      "original": "https://image.modcdn.io/mods/39bb/5095917/orinlogo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/39bb/5095917/crop_320x180/orinlogo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/39bb/5095917/crop_640x360/orinlogo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/39bb/5095917/crop_1280x720/orinlogo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Eye Colors",
+        "name_localized": "Eye Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Eye Makeup",
+        "name_localized": "Eye Makeup",
+        "date_added": 0
+      },
+      {
+        "name": "Face Paint",
+        "name_localized": "Face Paint",
+        "date_added": 0
+      },
+      {
+        "name": "Hair Colors",
+        "name_localized": "Hair Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Lip Makeup",
+        "name_localized": "Lip Makeup",
+        "date_added": 0
+      },
+      {
+        "name": "Skin Colors",
+        "name_localized": "Skin Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "BG3 ModJam 2025",
+        "name_localized": "BG3 ModJam 2025",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6573638
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6573638
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6573638
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6573638
       }
     ]
   },
