@@ -57154,7 +57154,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour (Level 4), Heavy Armour (Level 7, Selected Subclass), Shields (Level 7)</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1780125156,
+    "date_updated": 1780126873,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -57168,15 +57168,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1e98/37197746/crop_100x100/duskblade.1.png"
     },
     "modfile": {
-      "id": 7691649,
+      "id": 7792264,
       "mod_id": 4407068,
-      "version": "1.0.332.0",
-      "filename": "duskblade_0b9fe8cc-f707-9980-c-9g32.zip",
-      "changelog": "- Updated Armour Proficiency progression\n- All subclasses can now use a Two-Handed weapon to perform Arcane Channeling\n- The previous Spellknight subclass feature Arcane Channeling (Two-Handed) is replaced with Improved Toughness\n- The previous Spellknight subclass feature Arcane Weapon is replaced with Superior Toughness\n- Updated Arcane Weapon as Spellblade subclass feature\n- Updated Arcane Accuracy, Improved Critical, and Superior Critical to only grant bonus to melee weapon attacks\n- Updated Arcane Strike and Arcane Absorption\n- Updated target criteria of Flare and Ghost Sound\n- Updated Level 10 Arcane Channeling damage bonus\n- Updated descriptions\n- Updated visual effects\n- Added Interrupt for Arcane Channeling (Off-Hand)\n- Added a new Level 8 Abjuration spell Energy Aegis to the class spell list",
-      "date_added": 1777618824,
+      "version": "1.0.333.0",
+      "filename": "duskblade_0b9fe8cc-f707-9980-c-9ry2.zip",
+      "changelog": "- Arcane Channeling damage updated to scale with character level\n- Improved visual effect compatibility\n- Added Duskblade tag",
+      "date_added": 1780126710,
       "date_updated": 0,
-      "date_scanned": 1777618979,
-      "filesize": 10094967,
+      "date_scanned": 1780126737,
+      "filesize": 10095347,
       "platforms": [
         {
           "platform": "windows",
@@ -57270,7 +57270,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7691649
+        "modfile_live": 7792264
       }
     ]
   },
