@@ -143278,7 +143278,7 @@
     "summary": "Full equipment set of the arcane witch. Become an alluring sorceress and wield a bunch of arcane and charm based spells.",
     "description": "<p>Full equipment set of the arcane witch. Become an alluring sorceress, wield powerful arcane magic and bonk people that is a bit too enthralled by your charm (you can bonk with your arcane fist or your scepter)<br>fully dyeable<br>supports bodytype 1/2/3/4/githyanki 1/2<br>bt1 has 3 options; Queen, Princess and Base body<br>comes in armor and camp clothing slot; the staff has an animated floating orb</p>\n<p>showcase of some spells:</p>\n<p></p><video controls width=\"600\" height=\"300\">\n<source src=\"https://i.imgur.com/sTtvKcs.mp4\" type=\"video/mp4\"></source></video>\n<p><br>This mod is a personal compilation (and additions) of the following mods:-<br>Arcane Spells - Commissioned by Khan<br>Crimson Monarch Dress (Queen's Garments) - Commissioned by Morgana Evelyn</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Dress model kitbashed from a few assets by RyanReos and Idafaber<br><a href=\"https://www.cgtrader.com/3d-models/military/melee/magic-staff-and-artifact\">Magic Staff</a> model by coldmocha<br>licensed under Royalty Free License<br>mesh and texture has been modified</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1769262374,
-    "date_updated": 1771517134,
+    "date_updated": 1780300576,
     "date_live": 1769263842,
     "visible": 1,
     "status": 1,
@@ -143292,15 +143292,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7310863,
+      "id": 7800704,
       "mod_id": 5722372,
-      "version": "1.0.0.19",
-      "filename": "atsiestff_0686b753-fb20-1772-f-ivac.zip",
-      "changelog": null,
-      "date_added": 1769262402,
+      "version": "1.0.0.20",
+      "filename": "atsiestff_0686b753-fb20-1772-f-6hqq.zip",
+      "changelog": "- fixed Steadfast not working for deep water difficult terrain\n- changed Steadfast into Anti-Displacement\n- fixed Extra Bonk working before level 5\n- added spell slot versions of the spells\n- added a ring that unlocks all the spells from the equipments progressively",
+      "date_added": 1780300477,
       "date_updated": 0,
-      "date_scanned": 1769262479,
-      "filesize": 48479449,
+      "date_scanned": 1780300635,
+      "filesize": 48571976,
       "platforms": [
         {
           "platform": "windows",
@@ -143308,15 +143308,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -143421,10 +143421,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7310863
-      },
-      {
         "platform": "mac",
         "modfile_live": 7310863
       },
@@ -143435,6 +143431,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7310863
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7800704
       }
     ]
   },
