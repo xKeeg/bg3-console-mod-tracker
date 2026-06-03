@@ -82259,7 +82259,7 @@
     "summary": "The unofficial community bug fix mod - Over 2400 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 2400 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 中国人/中國人<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1780488138,
+    "date_updated": 1780524733,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -82273,15 +82273,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7807434,
+      "id": 7808978,
       "mod_id": 4561805,
-      "version": "4.5.4.3",
-      "filename": "itembugfix_010e73d5-9342-e528-hufo.zip",
-      "changelog": "- 'Ride the Wind' now uses the correct VocalComponentSound\n- 'Enraged Throw' now correctly has a chance to blind targets when Boo is thrown at them\n- All remaining sources of \"Blinded\" now have a minimum application duration of 2 turns, lasting a full turn on the affected target (2 changed)\n- Creatures which have 'Throw Damage Immunity' will no longer be knocked \"Prone\" at the start of their next turn\n- Vivacious Cloak 'Arcane Vivaciousness' now correctly states it requires the Threatened condition\n- Daredevil Gloves 'Daredevil Proximity' now correctly states it requires the Threatened condition\n- Browbeaten Circlet 'Browbeaten' now correctly links to the Threatened condition\n- Arcane Charge condition now correctly links to the Threatened condition\n- Previous description change to Crossbow Expert: Point-Blank reverted\n- Sarevok 'Absorbed Essence: Illasera' is no longer incorrectly removable in Honour Mode by the Slowed condition\n- Lorroakan 'Elemental Retort' now correctly requires damaging attacks to trigger and can be Silenced\n- Raphael 'Beguiling Rebuke' no longer incorrectly contains an extra description which references Cambions\n- Black Hole now correctly displays the trajectory arcs of targeted creatures, and will not apply \"Slowed\" to creatures immune to Difficult Terrain\n- Nebulous Black Hole now correctly displays the trajectory arcs of targeted creatures, will not apply \"Slowed\" to creatures immune to Difficult Terrain, displays the additional conditional damage on the tooltip, and no longer applies 5 turns of a \"Black Hole\" condition to the caster that had no effect\n- The variant of \"Slowed\" applied by Black Hole and Nebulous Black Hole no longer incorrectly lists an Intelligence Save in its tooltip",
-      "date_added": 1780488109,
+      "version": "4.5.4.4",
+      "filename": "itembugfix_010e73d5-9342-e528-blhw.zip",
+      "changelog": "- 'Ride the Wind' now uses the correct VocalComponentSound\n- 'Enraged Throw' now correctly has a chance to blind targets when Boo is thrown at them\n- All remaining sources of \"Blinded\" now have a minimum application duration of 2 turns, lasting a full turn on the affected target (2 changed)\n- Creatures which have 'Throw Damage Immunity' will no longer be knocked \"Prone\" at the start of their next turn\n- Vivacious Cloak 'Arcane Vivaciousness' now correctly states it requires the Threatened condition\n- Daredevil Gloves 'Daredevil Proximity' now correctly states it requires the Threatened condition\n- Browbeaten Circlet 'Browbeaten' now correctly links to the Threatened condition\n- Arcane Charge condition now correctly links to the Threatened condition\n- Previous description change to Crossbow Expert: Point-Blank reverted\n- Sarevok 'Absorbed Essence: Illasera' is no longer incorrectly removable in Honour Mode by the Slowed condition\n- Lorroakan 'Elemental Retort' now correctly requires damaging attacks to trigger and can be Silenced\n- Raphael 'Beguiling Rebuke' no longer incorrectly contains an extra description which references Cambions\n- Black Hole now correctly will not apply \"Slowed\" to creatures immune to Difficult Terrain\n- Nebulous Black Hole now correctly applies \"Slowed\" to creatures not immune to Difficult Terrain, displays the additional conditional damage on the tooltip, no longer applies 5 turns of a hidden condition to the caster, and no longer uses an incorrectly configured Force() functor\n- The variant of \"Slowed\" applied by Black Hole and Nebulous Black Hole no longer incorrectly lists an Intelligence Save in its tooltip\n- Reposition Malefactor now uses the correct ForceFunctorOrigin argument in its Force() functor",
+      "date_added": 1780524712,
       "date_updated": 0,
-      "date_scanned": 1780488122,
-      "filesize": 1734564,
+      "date_scanned": 1780524720,
+      "filesize": 1734612,
       "platforms": [
         {
           "platform": "windows",
@@ -82395,7 +82395,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7807434
+        "modfile_live": 7808978
       }
     ]
   },
