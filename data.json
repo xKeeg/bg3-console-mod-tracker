@@ -56338,12 +56338,12 @@
   {
     "id": 4405090,
     "game_id": 6715,
-    "name": "Gabes Bag of Holding (Modders Resource)",
+    "name": "Gabes Auto Depositor (Modders Resource)",
     "name_id": "auto-spawn-items",
     "summary": "* This mod makes spawning items into the game easier for new (or lazy) modders!",
     "description": "<p><strong>HOW TO USE:</strong> (players)<strong><br></strong>* Load a game, or start a new one. That's it! Any mods that require this mod will automatically spawn their items into your inventory on login in the Bag of Overwhelming chaos.<strong><br>* Items put in the Bag of Overwhelming Chaos will be made weightless.<br></strong>* Enemies will level up when attacking (equal to the player level, up to 20) and when downing a player (up to 20).<br>-- <em><strong>Enemy levels have no bearing on abilities in the base game unless another mod utilizes this function.</strong></em><br>-- This was added to allow for future mods to be made utilizing enemy levels instead of using convoluted code to get around static levels. Currently <a href=\"https://mod.io/g/baldursgate3/m/random-spawn-generator#description\">Random Spawns</a> is utilizing it.<br>-- To activate, go to camp and use the Enemy Leveling function. Using Enemy Leveling in camp while you have Enemy Leveling active will remove it.<strong><br><br>HOW TO USE:</strong> (Modders only)<br>* In your Toolkit project, go to the Status Editor button (up top)<br>* Open that, go to Stats, click the + icon, then click object.<br>* Click the &gt; icon, open the Object file.<br>* Fill in the Name, Parent and RootTemplate fields (mandatory). Fill in any other fields that apply.<br>* Go to TreasureTable, click the + icon, click treasuretable<br>* Click the &gt; icon, open the TreasureTable file.<br>* In the NAME field, create an entry with this EXACT name: <strong>gabe_itembagtt<br></strong>* Set AppendNotOverride to <strong>yes<br></strong>* Set DropCount to <strong>1,1</strong><br>* Set Frequency to the number of these items you wish to spawn<br>* In the Treasure field, put <strong>i_</strong>namefromobjectentryfile<br>* Make this Auto-Spawn Items mod a dependency by going to Admin on your mod page (Pencil icon, top-right), click Dependencies (left) and find my mod.<br><br>Publish your mod, and now when the game loads, your Object item will spawn in the Bag of Overwhelming Madness this mod provides on login. If a player already has the Bag of Overwhelming Madness in their inventory, this mod might not provide a duplicate.<br><br><strong>** Modders: Additional note**</strong><br>you can use this mod to code your own mods to change based on enemy level, the same as player levels. Enemies will no longer have static levels, which should make coding easier.</p>\n<p>* Since you cannot identify an enemy leveling up using LeveledUp in Osiris, I added a 1-turn status when they level up.<br>- To identify when an enemy leveled up, look for the application or removal of of <em>GAD_LevelUp</em><br>- Use <em>GetLevel(_Enemy,_EnemyLevel)</em> to obtain the level of the enemy (Osiris). This is best used with the above status application<br>- Use <em>CharacterLevelGreaterThan(4)</em> or <em>not CharacterLevelGreaterThan(4)</em> (or other level value) if using passives/statuses<br><br>** It seems the bag will respawn on login if you remove any of the items and those items are not in your inventory or worn by you. This is not a bad thing, so I will not try to fix it, but worth noting for you as users. If you must dispose of an old bag, do so carefully, preferably off a cliff or into a chasm.<br>** The Bag of Overwhelming Chaos, along with it's contents (based on the mods you have installed) should be available at:<br>- Arron (Act 1 - Den)<br>- Harper Quartermaster (Act 2)<br>- Sticky Dondo (Act 3)</p>",
     "date_added": 1728722503,
-    "date_updated": 1759142725,
+    "date_updated": 1780879166,
     "date_live": 1728723307,
     "visible": 1,
     "status": 1,
@@ -56357,15 +56357,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
     },
     "modfile": {
-      "id": 6790320,
+      "id": 7824910,
       "mod_id": 4405090,
-      "version": "1.0.0.98",
-      "filename": "gabesautodepositor_c37d6364-49-2lfr.zip",
-      "changelog": "* Summons are now exempted from Enemy Leveling effects.",
-      "date_added": 1758463222,
+      "version": "1.0.0.102",
+      "filename": "gabesautodepositor_c37d6364-49-2eiu.zip",
+      "changelog": "* Fixed an issue causing beautiful chaos if you invited a camper to your party, they has Enemy Leveling on, but you had it off.",
+      "date_added": 1780879114,
       "date_updated": 0,
-      "date_scanned": 1758463262,
-      "filesize": 18570900,
+      "date_scanned": 1780879153,
+      "filesize": 18571323,
       "platforms": [
         {
           "platform": "windows",
@@ -56373,15 +56373,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -56451,10 +56451,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6790320
-      },
-      {
         "platform": "mac",
         "modfile_live": 6790320
       },
@@ -56465,6 +56461,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6790320
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7824910
       }
     ]
   },
@@ -135289,7 +135289,7 @@
     "summary": "Adds 20 bard-themed outfits to various merchants throughout the game, available as camp clothes and armour. Visuals for all \"tall\" races.",
     "description": "<h2>Ember's Wardrobe</h2>\n<p>Ember's Wardrobe is a simple mod that adds 20 bard themed outfits to the game, with customised visuals for all \"tall\" races and including Strong body types.</p>\n<p>Here's a summary of what the mod does:</p>\n<ul>\n<li>Automatically adds a container to your camp chest which contains camp clothes variants and dyes.</li>\n<li>Adds outfits to various merchants across all Acts, with stats aligned to the region.</li>\n<li>Adds a fun/silly/aoe variant of the Vicious Mockery spell, obtained by equipping one of the custom hats or masks.</li>\n</ul>\n<h2><strong>Getting Started</strong></h2>\n<ul>\n<li>Look in your camp chest for the container with the vanity clothes - you will find a Book with further information on how to obtain the armour with stats.</li>\n</ul>\n<h2>A General Note on Compatibility</h2>\n<p>This mod only adds outfits to the game, and so should be compatible with almost all other mods.</p>\n<h2>Adding and Removing This Mod</h2>\n<ul>\n<li>This mod can be safely added mid-campaign at any point.</li>\n<li>Since this mod adds custom outfits, spells and statuses, it <strong>cannot be removed mid-campaign</strong> without pre-requisite in-game steps to fully erase the custom items. For PC players only, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n</ul>\n<h2>Console Players</h2>\n<p>Since mods cannot be removed mid-campaign, I recommend (for this and for any other mod) making a Save point before you add the mod and trying it out to see if you would like to keep it in your campaign. All outfits can be accessed quickly via the container dropped into your camp chest, and there are potions included to also summon the stats versions for trying out.</p>\n<h2><strong>Known Issues</strong></h2>\n<ul>\n<li>The Sepulchral Tailcoat dyes ok now, though it won't take lighter dye colours especially well (and I don't really want to bloat this mod with texture files to fix that).</li>\n<li>Probably clipping on some of the fits for races - I'm sure I have missed places, but feel free to point me in a specific location should you find something looking a bit funky.</li>\n<li>A couple of the vanilla meshes re-used don't hide sleeves when you wear gloves. I <em>might </em>fix this in future, but I'm keeping an eye on the mod file size so will depend on how many MB of custom meshes it would take!</li>\n</ul>\n<h2>FAQ</h2>\n<ul>\n<li><strong>Q: Will you be adding visual variants for other races, like Gnomes, Dwarves, Halflings, or Custom Race XYZ etc?</strong></li>\n<li><strong>A:</strong> Most likely no. Perhaps I may be motivated in future to do an addon for other vanilla races, but there are already over 300 customised meshes in this mod and I am mentally re-fitted out for foreseeable.</li>\n</ul>\n<ul>\n<li><strong>Q: Does this mod contain unique visual assets?</strong></li>\n<li><strong>A:</strong> No - this mod is a mash up of Larian vanilla mesh assets, with a bit of noob Blender manipulation on my part to get them to fit together. I am also re-using their textures.</li>\n</ul>\n<ul>\n<li><strong>Q: Console support?</strong></li>\n<li><strong>A:</strong> Yes, this mod is now available on console (thank you, Larian).</li>\n</ul>\n<ul>\n<li><strong>Q: I don't like the stats on armour XYZ</strong></li>\n<li>A: I did add stats to these outfits fairly quickly. Which is to say, that at the time of writing this description, I am expecting to be tweaking them a little bit as I get more time to playtest. I am very open to receiving feedback, and appreciate those who take the time to share their thoughts. I reserve my right to mod author's privilege when it comes to deciding whether I act on feedback, but either way, I am thankful for it. </li>\n<li><strong>A:</strong> Alternatively, if you are on PC and comfortable using third party mods, then there are also option such as Enhanced Transmog, which let you copy pretty much any stats you want onto the outfit.</li>\n</ul>\n<h3>Thanks</h3>\n<ul>\n<li>To Shinyhobo for the BG3 multi-tool: <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\">ShinyHobo/BG3-Modders-Multitool</a></li>\n<li><a>To Norbyte for a variety of essential modding tools, such as LSLib: </a><a href=\"https://github.com/Norbyte/lslib/releases\">LSLib</a></li>\n<li>To LaughingLeader for the BG3 Mod Manager: <a href=\"https://github.com/LaughingLeader/BG3ModManager\">BG3 Mod Manager</a></li>\n<li>To the Larian devs, the community team, and just Larian in general for the game, its assets, and their continued support for the BG3 modding community</li>\n</ul>",
     "date_added": 1759787065,
-    "date_updated": 1775661751,
+    "date_updated": 1780876183,
     "date_live": 1759789553,
     "visible": 1,
     "status": 1,
@@ -135303,15 +135303,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/1214/33707172/crop_100x100/screenshot2024-04-10173132.png"
     },
     "modfile": {
-      "id": 7458419,
+      "id": 7824756,
       "mod_id": 5279335,
-      "version": "1.2.0.3",
-      "filename": "emberswardrobe_334ba284-8488-c-bdc1.zip",
-      "changelog": "- Updated the weights for the refit Butler trousers (reduces the upper leg bulge in certain poses)",
-      "date_added": 1772490370,
+      "version": "1.3.0.0",
+      "filename": "emberswardrobe_334ba284-8488-c-4i3n.zip",
+      "changelog": "- Added a variant of the Timbrecoat outfit.\n- Added a new dye.\n- Both the new outfit and the new dye will be placed in a container in your camp chest marked Ember's Wardrobe Update 1.3. This container is intended for people who are updating and have already received previous one-time rewards containers. \n- Added cloth physics and sleeve hiding to the Sable Symphony outfit. Also fixed some leg clipping issues (mostly, I think).\n- Fixed a weird issue with the vanilla monk hip scarf on BT4 models. Should no longer get a weird spike in certain poses.\n- Various other small clipping and weight fixes (gotta catch em all - not even close yet).",
+      "date_added": 1780875830,
       "date_updated": 0,
-      "date_scanned": 1772490514,
-      "filesize": 80999040,
+      "date_scanned": 1780875992,
+      "filesize": 96355809,
       "platforms": [
         {
           "platform": "windows",
@@ -135319,15 +135319,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -135452,10 +135452,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7458419
-      },
-      {
         "platform": "mac",
         "modfile_live": 7458419
       },
@@ -135466,6 +135462,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7458419
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7824756
       }
     ]
   },
@@ -140590,114 +140590,6 @@
       {
         "platform": "ps5",
         "modfile_live": 7305687
-      }
-    ]
-  },
-  {
-    "id": 5581525,
-    "game_id": 6715,
-    "name": "Harlequin Class Mod-PATCH8",
-    "name_id": "harlequin-class-mod-patch8",
-    "summary": "The Harlequin class embodies whimsy and enigma, a performer skilled in deception and combat. They dance on the line between illusion and reality, using their beguiling presence and agile acrobatics to confound foes.",
-    "description": "<h3>Original Creator: <a href=\"https://www.nexusmods.com/baldursgate3/mods/2120\" target=\"_blank\" rel=\"noopener noreferrer\">harlequinzeg0</a></h3>\n<h3> </h3>\n<blockquote>\n<h3>If you wish to use it up to level 20, you must first download and install this mod.</h3>\n<h3>20레벨까지 쓰고자 할 경우, 반드시 이 모드를 먼저 다운받아 설치하세요</h3>\n<h3><strong><a href=\"https://mod.io/g/baldursgate3/m/unlocklevelcurve#description\" target=\"_blank\" rel=\"noopener noreferrer\">Unlock Level Curve</a></strong></h3>\n</blockquote>\n<p> </p>\n<h3><strong>Overview:</strong></h3>\n<p>I ported the Harlequin Class created by harlequinzerg0 from Nexus to the Toolkit.<br>It works well except for the Class Icon not displaying. To introduce this mod to mod.io users, I ported it to the Toolkit, fixed several issues, and am uploading it.</p>\n<h3><strong>Modifications:</strong></h3>\n<ul>\n<li>All skill icons have been completely redesigned.<br>- The original mod only included skill icons without the enlarged images visible in tooltips, so these were created from scratch.</li>\n<li>Rythmic Assault: Also applies to Unarmed attacks.</li>\n</ul>\n<p> </p>\n<h2><strong>This mod Supported English and Korean. / 이 모드는 영어와 한국어를 지원합니다.</strong></h2>\n<blockquote>\n<p><br><u><span style=\"font-size:x-large;\">The Harlequin Class</span></u><br><br><span style=\"font-size:medium;\">A fiendish assassin flings daggers from the alley, eliminating her target's guards faster than they can blink. A mischievous court jester cackles amongst the chaos as his plot to kill the prince finally succeeds. Fire engulfs the town just as the circus is leaving. The flame juggler is now sleeping happily with the payment of his contract. The enigmatic harlequin delights in causing chaos, especially when they get paid.<br><br>This mod is inspired by the Harlequin homebrew class by Lexi Abbey and its three subclasses: the Acrobat, Jester, and Torch Bearer. The Harlequin class embodies whimsy and enigma, a performer skilled in deception and combat. They dance on the line between illusion and reality, using their beguiling presence and agile acrobatics to confound and frighten foes. <br><br><strong><br></strong></span><br><span style=\"font-size:medium;\">Class Features<br><br>Hit Points: 8 at Level 1, +5 for each level thereafter<br>Armour: Light Armour<br>Weapon: Simple weapons, Crossbows, Rapiers, Sickles, Short Swords, Musical Instruments<br>Saving Throws: Dexterity, Charisma</span></p>\n<p><span style=\"font-size:medium;\">Character Tag: Bard, Rogue<br></span></p>\n</blockquote>\n<p><span style=\"font-size:medium;\"> </span></p>\n<blockquote>\n<p><span style=\"font-size:medium;\"><u>Level 1</u><br><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Harlequin Alias: While under the guise of your Harlequin Alias, you may make Deception and Intimidation checks with advantage. Choose from six different Aliases: Blinded Serpent, Seductive Succubus, Showman, Snickering Shortstack, Deadly Shadow, or Generous Elfreet.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Rythmic Assault: After a successful weapon attack or unarmed attack, go into a rhythmic stance. While in this stance, attacks on their next turn gain an additional bonus to damage. On a miss, you lose the rhythm and must start again.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Harlequin Spellcasting: Charisma is your spellcasting ability. Start with 1 level 1 spell slot.</span></li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Select Cantrip: Select x1 from Vicious Mockery, Blade Ward, Mage Hand, True Strike, Friends, Dancing Lights, Light, or Minor Illusion.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Select Lvl 1 Spell: Select x1 from Sleep, Tasha's, Disguise Self, Colour Spray, or Charm Person.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 2</u><br><br></span></p>\n<ul>\n<li>Unnatural Agility: You move with a nimble grace that allows you to traverse the dance floor easily. Your walking speed increases by 10ft if you do not have a shield or armour.</li>\n</ul>\n<ul>\n<li> Spell Slot: Gain 1 level 1 spell slot.</li>\n</ul>\n<ul>\n<li>Select Cantrip: Select x1 from Vicious Mockery, Blade Ward, Mage Hand, True Strike, Friends, Dancing Lights, Light, or Minor Illusion.</li>\n</ul>\n<p><span style=\"font-size:medium;\"><u>Level 3</u><br><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Choose a subclass: Acrobat, Jester, or Torch Bearer.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Select Lvl 1 Spell: Select x1 from Sleep, Tasha's, Disguise Self, Colour Spray, or Charm Person.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Select Expertise: You may become an expert in one of the skills you are proficient in.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 4</u><br><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Feat Selection</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 5</u><br><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Extra Attack</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Spell Slot: Gain 1 level 1 spell slot. Gain 1 level 2 spell slot.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Select Lvl 2 Spell: Select x1 from Phantasmal Force, Crown of Madness, Speak With Dead, Invisibility, Bane, Sleep, Charm Person, Dissonant Whispers, Color Spray, Tasha's Hideous Laughter, Disguise Self.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><br><u>Level 6<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Subclass Feature</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 7<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Menacing Strikes: You learn to instill fear through your combat prowess. When you enhance your damage to a creature with your Deadly Flow feature, you may cause it to make a Charisma saving throw. On a failed save, the creature becomes Frightened of you.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 8<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Feat Selection</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 9<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Subclass Feature</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Spell Slot: Gain 1 level 2 spell slot.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 10<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Feat Selection</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 11<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Charismatic Hooligan</span><span style=\"font-size:medium;\">: Gain +2 to your Charisma Ability, allowing Charisma to exceed 20.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Maddened Cackle: You may use your action to let out a hideous cacophony of hysterical laughter. Several creatures that can hear you within 30 feet of you must succeed on a Wisdom saving throw or fall to Hideous Laughter for 1 minute.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 12<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Feat Selection</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"> </span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Gain Dethrone Spell</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 13<br><br></u><br><u>Level 14<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Feat Selection</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 15<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Torment: </span>When you deal damage with a weapon attack to a creature that is Frightened, you may deal an additional 1d6 psychic damage.</li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><br><u>Level 16<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Feat Selection</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 17<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Gain Spell Slots: Gain 1x Level 1 Spell Slot, 1x Level 2 Spell Slot, and 2x Level 3 Spell Slot.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Gain Spells: Pick three spells from Conjure Barrage, Fear, Hypnotic Pattern, </span>Phantasmal Force, Crown of Madness, Speak With Dead, Invisibility, Bane, Sleep, Charm Person, Dissonant Whispers, Color Spray, Tasha's Hideous Laughter, Disguise Self.</li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 18<br><br></u><br><u>Level 19<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Feat Selection</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><br><u>Level 20<br><br></u></span></p>\n<ul>\n<li>Gain 1x Level 5 Spell Slot </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Greater Torment: Your Torment Ability damage is doubled.</span> </li>\n</ul>\n<ul>\n<li>Grand Finale: Once per combat, when you hit a creature with a weapon attack while in Rhythmic Assault, you may choose to apply an additional 5d8 psychic damage. Afterwards, your Rhythmic Assault goes on cooldown for six turns.</li>\n</ul>\n</blockquote>\n<p><span style=\"font-size:medium;\"><br><br><br><strong><u>Subclass Features</u></strong><br><br></span></p>\n<blockquote>\n<p><span style=\"font-size:medium;\"><strong>The Acrobat</strong><br>Acrobats focus on extreme mobility to dance across the battlefield and can engage multiple enemies from afar.<br><br><u>Level 3</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Evasive Training: You gain the ability to take the Dash and Disengage actions as bonus actions instead.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Grace and Beauty: You gain proficiency in the Acrobatics skill. You may double your proficiency bonus for all Acrobatics checks you make. </span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Armour of Anonymity: Your fiendish persona is as effective as any armour. Your AC equals 12 plus your Charisma Modifier if that would be higher than the AC granted by your armour.</span> </li>\n</ul>\n<ul>\n<li>Elusive: Attack rolls against you have disadvantage, and you have advantage on Dexterity saving throws. This bonus action lasts until your next turn and resets on a short rest.</li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 6</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Uncanny Movement: You unsettle hostile creatures as you slip by them. Once per short rest, leaping near a hostile creature with your acrobatic prowess may cause them to become frightened until the end of their next turn.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Engage the Audience: You take your lightning-fast skills on the offensive, flinging multiple projectiles with unerring accuracy to enemies in front of you within a 40-foot cone originating from you.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Fighting Style: You may choose either the duelling or two-handed fighting styles.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 9</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Evasive Expertise: You take no damage on successful Dexterity saving throws and half damage on failed throws.</span></li>\n</ul>\n<p> </p>\n</blockquote>\n<p> </p>\n<blockquote>\n<p><span style=\"font-size:medium;\"><strong>The Jester</strong><br>Jesters are masters of the fear tactics employed by Harlequins, sowing chaos and dismay wherever they go.<br><br><u>Level 2</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Fear Incarnate: You gain proficiency in the Intimidation skill. You may double your proficiency bonus for all Intimidation checks you make.</span> </li>\n<li><span style=\"font-size:medium;\">Lurk in the Shadows: When you attack a creature that you are considered hidden from, that creature becomes Frightened of you until the start of your next turn.</span></li>\n</ul>\n<p> </p>\n<p><span style=\"font-size:medium;\"><u>Level 6</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Witty Banter: You learn the hateful mockery level 2 spell. Damage equals 2d10+6 at level 6, increasing to 3d10+6 at level 10. Charisma is your spellcasting ability for the spell.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br></span><span style=\"font-size:medium;\"><u>Level 9</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Breathless with Fear: Any frightened creature within 20ft of you has its movement speed halved and may only take an Action or Bonus Action but not both on its turn.</span></li>\n</ul>\n</blockquote>\n<p><span style=\"font-size:medium;\"> </span></p>\n<blockquote>\n<p><span style=\"font-size:medium;\"><br><br><strong>The Torchbearer</strong><br>Torchbearers embody the supernatural trappings of the harlequins, capitalizing on their targets' fear of the unknown by employing unusual tactics.<br><br><u>Level 2</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Torch Master: You are proficient with Torches, Lanterns, and Clubs. These Weapons are treated as Finesse Weapons when wielded by you.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Bringer of Fire: You may cast the produce flame cantrip, with Charisma as your spellcasting ability.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Spell Slot: Gain 1 level 1 spell slot.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Select Spell: Select 2x spells from the following: Burning Hands, Dissonant Whispers, Faerie Fire, Bane, Color Spray, Sleep.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Smoulder: Whenever you deal fire damage to a creature, that creature is set aflame. It takes fire damage equal to 1d4 at the start of its next turn. The flames are then doused. Damage increases to 5d4 by level 11, increasing every two levels.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 4<br><br></u></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Embrace the Flame: Critical hits or hits on burning creatures inflict fire vulnerability on failed Charisma saves. Burning or smouldering creatures let out an explosion of fire.</span></li>\n</ul>\n<p> </p>\n<p><span style=\"font-size:medium;\"><u>Level 6</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Breath of the Dancing Dragon: You learn to wield fire dramatically. You may exhale a potent alcoholic mixture to spray fire in a cone. Creatures within the cone must make a Dexterity saving throw to prevent taking fire damage.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Spell Slot: Gain 1 level 2 spell slot and 1 level 3 spell slot.</span> </li>\n</ul>\n<ul>\n<li><span style=\"font-size:medium;\">Select Spell: Select 2x spells from the following: Heat Metal, Flaming Sphere, Flame Blade, Scorching Ray. Also select 1x from the following: Fireball, Crown of Madness, Scorching Ray, Blindness, Burning Hands.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><u>Level 9</u><u><br></u><br></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Spell Slot: Gain 2 level 1 spell slots and 1 level 4 spell slot.</span></li>\n<li><span style=\"font-size:medium;\">Fire Eater: Gain immunity to fire damage.</span></li>\n<li><span style=\"font-size:medium;\">Select Cantrip: Select 2x spells from the following: Fire Bolt, Light, Produce Flame, Dancing Lights, Blade Ward.</span></li>\n<li><span style=\"font-size:medium;\">Select Spell: Select 2x level one and 1x level three spells from the prior lists. Also, select 1x level four spell from the following: Fire Shield, Wall of Fire.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"> </span></p>\n</blockquote>\n<p> </p>\n<h3><strong>개요 (Overview)</strong></h3>\n<p> 넥서스의 harlequinzerg0가 만든 할리퀸 클래스를 툴킷에 이식했습니다.</p>\n<p>클래스 아이콘이 미출력된다는 걸 빼면 잘 작동하지만 mod.io 이용자분들에게도 해당 모드를 소개하기 위해 툴킷으로 이식하고 몇가지 문제점을 수정해서 올립니다.</p>\n<p> </p>\n<h3><strong>수정 사항</strong></h3>\n<ul>\n<li>모든 스킬 아이콘을 전면 재디자인했습니다.</li>\n</ul>\n<p>         - 원본 모드에는 툴팁에 표시되는 확대 아이콘이 없었기 때문에, 해당 이미지들을 새로 제작했습니다.</p>\n<ul>\n<li>리듬감 있는 공격이 맨손 공격에도 적용되도록 수정했습니다.</li>\n</ul>\n<p> </p>\n<h2><strong>이 모드는 영어와 한국어를 지원합니다.</strong></h2>\n<p> </p>\n<blockquote>\n<p><span style=\"text-decoration:underline;\"><strong>할리퀸 클래스 (The Harlequin Class)</strong></span></p>\n<p>악마 같은 암살자는 골목에서 단검을 던져 눈 깜짝할 사이에 목표의 호위병들을 제거합니다.</p>\n<p>장난기 넘치는 궁정 광대는 혼란 속에서 깔깔 웃으며 왕자를 암살하는 계략을 성공시킵니다.</p>\n<p>서커스가 떠나는 순간 마을은 불길에 휩싸이고, 불꽃 곡예사는 계약금을 챙긴 뒤 만족스럽게 잠자리에 듭니다.</p>\n<p>수수께끼 같은 할리퀸은 혼란을 일으키는 것을 즐기며, 특히 그 대가를 받을 때 더욱 그렇습니다.</p>\n<p> </p>\n<p>이 모드는 Lexi Abbey가 만든 할리퀸 홈브루 클래스를 기반으로 하며, 세 가지 하위 직업인 곡예사(Acrobat), 어릿광대(Jester), 불놀이꾼(Torch Bearer) 에서 영감을 받았습니다.</p>\n<p>할리퀸은 기만과 전투에 능한 공연자로, 환상과 현실의 경계 위에서 춤을 추며 매혹적인 존재감과 민첩한 곡예로 적을 혼란에 빠뜨리고 공포에 몰아넣습니다.</p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\"><strong>클래스 특성 (Class Features)</strong></span></p>\n<p>생명력: 1레벨 8, 이후 레벨당 +5</p>\n<p>방어구: 경갑</p>\n<p>무기: 단순 무기, 석궁, 레이피어, 낫, 소검, 악기</p>\n<p>내성 굴림: 민첩, 매력</p>\n<p>캐릭터 태그: 바드, 로그</p>\n</blockquote>\n<p> </p>\n<blockquote>\n<p>레벨 1</p>\n<p>할리퀸 가명</p>\n<p>할리퀸 가명을 유지하는 동안, 기만(Deception)과 위협(Intimidation) 판정에 유리 보정을 받습니다.</p>\n<p>다음 여섯 가지 가명 중 하나를 선택합니다:</p>\n<p>눈먼 뱀, 요염한 서큐버스, 과시의 달인, 킥킥대는 난장이, 죽음을 부르는 그림자, 관대한 엘프리트.</p>\n<p> </p>\n<p>리듬감 있는 공격</p>\n<p>무기 공격이나 맨손 공격에 성공하면 리드미컬한 전투 자세에 들어갑니다.</p>\n<p>이 상태에서는 다음 턴의 공격이 추가 피해 보너스를 얻습니다.</p>\n<p>공격이 빗나가면 리듬이 끊기며 다시 시작해야 합니다.</p>\n<p> </p>\n<p>할리퀸 주문 시전</p>\n<p>매력이 주문 시전 능력치입니다.</p>\n<p>1레벨 주문 슬롯 1개를 얻습니다.</p>\n<p> </p>\n<p>소마법 선택: 다음 중 1개</p>\n<p>(신랄한 조롱, 칼날 방호, 마법사의 손, 진실의 일격, 친구, 춤추는 빛, 빛, 하급 환영)</p>\n<p> </p>\n<p>1레벨 주문 선택: 다음 중 1개</p>\n<p>(수면, 타샤의 신랄한 웃음 소리, 변장, 색채 분사, 인간형 매혹)</p>\n<p> </p>\n<p>레벨 2</p>\n<p>부자연스러운 민첩성</p>\n<p>방패나 갑옷을 착용하지 않았을 경우 이동 속도가 3m 증가합니다.</p>\n<p>주문 슬롯: 1레벨 주문 슬롯 1개 추가</p>\n<p>소마법 선택: 위 목록 중 1개</p>\n<p> </p>\n<p>레벨 3</p>\n<p>하위 직업 선택: 곡예사(Acrobat), 어릿광대(Jester), 불놀이꾼(Torch Bearer)</p>\n<p> </p>\n<p>1레벨 주문 선택: 위 목록 중 1개</p>\n<p>전문화(Expertise): 숙련된 기술 하나를 선택해 전문화합니다.</p>\n<p> </p>\n<p>레벨 4</p>\n<p>특기(Feat) 선택</p>\n<p> </p>\n<p>레벨 5</p>\n<p>추가 공격(Extra Attack)</p>\n<p>주문 슬롯: 1레벨 1개, 2레벨 1개</p>\n<p> </p>\n<p>2레벨 주문 선택:</p>\n<p>(환영력, 광기의 왕관, 망자와의 대화, 투명화, 액운, 수면, 인간형 현혹, 불협화음의 속삭임, 색채 분사, 타샤의 끔찍한 웃음소리 중 1개)</p>\n<p> </p>\n<p>레벨 6</p>\n<p>하위 직업 특성</p>\n<p> </p>\n<p>레벨 7</p>\n<p>위협적인 일격</p>\n<p>Deadly Flow로 피해를 강화했을 때, 대상은 매력 내성 굴림을 해야 하며 실패 시 당신을 두려워하게 됩니다.</p>\n<p> </p>\n<p>레벨 8</p>\n<p>특기 선택</p>\n<p> </p>\n<p>레벨 9</p>\n<p>하위 직업 특성</p>\n<p>주문 슬롯: 2레벨 주문 슬롯 1개</p>\n<p> </p>\n<p>레벨 10</p>\n<p>특기 선택</p>\n<p> </p>\n<p>레벨 11</p>\n<p>매력적인 불한당</p>\n<p>매력 능력치 +2 (20 초과 가능)</p>\n<p> </p>\n<p>광기의 폭소</p>\n<p>행동을 사용해 광기 어린 웃음을 터뜨립니다.</p>\n<p>9m 내에서 들을 수 있는 크리처들은 지혜 내성 굴림 실패 시 1분간 웃음 상태에 빠집니다.</p>\n<p> </p>\n<p>레벨 12</p>\n<p>특기 선택</p>\n<p>폐위 주문 획득</p>\n<p> </p>\n<p>레벨 14</p>\n<p>특기 선택</p>\n<p> </p>\n<p>레벨 15</p>\n<p>고통</p>\n<p>공포 상태의 적에게 무기 공격으로 피해를 주면 추가로 1d6 정신 피해를 줍니다</p>\n<p> </p>\n<p>레벨 17</p>\n<p>주문 슬롯 획득:</p>\n<p> </p>\n<p>1레벨 1개, 2레벨 1개, 3레벨 2개</p>\n<p>주문 선택: 다음 중 3개</p>\n<p>(포화 소환, 공포, 최면 문양, 환영력, 광기의 왕관, 망자와의 대화, 투명화, 액운, 수면, 인간형 현혹, 불협화음의 속삭임, 색채 분사, 타샤의 끔찍한 웃음소리 중 1개)</p>\n<p> </p>\n<p>레벨 19</p>\n<p>특기 선택</p>\n<p> </p>\n<p>레벨 20</p>\n<p>5레벨 주문 슬롯 1개 획득</p>\n<p>강화된 고통: 고통의 피해가 2배로 증가</p>\n<p>대단원의 종막</p>\n<p>전투당 1회, 리듬감 있는 공격 상태에서 무기 공격 명중 시 추가로 5d8 정신 피해를 부여할 수 있습니다.</p>\n<p>이후 리듬감 있는 공격은 6턴 동안 재사용 대기 상태가 됩니다.</p>\n</blockquote>\n<p> </p>\n<p><span style=\"text-decoration:underline;\"><strong>하위 직업 특성 (Subclass Features)</strong></span></p>\n<p> </p>\n<blockquote>\n<p><span style=\"text-decoration:underline;\"><strong>곡예사(Acrobat)</strong></span></p>\n<p>레벨 3</p>\n<p>회피 훈련: 질주: 질주와 이탈을 보조 행동으로 사용</p>\n<p>우아함과 아름다움: 곡예 숙련 및 숙련 보너스 2배</p>\n<p>익명의 갑옷: AC = 12 + 매력 보정치 (더 높을 경우 적용)</p>\n<p>회피 훈련: 공격 굴림 불리, 민첩 내성 유리 (짧은 휴식마다 재사용)</p>\n<p> </p>\n<p>레벨 6</p>\n<p>기묘한 움직임</p>\n<p>관객 시선 강탈</p>\n<p>전투 스타일 선택: 결투 또는 양손 무기</p>\n<p> </p>\n<p>레벨 9</p>\n<p>회피 전문가 민첩 내성 성공 시 무피해, 실패 시 절반 피해</p>\n</blockquote>\n<p> </p>\n<blockquote>\n<p><span style=\"text-decoration:underline;\"><strong>어릿광대 (The Jester)</strong></span></p>\n<p>어릿광대는 할리퀸이 사용하는 공포 전술의 달인으로, 가는 곳마다 혼란과 불안을 퍼뜨립니다.</p>\n<p> </p>\n<p>레벨 2</p>\n<p>공포의 화신</p>\n<p>협박(Intimidation) 기술에 숙련을 얻습니다. 또한 협박 판정을 할 때 숙련 보너스를 두 배로 적용할 수 있습니다.</p>\n<p> </p>\n<p>그림자 속 기척</p>\n<p>당신이 은신한 상태로 간주되는 크리처를 공격하면, 해당 크리처는 당신의 다음 턴 시작 시까지 당신을 두려워하게 됩니다.</p>\n<p> </p>\n<p>레벨 6</p>\n<p>증오 어린 조롱</p>\n<p>2레벨 주문 신랄한 조롱을 습득합니다. 이 주문의 피해는 6레벨에 2d10 + 6, 10레벨에 3d10 + 6으로 증가합니다. 이 주문의 주문 시전 능력치는 매력(Charisma)입니다.</p>\n<p> </p>\n<p>레벨 9</p>\n<p>숨막히는 공포</p>\n<p>당신으로부터 6m 내에 있는 공포 상태의 모든 크리처는 이동 속도가 절반으로 감소하며, 자신의 턴에 행동(Action) 과 보조 행동(Bonus Action) 중 하나만 사용할 수 있고 둘을 동시에 사용할 수는 없습니다.</p>\n</blockquote>\n<p> </p>\n<blockquote>\n<p><span style=\"text-decoration:underline;\"><strong>불놀이꾼 (The Torchbearer)</strong></span></p>\n<p>불놀이꾼은 할리퀸의 초자연적인 면모를 구현하는 존재로, 미지에 대한 공포를 이용해 기묘하고 비정형적인 전술을 구사합니다.</p>\n<p> </p>\n<p>레벨 2</p>\n<p>횃불의 달인</p>\n<p>횃불, 등불, 곤봉에 숙련을 얻습니다. 이 무기들은 당신이 사용할 경우 기교 무기로 간주됩니다.</p>\n<p> </p>\n<p>불의 전달자 (Bringer of Fire)</p>\n<p>소마법 불꽃 생성을 시전할 수 있으며, 주문 시전 능력치는 매력(Charisma)입니다.</p>\n<p> </p>\n<p>주문 슬롯</p>\n<p>1레벨 주문 슬롯 1개를 추가로 얻습니다.</p>\n<p> </p>\n<p>주문 선택</p>\n<p>다음 주문 중 2개를 선택합니다: 불타는 손길, 불협화음의 속삭임, 요정 불꽃, 액운, 색채 분사, 수면</p>\n<p> </p>\n<p>불씨 (Smoulder)</p>\n<p>당신이 크리처에게 화염 피해를 입힐 때마다, 그 크리처는 불타오릅니다. 대상은 자신의 다음 턴 시작 시 1d4 화염 피해를 입고, 이후 불길은 꺼집니다. 이 피해는 11레벨에 5d4가 되며, 이후 2레벨마다 증가합니다.</p>\n<p> </p>\n<p>레벨 4</p>\n<p>불꽃을 받아들이다 (Embrace the Flame)</p>\n<p>치명타를 적중시키거나 불타는 크리처를 공격하면, 대상이 매력 내성 굴림에 실패할 경우 화염 피해 취약성을 얻게 됩니다. 불타거나 훈소 상태인 크리처는 불꽃 폭발을 일으킵니다.</p>\n<p> </p>\n<p>레벨 6</p>\n<p>춤추는 드래곤의 숨결 (Breath of the Dancing Dragon)</p>\n<p>불을 극적으로 다루는 법을 터득합니다. 강한 알코올 혼합물을 내뿜어 방사 형태로 불을 분사할 수 있습니다. 범위 내의 크리처들은 민첩 내성 굴림에 실패하면 화염 피해를 입습니다.</p>\n<p> </p>\n<p>주문 슬롯</p>\n<p>2레벨 주문 슬롯 1개, 3레벨 주문 슬롯 1개를 얻습니다.</p>\n<p> </p>\n<p>주문 선택</p>\n<p>다음 주문 중 2개를 선택합니다: 금속 과열, 화염 구체, 화염 검, 작열 광선</p>\n<p>추가로 아래 목록 중 1개를 선택합니다: 화염구, 광기의 왕관, 작열 광선, 실명, 불타는 손길</p>\n<p> </p>\n<p>레벨 9</p>\n<p>주문 슬롯</p>\n<p>1레벨 주문 슬롯 2개, 4레벨 주문 슬롯 1개를 얻습니다.</p>\n<p> </p>\n<p>불먹깨비</p>\n<p>화염 피해에 면역을 얻습니다.</p>\n<p> </p>\n<p>소마법 선택</p>\n<p>다음 중 2개를 선택합니다: 화염살, 빛, 불꽃 생성, 춤추는 빛, 칼날 방호</p>\n<p> </p>\n<p>주문 선택</p>\n<p>이전 목록에서 1레벨 주문 2개, 3레벨 주문 1개를 선택합니다. 또한 다음 주문 중 4레벨 주문 1개를 선택합니다: 화염 방패, 화염 벽</p>\n</blockquote>",
-    "date_added": 1765799874,
-    "date_updated": 1779899590,
-    "date_live": 1765800571,
-    "visible": 1,
-    "status": 1,
-    "dependencies": false,
-    "profile_url": "https://mod.io/g/baldursgate3/m/harlequin-class-mod-patch8",
-    "submitted_by": {
-      "id": 42890203,
-      "name_id": "modiouser47690731",
-      "username": "Ahdarugo",
-      "profile_url": "https://mod.io/u/modiouser47690731",
-      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
-    },
-    "modfile": {
-      "id": 7688150,
-      "mod_id": 5581525,
-      "version": "4.0.1.9",
-      "filename": "harlequinclassmod-patch8_32cf2-hfvg.zip",
-      "changelog": "Fix: Changed the starting outfit from the Bard outfit and boots to the Harlequin-exclusive outfit.\nFix: Modified some 5e spells and Mystra Spells to be compatible with Harlequin spells.\n\n수정: 시작 시 착용하는 의상을 바드 의상과 부츠에서 할리퀸 전용 의상으로 변경했습니다.\n수정: 할리퀸 주문에 5e spells와 Mystra Spells의 주문 일부를 호환되게 수정했습니다.",
-      "date_added": 1777514001,
-      "date_updated": 0,
-      "date_scanned": 1777514014,
-      "filesize": 5798169,
-      "platforms": [
-        {
-          "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
-          "status": 1
-        }
-      ]
-    },
-    "logo": {
-      "filename": "mod_publish_logo.png",
-      "original": "https://image.modcdn.io/mods/9678/5581525/mod_publish_logo.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/9678/5581525/crop_320x180/mod_publish_logo.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/9678/5581525/crop_640x360/mod_publish_logo.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/9678/5581525/crop_1280x720/mod_publish_logo.png"
-    },
-    "tags": [
-      {
-        "name": "Classes",
-        "name_localized": "Classes",
-        "date_added": 0
-      },
-      {
-        "name": "For Fun",
-        "name_localized": "For Fun",
-        "date_added": 0
-      },
-      {
-        "name": "Available on Mac and Console",
-        "name_localized": "Available on Mac and Console",
-        "date_added": 0
-      },
-      {
-        "name": "Other Classes",
-        "name_localized": "Other Classes",
-        "date_added": 0
-      },
-      {
-        "name": "English",
-        "name_localized": "English",
-        "date_added": 0
-      },
-      {
-        "name": "Korean",
-        "name_localized": "Korean",
-        "date_added": 0
-      }
-    ],
-    "platforms": [
-      {
-        "platform": "windows",
-        "modfile_live": 7688150
-      },
-      {
-        "platform": "mac",
-        "modfile_live": 7688150
-      },
-      {
-        "platform": "xboxseriesx",
-        "modfile_live": 7688150
-      },
-      {
-        "platform": "ps5",
-        "modfile_live": 7688150
       }
     ]
   },
