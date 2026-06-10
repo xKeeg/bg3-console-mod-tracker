@@ -82497,7 +82497,7 @@
     "summary": "The unofficial community bug fix mod - Over 2400 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 2400 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 中国人/中國人<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1780752735,
+    "date_updated": 1781061029,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -82511,15 +82511,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7818306,
+      "id": 7831797,
       "mod_id": 4561805,
-      "version": "4.5.5.3",
-      "filename": "itembugfix_010e73d5-9342-e528-3bgy.zip",
-      "changelog": "- Cloak of Displacement 'Displacement' now correctly removes the Displaced condition upon receiving any damage, and no longer spams the combat log each turn\n- 'Blessings of Knowledge' now correctly displays on the level screen for Knowledge Domain Clerics\n- 'Expertise' now correctly displays on the level screen for Bards and Rogues\n- Guardian of Faith now correctly displays the heraldry of the summoner's deity on its shield\n- Minor code review/improvement",
-      "date_added": 1780752693,
+      "version": "4.5.6.1",
+      "filename": "itembugfix_010e73d5-9342-e528-buxh.zip",
+      "changelog": "- Rush of the Gale Spirits now correctly removes the Burning condition (matching Gust of Wind)\n- Argument Solver 'Poison Mist' no longer incorrectly deals more damage and spawns more poison clouds based on the number of nearby creatures/objects\n- Corrosive Flail 'Corrosive Strike' no longer incorrectly deals more damage and spawns more acid surfaces based on the number of nearby creatures/objects\n- Necklace of Elemental Augmentation 'Elemental Augmentation' will now always add the correct bonus damage based on the elemental type of the cantrip\n- Fix for function IsSpellChildOrVariantFromContext() always returning true on a null context (special thanks to joow for the code)\n- Code improvement pass",
+      "date_added": 1781061017,
       "date_updated": 0,
-      "date_scanned": 1780752711,
-      "filesize": 1736442,
+      "date_scanned": 1781061023,
+      "filesize": 1736721,
       "platforms": [
         {
           "platform": "windows",
@@ -82633,7 +82633,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7818306
+        "modfile_live": 7831797
       }
     ]
   },
