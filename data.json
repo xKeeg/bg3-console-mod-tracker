@@ -60134,7 +60134,7 @@
     "summary": "Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.",
     "description": "<p>Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.</p>\n<p> </p>\n<pre>D&amp;D 5.5e ALL-IN-ONE BEYOND — THE WORLD UPDATE\n\nBG3 was built on D&amp;D 2014 rules.\nBG3 WITH THIS MOD runs on the official 2024 Player's Handbook.\n\n■ Every base class rebuilt from scratch.\n■ Three brand new classes added.\n■ 80+ feats across five sourcebooks.\n■ New races, backgrounds, spells, and items.\n■ All in one standalone mod. No dependencies.\n\n------------------------\n\nCORE RULES — REBUILT\n\nThe 2024 PHB changes how the game works at its foundation.\n\n■ BLOODIED — Creatures at or below 50% HP gain the Bloodied condition. Many abilities interact with this state.\n■ HEAVY ARMOR STRENGTH REQUIREMENT — Strength 13 required to wear Heavy Armor effectively. Low-STR casters can no longer wear plate for free.\n■ ONE SPELL SLOT PER TURN — You can only expend one spell slot per turn. No more double-casting.\n■ EQUIPPING WEAPONS — Draw or equip a weapon as part of your Attack action.\n■ PRONE REWORK — Standing costs half your Speed. Melee attacks have Advantage, ranged attacks have Disadvantage.\n■ HIDING REWORK — Stealth updated to 2024 standards.\n■ EXTRA ATTACK + WAR MAGIC — Certain classes can now mix spells and attacks in the same Extra Attack sequence.\n■ HEAVY WEAPON ABILITY REQUIREMENT — Heavy weapons require appropriate ability scores.\n\n------------------------\n\nCLASS OVERHAUL — 12 BASE CLASSES REBUILT\n\nAll subclasses now unlock at Level 3. Every class redesigned for the 2024 PHB.\n\nBARBARIAN\nPrimal Knowledge (Lvl 3) — Brutal Strike (Lvl 9) — Instinctive Pounce\n\nBARD\nFont of Inspiration (Lvl 5) — Magical Secrets reworked (Lvl 10)\n\nCLERIC\nDivine Order (Lvl 1) — Sear Undead (Lvl 5) — Blessed Strikes (Lvl 7)\n\nDRUID\nPrimal Order (Lvl 1) — Wild Resurgence (Lvl 5) — Elemental Fury (Lvl 7)\n\nFIGHTER\nTactical Mind (Lvl 2) — Tactical Shift (Lvl 5) — Tactical Master (Lvl 9)\n\nMONK\nMonk's Focus replaces Ki — Uncanny Metabolism (Lvl 2) — Deflect Attacks (Lvl 3)\n\nPALADIN\nDivine Smite redesigned as a prepared spell — Faithful Steed (Lvl 5)\n\nRANGER\nFavored Enemy reworked (Lvl 1) — Deft Explorer (Lvl 2) — Roving (Lvl 6)\n\nROGUE\nCunning Strike (Lvl 5) — Improved Cunning Strike (Lvl 11)\n\nSORCERER\nInnate Sorcery (Lvl 1) — Sorcery Incarnate (Lvl 7)\n\nWARLOCK\nInvocations from Lvl 1 — 20+ invocations available — Magical Cunning (Lvl 2) — Mystic Arcanum (Lvl 11)\n\nWIZARD\nRitual Adept (Lvl 2) — Scholar (Lvl 2)\n\n------------------------\n\nNEW CLASSES — THREE FULL CLASSES ADDED\n\n------------------------\n\nGUNSLINGER\n\nRisk is in a Gunslinger's blood. Bold renegades who forge their own path with dangerous firearms — surviving by wits, split-second timing, and a considerable amount of luck.\n\nA full martial class built around firearms and the RISK resource. Weapon Mastery at Level 1.\n\nCore Features:\n■ Firearm Expert (Lvl 1)\n■ Quick Draw (Lvl 1)\n■ Critical Shot (Lvl 2)\n■ Risk (Lvl 2)\n■ Gut Shot (Lvl 5)\n■ Evasion (Lvl 7)\n■ Overkill (Lvl 11)\n\nSubclasses:\n■ HIGH ROLLER — Push your luck. Poker Face, Liar's Dice, Risky Business.\n■ SPELLSLINGER — Magic meets gunfire. Bang You're Dead, Spellshot, Counter-Mage.\n■ WHITE HAT — The lawful gunslinger. Lay Down the Law, Steely-Eyed, Long Arm of the Law.\n\n------------------------\n\nILLRIGGER\n\nKnights, assassins, and terror-commandos of Hell. Illriggers carry out their archdevil's infernal will through a unique SEAL system — place Seals on enemies, then detonate them.\n\nCore Features:\n■ Baleful Interdict (Lvl 1)\n■ Combat Mastery (Lvl 2)\n■ Interdiction (Lvl 2)\n■ Infernal Conduit (Lvl 6)\n■ Blood Price (Lvl 10)\n■ Terrorizing Force (Lvl 11)\n\nSubclasses:\n■ HELLSPEAKER (Moloch) — Manipulation and charm. Honey-Sweet Blades, Charm Enemy.\n■ PAINKILLER (Dispater) — Pure destruction. \"You Die on My Command!\"\n■ SANGUINE KNIGHT (Sutekh) — Blood magic and healing. Exsanguinate, Blood for Blood.\n■ SHADOWMASTER — Assassination and stealth. Marked for Death, Umbral Killer.\n\n------------------------\n\nARTIFICER\n\nMasters of magical invention. Artificers use their genius to create wonders — and turn those wonders into weapons.\n\nCore Features:\n■ Replicate Magic Item (Lvl 2)\n■ Spellcasting (Lvl 2)\n■ Flash of Genius (Lvl 7)\n■ Magic Item Adept (Lvl 10)\n■ Spell-Storing Item (Lvl 11)\n\nSubclasses:\n■ ALCHEMIST — Experimental Elixirs, Alchemical Savant, Restorative Reagents.\n■ ARMORER — Arcane Armor, Armor Model, Extra Attack (Lvl 5).\n■ ARTILLERIST — Eldritch Cannon, Arcane Firearm, Explosive Cannon.\n\n------------------------\n\nWEAPON MASTERY — NEW COMBAT LAYER\n\nEvery martial character unlocks Weapon Mastery at Level 1.\nEach weapon type has a unique special property.\n\n■ CLEAVE — Hit a second adjacent creature on a successful attack.\n■ GRAZE — Deal ability modifier damage even on a miss.\n■ TOPPLE — Force a CON save or knock the target Prone.\n■ NICK — Light weapons grant an extra attack without using your Bonus Action.\n■ VEX — Gain Advantage on your next attack against the same target.\n■ SLOW — Reduce target Speed by 10 ft until your next turn.\n■ PUSH — Push the target 10 ft away.\n■ SAP — Target has Disadvantage on its next attack roll.\n■ FLEX — Use one-handed or two-handed for different damage dice.\n\n------------------------\n\nFEATS — 80+ OPTIONS ACROSS FIVE SOURCEBOOKS\n\nPLAYER'S HANDBOOK 2024\nOrigin Feats (available at Level 1 via Backgrounds):\nAlert, Lucky, Magic Initiate, Musician, Savage Attacker, Skilled, Tavern Brawler, Tough, Healer\n\nGeneral Feats:\nActor, Athlete, Charger, Crossbow Expert, Defensive Duelist, Dual Wielder, Dungeon Delver, Durable, Elemental Adept, Great Weapon Master, Heavily Armored, Heavy Armor Master, Lightly Armored, Mage Slayer, Martial Adept, Medium Armor Master, Polearm Master, Resilient, Ritual Caster, Sentinel, Sharpshooter, Shield Master, Speedy, Spell Sniper, War Caster, Weapon Master\n\nNew General Feats:\nCrusher, Fey Touched, Inspiring Leader, Mounted Combatant, Piercer, Poisoner, Shadow Touched, Skill Expert, Skulker, Slasher\n\nXANATHAR'S GUIDE TO EVERYTHING\nDragon Fear, Dragon Hide, Dwarven Fortitude, Elven Accuracy, Fade Away, Flames of Phlegethos, Infernal Constitution, Orcish Fury, Squat Nimbleness\n\nTASHA'S CAULDRON OF EVERYTHING\nEldritch Adept, Fighting Initiate, Metamagic Adept\n\nFORGOTTEN REALMS: HEROES OF FAERÛN\nOrigin Feats: Cult of the Dragon Initiate, Emerald Enclave Fledgling, Harper Agent, Lords' Alliance Agent, Purple Dragon Rook, Spellfire Spark, Tyro of the Gauntlet, Zhentarim Ruffian\nGeneral Feats: Cold Caster, Dragonscarred, Enclave Magic, Fairy Trickster, Genie Magic, Harper Teamwork, Lordly Resolve, Mythal Touched, Order's Resilience, Purple Dragon Commandant, Spellfire Adept, Zhentarim Tactics\n\nTHE LORD OF THE RINGS ROLEPLAYING\nDeadly Archery, Dragon-Slayer, Fierce Shot, Gleam of Wrath, Nimbleness\n\n------------------------\n\nRACES — REBUILT FOR 2024\n\nAll base races reworked. Four extra races available via Human Level 1 Passive.\n\n■ AASIMAR (via Human) — Celestial Resistance, Healing Hands, Celestial Revelation\n■ DHAMPIR (via Human) — Speed 35 ft, Trace of Undeath, Vampiric Bite\n■ DRAGONBORN — Draconic Ancestry, Breath Weapon, Darkvision, Draconic Flight\n■ DWARF — Darkvision, Dwarven Resilience\n■ ELF — Fey Ancestry, Keen Senses. Subraces: Drow / High Elf / Wood Elf\n■ GITHYANKI — Astral Knowledge, Githyanki Psionics, Psychic Resilience\n■ GNOME — Darkvision, Gnomish Cunning\n■ GOLIATH (via Human) — Speed 35 ft, Giant Ancestry (6 options), Large Form\n■ HALF-ELF — Fey Ancestry, Resourceful. Subraces: Drow / High / Wood\n■ HALFLING — Brave, Luck\n■ HUMAN — Resourceful, Skillful, Versatile\n■ KALASHTAR (via Human) — Dual Mind, Mental Discipline, Severed from Dreams\n■ ORC — Adrenaline Rush, Darkvision, Relentless Endurance\n■ TIEFLING — Darkvision, Thaumaturgy. Subraces: Asmodeus / Mephistopheles / Zariel\n\n------------------------\n\nBACKGROUNDS — 37 TOTAL WITH ORIGIN FEATS\n\nEvery Background grants an Origin Feat at Level 1.\n\nPLAYER'S HANDBOOK (19):\nAcolyte, Charlatan, Criminal, Entertainer, Farmer, Folk Hero, Guide, Guild Artisan, Haunted One, Hermit, Merchant, Noble, Outlander, Sage, Sailor, Scribe, Soldier, Urchin, Wayfarer\n\nFORGOTTEN REALMS: HEROES OF FAERÛN (18):\nChondathan Freebooter, Dead Magic Dweller, Dragon Cultist, Emerald Enclave Caretaker, Flaming Fist Mercenary, Genie Touched, Harper, Ice Fisher, Knight of the Gauntlet, Lords' Alliance Vassal, Moonwell Pilgrim, Mulhorandi Tomb Raider, Mythalkeeper, Purple Dragon Squire, Rashemi Wanderer, Shadowmasters Exile, Spellfire Initiate, Zhentarim Mercenary\n\n------------------------\n\nSPELLS — 60+ NEW AND REVISED\n\nCantrips: Green-Flame Blade, Mind Sliver, Sorcerous Burst, Starry Wisp, Sword Burst, Thunderclap, True Strike (redesigned), Word of Radiance, Finger Guns, Hellfire\n\nLevels 1-2: Chromatic Orb, Divine Smite (now a spell), Hell's Lash, Arcane Vigor, Mind Spike, Shadow Blade, Snilloc's Snowball Swarm, Summon Beast, Tasha's Mind Whip, Warding Bond\n\nLevels 3-5: Conjure Barrage, Crusader's Mantle, Fount of Moonlight, Aura of Vitality, Bestow Curse, Lightning Arrow, Summon Fey, Steel Wind Strike, Synaptic Static\n\nLevels 6+: Circle of Death, Disintegrate (revised)\n\n------------------------\n\nITEMS — NEW WEAPONS AND UNIQUE LOOT\n\nFirearms (Gunslinger):\n■ Pistol / Pistol +1 / Pistol +2\n■ Musket / Musket +1 / Musket +2\n\nClass-specific loot:\n■ MOON SICKLE — Druid and Ranger. Location: Front of the Idol of Silvanus.\n■ HOLY AVENGER — Paladin. Location: Rosymorn Monastery.\n■ TRUE NAME — Illrigger. Location: He Who Was.\n\nOther notable items:\nArgument Solver, Blazer of Benevolence, Cap of Curing, Chain of Liberation, Corrosive Flail, Dragon's Grasp, Gloves of Heroism, Hellrider's Pride, Helmet of Smiting, Hoppy, Rupturing Blade, Spellthief, The Oak Father's Embrace, The Sacred Star (Dank Crypt), Xyanyde\n\n------------------------\n\nCOMING SOON\n\n■ PSION — Full psionic class currently in development.\n■ Additional subclasses and feat sources planned.\n\n------------------------\n\nLOCALIZATION\n\n■ English — built-in\n■ Spanish — built-in\n■ Korean — external patch available on nexusmod\n■ Russian — external patch available on mod.io\n■ Chinese (Simplified) — external patch available on mod.io\n\n------------------------\n\nCOMPATIBILITY\n\n■ Standalone — no other mods required.\n■ Install via the in-game BG3 Mod Manager.\n■ Not compatible with saves from before major version updates.\n■ May conflict with other class or feat overhaul mods.\n\n------------------------\n\nCREDITS\n\nOriginal mod: Yoonmoonsik\nSpanish localization: HermesVar\nGitHub: github.com/Yoonmoonsik/dnd55e\n\nIf you enjoy this mod, please rate it. It helps the author continue development.</pre>",
     "date_added": 1729165055,
-    "date_updated": 1781183139,
+    "date_updated": 1781193392,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -60148,15 +60148,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 7836129,
+      "id": 7836816,
       "mod_id": 4419649,
-      "version": "4.6.3.0",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-3qtr.zip",
+      "version": "4.6.3.1",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-9n3j.zip",
       "changelog": null,
-      "date_added": 1781183106,
+      "date_added": 1781193371,
       "date_updated": 0,
-      "date_scanned": 1781183363,
-      "filesize": 46428648,
+      "date_scanned": 1781193456,
+      "filesize": 46431106,
       "platforms": [
         {
           "platform": "windows",
@@ -60283,7 +60283,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7836129
+        "modfile_live": 7836816
       }
     ]
   },
@@ -75408,6 +75408,104 @@
     ]
   },
   {
+    "id": 4483653,
+    "game_id": 6715,
+    "name": "Astarion's Glasses",
+    "name_id": "astarions-glasses",
+    "summary": "Adds dyeable glasses for Astarion and Tav to the camp chest. Includes: Two pairs of glasses tailored to Astarion, Two pairs of glasses for Tav (except Dragonborns). Update adds new CC options for the glasses under the \"Horns\" tab.",
+    "description": "<p><strong><em>*please see bug fixes and updates </em></strong><strong><em>below*</em></strong></p>\n<p>adds dyeable glasses for Astarion and Tav to the camp chest. Includes: Two pairs of glasses tailored to Astarion and Two pairs of glasses for Tav (except Dragonborns).</p>\n<p>New CC options have been added under the \"Horns\" slot. These glasses can be recolored using the primary horn color options. I recommend having the Origin Mirror installed to be able to apply these to Astarion in the character creator.</p>\n<p>1.0.0.13: Update changes the base material used in order to properly remove .bshd shader files and make the mod console compatible.</p>\n<p style=\"text-align:center;\"><strong>Addressing Bug Reports</strong></p>\n<ul>\n<li>If you are having issues with this mod, please be thorough in your explanation of the issue and what console you are on. Unfortunately, I cannot diagnose any issues based on \"(Anonymous)\" and a one sentence description. That being said, I'm more than happy to help with any problem to the best of my ability!</li>\n<li>If you cannot install the updated mod via BG3's in game mod manager, disable (<em>not uninstall)</em> your entire mod list, restart the game, and then attempt to update (or unsubscribe). If this does not work (and you are on PC), the updated files can be installed using a third party method like BG3MM. All original and updated files can be found on the Mod.io page and on Nexus mods. The mod refusing to install/update is not a fault of the mod itself. </li>\n<li>A new mod file has been published to remove all BSHD files to make Astarion's Glasses console compatible. The CC version works well but redyeing for the underwear and helmet version have yet to be tested.</li>\n</ul>",
+    "date_added": 1731489601,
+    "date_updated": 1781193790,
+    "date_live": 1731490569,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/astarions-glasses",
+    "submitted_by": {
+      "id": 35002666,
+      "name_id": "lizzerfizzer",
+      "username": "LizzerFizzer",
+      "profile_url": "https://mod.io/u/lizzerfizzer",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/69be/35002666/crop_100x100/77fd9c4574dc40aa6c41a8040b8578e.jpg"
+    },
+    "modfile": {
+      "id": 7769519,
+      "mod_id": 4483653,
+      "version": "1.0.0.13",
+      "filename": "astarions_glasses_5f8d306c-958-10gd.zip",
+      "changelog": null,
+      "date_added": 1779589689,
+      "date_updated": 0,
+      "date_scanned": 1779589798,
+      "filesize": 60470147,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "astarion_glasses_banner.1.png",
+      "original": "https://image.modcdn.io/mods/2839/4483653/astarion_glasses_banner.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2839/4483653/crop_320x180/astarion_glasses_banner.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2839/4483653/crop_640x360/astarion_glasses_banner.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2839/4483653/crop_1280x720/astarion_glasses_banner.1.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7769519
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7769519
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7769519
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7769519
+      }
+    ]
+  },
+  {
     "id": 4483673,
     "game_id": 6715,
     "name": "CL_Inconstant Moon - Cleric Gear",
@@ -80955,7 +81053,7 @@
     "name": "Ghost's Deck Of Many Feats (v4.3)",
     "name_id": "ghosts-deck-of-many-feats",
     "summary": "FEAT This Mod add more than ** Feats",
-    "description": "<p><strong>1.Close fighter</strong><br><em>Can use reaction to hit anyone who enter your range</em></p>\n<p><strong>2.Spellcaster Expert</strong><br><em>+5 spell save DC</em></p>\n<p><strong>3.Master of Archery</strong><br><em>+5 archery</em></p>\n<p><strong>4.Critical Expert</strong><br><em>-3 roll to CRIT</em></p>\n<p><strong>5.Sword Master</strong><br><em>+5 sword</em></p>\n<p><em>+1 Strength or dexterity </em></p>\n<p><strong>6.Reactive</strong><br><em>- you can do 3 reactions</em><br><em>+5 initiative</em></p>\n<p><strong>7.Fast hands</strong><br><em>It gives you a passive extra bonus action</em></p>\n<p><strong>8.Extra action</strong><br><em>It gives you a passive extra action</em></p>\n<p><strong>9.Slayer of the weak</strong><br><em>Can use riposte as a reaction if the enemy miss you</em></p>\n<p><strong>10.Not Dead Yet</strong><br><em>Once per battle you die you return with 1 Hit Point</em></p>\n<p><strong>11.Death Essence</strong><br><em>Every time you kill someone you heal </em><br><em>1d12 Hit Points</em></p>\n<p><strong>12.Talking one</strong><br><em>you really enjoy talking with every creature dead or alive</em><br><em>+2 charisma</em><br><em>+5 persuasion</em></p>\n<p><em>+speak with dead</em><br><em>+speak with animals</em></p>\n<p><strong>13. Exceptional Mind </strong></p>\n<p>Can chose one of the effects to your Character</p>\n<ul>\n<li><strong>BurningMind</strong><br>You can deal a 1d4 fire damage + charisma</li>\n<li><strong>Cold Mind</strong><br>You can deal a 1d4 ice damage + intelligence</li>\n<li><strong>Eletric Mind</strong><br>You can deal a 1d4 lightning damage + dexterity</li>\n<li><strong>Dark Mind</strong><br>You can deal a 1d4 necrotic damage +con</li>\n<li><strong>Strong Mind</strong><br>You can deal a 1d4 force damage +strengh</li>\n<li><strong>DivineMind</strong><br>You deal a 1d4 radiant damage + wisdom</li>\n</ul>\n<p><strong>14.Body Guard</strong><br><em>+2 Ac class</em></p>\n<p><strong>15.What a joke</strong><br><em>Every time you misses an enemy within melee range it gets hideous laughter</em></p>\n<p><strong>16.Dumb luck</strong><br><em>You are just very lucky for no reason</em></p>\n<p><em>It gain a d4 on checks</em></p>\n<p><strong>17.Battlemage</strong><br><em>Every time you hit an enemy you get +2 arcane acuity</em></p>\n<p><strong>18.Hit and Run</strong><br><em>On CRIT you cause prone to the target, and also gain +3 momentum</em></p>\n<p><strong>19.Assassins Frenzy</strong><br><em>Once per turn you kill a target you get 1 extra action</em></p>\n<p><strong>20.Eagle vision</strong><br><em>+20 perception</em><br><em>+20 survival</em></p>\n<p><strong>21.Erudite scholar</strong><br><em>+10 religion +10 history +10 arcane +10 Medicine</em></p>\n<p>Can make double potions</p>\n<p><strong>22. Drinking Problem</strong><br><em>Deal a passive D4 fire Damage</em><br><em>Deal one more D4 fire and thunder damage while drunk.</em></p>\n<p><strong>23. NoOne</strong></p>\n<p><em>While Shapeshifting, you gain +5 Deception +5 Persuasion +5 performance.</em></p>\n<p><strong>24. Mind Reader</strong><br><em>Enemies have disadvantages against you, and you gain 1d4 on attack Rolls</em><br><em>Can always cast Detect Thoughts </em></p>\n<p><strong>25. Combat Agility</strong><br><em>Can dash, Sneak and disengage with a bonus action </em></p>\n<p><strong>26. Defensive Parry</strong><br>Can reduce the damage you receive by 1d12, it costs a reaction point</p>\n<p><strong>27. Pride of the guild</strong><br><em>+10 Stealth</em><br><em>+10 Sleight of hand</em></p>\n<p><strong>28. Magic Restoration </strong><br><em>You can always restore empty spell slots</em><br><em>(only spells that you have consumed)</em></p>\n<p><strong>29. Ki restoration</strong><br><em>You can always restore your kit points</em><br><em>(only ki points that you have consumed)</em></p>\n<p><strong>30. Animage</strong></p>\n<p><em>Can chose one of the creatures to always transform into</em></p>\n<ul>\n<li><strong>Cat, </strong><strong>Spider, </strong><strong>Raven, </strong><strong>Wolf, Dilofosaurus, Panther, SaberTooth, Bear, OwlBear and others</strong></li>\n</ul>\n<p><strong>31.Flying Ability</strong></p>\n<ul>\n<li>Angelic ascension</li>\n<li>Devilish Descent<br><br></li>\n</ul>\n<p><strong>32.The Hidden One</strong><br>can always become invisible with a bonus action</p>\n<p><strong>32.Dimensional Traveler</strong></p>\n<ul>\n<li>You can always teleport as bonus action</li>\n<li>You can always cast a dimensional door using an action and a bonus action</li>\n<li>you can always hide himself in other plane</li>\n</ul>\n<p><strong>33.Multiple Targets</strong><br>Your arrows now hit three enemies at a time.</p>\n<p> </p>\n<p>I'm kind of at the limit of the size that my mod can be... so I still can add more feats, but not every feat that you guys suggest will get in the game. Maybe I'll do a part 2 of DeckOfManyFeats, but for now just enjoy what we already created together. =D</p>",
+    "description": "<p><strong>1.Close fighter</strong><br><em>Can use reaction to hit anyone who enter your range</em></p>\n<p><strong>2.Spellcaster Expert</strong><br><em>+5 spell save DC</em></p>\n<p><strong>3.Master of Archery</strong><br><em>+5 archery</em></p>\n<p><strong>4.Critical Expert</strong><br><em>-3 roll to CRIT</em></p>\n<p><strong>5.Sword Master</strong><br><em>+5 sword</em></p>\n<p><strong>6.Reactive</strong><br><em>- you can do 3 reactions</em><br><em>+5 initiative</em></p>\n<p><strong>7.Fast hands</strong><br><em>It gives you a passive extra bonus action</em></p>\n<p><strong>8.Extra action</strong><br><em>It gives you a passive extra action</em></p>\n<p><strong>9.Slayer of the weak</strong><br><em>Can use riposte as a reaction if the enemy miss you</em></p>\n<p><strong>10.Not Dead Yet</strong><br><em>Once per battle you die you return with 1 Hit Point</em></p>\n<p><strong>11.Death Essence</strong><br><em>Every time you kill someone you heal </em><br><em>1d12 Hit Points</em></p>\n<p><strong>12.Talking one</strong><br><em>you really enjoy talking with every creature dead or alive</em><br><em>+2 charisma</em><br><em>+5 persuasion</em></p>\n<p><em>+speak with dead</em><br><em>+speak with animals</em></p>\n<p><strong>13. Exceptional Mind </strong></p>\n<p>Can chose one of the effects to your Character</p>\n<ul>\n<li><strong>BurningMind</strong><br>You can deal a 1d4 fire damage + charisma</li>\n<li><strong>Cold Mind</strong><br>You can deal a 1d4 ice damage + intelligence</li>\n<li><strong>Eletric Mind</strong><br>You can deal a 1d4 lightning damage + dexterity</li>\n<li><strong>Dark Mind</strong><br>You can deal a 1d4 necrotic damage +con</li>\n<li><strong>Strong Mind</strong><br>You can deal a 1d4 force damage +strengh</li>\n<li><strong>DivineMind</strong><br>You deal a 1d4 radiant damage + wisdom</li>\n</ul>\n<p><strong>14.Body Guard</strong><br><em>+2 Ac class</em></p>\n<p><strong>15.What a joke</strong><br><em>Every time you misses an enemy within melee range it gets hideous laughter</em></p>\n<p><strong>16.Dumb luck</strong><br><em>You are just very lucky for no reason</em></p>\n<p><em>It gain a d4 on checks</em></p>\n<p><strong>17.Battlemage</strong><br><em>Every time you hit an enemy you get +2 arcane acuity</em></p>\n<p><strong>18.Hit and Run</strong><br><em>On CRIT you cause prone to the target, and also gain +3 momentum</em></p>\n<p><strong>19.Assassins Frenzy</strong><br><em>Once per turn you kill a target you get 1 extra action</em></p>\n<p><strong>20.Eagle vision</strong><br><em>+20 perception</em><br><em>+20 survival</em></p>\n<p><strong>21.Erudite scholar</strong><br><em>+10 religion +10 history +10 arcane +10 Medicine</em></p>\n<p>Can make double potions</p>\n<p><strong>22. Drinking Problem</strong><br><em>Deal a passive D4 fire Damage</em><br><em>Deal one more D4 fire and thunder damage while drunk.</em></p>\n<p><strong>23. NoOne</strong></p>\n<p><em>While Shapeshifting, you gain +5 Deception +5 Persuasion +5 performance.</em></p>\n<p><strong>24. Mind Reader</strong><br><em>Enemies have disadvantages against you, and you gain 1d4 on attack Rolls</em><br><em>Can always cast Detect Thoughts </em></p>\n<p><strong>25. Combat Agility</strong><br><em>Can dash, Sneak and disengage with a bonus action </em></p>\n<p><strong>26. Defensive Parry</strong><br>Can reduce the damage you receive by 1d12, it costs a reaction point</p>\n<p><strong>27. Pride of the guild</strong><br><em>+10 Stealth</em><br><em>+10 Sleight of hand</em></p>\n<p><strong>28. Magic Restoration </strong><br><em>You can always restore empty spell slots</em><br><em>(only spells that you have consumed)</em></p>\n<p><strong>29. Ki restoration</strong><br><em>You can always restore your kit points</em><br><em>(only ki points that you have consumed)</em></p>\n<p><strong>30. Animage</strong></p>\n<p><em>Can chose one of the creatures to always transform into</em></p>\n<ul>\n<li><strong>Cat, </strong><strong>Spider, </strong><strong>Raven, </strong><strong>Wolf, Dilofosaurus, Panther, SaberTooth, Bear, OwlBear and others</strong></li>\n</ul>\n<p><strong>31.Flying Ability</strong></p>\n<ul>\n<li>Angelic ascension</li>\n<li>Devilish Descent<br><br></li>\n</ul>\n<p><strong>32.The Hidden One</strong><br>can always become invisible with a bonus action</p>\n<p><strong>32.Dimensional Traveler</strong></p>\n<ul>\n<li>You can always teleport as bonus action</li>\n<li>You can always cast a dimensional door using an action and a bonus action</li>\n<li>you can always hide himself in other plane</li>\n</ul>\n<p><strong>33.Multiple Targets</strong><br>Your arrows now hit three enemies at a time.</p>\n<p> </p>\n<p>I'm kind of at the limit of the size that my mod can be... so I still can add more feats, but not every feat that you guys suggest will get in the game. Maybe I'll do a part 2 of DeckOfManyFeats, but for now just enjoy what we already created together. =D</p>",
     "date_added": 1733664975,
     "date_updated": 1781008240,
     "date_live": 1733664975,
@@ -124744,6 +124842,104 @@
     ]
   },
   {
+    "id": 5067692,
+    "game_id": 6715,
+    "name": "Fire And Smoke Dice",
+    "name_id": "fire-and-smoke",
+    "summary": "This is my submission for the July 2025 Modathon \"Fire &amp; Noir\" theme. This set includes two dice skins; Fireball - Great ***** of fire! Black Smoke - *cough cough* it burns the lungs.",
+    "description": "",
+    "date_added": 1751668641,
+    "date_updated": 1781194128,
+    "date_live": 1751675662,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/fire-and-smoke",
+    "submitted_by": {
+      "id": 35409081,
+      "name_id": "sultryshea",
+      "username": "SultryShea",
+      "profile_url": "https://mod.io/u/sultryshea",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/6818/35409081/crop_100x100/img_4396.jpg"
+    },
+    "modfile": {
+      "id": 6536073,
+      "mod_id": 5067692,
+      "version": "1.0.0.55",
+      "filename": "fireandsmoke_1c5e63df-71b5-46b-bljb.zip",
+      "changelog": null,
+      "date_added": 1751668667,
+      "date_updated": 0,
+      "date_scanned": 1751668727,
+      "filesize": 36299830,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/56df/5067692/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/56df/5067692/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/56df/5067692/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/56df/5067692/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Dice",
+        "name_localized": "Dice",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Modathon 2025",
+        "name_localized": "Modathon 2025",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6536073
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6536073
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6536073
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6536073
+      }
+    ]
+  },
+  {
     "id": 5069480,
     "game_id": 6715,
     "name": "ZXY - FleshForge - Body Selector - Digitigrade",
@@ -137052,6 +137248,119 @@
     ]
   },
   {
+    "id": 5323362,
+    "game_id": 6715,
+    "name": "Flind Evolved",
+    "name_id": "flind-evolved",
+    "summary": "Allows the Dark Urge to permanently control and gain the ability to summon the Flind in act 1.",
+    "description": "<p>This mod allows the Dark Urge to add the Flind encountered in act 1 to the party as a summon.</p>\n<p>The Flind is chaotic, reckless, unpredictable, and just as confused as the Dark Urge is about the whole tadpole situation.</p>\n<p>This uses the same foundation that the rest of the Evolved Series mods use. For more information about everything added in an Evolved mod, visit: <a title=\"Evolved Series\" href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">https://mod.io/g/baldursgate3/c/evolved-series</a></p>\n<hr>\n<p><span class=\"tw-flex tw-justify-center\"><img src=\"https://i.postimg.cc/156wP5dq/flind-summon-1.gif\" alt=\"\" width=\"560\" height=\"420\"></span></p>\n<h2>Receiving The Spell</h2>\n<blockquote>\n<p>As of v1.1, the Flind will now prefer to start dialog with the Dark Urge regardless of which player is closest to her as long as the Dark Urge is within 30m and not sneaking. She'll ignore opportunity attacks while she's moving to start dialog. Moreover, she will no longer run out of movement speed if she's moving to speak with a player. In vanilla, if she was moving to start dialog with a player and ran out of movement speed, the chance for the dialog would go away. This would then require sneaking up to the Flind so she had enough movement to reach you. This is no longer necessary.</p>\n<p>If the Dark Urge makes any ability checks in dialog with the Flind, they are done with advantage.</p>\n</blockquote>\n<p>After the Flind defeats the other gnolls (after she's persuaded to do so), she returns to the player and starts dialog again. Normally, you'd either convince her to feast on herself, convince her to leave, or fight her; however, the Dark Urge now gets unique dialog that allows recruiting her instead (no roll needed):</p>\n<blockquote>\n<p><em>You've but one chance. Join me, or die.</em></p>\n</blockquote>\n<p>The narrator then says:</p>\n<blockquote>\n<p><em>the gnoll's tadpole squirms, responding to your intense focus. It draws strength from you; it will protect you.</em></p>\n</blockquote>\n<p>The Flind then howls, dialog ends, she's immediately added to the party as the Dark Urge's summon, the Dark Urge receives the spell to summon her, and you get a tadpole from the Absolute as a reward. This is to compensate for the missed tadpole that you would have looted from the Flind's corpse. A Haunted One background goal named \"Allied and Confused\" is also completed.</p>\n<p>If the Zhents are still alive, they'll act like the Flind left and the quest continues as usual.</p>\n<hr>\n<h2>Class and Progression</h2>\n<p>I didn't want to change too much about the Flind's existing version of rage (Seething Fury / Fury), but I also wanted to lean more into her chaotic nature. For those reasons, her class is themed after Wild Magic Barbarian.</p>\n<p>When casting Seething Fury, the Flind will now also enrage for 10 turns. The amount of turns it takes for Fury to activate is determined by 6 minus her proficiency bonus, so it will take more turns to activate Fury in earlier levels.</p>\n<p>Once Fury is activated, a random Wild Magic Barbarian spell is cast. Fury still unlocks the flail and bow multi attacks as usual, but I did add a -5 attack roll penalty to them similar to Great Weapon Master to add some balance.</p>\n<p>I definitely needed to scale down damage and hit points since she's so strong, but she regains those stats gradually each level. By level 12, she'll have her original stats. The personal lore behind it is that her mind and body were weakened after the Dark Urge subdued her. Some abilities like Flail of Pain were changed so that their damage scales like cantrips.</p>\n<h3>Animations and VFX</h3>\n<p>This lady was missing animations for almost everything since she was never meant to be controlled by a player. I filled the gaps and she now has animations for all her actions, the Wild Magic random casts, and sneaking locomotion. This includes unarmed, holding the flail, and holding the bow. Needless to say, it was quite the journey.</p>\n<p>The VFX are partially themed after the Dark Urge's unique VFX (as seen in the thumbnail). The rest use either Wild Magic Barbarian VFX or the existing gnolls action VFX.</p>\n<p>I'm just now realizing that she kind of looks like a very ugly Scarlet Witch in the thumbnail. This wasn't intentional, but it kind of fits!</p>\n<hr>\n<h2>Spells and Passives</h2>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 1</h3>\n<ul>\n<li>Common Actions: Along with the usual Jump, Dash, Hide and Disengage, the Flind also receives the Help and Shove actions.</li>\n<li>Chaotic Bond: Adds the Dark Urge's CON modifier to movement speed, jump distance, and initiative.</li>\n<li>Magic Awareness (Wild Magic Barbarian Action)</li>\n<li>Death Saving Throws</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 2</h3>\n<ul>\n<li>Danger Sense (Barbarian Passive)</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 5</h3>\n<ul>\n<li>Extra Attack (Barbarian Passive)</li>\n<li>Ability scores begin to increase by 1 each level starting at this level.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 6</h3>\n<ul>\n<li>The Flind's flail and bow gain the magical property which allows bypassing non-magical resistance to damage.</li>\n<li>Bolstering Magic: Boon (Wild Magic Barbarian Action)</li>\n<li>Bolstering Magic: Level 1 and 2 (Wild Magic Barbarian Action)</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 7</h3>\n<ul>\n<li>Feral Instinct (Barbarian Passive)</li>\n<li>Exceptional Training (Evolved Passive)</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 8</h3>\n<ul>\n<li>Rampage (Racial): Restores half of the Flind's movement and bonus action after landing a killing blow once per turn.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 9</h3>\n<ul>\n<li>Brutal Critical (Barbarian Passive)</li>\n<li>Bolstering Magic: Level 3 (Wild Magic Barbarian Action)</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 10</h3>\n<ul>\n<li>Unstable Backlash (Wild Magic Barbarian Passive)</li>\n<li>The Flind's flail and bow gain a +1 enchantment bonus.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 11</h3>\n<ul>\n<li>Relentless Rage (Barbarian Passive)</li>\n<li>Soul Offering (Racial Necromancy Cantrip): Prevents the target from using reactions or bonus actions. Some act 1 Gnolls get this right away, but it's too OP early on.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 12</h3>\n<ul>\n<li>Ability scores and hit points match the ones from the original NPC.</li>\n</ul>\n<hr>\n<h2>13-20</h2>\n<p>Ability scores and hit points continue to increase.</p>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 13</h3>\n<ul>\n<li>Brutal Critical (2) (Barbarian passive): 2 damage die added to critical hits.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 15</h3>\n<ul>\n<li>Persistent Rage (Barbarian passive): Rage is no longer removed if you don't attack or get attacked.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 17</h3>\n<ul>\n<li>Brutal Critical (3) (Barbarian passive): 3 damage die added to critical hits.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 20</h3>\n<ul>\n<li>Primal Champion (Barbarian passive)</li>\n</ul>\n<h2>Extras</h2>\n<ul>\n<li>If you get BOOOAL's Blessing while the Flind is in your party, it will get it too.</li>\n</ul>\n<hr>\n<h2>FAQs</h2>\n<p><strong>1.</strong><em> \"Will this mod work with this other mod that also makes changes to the same summon?\"</em></p>\n<ul>\n<li>Probably not.</li>\n</ul>\n<p><strong>2.</strong> <em>\"Will this mod be released on console?\"</em></p>\n<ul>\n<li>Unless otherwise stated in the description, any mods I publish are always submitted for console approval.</li>\n</ul>\n<p><strong>3.</strong> <em>\"Will you be making an all-in-one version?\"</em></p>\n<ul>\n<li>Absolutely, but I want to finish adding all of the planned evolved mods first since it will take a decent amount of time to combine them all into one.</li>\n</ul>\n<p><strong>4.</strong> <em>\"When will you publish the all-in-one version?\"</em></p>\n<ul>\n<li>\n<div>\n<div>Shortly after all of the mods in the evolved series are approved for console.</div>\n</div>\n</li>\n</ul>\n<p><strong>5.</strong> <em>\"Can you create a <strong>[character]</strong> Evolved?\"</em></p>\n<ul>\n<li>Maybe. Even if I don't always reply to the suggestions, I do always read and consider them.</li>\n</ul>\n<p><strong>6.</strong> <em>\"Can you tell us what else you're working on?\"</em></p>\n<p><img src=\"https://i.postimg.cc/L8ZVg5Yd/withers-no.webp\" alt=\"No\" width=\"204\" height=\"192\"></p>\n<hr>\n<p>If you like this mod, try the rest of the <a href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">Evolved Series</a>!</p>\n<hr>\n<p><a title=\"Exaen @ Ko-Fi\" href=\"https://ko-fi.com/exaen\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.postimg.cc/zBPFJmjt/support-me-on-kofi.webp\" alt=\"Support Exaen on Ko-Fi\" width=\"198\" height=\"40\"></a></p>",
+    "date_added": 1761880240,
+    "date_updated": 1781194214,
+    "date_live": 1761952375,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/flind-evolved",
+    "submitted_by": {
+      "id": 34665057,
+      "name_id": "exaen",
+      "username": "Exaen",
+      "profile_url": "https://mod.io/u/exaen",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/a366/34665057/crop_100x100/100.png"
+    },
+    "modfile": {
+      "id": 7295124,
+      "mod_id": 5323362,
+      "version": "1.1.2.0",
+      "filename": "flindevolved_4de3b7a4-cdb7-68c-avol.zip",
+      "changelog": "fix: the flind now has animations for flying.\nfix: the flind's flail is now correctly named 'flail of dread skulls'.\nfix: multiattack for both melee and ranged is now correctly activated with frenzied fury instead of regular rage.\nfeat: the flind's bow now uses the goblin bow visual.",
+      "date_added": 1768889022,
+      "date_updated": 0,
+      "date_scanned": 1768889044,
+      "filesize": 10523026,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/968e/5323362/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/968e/5323362/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/968e/5323362/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/968e/5323362/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7295124
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7295124
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7295124
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7295124
+      }
+    ]
+  },
+  {
     "id": 5324547,
     "game_id": 6715,
     "name": "Be My Bhaalentine - Romances can be abducted",
@@ -141657,6 +141966,119 @@
     ]
   },
   {
+    "id": 5664221,
+    "game_id": 6715,
+    "name": "Nia' Heads Pack 1",
+    "name_id": "niaheadsp1",
+    "summary": "4 Head Presets. 3 BT1 and 1 BT2. -|| For Elves, Drows, Half Elves, Humans ||-",
+    "description": "<p style=\"text-align:center;\">4 Head Presets. 3 BT1 and 1 BT2.<br>-|| For Elves, Drows, Half Elves, Humans ||-</p>\n<p>I added one more to the original pack (Lara)</p>\n<p>Re-uploaded, and now I have everything backed up.</p>\n<p>(Waiting approval for consoles)</p>\n<p>I hope you like them!</p>\n<p> </p>\n<p>Many thanks to Padme4000 for the tutorials and tools.<br>and Jerinski too!</p>\n<p> </p>\n<p>In the images:<br>Hair: <a href=\"https://www.nexusmods.com/baldursgate3/mods/16198?tab=files\" target=\"_blank\" rel=\"noopener noreferrer\">Myky Hairstyles</a>, <a href=\"https://www.nexusmods.com/baldursgate3/mods/10542\" target=\"_blank\" rel=\"noopener noreferrer\">Jun's hair</a>, Maelle hair<br>Armor: PseudoKociara</p>",
+    "date_added": 1767715732,
+    "date_updated": 1781194169,
+    "date_live": 1767715732,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/niaheadsp1",
+    "submitted_by": {
+      "id": 35282271,
+      "name_id": "modiouser2098603",
+      "username": "Nia1004",
+      "profile_url": "https://mod.io/u/modiouser2098603",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3cc2/35282271/crop_100x100/baldursgate3screenshot20251231-.png"
+    },
+    "modfile": {
+      "id": 7240907,
+      "mod_id": 5664221,
+      "version": "1.0.0.2",
+      "filename": "niaheadsp1_65c2286e-21ba-708c-4wbx.zip",
+      "changelog": null,
+      "date_added": 1767715756,
+      "date_updated": 0,
+      "date_scanned": 1767715824,
+      "filesize": 40186200,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/b02f/5664221/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b02f/5664221/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b02f/5664221/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b02f/5664221/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7240907
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7240907
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7240907
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7240907
+      }
+    ]
+  },
+  {
     "id": 5682946,
     "game_id": 6715,
     "name": "Hallowleaf Epilogue Letters",
@@ -144000,6 +144422,109 @@
       {
         "platform": "ps5",
         "modfile_live": 7321404
+      }
+    ]
+  },
+  {
+    "id": 5737841,
+    "game_id": 6715,
+    "name": "Wyll You Sit With Me?",
+    "name_id": "ht-wyll-you-sit-with-me",
+    "summary": "Wyll reacts when you sit by him in camp. Waltz on over.",
+    "description": "<div><em><strong><span style=\"font-size:xx-large;color:#e69138;\">Wyll you sit with me?</span></strong></em></div>\n<div><span style=\"font-size:xx-large;\"><span style=\"font-size:medium;\">Waltz over to the Blade of Frontiers. He'll react when you sit with him.  🪑</span></span></div>\n<div> </div>\n<div><span style=\"font-size:x-large;color:#e69138;\"><strong>Mod features</strong></span><br><span style=\"font-size:medium;\">This mod places a stool in Wyll's camp spot and gives him over 50 reactions when your player character sits on it. His greetings depend on your relationship with him:</span><br>\n<ul>\n<li><span style=\"font-size:medium;\">Engaged</span></li>\n<li><span style=\"font-size:medium;\">Partnered</span></li>\n<li><span style=\"font-size:medium;\">Dating</span></li>\n<li>Platonic, Besties (80+) approval</li>\n<li><span style=\"font-size:medium;\">Platonic, High (40 to 79) approval</span></li>\n<li><span style=\"font-size:medium;\">Platonic, Neutral (-20 to 39) approval</span></li>\n<li><span style=\"font-size:medium;\">Platonic, Low (-40 to -29) approval</span></li>\n<li><span style=\"font-size:medium;\">Platonic, Extremely low approval </span></li>\n</ul>\n<p> </p>\n<p><span style=\"font-size:x-large;color:#e69138;\"><strong>Example lines</strong></span></p>\n<p><span style=\"font-size:medium;\"><strong>Engaged</strong></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Gods, you always could bring a smile to my face.</span></li>\n<li><span style=\"font-size:medium;\">I'm here for you, always.</span></li>\n<li><span style=\"font-size:medium;\">How could I ever refuse you?</span></li>\n<li><span style=\"font-size:medium;\">I love you. Don't ever forget that.</span></li>\n</ul>\n<p><br><span style=\"font-size:medium;\"><strong>Dating</strong></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Always a pleasure.</span></li>\n<li><span style=\"font-size:medium;\">I could use company.</span></li>\n<li><span style=\"font-size:medium;\">A delight, surely.</span></li>\n<li><span style=\"font-size:medium;\">Well, hello!</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><strong>High approval</strong></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Always good to talk, my friend.</span></li>\n<li><span style=\"font-size:medium;\">Let's chew the fat.</span></li>\n<li><span style=\"font-size:medium;\">So two halflings walk under a bar...</span></li>\n<li><span style=\"font-size:medium;\">Fine time for a chat.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><strong>Neutral</strong></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Well met.</span></li>\n<li><span style=\"font-size:medium;\">Hm.</span></li>\n<li><span style=\"font-size:medium;\">All right.</span></li>\n<li><span style=\"font-size:medium;\">A quick word.</span></li>\n</ul>\n<p><span style=\"font-size:medium;\"><br><strong>Low approval</strong></span></p>\n<ul>\n<li><span style=\"font-size:medium;\">Can't avoid 'em forever.</span></li>\n<li><span style=\"font-size:medium;\">I'm making this quick.</span></li>\n<li><span style=\"font-size:medium;\">Not my first choice.</span></li>\n<li><span style=\"font-size:medium;\">This better be good.</span></li>\n</ul>\n<p> </p>\n<p><em>Note: All lines are repurposed existing in-game content. This mod does not add any new voice files.</em></p>\n<p> </p>\n<p>⚔️⚔️⚔️</p>\n<p> </p>\n<p><span style=\"font-size:x-large;color:#e69138;\"><strong>Installation &amp; compatibility</strong></span><br><br><span style=\"font-size:medium;\">Install with mod manager. This mod can be installed mid-playthrough. <br><br><strong>May conflict </strong>with other mods that make changes to camps (specifically, those that edit/override Wyll's camp). </span></p>\n<p> </p>\n<p>⚔️⚔️⚔️</p>\n<p>Thank you to <a href=\"https://www.nexusmods.com/profile/koboldJuno/mods\">KoboldJuno</a>, <a href=\"https://www.nexusmods.com/profile/RevolutionScribe\" rel=\"nofollow\">RevolutionScribe</a>, Quiet Rage, and <a href=\"https://www.nexusmods.com/profile/TaraAncunin\">Tara Ancunín</a> for testing!</p>\n<p> </p>\n<p>If you'd like to support my modding shenanigans: <a href=\"https://ko-fi.com/hyperspacetowel\">Ko-Fi</a> | <a href=\"https://www.patreon.com/cw/HyperspaceTowel\">Patreon</a></p>\n</div>",
+    "date_added": 1769611551,
+    "date_updated": 1781193259,
+    "date_live": 1780151673,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ht-wyll-you-sit-with-me",
+    "submitted_by": {
+      "id": 38571961,
+      "name_id": "hyperspacetowel",
+      "username": "HyperspaceTowel",
+      "profile_url": "https://mod.io/u/hyperspacetowel",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5701/38571961/crop_100x100/hyperspacetowel.jpg"
+    },
+    "modfile": {
+      "id": 7696166,
+      "mod_id": 5737841,
+      "version": "1.0.0.20",
+      "filename": "ht_wyllyousitwithme_dbd8d236-c-79wb.zip",
+      "changelog": null,
+      "date_added": 1777722810,
+      "date_updated": 0,
+      "date_scanned": 1777722818,
+      "filesize": 1362479,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "wyllyousitwithme-thumb2.png",
+      "original": "https://image.modcdn.io/mods/cb9d/5737841/wyllyousitwithme-thumb2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/cb9d/5737841/crop_320x180/wyllyousitwithme-thumb2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/cb9d/5737841/crop_640x360/wyllyousitwithme-thumb2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/cb9d/5737841/crop_1280x720/wyllyousitwithme-thumb2.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Wyll",
+        "name_localized": "Wyll",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7696166
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7696166
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7696166
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7696166
       }
     ]
   },
@@ -146612,6 +147137,119 @@
     ]
   },
   {
+    "id": 5961439,
+    "game_id": 6715,
+    "name": "Moon Flower - New hair for Selunite Shadowheart",
+    "name_id": "sgt-moon-flower-new-hair-for-selunite-shadowheart",
+    "summary": "New custom hairstyle for Selunite Shadowheart in Act 3",
+    "description": "<p>🌑 That hairstyle is for Shart's Selunite path in Act 3. I'll make a variation for Dark Justiciar later ;)</p>\n<p>🌑 Hairstyles of this series will be added to CC soon!<br><br>🌑 Armour from pics - <a href=\"https://mod.io/g/baldursgate3/m/vestments-of-the-faithful\" target=\"_blank\" rel=\"noopener noreferrer\">Vestments Of The Faithful</a></p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\">Install only one hairstyle for Act 3</span></p>",
+    "date_added": 1775585027,
+    "date_updated": 1781193201,
+    "date_live": 1775586490,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/sgt-moon-flower-new-hair-for-selunite-shadowheart",
+    "submitted_by": {
+      "id": 55809654,
+      "name_id": "sweetgenerousthingsmods",
+      "username": "SweetGenerousThingsMods",
+      "profile_url": "https://mod.io/u/sweetgenerousthingsmods",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/a5cb/55809654/crop_100x100/sgt_avatar.jpg"
+    },
+    "modfile": {
+      "id": 7608569,
+      "mod_id": 5961439,
+      "version": "1.0.0.1",
+      "filename": "moonflower_3cfff108-bff9-4b6f-47rr.zip",
+      "changelog": null,
+      "date_added": 1775585044,
+      "date_updated": 0,
+      "date_scanned": 1775585056,
+      "filesize": 3740808,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "cover11.1.jpg",
+      "original": "https://image.modcdn.io/mods/9307/5961439/cover11.1.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9307/5961439/crop_320x180/cover11.1.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9307/5961439/crop_640x360/cover11.1.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9307/5961439/crop_1280x720/cover11.1.jpg"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7608569
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7608569
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7608569
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7608569
+      }
+    ]
+  },
+  {
     "id": 5966700,
     "game_id": 6715,
     "name": "NAERYS: Incendium",
@@ -147199,6 +147837,144 @@
     ]
   },
   {
+    "id": 5990151,
+    "game_id": 6715,
+    "name": "Aesir's Champion Set",
+    "name_id": "aesirs-champion-set",
+    "summary": "Armor and Weapon set of Aesir's Champions.",
+    "description": "<p>Armor/Camp Clothing and Weapon set of Aesir's Champions<br>fully dyeable<br>Supports BT1, Valkyrie and Pillar available for BT3</p>\n<p>Valkyrie Commissioned by Anonymous<br>Aesir Outfits Commissioned by Albion<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "date_added": 1776481774,
+    "date_updated": 1781194015,
+    "date_live": 1776482203,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aesirs-champion-set",
+    "submitted_by": {
+      "id": 35718117,
+      "name_id": "skirbie",
+      "username": "Skirbie",
+      "profile_url": "https://mod.io/u/skirbie",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
+    },
+    "modfile": {
+      "id": 7645046,
+      "mod_id": 5990151,
+      "version": "1.0.0.7",
+      "filename": "vhlarmrs_0baf3f86-c7fb-116d-bb-2evq.zip",
+      "changelog": null,
+      "date_added": 1776481795,
+      "date_updated": 0,
+      "date_scanned": 1776481963,
+      "filesize": 92091968,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/bf70/5990151/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/bf70/5990151/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/bf70/5990151/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/bf70/5990151/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7645046
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7645046
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7645046
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7645046
+      }
+    ]
+  },
+  {
     "id": 6009687,
     "game_id": 6715,
     "name": "Goblin Hunter Set",
@@ -147646,6 +148422,114 @@
     ]
   },
   {
+    "id": 6052878,
+    "game_id": 6715,
+    "name": "Disguise Self as... yourself",
+    "name_id": "disguise-self-alt",
+    "summary": "Adds an option to the Disguise Self spell and its variants that doesn't change appearance",
+    "description": "<p>Hide in plain sight with the masterful disguise they'll never expect - yourself.<br>I didn't spend all that time in character creation just to look like a generic NPC, and neither did you.<br>The new disguise option added will count as being shapeshifted, but not alter you character's appearance.</p>\n<h3>New disguise option included in:</h3>\n<ul>\n<li>Disguise Self</li>\n<li>Mask of the Shapeshifter</li>\n<li>Mask of Many Faces</li>\n<li>Adjust Seeming</li>\n</ul>",
+    "date_added": 1778544440,
+    "date_updated": 1781193500,
+    "date_live": 1779319527,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/disguise-self-alt",
+    "submitted_by": {
+      "id": 34686550,
+      "name_id": "xiphiasrex",
+      "username": "XiphiasRex",
+      "profile_url": "https://mod.io/u/xiphiasrex",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3bbd/34686550/crop_100x100/hydrogen_symbol.1.png"
+    },
+    "modfile": {
+      "id": 7728864,
+      "mod_id": 6052878,
+      "version": "1.0.0.3",
+      "filename": "disguise-self-alt_cdb1d575-cff-c3js.zip",
+      "changelog": "initial version",
+      "date_added": 1778544445,
+      "date_updated": 0,
+      "date_scanned": 1778544455,
+      "filesize": 226009,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/4533/6052878/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4533/6052878/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4533/6052878/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4533/6052878/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7728864
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7728864
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7728864
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7728864
+      }
+    ]
+  },
+  {
     "id": 6053387,
     "game_id": 6715,
     "name": "Foxey Lady - Head presets",
@@ -147780,6 +148664,355 @@
       {
         "platform": "ps5",
         "modfile_live": 7729787
+      }
+    ]
+  },
+  {
+    "id": 6072235,
+    "game_id": 6715,
+    "name": "Tailless_Tieflings",
+    "name_id": "tailless-tieflings",
+    "summary": "Removes tails from tieflings created by player (No tails, no tail stubs)",
+    "description": "<p>A proper port of <a href=\"https://www.nexusmods.com/baldursgate3/mods/11761\">Tail-less Tieflings</a> mod from nexus. Now bodies should be properly visible. Optional tails will be in a \"tail\" section of character creator</p>\n<p>Mod removes tails from tieflings created by player, also affects the dream guardian and should also work with \"<a href=\"https://mod.io/g/baldursgate3/m/legacyofdeath#description\">LegacyOfDeath</a>\", and<span style=\"font-size:medium;\"> on non-mod.io mods like <a href=\"https://www.nexusmods.com/baldursgate3/mods/2418\" rel=\"nofollow\">[Astralities' Tiefling Compendium]</a><strong>, </strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/7030\" rel=\"nofollow\">[Legacy of Death - True Dark Urge Experience]</a><strong>, </strong></span><a href=\"https://www.nexusmods.com/baldursgate3/mods/14885\" rel=\"nofollow\"><span style=\"font-size:medium;\">[Mordenkainen's Tome of Tieflings]</span></a></p>\n<p> </p>",
+    "date_added": 1779272115,
+    "date_updated": 1781193426,
+    "date_live": 1779272115,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/tailless-tieflings",
+    "submitted_by": {
+      "id": 32939365,
+      "name_id": "fluffyspid3r",
+      "username": "FluffySpid3r",
+      "profile_url": "https://mod.io/u/fluffyspid3r",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 7756477,
+      "mod_id": 6072235,
+      "version": "3.0.0.5",
+      "filename": "tailless_tieflings_d2c84b89-b3-dejl.zip",
+      "changelog": null,
+      "date_added": 1779273269,
+      "date_updated": 0,
+      "date_scanned": 1779273278,
+      "filesize": 3304992,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/0444/6072235/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0444/6072235/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0444/6072235/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0444/6072235/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7756477
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7756477
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7756477
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7756477
+      }
+    ]
+  },
+  {
+    "id": 6082626,
+    "game_id": 6715,
+    "name": "Withers_Yassified",
+    "name_id": "withers-yassified",
+    "summary": "Makes Withers into a hot human being. Compatible with Withers big naturals!",
+    "description": "",
+    "date_added": 1779626996,
+    "date_updated": 1781193555,
+    "date_live": 1779626996,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/withers-yassified",
+    "submitted_by": {
+      "id": 47027835,
+      "name_id": "elledwyn",
+      "username": "Elledwyn",
+      "profile_url": "https://mod.io/u/elledwyn",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/726b/47027835/crop_100x100/10981a3b4dcb890764553f8e72a6f73.png"
+    },
+    "modfile": {
+      "id": 7770989,
+      "mod_id": 6082626,
+      "version": "1.0.0.12",
+      "filename": "lady_withers_3b1cb387-4f0a-f84-bs0m.zip",
+      "changelog": null,
+      "date_added": 1779627000,
+      "date_updated": 0,
+      "date_scanned": 1779627015,
+      "filesize": 7808283,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/ad90/6082626/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ad90/6082626/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ad90/6082626/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ad90/6082626/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7770989
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7770989
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7770989
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7770989
+      }
+    ]
+  },
+  {
+    "id": 6095519,
+    "game_id": 6715,
+    "name": "ZYX - FleshForge - All in One Subrace Patch",
+    "name_id": "zyx-fleshforge-all-in-one-subrace-patch",
+    "summary": "Compatability patch between multiple modded subraces and FleshForge",
+    "description": "<h2><strong>Want more?</strong></h2>\n<p><strong>Check out my other dragonborn mods <a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></strong><br><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> <br>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></p>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/T1aYNLdv9-8?si=_7mInP30OWdNvlbR\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2>FleshForge - All in One Subrace Patch</h2>\n<p>All in One<strong> Compatability patch</strong> between FleshForge and multiple subrace mods<br><strong>You could use if for one subrace mod or all of them at once (if they are compatable between themself)</strong><br><br><strong><a href=\"https://mod.io/g/baldursgate3/m/dragonbornsubracesgemdragonborns#description\">Dragonborn Subraces: Gem Dragonborns</a> (Version: 1.0.0.2)</strong> by<strong> </strong><span style=\"font-family:Arial;\"><a href=\"https://mod.io/g/baldursgate3/u/metadile\">metadile_</a> </span><strong><br><a href=\"https://mod.io/g/baldursgate3/m/platinum-dragonborn#description\">A Platinum Dragonborn </a>(Version: 1.0.1.6) </strong>by <span style=\"font-family:Arial;\"><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\">ChizFreak</a> </span><strong><br><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/2116\">Diamon's Mystic Manual - Dragonborn Subrace Compendium</a></span> </strong>(<strong>Version: 2.1)</strong> by <a href=\"https://www.nexusmods.com/baldursgate3/users/19603604\">Backburner26</a> <strong><br><span style=\"font-family:Arial;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/12177?tab=files\"><span style=\"font-size:medium;\">Fizbans Treasury of Dragons - Dragonborn - Patch7Ready</span></a></span></strong> <strong>(Version: 0.0.0.4)</strong> by <a href=\"https://www.nexusmods.com/baldursgate3/users/5616499\">KiderionLykon</a><strong><br><span style=\"font-family:Arial;\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/12064?tab=files\">Dragonborn Enhanced - Patch 8 </a></span></span></strong>(<strong>Version: 1.6.1)</strong> by <a href=\"https://www.nexusmods.com/baldursgate3/users/12649990\">NateSheltry</a><strong><br><br><br><span style=\"font-size:medium;\">Same file for Plantigrade and Digitigrade versions</span><br><br><a href=\"https://mod.io/g/baldursgate3/m/clawstep-dragonborn-body-selector#description\">FleshForge - Body Selector - Digitigrade</a><br><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-dragonborn-cc-body-selector-vanilla#description\">FleshForge - Body Selector - Plantigrade</a></strong></p>\n<hr>\n<h2>This All in One includes all old separate subrace patches inside<br>You need none of this files if you have \"FleshForge - All in One Subrace Patch\"</h2>\n<p><strong><span style=\"font-size:large;\"><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-platinum-dragonborn-patch#description\">FleshForge - Platinum Dragonborn - Patch</a><br></span></strong><span style=\"font-size:large;\"><span style=\"font-size:small;\">Compatability patch to ChizFreak's</span></span><strong><span style=\"font-size:large;\"><span style=\"font-size:small;\"> </span></span><span style=\"font-size:large;\"><span style=\"font-size:small;\"><a href=\"https://mod.io/g/baldursgate3/m/platinum-dragonborn#description\" rel=\"nofollow\">A Platinum Dragonborn </a><br></span></span></strong><strong><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-dgb-subraces-gem-dgb-patch#description\"><span style=\"font-size:large;\">FleshForge - DGB Subraces - Gem Dragonborn - Patch</span></a><br></strong>Compatability patch to metadile's <a href=\"https://mod.io/g/baldursgate3/m/dragonbornsubracesgemdragonborns#description\"><strong>Dragonborn Subraces: Gem Dragonborns</strong></a><br><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\"><strong>FleshForge - Diamon's Mystic Manual - Patch</strong></a> </span><span style=\"font-size:small;\">in Optional files (Nexus)<br>Compatability patch to<strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/2116\">Diamon's Mystic Manual - Dragonborn Subrace Compendium</a><br></strong></span><strong><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\">FleshForge - Fizbans Treasury of Dragons - Patch</a></span> </strong><span style=\"font-size:small;\">in Optional files (Nexus)<br></span>Compatability patch to KiderionLykon's (Original autor is 3XC4L1B3R)<strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/12177?tab=files\">Fizbans Treasury of Dragons - Dragonborn - Patch7Ready</a></strong><strong><br><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\">FleshForge - Dragonborn Enhanced - Patch</a></span></strong> <span style=\"font-size:small;\">in Optional files (Nexus)</span><strong><span style=\"font-size:small;\"><br></span></strong>Compatability patch to NateSheltry's (Original autor is 3XC4L1B3R)<strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/12064?tab=files\">Dragonborn Enhanced - Patch 8</a> </strong></p>\n<hr>\n<p><strong><span style=\"font-size:x-large;\">Dragonborn Subrace Modder, Race Modder</span></strong><br><span style=\"font-size:medium;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1589\">HERE</a></strong> tutorial about patching custom subraces to Fleshforge</span></p>\n<p><strong><span style=\"font-size:x-large;\">Modder-armorist/tailor,</span></strong><br><span style=\"font-size:medium;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1402\">HERE</a></strong> <strong>files, addon and tutorial</strong> to help you resize your armor to Clawstep body</span></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<hr>\n<h2><strong><span style=\"font-size:x-large;\">Thanks</span></strong></h2>\n<p><strong><span style=\"font-size:large;\">For permissions<br></span></strong><span style=\"font-family:Arial;\"><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\"><strong>ChizFreak</strong></a> for permission to patch <a href=\"https://www.nexusmods.com/baldursgate3/mods/18526\">A Platinum Dragonborn</a> and make tutorial based on it<br><strong><a href=\"https://mod.io/g/baldursgate3/u/metadile\">metadile_</a> </strong>-  </span><a href=\"https://mod.io/g/baldursgate3/m/dragonbornsubracesgemdragonborns#description\"><span style=\"font-family:Arial;\">Dragonborn Subraces: Gem Dragonborns</span></a><br><a href=\"https://www.nexusmods.com/baldursgate3/users/19603604\"><strong>Backburner26</strong></a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/2116\">Diamon's Mystic Manual - Dragonborn Subrace Compendium</a> and for fixes for patches to their's and FizbansTD<br><a href=\"https://www.nexusmods.com/baldursgate3/users/5616499\"><strong>KiderionLykon</strong></a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/12177?tab=files\">Fizbans Treasury of Dragons - Dragonborn - Patch7Ready<br></a><a href=\"https://www.nexusmods.com/baldursgate3/users/12649990\"><strong>NateSheltry</strong></a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/12064?tab=files\">Dragonborn Enhanced - Patch 8</a></p>\n<p><strong><span style=\"font-size:large;\">Wall of Heroes<br></span></strong>With every name added, the Wall of Heroes grows stronger<br>Today, we honor  <strong><a href=\"https://www.patreon.com/profile/creators?u=101640749\">Gold</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=171315578\">KoboldicOddities</a>,</strong> <strong><a href=\"https://www.patreon.com/user?u=61745837\">DarthRevan</a>,</strong>  <strong><a href=\"https://www.patreon.com/user?u=60000792\">N00b</a>,</strong> <strong><a href=\"https://www.patreon.com/user?u=127424387\">Oliver</a>,  <a href=\"https://www.patreon.com/user?u=29561792\">SmugFly</a>,  <a href=\"https://www.patreon.com/user?u=194119922\">xicara</a>, <a href=\"https://www.patreon.com/user?u=829975\">ash</a></strong><strong> </strong>whose generosity fuels these creations<br>Your support is seen, valued, and deeply appreciated!<br><br><strong><span style=\"font-size:large;\">Echoing Acknowledgement<br></span>to <a href=\"https://www.patreon.com/user?u=91343650\">Wamp</a>, <a href=\"https://www.patreon.com/profile/creators?u=43106925\">Freedom-In-Moonlight Lunaria</a>,  <a href=\"https://www.patreon.com/user?u=22487138\">Pinkie Pain</a>,  <a href=\"https://www.patreon.com/user?u=23485532\">Merven</a>, <a href=\"https://www.patreon.com/user?u=94228860\">Director Isard</a>, <a href=\"https://www.patreon.com/user?u=191148959\">Erzebet</a>, <a href=\"https://www.patreon.com/user?u=198129509\">SkullBaster</a>, <a href=\"https://www.patreon.com/user?u=206105919\">MaxStrengthWizard</a>,  <a href=\"https://www.patreon.com/user?u=102803983\">Wolfman</a>, <a href=\"https://www.patreon.com/user?u=32341708\">Vincent Ottevaere</a>, <a href=\"https://www.patreon.com/user?u=17489523\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"HeadingText-module__djfC6W__root HeadingTextBundle-module__f3oaWa__shared HeadingTextBundle-module__f3oaWa__weightMedium HeadingTextBundle-module__f3oaWa__sizeSm Color-module__9aUt0a__colorContentRegularDefault TextLayoutBundle-module__IsQm8a__shared TextLayoutBundle-module__IsQm8a__alignLeft\">DeityHorus</span></a> you are tentacular!</strong></p>\n<p><a href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
+    "date_added": 1780061893,
+    "date_updated": 1781193319,
+    "date_live": 1780063027,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/zyx-fleshforge-all-in-one-subrace-patch",
+    "submitted_by": {
+      "id": 33703347,
+      "name_id": "akelka",
+      "username": "AkELkA",
+      "profile_url": "https://mod.io/u/akelka",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
+    },
+    "modfile": {
+      "id": 7789257,
+      "mod_id": 6095519,
+      "version": "1.0.0.1",
+      "filename": "fleshforge_subrace_aio_patch_c-95k4.zip",
+      "changelog": null,
+      "date_added": 1780061903,
+      "date_updated": 0,
+      "date_scanned": 1780062279,
+      "filesize": 4519686,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/df18/6095519/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/df18/6095519/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/df18/6095519/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/df18/6095519/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Piercings",
+        "name_localized": "Piercings",
+        "date_added": 0
+      },
+      {
+        "name": "Scars",
+        "name_localized": "Scars",
+        "date_added": 0
+      },
+      {
+        "name": "Tattoos",
+        "name_localized": "Tattoos",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7789257
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7789257
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7789257
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7789257
       }
     ]
   }
