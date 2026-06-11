@@ -86005,7 +86005,7 @@
     "summary": "An all new class based on the various servants of the Raven Queen. Featuring 3 unique subclasses and many custom spells &amp; abilities!",
     "description": "<p>     Not quite a god, not quite a mortal, the Raven Queen toils in her Palace of Memories in the Shadowfell. With her memories shattered, she sends out her Gloom Weavers to collect trinkets of sentimental value, in the hopes that bolstering her collection will hoard enough memory magic to regain that which she has lost. Should they happen upon injustice occurring along the way, they must swiftly correct it in Her name.</p>\n<p>     The powers she grants to her Gloom Weavers often appear as twisted versions of abilities seen on a variety of classes of their distantly related elven kin, perhaps because she distantly recalls techniques used by her people long ago, the details now warped by time and tragedy…</p>\n<p>After thoroughly enjoying my time with HeWhoWas in Act 2, I longed to be able to play as a Gloom Weaver myself, so I delved into the lore and planned to recreate the Raven Queen patron Warlock subclass. As I learned more about the Raven Queen, her servants, the Shadar-Kai, and how the toolkit worked, however, I quickly felt my imagination exploding. The following is my attempt to amalgamate and unify concepts from the scattered lore into a playable class.</p>\n<p>If you played this class and liked it, please consider filling out my <a href=\"https://www.surveymonkey.com/r/7XQBQLJ\">Gloom Weaver Balancing Survey</a> to help me better tune my class for balancing around the existing classes. Survey Monkey estimates a 3 minute completion time, and your feedback will be very helpful!</p>\n<p><strong>PATCH 8 TESTED UP TO THE GROVE, REQUIRES UPDATE FOR IMPROVED UI (ImpUI) DEPENDENCY</strong></p>\n<p>Version 2.0 is here! Levels 13-20 are now fleshed out for those that use the Levels Unlocked Mod, progressions have been reworked, and there are several new spells and abilities to better fulfill the Raven Queen's will.</p>\n<p>Everything has been toolkit tested, but I have not yet been able to do a playthrough with the class to ensure there aren't any weird interactions or anything. As always, please feel free to shout out any bugs you find!</p>\n<p><br><strong>Full Progressions Spreadsheet</strong> <a href=\"https://docs.google.com/spreadsheets/d/1LOMkThIQeMklDweDCANo2J7kK4srBmuoOJkFTldfoIU/edit?usp=sharing\">HERE</a><br> <br><strong>GLOOM WEAVER BASE CLASS FEATURES:</strong><br><strong>Proficiency:</strong> Light Armor, Daggers, Quarterstaffs, Hand Crossbows, Simple Weapons<br><strong>Spellcasting Modifier: </strong>Charisma<br><br>2 Gloom Weaver Spell Slots per <strong>spell </strong>level<br><br><strong>Raven Queen’s Chosen (Subclass):</strong><br>The very will of her majesty, the Raven Queen, personified. They are blessed with raven familiars that support them on the battlefield and evolve with leveling.<br><br><strong>Shadow Dancer (Subclass):</strong><br>Shadow Dancers are akin to a living darkness. Every dim corner and darkened alcove is a place from which they may strike out with a spell or with their spiked chain.<br><br><strong>Soul Monger (Subclass):</strong><br>Soul Mongers crave the vitality of others, draining the vigor of anyone unfortunate enough to be in their presence and using the stolen souls they hoard to bolster their own strength.<br><br>Proficiency: Medium Armor, Shields, Martial Weapons <br> <br><strong>GRIMOIRE OF THE RAVEN QUEEN:</strong><br><strong>Cantrips</strong></p>\n<p><strong>Raven's Whip:</strong> Lashes out and pulls the creature closer to you.<br><br><strong>Shadow Illusion:</strong> Create an illusory shadow that compels nearby creatures to investigate.<br><br><strong>Level 1 Enchantment</strong><br><strong>Compulsion: </strong>Exude an aura of fear, possibly causing foe(s) to flee in terror.</p>\n<p><strong>Level 1 Enchantment</strong><br><strong>Mental Missile: </strong>Fire psionic missiles that always hit their target. Does not affect constructs or undead.<br><br><strong>Level 2 Abjuration</strong><br><strong>Umbral Armour:</strong> Envelop a target in shadows, increasing Armour Class by 2, and granting a +3 bonus to Stealth Checks.<br><br><strong>Level 2 Enchantment</strong><br><strong>Overwrite Memories:</strong> Rewrite an enemy's memories, causing them to believe they are your ally. They take psychic damage immediately, and damage per turn.<br><br><strong>Level 3 Conjuration</strong><br><strong>Thirsting Void:</strong> Creatures within this black sphere are Blinded and take damage at the end of their turn and the start of their turn.</p>\n<p><strong>Level 3 Conjuration</strong><br><strong>Glyph of Decaying Darkness:</strong> Place a glyph on the ground that causes necrotic damage and a darkness cloud when triggered.<br><br><strong>Level 4 Necromancy</strong><br><strong>Beckoning Darkness:</strong> Curse a creature to be haunted by darkness. It takes damage if it enters or starts its turn in a Lightly or Heavily Obscured area.</p>\n<p><strong>Level 4 Necromancy</strong><br><strong>Withering Touch:</strong> Touch a nearby creature and pour your fetid magic through its very soul.<br><br><strong>Level 5 Evocation</strong><br><strong>Desiccating Pulse:</strong> Emit a psionic shockwave that damages nearby creatures and possibly knocks them Prone.</p>\n<p><strong>Level 5 Necromancy</strong><br><strong>Enervation:</strong> A bolt of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. Deal a additional damage each turn by activating the link.<br><br><strong>Level 5 Conjuration</strong><br><strong>Grasping Shadow: </strong>Summon the blight of the Shadowfell, capable of grappling, pulling, whipping, and burrowing. (with something even more fun if upcast to level 6)<br><br><strong>Level 6 Enchantment</strong><br><strong>Psychic Crush:</strong> Overload the mind of one creature you can see within range, filling its psyche with discordant emotions. On a failed save, the target takes damage and is Dazed for 5 turns.</p>\n<p><strong>Level 6 Evocation</strong><br><strong>Gloombeam: </strong>Call down a beam of gloom from the Shadowfell that damages any creature that enters the beam or starts its turn within. You can use an action to move the beam.</p>\n<p><strong>Level 7 Necromancy</strong><br><strong>Finger of Death:</strong> Point at a foe to cause searing pain. If it does not kill them, they will wish they were dead.</p>\n<p><strong>Level 7 Necromancy</strong><br><strong>Witchfire Ball:</strong> Shoot a cursed flame from your fingers that explodes upon contact, unleashing a necrotic energy and torching everything in the vicinity. Upon failing a save, the target(s) are affected by Faerie Fire.</p>\n<p><strong>Level 8 Necromancy</strong><br><strong>Dark Star:</strong> Create a sphere centered on a point you choose within range. The area within this sphere is filled with magical darkness and crushing gravitational force.</p>\n<p><strong>Level 8 Necromancy</strong><br><strong>Psychic Scream:</strong> You unleash the power of your mind to blast the intellect of creatures that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected. upon failing the save, target(s) are Stunned for 3 turns.<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/shadarkai-race\" target=\"_blank\" rel=\"noopener noreferrer\">Shadar-Kai Race mod</a> now live! It is amalgamation of concepts and abilities from various versions of the lore just like the Gloom Weaver class.<br> <br>If you enjoy this type of content, and want to see more like it, feel free to <a href=\"https://buymeacoffee.com/highly.curious\">buy me a coffee</a> <br><br><strong>Credits</strong></p>\n<ul>\n<li>Absolutely amazing icons created by my partner, <a href=\"https://www.tumblr.com/arguableyew\">@ArguableYew</a></li>\n</ul>\n<p>Go check her out on tumblr and encourage her to post more of her art!<br> </p>\n<ul>\n<li><a href=\"https://bg3.norbyte.dev/\">BG3 Search Engine</a> by <a href=\"https://github.com/norbyte\">Norbyte</a></li>\n</ul>\n<p>The single most helpful thing on my modding journey so far. No joke, I could not have completed this project nearly as fast, or possibly at all without this tool. <br> </p>\n<ul>\n<li><a href=\"https://www.youtube.com/@ohfor.fuksake\">Ohforfukssake tutorials</a> </li>\n</ul>\n<p>Thank you so much for paving the way with your toolkit tutorial series. So many of the concepts that just weren’t clicking for me when I was reading them from the guides fell into place when I watched them being done. I also appreciate that you leave the bits in where you’re figuring stuff out and showing your process for where to look for things. It really helps to make the learning process less intimidating. <br> </p>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/u/grumpywashbear/r\">GrumpyWashbear guides on Mods.io </a></li>\n</ul>\n<p>Great text based mod guides covering just about everything you need to get started with modding!<br> </p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/DnD/comments/k4mjjx/concerning_multiverse_cosmology_and_the_raven/\">sempermortis</a></li>\n</ul>\n<p>Nice Reddit post breaking down the Raven Queen lore between 4e and 5e that really got my brain juices flowin for the inspiration of the class<br> </p>\n<ul>\n<li>Mordenkainen Presents: Monsters of the Multiverse</li>\n</ul>\n<p>Book - Jeremy Crawford, Adam Lee, Mike Mearls, Christopher Perkins, Ben Petrisor, Sean K Reynolds, Robert J. Schwalb, Matt Sernett, Chris Sims, Nolan Whale, Steve Winter<br> </p>\n<ul>\n<li>And finally, a shout out to all of the lovely folks in the Larian discord who are happy to help, and for those that came before me already having the same issues I was having and asking for help. (seriously just search variations on the question you’re trying to ask or key words from it and you’ll likely find someone in one of the modding channels has already answered the question)</li>\n</ul>",
     "date_added": 1736135263,
-    "date_updated": 1775142400,
+    "date_updated": 1781215952,
     "date_live": 1736214441,
     "visible": 1,
     "status": 1,
@@ -86019,15 +86019,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/968b/35981158/crop_100x100/gloomweavericon.png"
     },
     "modfile": {
-      "id": 7457746,
+      "id": 7838425,
       "mod_id": 4623988,
-      "version": "2.0.0.26",
-      "filename": "class_gloomweaver_d5848523-8cc-6uie.zip",
-      "changelog": "Complete rework of class - see description for details\nNew spells &amp; abilities\nLevels 13-20 fleshed out\nUI fixes\nVarious Bug Fixes",
-      "date_added": 1772477965,
+      "version": "2.0.0.29",
+      "filename": "class_gloomweaver_d5848523-8cc-0yv7.zip",
+      "changelog": "Bug fix for Shadow Dancer ability: Ravenous Strike &amp; corresponding status Agonizing Dark, which caused a combat loop when killing an enemy with melee while this ability is active.",
+      "date_added": 1781215797,
       "date_updated": 0,
-      "date_scanned": 1772478029,
-      "filesize": 33546169,
+      "date_scanned": 1781215861,
+      "filesize": 33546189,
       "platforms": [
         {
           "platform": "windows",
@@ -86035,15 +86035,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -86118,10 +86118,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7457746
-      },
-      {
         "platform": "mac",
         "modfile_live": 7457746
       },
@@ -86132,6 +86128,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7457746
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7838425
       }
     ]
   },
