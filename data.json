@@ -89726,6 +89726,94 @@
     ]
   },
   {
+    "id": 4678500,
+    "game_id": 6715,
+    "name": "Whispering Blood - Dark Urge Roleplay Class",
+    "name_id": "whispering-blood-dark-urge-roleplay-class",
+    "summary": "A class combining qualities of both the rouge and warlock classes including small library of new spells.",
+    "description": "<p><span style=\"font-size:large;\">New Class: Whispering Blood</span><br>Use bonuses against bleeding enemies to become a dangerous martial fighter, drawing forth your enemies blood with new cantrips and applying your limited spell slots to control the battle field.<br><br>Vehement Whispers Explination:<br>When your rage ends during combat you receive a status Vehement Whispers. Vehement Whispers forces you to make a wisdom saving throw or contract a modified version of madness for 4 turns where your character will attempt to hit anyone near by with an attack titled Lash Out, on a successful hit the madness ends early. <br><br>Vehement Whispers has 3 stages increasing one stage for each time your rage ends during combat. Starting at a DC of 4 it increases to 8 and caps at 12. Calm emotions will remove Vehement Whispers and reset its progression without blocking your rage but raging will remove the calm emotions status.<br><br>Don't worry about your character turning around and annihilating your team they have all action resources locked and can only use lash out once per turn consuming a hidden action resource. Please make a bug report if your character uses any attack other than Lash Out while maddened from Vehement Whispers or if you have Vehement Whispers outside of combat.<br><br>Favor replenishes on long rest and can also be replenished through killing a branded target or using Execute The Weak. You receive 1 Favor at level 2 then an extra one every feat for a total of 4 at level 12. <br><br>At level 12 you will receive a version of Power Word Kill that can be recast with Favor once per long rest.</p>\n<p>Side note for debugging; The passive Agonizing Blast and the effect for the drider sanctuary explosion have been overwritten by this mod.<br><br>The class includes a rogues skill selections on character creation and uses warlock spell lists as well as modified warlock progression without a pact boon selection. It is also suggested to use this mod in tandem with with Blood Right Gifts found on Mod.Io [https://mod.io/g/baldursgate3/m/bloodright-dark-urge-features]</p>",
+    "date_added": 1737834205,
+    "date_updated": 1781252686,
+    "date_live": 1737834205,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/whispering-blood-dark-urge-roleplay-class",
+    "submitted_by": {
+      "id": 42311565,
+      "name_id": "modiouser4614586",
+      "username": "Alradium",
+      "profile_url": "https://mod.io/u/modiouser4614586",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6575954,
+      "mod_id": 4678500,
+      "version": "2.0.3.33",
+      "filename": "darkurgeclassmod_58dcf8d9-24d3-ek49.zip",
+      "changelog": null,
+      "date_added": 1752697632,
+      "date_updated": 0,
+      "date_scanned": 1752697642,
+      "filesize": 1855503,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.png",
+      "original": "https://image.modcdn.io/mods/0fdf/4678500/thumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0fdf/4678500/crop_320x180/thumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0fdf/4678500/crop_640x360/thumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0fdf/4678500/crop_1280x720/thumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6575954
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6575954
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6575954
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6575954
+      }
+    ]
+  },
+  {
     "id": 4678933,
     "game_id": 6715,
     "name": "2024 Spell Updates",
@@ -125917,6 +126005,11 @@
         "date_added": 0
       },
       {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
         "name": "Armor",
         "name_localized": "Armor",
         "date_added": 0
@@ -148118,6 +148211,159 @@
     ]
   },
   {
+    "id": 6018126,
+    "game_id": 6715,
+    "name": "Crimson Hair Catalog Part 2",
+    "name_id": "sgt-haircatalogpart2",
+    "summary": "13 new hairstyles for all",
+    "description": "<p>❣️ A new part of my Hair Catalog, the first one is <a href=\"https://mod.io/g/baldursgate3/m/crimson-hair-catalog\">here</a></p>\n<p>❣️ These hairstyles are autosnapping: for all bodytypes and races — but look much better on Bodytype 1 &amp; Bodytype 2 of normies (elves/drow, half-elves, humans, tieflings, giths)</p>\n<p>❣️ With physics</p>\n<p>❣️ Heads used on pics: <a href=\"https://mod.io/g/baldursgate3/m/sgt-sassy-face-all-in-one\">Sassy face</a>, <a href=\"https://mod.io/g/baldursgate3/m/sgt-connor-head1\">Connor</a>, <a href=\"https://mod.io/g/baldursgate3/m/sgt-darling-face3\">Darling face</a></p>\n<p> </p>",
+    "date_added": 1777291887,
+    "date_updated": 1781252344,
+    "date_live": 1777293634,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/sgt-haircatalogpart2",
+    "submitted_by": {
+      "id": 55809654,
+      "name_id": "sweetgenerousthingsmods",
+      "username": "SweetGenerousThingsMods",
+      "profile_url": "https://mod.io/u/sweetgenerousthingsmods",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/a5cb/55809654/crop_100x100/sgt_avatar.jpg"
+    },
+    "modfile": {
+      "id": 7679863,
+      "mod_id": 6018126,
+      "version": "1.0.0.1",
+      "filename": "haircatalogvol2_c15d21cb-93b6-0ym6.zip",
+      "changelog": null,
+      "date_added": 1777291973,
+      "date_updated": 0,
+      "date_scanned": 1777292041,
+      "filesize": 35372255,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/499e/6018126/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/499e/6018126/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/499e/6018126/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/499e/6018126/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7679863
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7679863
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7679863
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7679863
+      }
+    ]
+  },
+  {
     "id": 6035533,
     "game_id": 6715,
     "name": "Heartstrings - A Musical Bow for All",
@@ -148885,134 +149131,6 @@
       {
         "platform": "ps5",
         "modfile_live": 7770989
-      }
-    ]
-  },
-  {
-    "id": 6095519,
-    "game_id": 6715,
-    "name": "ZYX - FleshForge - All in One Subrace Patch",
-    "name_id": "zyx-fleshforge-all-in-one-subrace-patch",
-    "summary": "Compatability patch between multiple modded subraces and FleshForge",
-    "description": "<h2><strong>Want more?</strong></h2>\n<p><strong>Check out my other dragonborn mods <a style=\"color:#e1b894;\" href=\"https://next.nexusmods.com/profile/AkElka/mods?sortBy=downloads\" target=\"_blank\" rel=\"noopener noreferrer\">on Nexus </a>and <a href=\"https://mod.io/u/akelka/\">ModIO</a></strong><br><strong>Mod progress video/trailers on <a href=\"https://www.youtube.com/@AkELkA_dds\">YouTube</a> <br>Take a peek at the  <a href=\"https://www.patreon.com/posts/mods-queue-119843077\">Mods queue</a> and share your ideas on the <a href=\"https://www.patreon.com/posts/120844669\">Chaos Forge</a></strong></p>\n<p><a href=\"https://www.youtube.com/@AkELkA_dds\"><img src=\"https://i.imgur.com/S05xq74.png\" alt=\"\" width=\"87\" height=\"60\"></a>   <a href=\"https://www.patreon.com/c/AkELkA\"><img src=\"https://i.imgur.com/IrtsLa0.png\" alt=\"\" width=\"242\" height=\"60\"></a></p>\n<p><iframe src=\"https://www.youtube.com/embed/T1aYNLdv9-8?si=_7mInP30OWdNvlbR\" width=\"560\" height=\"314\"></iframe></p>\n<hr>\n<h2>FleshForge - All in One Subrace Patch</h2>\n<p>All in One<strong> Compatability patch</strong> between FleshForge and multiple subrace mods<br><strong>You could use if for one subrace mod or all of them at once (if they are compatable between themself)</strong><br><br><strong><a href=\"https://mod.io/g/baldursgate3/m/dragonbornsubracesgemdragonborns#description\">Dragonborn Subraces: Gem Dragonborns</a> (Version: 1.0.0.2)</strong> by<strong> </strong><span style=\"font-family:Arial;\"><a href=\"https://mod.io/g/baldursgate3/u/metadile\">metadile_</a> </span><strong><br><a href=\"https://mod.io/g/baldursgate3/m/platinum-dragonborn#description\">A Platinum Dragonborn </a>(Version: 1.0.1.6) </strong>by <span style=\"font-family:Arial;\"><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\">ChizFreak</a> </span><strong><br><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/2116\">Diamon's Mystic Manual - Dragonborn Subrace Compendium</a></span> </strong>(<strong>Version: 2.1)</strong> by <a href=\"https://www.nexusmods.com/baldursgate3/users/19603604\">Backburner26</a> <strong><br><span style=\"font-family:Arial;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/12177?tab=files\"><span style=\"font-size:medium;\">Fizbans Treasury of Dragons - Dragonborn - Patch7Ready</span></a></span></strong> <strong>(Version: 0.0.0.4)</strong> by <a href=\"https://www.nexusmods.com/baldursgate3/users/5616499\">KiderionLykon</a><strong><br><span style=\"font-family:Arial;\"><span style=\"font-size:medium;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/12064?tab=files\">Dragonborn Enhanced - Patch 8 </a></span></span></strong>(<strong>Version: 1.6.1)</strong> by <a href=\"https://www.nexusmods.com/baldursgate3/users/12649990\">NateSheltry</a><strong><br><br><br><span style=\"font-size:medium;\">Same file for Plantigrade and Digitigrade versions</span><br><br><a href=\"https://mod.io/g/baldursgate3/m/clawstep-dragonborn-body-selector#description\">FleshForge - Body Selector - Digitigrade</a><br><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-dragonborn-cc-body-selector-vanilla#description\">FleshForge - Body Selector - Plantigrade</a></strong></p>\n<hr>\n<h2>This All in One includes all old separate subrace patches inside<br>You need none of this files if you have \"FleshForge - All in One Subrace Patch\"</h2>\n<p><strong><span style=\"font-size:large;\"><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-platinum-dragonborn-patch#description\">FleshForge - Platinum Dragonborn - Patch</a><br></span></strong><span style=\"font-size:large;\"><span style=\"font-size:small;\">Compatability patch to ChizFreak's</span></span><strong><span style=\"font-size:large;\"><span style=\"font-size:small;\"> </span></span><span style=\"font-size:large;\"><span style=\"font-size:small;\"><a href=\"https://mod.io/g/baldursgate3/m/platinum-dragonborn#description\" rel=\"nofollow\">A Platinum Dragonborn </a><br></span></span></strong><strong><a href=\"https://mod.io/g/baldursgate3/m/fleshforge-dgb-subraces-gem-dgb-patch#description\"><span style=\"font-size:large;\">FleshForge - DGB Subraces - Gem Dragonborn - Patch</span></a><br></strong>Compatability patch to metadile's <a href=\"https://mod.io/g/baldursgate3/m/dragonbornsubracesgemdragonborns#description\"><strong>Dragonborn Subraces: Gem Dragonborns</strong></a><br><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\"><strong>FleshForge - Diamon's Mystic Manual - Patch</strong></a> </span><span style=\"font-size:small;\">in Optional files (Nexus)<br>Compatability patch to<strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/2116\">Diamon's Mystic Manual - Dragonborn Subrace Compendium</a><br></strong></span><strong><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\">FleshForge - Fizbans Treasury of Dragons - Patch</a></span> </strong><span style=\"font-size:small;\">in Optional files (Nexus)<br></span>Compatability patch to KiderionLykon's (Original autor is 3XC4L1B3R)<strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/12177?tab=files\">Fizbans Treasury of Dragons - Dragonborn - Patch7Ready</a></strong><strong><br><span style=\"font-size:large;\"><a href=\"https://www.nexusmods.com/baldursgate3/mods/19392?tab=files\">FleshForge - Dragonborn Enhanced - Patch</a></span></strong> <span style=\"font-size:small;\">in Optional files (Nexus)</span><strong><span style=\"font-size:small;\"><br></span></strong>Compatability patch to NateSheltry's (Original autor is 3XC4L1B3R)<strong> <a href=\"https://www.nexusmods.com/baldursgate3/mods/12064?tab=files\">Dragonborn Enhanced - Patch 8</a> </strong></p>\n<hr>\n<p><strong><span style=\"font-size:x-large;\">Dragonborn Subrace Modder, Race Modder</span></strong><br><span style=\"font-size:medium;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1589\">HERE</a></strong> tutorial about patching custom subraces to Fleshforge</span></p>\n<p><strong><span style=\"font-size:x-large;\">Modder-armorist/tailor,</span></strong><br><span style=\"font-size:medium;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1402\">HERE</a></strong> <strong>files, addon and tutorial</strong> to help you resize your armor to Clawstep body</span></p>\n<hr>\n<h2><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1058\">FAQ </a></strong>- most popular questions</h2>\n<p><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1061\">Troubleshooting</a></strong> - popular essues and solving them<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1366\">Bugreport </a></strong>- how to repot a bug article <br>Bugreports in Modio itself useless, I cant unsver to them and help you + I see them ONLY when I open the mod page to make changes and deliberetly check if something there<br><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1053\">Deinstallation</a></strong></p>\n<hr>\n<h2><strong><span style=\"font-size:x-large;\">Thanks</span></strong></h2>\n<p><strong><span style=\"font-size:large;\">For permissions<br></span></strong><span style=\"font-family:Arial;\"><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\"><strong>ChizFreak</strong></a> for permission to patch <a href=\"https://www.nexusmods.com/baldursgate3/mods/18526\">A Platinum Dragonborn</a> and make tutorial based on it<br><strong><a href=\"https://mod.io/g/baldursgate3/u/metadile\">metadile_</a> </strong>-  </span><a href=\"https://mod.io/g/baldursgate3/m/dragonbornsubracesgemdragonborns#description\"><span style=\"font-family:Arial;\">Dragonborn Subraces: Gem Dragonborns</span></a><br><a href=\"https://www.nexusmods.com/baldursgate3/users/19603604\"><strong>Backburner26</strong></a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/2116\">Diamon's Mystic Manual - Dragonborn Subrace Compendium</a> and for fixes for patches to their's and FizbansTD<br><a href=\"https://www.nexusmods.com/baldursgate3/users/5616499\"><strong>KiderionLykon</strong></a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/12177?tab=files\">Fizbans Treasury of Dragons - Dragonborn - Patch7Ready<br></a><a href=\"https://www.nexusmods.com/baldursgate3/users/12649990\"><strong>NateSheltry</strong></a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/12064?tab=files\">Dragonborn Enhanced - Patch 8</a></p>\n<p><strong><span style=\"font-size:large;\">Wall of Heroes<br></span></strong>With every name added, the Wall of Heroes grows stronger<br>Today, we honor  <strong><a href=\"https://www.patreon.com/profile/creators?u=101640749\">Gold</a></strong>, <strong><a href=\"https://www.patreon.com/user?u=171315578\">KoboldicOddities</a>,</strong> <strong><a href=\"https://www.patreon.com/user?u=61745837\">DarthRevan</a>,</strong>  <strong><a href=\"https://www.patreon.com/user?u=60000792\">N00b</a>,</strong> <strong><a href=\"https://www.patreon.com/user?u=127424387\">Oliver</a>,  <a href=\"https://www.patreon.com/user?u=29561792\">SmugFly</a>,  <a href=\"https://www.patreon.com/user?u=194119922\">xicara</a>, <a href=\"https://www.patreon.com/user?u=829975\">ash</a></strong><strong> </strong>whose generosity fuels these creations<br>Your support is seen, valued, and deeply appreciated!<br><br><strong><span style=\"font-size:large;\">Echoing Acknowledgement<br></span>to <a href=\"https://www.patreon.com/user?u=91343650\">Wamp</a>, <a href=\"https://www.patreon.com/profile/creators?u=43106925\">Freedom-In-Moonlight Lunaria</a>,  <a href=\"https://www.patreon.com/user?u=22487138\">Pinkie Pain</a>,  <a href=\"https://www.patreon.com/user?u=23485532\">Merven</a>, <a href=\"https://www.patreon.com/user?u=94228860\">Director Isard</a>, <a href=\"https://www.patreon.com/user?u=191148959\">Erzebet</a>, <a href=\"https://www.patreon.com/user?u=198129509\">SkullBaster</a>, <a href=\"https://www.patreon.com/user?u=206105919\">MaxStrengthWizard</a>,  <a href=\"https://www.patreon.com/user?u=102803983\">Wolfman</a>, <a href=\"https://www.patreon.com/user?u=32341708\">Vincent Ottevaere</a>, <a href=\"https://www.patreon.com/user?u=17489523\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"HeadingText-module__djfC6W__root HeadingTextBundle-module__f3oaWa__shared HeadingTextBundle-module__f3oaWa__weightMedium HeadingTextBundle-module__f3oaWa__sizeSm Color-module__9aUt0a__colorContentRegularDefault TextLayoutBundle-module__IsQm8a__shared TextLayoutBundle-module__IsQm8a__alignLeft\">DeityHorus</span></a> you are tentacular!</strong></p>\n<p><a href=\"https://www.paypal.com/paypalme/akelkadds?country.x=KZ&amp;locale.x=en_US\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/DfLb18L.png\" alt=\"\" width=\"1200\" height=\"193\"></a></p>",
-    "date_added": 1780061893,
-    "date_updated": 1781193319,
-    "date_live": 1780063027,
-    "visible": 1,
-    "status": 1,
-    "dependencies": false,
-    "profile_url": "https://mod.io/g/baldursgate3/m/zyx-fleshforge-all-in-one-subrace-patch",
-    "submitted_by": {
-      "id": 33703347,
-      "name_id": "akelka",
-      "username": "AkELkA",
-      "profile_url": "https://mod.io/u/akelka",
-      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3204/33703347/crop_100x100/akelka_logow.png"
-    },
-    "modfile": {
-      "id": 7789257,
-      "mod_id": 6095519,
-      "version": "1.0.0.1",
-      "filename": "fleshforge_subrace_aio_patch_c-95k4.zip",
-      "changelog": null,
-      "date_added": 1780061903,
-      "date_updated": 0,
-      "date_scanned": 1780062279,
-      "filesize": 4519686,
-      "platforms": [
-        {
-          "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
-          "status": 1
-        }
-      ]
-    },
-    "logo": {
-      "filename": "mod_publish_logo.png",
-      "original": "https://image.modcdn.io/mods/df18/6095519/mod_publish_logo.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/df18/6095519/crop_320x180/mod_publish_logo.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/df18/6095519/crop_640x360/mod_publish_logo.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/df18/6095519/crop_1280x720/mod_publish_logo.png"
-    },
-    "tags": [
-      {
-        "name": "Customisation",
-        "name_localized": "Customisation",
-        "date_added": 0
-      },
-      {
-        "name": "Patch 8 Tested",
-        "name_localized": "Patch 8 Tested",
-        "date_added": 0
-      },
-      {
-        "name": "Available on Mac and Console",
-        "name_localized": "Available on Mac and Console",
-        "date_added": 0
-      },
-      {
-        "name": "Piercings",
-        "name_localized": "Piercings",
-        "date_added": 0
-      },
-      {
-        "name": "Scars",
-        "name_localized": "Scars",
-        "date_added": 0
-      },
-      {
-        "name": "Tattoos",
-        "name_localized": "Tattoos",
-        "date_added": 0
-      },
-      {
-        "name": "Body Type 1",
-        "name_localized": "Body Type 1",
-        "date_added": 0
-      },
-      {
-        "name": "Body Type 2",
-        "name_localized": "Body Type 2",
-        "date_added": 0
-      },
-      {
-        "name": "Dragonborn",
-        "name_localized": "Dragonborn",
-        "date_added": 0
-      },
-      {
-        "name": "English",
-        "name_localized": "English",
-        "date_added": 0
-      }
-    ],
-    "platforms": [
-      {
-        "platform": "windows",
-        "modfile_live": 7789257
-      },
-      {
-        "platform": "mac",
-        "modfile_live": 7789257
-      },
-      {
-        "platform": "xboxseriesx",
-        "modfile_live": 7789257
-      },
-      {
-        "platform": "ps5",
-        "modfile_live": 7789257
       }
     ]
   }
