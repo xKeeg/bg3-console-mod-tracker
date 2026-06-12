@@ -114867,9 +114867,9 @@
     "name": "Light Greatswords",
     "name_id": "light-greatswords",
     "summary": "A mod to add light greatswords to the game! I have added +1, +2, and magical weapon variants with their own unique abilities/features, along with a requested Everburn Lightblade.",
-    "description": "<h2>Light greatswords</hs>\n<p>** Please note that I believe with the way treasure tables work with instance loading, you must have a vendor reset if the items are not showing in a shop/inventory **</p>\n<hr>\n<p> </p>\n<hs>what <em>is </em>a Light Greatsword?</h2>\n<p>A fine balance between power and precision, a Light Greatsword is a finesse weapon that doesn't sacrifice strength too much. (Or at all)</p>\n<p>Light Greatswords are currently disguising themselves as longswords and will work with that proficiency.</p>\n<p> </p>\n<h4>Versatile Bonuses</h4>\n<p>When wielding a Light Greatsword in two-handed stance, you gain increased benefit from the weapon.</p>\n<ul>\n<li>The weapon does more damage.</li>\n<li>The weapon provides a +1 AC boost (in most cases).</li>\n<li>You gain the ability to Lacerate your foes.</li>\n</ul>\n<p> </p>\n<h4>Named Weapons</h4>\n<p>Lacerator</p>\n<p>Everburn Lightblade</p>\n<ul>\n<li>Everburn Blade, but LGSified</li>\n</ul>\n<p>Oblivion</p>\n<ul>\n<li>A sword encapsulating the endless void, it seeks its other half.</li>\n<li>Provides unique spell: Oblivion's Reach<br>\n<p>A column of cold damage available once per short rest</p>\n</li>\n</ul>\n<p> </p>\n<p>Oathkeeper<br><br></p>\n<ul>\n<li>The embodiment of an eternal oath, it seeks its other half.</li>\n<li>Provides unique spell: Oathlight<br>\n<p>A spire of radiant light available once short rest</p>\n</li>\n</ul>\n<p> </p>\n<p>Stormwalker's Legacy</p>\n<ul>\n<li>A long-forgotten warrior left this sword behind</li>\n<li>Lightning damage</li>\n<li>Provides unique spell: Storm Bolt<br>\n<p>Use your reaction to call a lightning bolt down when you attack (No interrupt currently, please use the ability manually)</p>\n</li>\n</ul>\n<p> </p>\n<h4>Available swords</ha>\n<p>** NOTE ** Actual locations of hinted at swords provided at the bottom.</p>\n<p> </p>\n<p>Light Greatsword (Dammon has forged a new weapon)</p>\n<p>Everburn Lightblade (Dammon has acquired a unique demonic weapon)</p>\n<p>Light Greatsword +2 (Check with Quartermaster Talli)</p>\n<p>Lacerator (A Gith seems to have pillaged this from a temple)</p>\n<p>Oblivion (Tales aplenty, drinks aplenty)</p>\n<p>Oathkeeper (The fallen Paladin's forgotten Oath is locked away)</p>\n<p>Stormwalker's Legacy (This Harper has always been a strong supplier of equipment in the fight for Good)</p>\n<p> </p>\n<p> </p>\n<p>I am always open to feedback, please feel free to provide any and all <em>constructive </em>feedback!</p>\n<p>I am open to new ideas if you have them for new swords!</p>\n<p> </p>\n<p>Inspired by Elden Ring, Kingdom Hearts 2, and Larian.</p>\n<p> </p>\n<p><em><strong> State of the Mod</strong></em></p>\n<p>I have added another location for both Oathkeeper and Oblivion, they're now with Quartermaster Talli to avoid any confusion for now on finding them. I am working on a playthrough to sus out their locations.</p>\n<p>Removed magical property of +1, +2, and Lacerator swords.</p>\n<p>I will be reviewing any new comments messages with free time!</p>\n<p> </p>\n<p>*** ACTUAL SWORD LOCATIONS ***</p>\n<p>light Greatsword: Dammon's Shop</p>\n<p>Lacerator: Githyanki Creche Quartermaster</p>\n<p>Light Greatsword +2: Quartermaster Talli Shop in Act II</p>\n<p>Oathkeeper: Ketheric Thorm's Chest in Act II (Where the cloak is)//Quartermaster Talli</p>\n<p>Oblivion: Thisobald's drops//Quartermaster Talli</p>\n<p>Stormwalker's Legacy: Danthelon's Dancing Axe in Act III</p>",
+    "description": "<h2>Light greatswords</hs>\n<p>** Please note that I believe with the way treasure tables work with instance loading, you must have a vendor reset if the items are not showing in a shop/inventory **</p>\n<hr>\n<p> </p>\n<hs>what <em>is </em>a Light Greatsword?</h2>\n<p>A fine balance between power and precision, a Light Greatsword is a finesse weapon that doesn't sacrifice strength too much. (Or at all)</p>\n<p>Light Greatswords are currently disguising themselves as longswords and will work with that proficiency.</p>\n<p> </p>\n<h4>Versatile Bonuses</h4>\n<p>When wielding a Light Greatsword in two-handed stance, you gain increased benefit from the weapon.</p>\n<ul>\n<li>The weapon does more damage.</li>\n<li>The weapon provides a +1 AC boost (in most cases).</li>\n<li>You gain the ability to Lacerate your foes.</li>\n</ul>\n<p> </p>\n<h4>Named Weapons</h4>\n<p>Lacerator</p>\n<ul>\n<li>Has the innate ability to bleed targets on hit</li>\n<li>Bloodsport: Advantage on attacks made against bleeding targets, and one extra slashing damage dealt to them</li>\n</ul>\n<p>Everburn Lightblade</p>\n<ul>\n<li>Everburn Blade, but LGSified</li>\n</ul>\n<p>Oblivion</p>\n<ul>\n<li>A sword encapsulating the endless void, it seeks its other half</li>\n<li>Provides unique spell: Oblivion's Reach<br>\n<p>A column of cold damage available once per short rest</p>\n</li>\n</ul>\n<p> </p>\n<p>Oathkeeper<br><br></p>\n<ul>\n<li>The embodiment of an eternal oath, it seeks its other half</li>\n<li>Provides unique spell: Oathlight<br>\n<p>A spire of radiant light available once short rest</p>\n</li>\n</ul>\n<p> </p>\n<p>Stormwalker's Legacy</p>\n<ul>\n<li>A long-forgotten warrior left this sword behind</li>\n<li>Lightning damage</li>\n<li>Provides unique spell: Storm Bolt<br>\n<p>Use your reaction to call a lightning bolt down when you attack (No interrupt currently, please use the ability manually)</p>\n</li>\n</ul>\n<p> </p>\n<h4>Available swords</ha>\n<p>** NOTE ** Actual locations of hinted at swords provided at the bottom.</p>\n<p> </p>\n<p>Light Greatsword (Dammon has forged a new weapon)</p>\n<p>Everburn Lightblade (Dammon has acquired a unique demonic weapon)</p>\n<p>Light Greatsword +2 (Check with Quartermaster Talli)</p>\n<p>Lacerator (A Gith seems to have pillaged this from a temple)</p>\n<p>Oblivion (Tales aplenty, drinks aplenty)</p>\n<p>Oathkeeper (The fallen Paladin's forgotten Oath is locked away)</p>\n<p>Stormwalker's Legacy (This Harper has always been a strong supplier of equipment in the fight for Good)</p>\n<p> </p>\n<p> </p>\n<p>I am always open to feedback, please feel free to provide any and all <em>constructive </em>feedback!</p>\n<p>I am open to new ideas if you have them for new swords!</p>\n<p> </p>\n<p>Inspired by Elden Ring, Kingdom Hearts 2, and Larian.</p>\n<p> </p>\n<p><em><strong> State of the Mod</strong></em></p>\n<p>I have added another location for both Oathkeeper and Oblivion, they're now with Quartermaster Talli to avoid any confusion for now on finding them. I am working on a playthrough to sus out their locations.</p>\n<ul>\n<li>Readded Magical property to Lacerator</li>\n<li>Added \"Bloodsport\" to Lacerator, giving advantage and extra damage against bleeding targets.</li>\n<li>Edited text on Lacerator.</li>\n</ul>\n<p>I will be reviewing any new comments messages with free time!</p>\n<p> </p>\n<p>*** ACTUAL SWORD LOCATIONS ***</p>\n<p>light Greatsword: Dammon's Shop</p>\n<p>Lacerator: Githyanki Creche Quartermaster</p>\n<p>Light Greatsword +2: Quartermaster Talli Shop in Act II</p>\n<p>Oathkeeper: Ketheric Thorm's Chest in Act II (Where the cloak is)//Quartermaster Talli</p>\n<p>Oblivion: Thisobald's drops//Quartermaster Talli</p>\n<p>Stormwalker's Legacy: Danthelon's Dancing Axe in Act III</p>",
     "date_added": 1747857696,
-    "date_updated": 1780967705,
+    "date_updated": 1781225700,
     "date_live": 1747859110,
     "visible": 1,
     "status": 1,
@@ -114883,15 +114883,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/0714/36629632/crop_100x100/calielleunrobed.png"
     },
     "modfile": {
-      "id": 7828326,
+      "id": 7839058,
       "mod_id": 4954344,
-      "version": "1.0.0.3",
-      "filename": "lightgreatsword_a3efcb51-f202-epzl.zip",
-      "changelog": "-Added Everburn Lightblade\n-Removed magical property from +1,+2, and Lacerator\n-Placed Everburn Lightblade into Dammon shop act 1\n-Placed Oathkeeper/Oblivion into Quartermaster Talli act 2",
-      "date_added": 1780967251,
+      "version": "1.0.0.5",
+      "filename": "lightgreatsword_a3efcb51-f202-cx10.zip",
+      "changelog": "--Forgot to delete the \"Lacerate\" text from all Light Greatswords (their passive)",
+      "date_added": 1781225642,
       "date_updated": 0,
-      "date_scanned": 1780967262,
-      "filesize": 2578497,
+      "date_scanned": 1781225651,
+      "filesize": 2578818,
       "platforms": [
         {
           "platform": "windows",
@@ -114970,7 +114970,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7828326
+        "modfile_live": 7839058
       }
     ]
   },
@@ -137252,10 +137252,10 @@
     "game_id": 6715,
     "name": "Flind Evolved",
     "name_id": "flind-evolved",
-    "summary": "Allows the Dark Urge to permanently control and gain the ability to summon the Flind in act 1.",
+    "summary": "Allows the Dark Urge to recruit the Flind in Act 1, the gnolls in Moonrise, and the scared hyena in the SCL.",
     "description": "<p>This mod allows the Dark Urge to add the Flind encountered in act 1 to the party as a summon.</p>\n<p>The Flind is chaotic, reckless, unpredictable, and just as confused as the Dark Urge is about the whole tadpole situation.</p>\n<p>This uses the same foundation that the rest of the Evolved Series mods use. For more information about everything added in an Evolved mod, visit: <a title=\"Evolved Series\" href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">https://mod.io/g/baldursgate3/c/evolved-series</a></p>\n<hr>\n<p><span class=\"tw-flex tw-justify-center\"><img src=\"https://i.postimg.cc/156wP5dq/flind-summon-1.gif\" alt=\"\" width=\"560\" height=\"420\"></span></p>\n<h2>Receiving The Spell</h2>\n<blockquote>\n<p>As of v1.1, the Flind will now prefer to start dialog with the Dark Urge regardless of which player is closest to her as long as the Dark Urge is within 30m and not sneaking. She'll ignore opportunity attacks while she's moving to start dialog. Moreover, she will no longer run out of movement speed if she's moving to speak with a player. In vanilla, if she was moving to start dialog with a player and ran out of movement speed, the chance for the dialog would go away. This would then require sneaking up to the Flind so she had enough movement to reach you. This is no longer necessary.</p>\n<p>If the Dark Urge makes any ability checks in dialog with the Flind, they are done with advantage.</p>\n</blockquote>\n<p>After the Flind defeats the other gnolls (after she's persuaded to do so), she returns to the player and starts dialog again. Normally, you'd either convince her to feast on herself, convince her to leave, or fight her; however, the Dark Urge now gets unique dialog that allows recruiting her instead (no roll needed):</p>\n<blockquote>\n<p><em>You've but one chance. Join me, or die.</em></p>\n</blockquote>\n<p>The narrator then says:</p>\n<blockquote>\n<p><em>the gnoll's tadpole squirms, responding to your intense focus. It draws strength from you; it will protect you.</em></p>\n</blockquote>\n<p>The Flind then howls, dialog ends, she's immediately added to the party as the Dark Urge's summon, the Dark Urge receives the spell to summon her, and you get a tadpole from the Absolute as a reward. This is to compensate for the missed tadpole that you would have looted from the Flind's corpse. A Haunted One background goal named \"Allied and Confused\" is also completed.</p>\n<p>If the Zhents are still alive, they'll act like the Flind left and the quest continues as usual.</p>\n<hr>\n<h2>Class and Progression</h2>\n<p>I didn't want to change too much about the Flind's existing version of rage (Seething Fury / Fury), but I also wanted to lean more into her chaotic nature. For those reasons, her class is themed after Wild Magic Barbarian.</p>\n<p>When casting Seething Fury, the Flind will now also enrage for 10 turns. The amount of turns it takes for Fury to activate is determined by 6 minus her proficiency bonus, so it will take more turns to activate Fury in earlier levels.</p>\n<p>Once Fury is activated, a random Wild Magic Barbarian spell is cast. Fury still unlocks the flail and bow multi attacks as usual, but I did add a -5 attack roll penalty to them similar to Great Weapon Master to add some balance.</p>\n<p>I definitely needed to scale down damage and hit points since she's so strong, but she regains those stats gradually each level. By level 12, she'll have her original stats. The personal lore behind it is that her mind and body were weakened after the Dark Urge subdued her. Some abilities like Flail of Pain were changed so that their damage scales like cantrips.</p>\n<h3>Animations and VFX</h3>\n<p>This lady was missing animations for almost everything since she was never meant to be controlled by a player. I filled the gaps and she now has animations for all her actions, the Wild Magic random casts, and sneaking locomotion. This includes unarmed, holding the flail, and holding the bow. Needless to say, it was quite the journey.</p>\n<p>The VFX are partially themed after the Dark Urge's unique VFX (as seen in the thumbnail). The rest use either Wild Magic Barbarian VFX or the existing gnolls action VFX.</p>\n<p>I'm just now realizing that she kind of looks like a very ugly Scarlet Witch in the thumbnail. This wasn't intentional, but it kind of fits!</p>\n<hr>\n<h2>Spells and Passives</h2>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 1</h3>\n<ul>\n<li>Common Actions: Along with the usual Jump, Dash, Hide and Disengage, the Flind also receives the Help and Shove actions.</li>\n<li>Chaotic Bond: Adds the Dark Urge's CON modifier to movement speed, jump distance, and initiative.</li>\n<li>Magic Awareness (Wild Magic Barbarian Action)</li>\n<li>Death Saving Throws</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 2</h3>\n<ul>\n<li>Danger Sense (Barbarian Passive)</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 5</h3>\n<ul>\n<li>Extra Attack (Barbarian Passive)</li>\n<li>Ability scores begin to increase by 1 each level starting at this level.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 6</h3>\n<ul>\n<li>The Flind's flail and bow gain the magical property which allows bypassing non-magical resistance to damage.</li>\n<li>Bolstering Magic: Boon (Wild Magic Barbarian Action)</li>\n<li>Bolstering Magic: Level 1 and 2 (Wild Magic Barbarian Action)</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 7</h3>\n<ul>\n<li>Feral Instinct (Barbarian Passive)</li>\n<li>Exceptional Training (Evolved Passive)</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 8</h3>\n<ul>\n<li>Rampage (Racial): Restores half of the Flind's movement and bonus action after landing a killing blow once per turn.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 9</h3>\n<ul>\n<li>Brutal Critical (Barbarian Passive)</li>\n<li>Bolstering Magic: Level 3 (Wild Magic Barbarian Action)</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 10</h3>\n<ul>\n<li>Unstable Backlash (Wild Magic Barbarian Passive)</li>\n<li>The Flind's flail and bow gain a +1 enchantment bonus.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 11</h3>\n<ul>\n<li>Relentless Rage (Barbarian Passive)</li>\n<li>Soul Offering (Racial Necromancy Cantrip): Prevents the target from using reactions or bonus actions. Some act 1 Gnolls get this right away, but it's too OP early on.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 12</h3>\n<ul>\n<li>Ability scores and hit points match the ones from the original NPC.</li>\n</ul>\n<hr>\n<h2>13-20</h2>\n<p>Ability scores and hit points continue to increase.</p>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 13</h3>\n<ul>\n<li>Brutal Critical (2) (Barbarian passive): 2 damage die added to critical hits.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 15</h3>\n<ul>\n<li>Persistent Rage (Barbarian passive): Rage is no longer removed if you don't attack or get attacked.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 17</h3>\n<ul>\n<li>Brutal Critical (3) (Barbarian passive): 3 damage die added to critical hits.</li>\n</ul>\n<h3><img src=\"https://bg3.wiki/w/images/2/27/Level_up_icon.webp\" alt=\"\" width=\"21\" height=\"21\">Level 20</h3>\n<ul>\n<li>Primal Champion (Barbarian passive)</li>\n</ul>\n<h2>Extras</h2>\n<ul>\n<li>If you get BOOOAL's Blessing while the Flind is in your party, it will get it too.</li>\n</ul>\n<hr>\n<h2>FAQs</h2>\n<p><strong>1.</strong><em> \"Will this mod work with this other mod that also makes changes to the same summon?\"</em></p>\n<ul>\n<li>Probably not.</li>\n</ul>\n<p><strong>2.</strong> <em>\"Will this mod be released on console?\"</em></p>\n<ul>\n<li>Unless otherwise stated in the description, any mods I publish are always submitted for console approval.</li>\n</ul>\n<p><strong>3.</strong> <em>\"Will you be making an all-in-one version?\"</em></p>\n<ul>\n<li>Absolutely, but I want to finish adding all of the planned evolved mods first since it will take a decent amount of time to combine them all into one.</li>\n</ul>\n<p><strong>4.</strong> <em>\"When will you publish the all-in-one version?\"</em></p>\n<ul>\n<li>\n<div>\n<div>Shortly after all of the mods in the evolved series are approved for console.</div>\n</div>\n</li>\n</ul>\n<p><strong>5.</strong> <em>\"Can you create a <strong>[character]</strong> Evolved?\"</em></p>\n<ul>\n<li>Maybe. Even if I don't always reply to the suggestions, I do always read and consider them.</li>\n</ul>\n<p><strong>6.</strong> <em>\"Can you tell us what else you're working on?\"</em></p>\n<p><img src=\"https://i.postimg.cc/L8ZVg5Yd/withers-no.webp\" alt=\"No\" width=\"204\" height=\"192\"></p>\n<hr>\n<p>If you like this mod, try the rest of the <a href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">Evolved Series</a>!</p>\n<hr>\n<p><a title=\"Exaen @ Ko-Fi\" href=\"https://ko-fi.com/exaen\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.postimg.cc/zBPFJmjt/support-me-on-kofi.webp\" alt=\"Support Exaen on Ko-Fi\" width=\"198\" height=\"40\"></a></p>",
     "date_added": 1761880240,
-    "date_updated": 1781194214,
+    "date_updated": 1781222930,
     "date_live": 1761952375,
     "visible": 1,
     "status": 1,
@@ -137269,15 +137269,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/a366/34665057/crop_100x100/100.png"
     },
     "modfile": {
-      "id": 7295124,
+      "id": 7838827,
       "mod_id": 5323362,
-      "version": "1.1.2.0",
-      "filename": "flindevolved_4de3b7a4-cdb7-68c-avol.zip",
-      "changelog": "fix: the flind now has animations for flying.\nfix: the flind's flail is now correctly named 'flail of dread skulls'.\nfix: multiattack for both melee and ranged is now correctly activated with frenzied fury instead of regular rage.\nfeat: the flind's bow now uses the goblin bow visual.",
-      "date_added": 1768889022,
+      "version": "2.0.0.0",
+      "filename": "flindevolved_4de3b7a4-cdb7-68c-epki.zip",
+      "changelog": "feat: scripting was rewritten from the ground up on both osiris and anubis to utilize the same multi-summon evolved framework that pooldripp and sazza use. i will keep this short for now while i update the description.\nfeat: the gnolls at moonrise towers can now be recruited through dialog if the flind was recruited in act 1. summonable by the flind with a shared stack (1 summon at a time), except during act finale battles (assault on moonrise/high hall) where the 3 gnolls can be out at the same time.\nfeat: the scared hyena can now be recruited through dialog if the flind was recruited in act 1. summonable by barnabus as his hunter (ranger-ish) companion.\nfeat: some of the flind's actions were removed and given to his gnolls instead to help balance damage and give each gnoll a role in the pack.",
+      "date_added": 1781222038,
       "date_updated": 0,
-      "date_scanned": 1768889044,
-      "filesize": 10523026,
+      "date_scanned": 1781222064,
+      "filesize": 11968376,
       "platforms": [
         {
           "platform": "windows",
@@ -137285,24 +137285,24 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
     "logo": {
-      "filename": "mod_publish_logo.png",
-      "original": "https://image.modcdn.io/mods/968e/5323362/mod_publish_logo.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/968e/5323362/crop_320x180/mod_publish_logo.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/968e/5323362/crop_640x360/mod_publish_logo.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/968e/5323362/crop_1280x720/mod_publish_logo.png"
+      "filename": "flindevolved_thumbnail_v2.1.png",
+      "original": "https://image.modcdn.io/mods/968e/5323362/flindevolved_thumbnail_v2.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/968e/5323362/crop_320x180/flindevolved_thumbnail_v2.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/968e/5323362/crop_640x360/flindevolved_thumbnail_v2.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/968e/5323362/crop_1280x720/flindevolved_thumbnail_v2.1.png"
     },
     "tags": [
       {
@@ -137343,10 +137343,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7295124
-      },
-      {
         "platform": "mac",
         "modfile_live": 7295124
       },
@@ -137357,6 +137353,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7295124
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7838827
       }
     ]
   },
