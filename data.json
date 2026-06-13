@@ -133120,7 +133120,7 @@
     "summary": "This mod transforms the raven rewarded to you from He Who Was into a powerful Death Domain mini-companion who delivers judgment in the Raven Queen's name.",
     "description": "<blockquote class=\"tw-text-xs\">\n<p><span class=\"tw-text-xs\"><span class=\"tw-opacity-70\"><em>\"The murdered lie silent. The raven asks - will you be their voice?\"</em></span><br>- He Who Was</span></p>\n</blockquote>\n<p>Transforms the raven rewarded to you from He Who Was into a powerful Death Domain mini-companion who delivers judgment in the Raven Queen's name.</p>\n<p>Special features are also added that enhance the existing Dire Raven abilities. Quothe also receives a unique version of Divine Intervention that changes Sunder the Heretical and Arm Thy Servant to be more Death Domain-friendly.</p>\n<p>Quothe is no longer a familiar and bears resemblance to the Dire Raven that He Who Was is accompanied with. Pale white feathers but with glowing \"speak with the dead\" eyes, and it shares the same stack as Ranger's Companion instead of Find Familiar. When summoned by a Beast Master Ranger, it receives Prey's Scent.</p>\n<p>This uses the same foundation that the rest of the Evolved Series mods use. For more information about everything added in an Evolved mod, visit: <a href=\"https://mod.io/g/baldursgate3/c/evolved-series\">https://mod.io/g/baldursgate3/c/evolved-series</a></p>\n<hr>\n<h2>Receiving The Spell</h2>\n<p>In vanilla, you get the spell to summon Quothe as a familiar by receiving the Raven Gloves from He Who Was as a reward for completing Punish the Wicked. Originally, I was going to change the gloves so that you just needed them in your inventory to receive the spell; however, I decided to give the player a different item and I replaced the spell granted by the Raven Gloves to Toll the Dead. The item is a feather that can be passed around in the party to have anyone summon Quothe (similar to Us and Scratch).</p>\n<p>Completing Punish the Wicked by helping He Who Was is all you need to get the item. If you add this mod after you've <em>successfully</em> completed the quest, you'll get the item right away.</p>\n<hr>\n<h2>Class and Progression</h2>\n<p>Quothe's class follows the same progression as a Death Domain Cleric except:</p>\n<ul>\n<li>Uses Shadow Spell Slots instead of regular Spell Slots.</li>\n<li>Shadow Spell Slots are granted in the same amount and frequency as Paladins, so by level 12, you'll have 4 level 1s, 3 level 2s, and 3 level 3s. If you can level up to 20, you get additional spells slots and 1 more Channel Divinity charge.</li>\n<li>Only uses the Necrotic variants of Cleric spells.</li>\n<li>Spells are always prepared (summon limitation).</li>\n</ul>\n<p>If you're noticing a pattern with this and <a href=\"https://mod.io/g/baldursgate3/m/tara-evolved\" target=\"_blank\" rel=\"noopener noreferrer\">Tara Evolved</a>, you are correct. My intention was to make the opposite of Tara. Where she protects, Quothe just punishes and delivers justice.</p>\n<hr>\n<h2>Spells and Passives</h2>\n<p>Proficiency with Wisdom and Charisma saving throws.</p>\n<p>Ability scores gradually increase each level, eventually matching the level 11 Ranger's Companion Dire Raven.</p>\n<p><strong>Level 1</strong></p>\n<p>Lightly Armored +3 AC</p>\n<p>Misty Escape (Interrupt) - Same as the one He Who Was uses, but this is just the regular interrupt. Added to improve Quothe's survivability. Like Tara, he is of the squishy variety.</p>\n<p>Eyes of the Night (Dire Raven) - Unlocked right away since Quothe hails from the Shadowfell.</p>\n<p>Reaper (Cleric Passive)</p>\n<p>Raven Queen's Pact (Passive)</p>\n<ul>\n<li>Quothe receives a bonus to attack rolls based on its summoner's strength or dexterity modifier (whichever is higher) and a bonus to saving throws and spell save DC based on its summoner's spellcasting ability modifier.</li>\n<li>Quothe's summoner's weapon and unarmed attacks deal an additional 1d4 necrotic damage. Only active while Quothe is summoned.</li>\n</ul>\n<p>Toll the Dead</p>\n<p>Bursting Sinew</p>\n<p>Feather Fall</p>\n<p>Inflict Wounds</p>\n<p><strong>Level 2</strong></p>\n<p>Turn Undead</p>\n<p>Touch of Death</p>\n<p><strong>Level 4</strong></p>\n<p>Grim Harvest (Passive)</p>\n<p>Ray of Sickness</p>\n<p><strong>Level 5</strong></p>\n<p>Moderately Armored <em>(Unlocked at level 8 on max level 20 runs)</em> +6 AC and adds the first armor to Quothe's model.</p>\n<p>Ray of Enfeeblement</p>\n<p><strong>Level 6</strong></p>\n<p>Inescapable Destruction (Cleric Passive)</p>\n<p>Primal Strike (Passive)</p>\n<p>Darkness</p>\n<p><strong>Level 7</strong></p>\n<p>Inured to Undeath (Passive)</p>\n<p>Exceptional Training (Passive)</p>\n<p>Enhance Ability</p>\n<p><strong>Level 8</strong></p>\n<p>Divine Strike (Only the Interrupt)</p>\n<p><strong>Level 9</strong></p>\n<p>Splintered Shadows (Interrupt) - Allows making Bad Omen bounce to other targets. The Shadow Spell Slot power level determines the amount of targets it bounces to.</p>\n<p>Spirit Guardians (Only the necrotic version)</p>\n<p><strong>Level 10</strong></p>\n<p>Revivify</p>\n<p>Divine Intervention (Still only usable once per adventure)</p>\n<ul>\n<li>Opulent Revival</li>\n<li>Golden Generosity</li>\n<li>Sunder the Heretical - 8d10 Necrotic instead of Radiant</li>\n<li>Arm Thy Servant - Target an ally in your party with this and a weapon named \"Inquisitor's Mace\" will be added to their inventory.\n<ul>\n<li>The weapon is the opposite of the Devotee's Mace. It deals 1d8 bonus Necrotic damage instead of Radiant and the \"Healing Incense Aura\" is instead a \"Harming Incense Aura\" that deals 1d4 Necrotic to enemies within the aura each turn.</li>\n<li>I also added Divine Weapon on it which changes the ability modifier the weapon uses for attack rolls to the wielder's spellcasting ability modifier if it is higher than their strength modifier. This is the same as the one in <a href=\"https://mod.io/g/baldursgate3/m/the-morninglords-morningstar\" target=\"_blank\" rel=\"noopener noreferrer\">The Morninglord's Morningstar</a> and similar to Arcanic Finesse in <a href=\"https://mod.io/g/baldursgate3/m/actually-infernal-rapier\" target=\"_blank\" rel=\"noopener noreferrer\">Actually Infernal Rapier</a> (that one checks both strength and dexterity). The DC used for the weapon actions will also use either maneuver save DC or spell save DC depending on which is higher. Basically, a better melee caster.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Level 11</strong></p>\n<p>Heavily Armored <em>(Unlocked at level 18 on max level 20 runs)</em> +8 AC and adds the second helmet on Quothe's model.</p>\n<p>Extra Attack (Passive)</p>\n<p>Vampiric Touch</p>\n<p>Create Shadow Wraith</p>\n<ul>\n<li>Okay, so full disclosure, I didn't know much about the Raven Queen before I added this ability. I learned that she hates undead and expects her followers to destroy them, so I added some lore to the spell description that makes this spell make a bit more sense on Quothe. <em>\"Call forth a wraith bound to the Raven Queen's judgement. It fights for you in penance before returning to silence.\"</em> See? Justice! 🥲</li>\n<li>Lasts for 10 turns similar to Connor.</li>\n</ul>\n<p><img src=\"https://i.postimg.cc/vHv4nzhB/quothe-wraith.gif\" alt=\"\" width=\"640\" height=\"480\"></p>\n<p><strong>Level 12</strong></p>\n<p>Bestow Curse</p>\n<hr>\n<h2>13 to 20</h2>\n<p>Hit points will continue to scale with Quothe's level, ability scores will continue to gradually increase, cantrip damage will continue scaling, level 4 and 5 shadow spell slots will be unlocked, and you'll get 1 additional Channel Divinity charge at level 18.</p>\n<hr>\n<h2>Extras</h2>\n<p>If you get BOOOAL's Blessing while Quothe is with you, he will get it too. It's unlikely that you'll go back to act 1 after reaching act 2, but I kept it anyway.</p>\n<hr>\n<h2>FAQs</h2>\n<p><strong>1.</strong><em> \"Will this mod work with this other mod that also makes changes to the same summon?\"</em></p>\n<ul>\n<li>Probably not.</li>\n</ul>\n<p><strong>2.</strong> <em>\"Will this mod be released on console?\"</em></p>\n<ul>\n<li>Unless otherwise stated in the description, any mods I publish are always submitted for console approval.</li>\n</ul>\n<p><strong>3.</strong> <em>\"Will you be making an all-in-one version?\"</em></p>\n<ul>\n<li>Absolutely, but I want to finish adding all of the planned evolved mods first since it will take a decent amount of time to combine them all into one. I also need to make sure the mods run well on console, so I need them approved there before I start making the all-in-one.</li>\n</ul>\n<p><strong>4.</strong> <em>\"When will you publish the all-in-one version?\"</em></p>\n<ul>\n<li>Shortly after all of the mods in the evolved series are approved for console.</li>\n</ul>\n<p><strong>5.</strong> <em>\"Can you create a <strong>[character]</strong> Evolved?\"</em></p>\n<ul>\n<li>Maybe. Even if I don't always reply to the suggestions, I do always read and consider them.</li>\n</ul>\n<p><strong>6.</strong> <em>\"Can you tell us what else you're working on?\"</em></p>\n<p><img src=\"https://i.postimg.cc/L8ZVg5Yd/withers-no.webp\" alt=\"No\" width=\"204\" height=\"192\"></p>\n<hr>\n<p>If you like this mod, try the rest of the <a href=\"https://mod.io/g/baldursgate3/c/evolved-series\" target=\"_blank\" rel=\"noopener noreferrer\">Evolved Series</a>!</p>\n<hr>\n<p><a title=\"Exaen @ Ko-Fi\" href=\"https://ko-fi.com/exaen\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.postimg.cc/zBPFJmjt/support-me-on-kofi.webp\" alt=\"Support Exaen on Ko-Fi\" width=\"198\" height=\"40\"></a></p>",
     "date_added": 1756995202,
-    "date_updated": 1781349447,
+    "date_updated": 1781351051,
     "date_live": 1757012270,
     "visible": 1,
     "status": 1,
@@ -133134,15 +133134,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/a366/34665057/crop_100x100/100.png"
     },
     "modfile": {
-      "id": 7275857,
+      "id": 7844843,
       "mod_id": 5214907,
-      "version": "1.0.9.0",
-      "filename": "quotheevolved_6345e0b1-9e08-74-0oiq.zip",
-      "changelog": "fix: quothe's flock summons will no longer get stuck in the asylum after a dialog has ended in the party.",
-      "date_added": 1768544618,
+      "version": "1.1.0.0",
+      "filename": "quotheevolved_6345e0b1-9e08-74-o26w.zip",
+      "changelog": "fix: the extra projectiles spawned with the 'splintered shadows' interrupt will now correctly only target enemies.\nfix: the spawn animation now correctly uses the regular raven animation instead of the familiar raven.\nfix: quothe's invulnerability will no longer sometimes get removed in camp.\nfeat: the spellcasting ability detection for 'divine weapon' has been simplified.\nfeat: two additional spells will now unlock at level 13 and another two at 17 if capable.\nfeat: a new action was added that will allow quothe to cast the eagle's version of gust of wind. the cooldown is either long rest, short rest, or per battle depending on quothe's level.\nfeat: evolved framework updated to the latest.\nfeat: quothe will now roam a bit faster and farther in camp. will occasionally pick a random camper and perch next to them for a bit.\nfeat: visual effects were updated for the camp poof if summoning or dismissing quothe while in camp.\nfeat: if summon quothe leaves the party while in camp (by self dismissal or defeat), npc quothe will now appear where summon quothe disappeared.\nfeat: if shovel evolved is installed, quothe will be able to make passive checks like a player.\nfeat: the anchor item that grants the action to summon quothe is no longer tradeable.\nfeat: npc quothe's level will now match the highest level it ever had while summoned.\nfeat: quothe's version of spirit guardians now has a necrotic green hue instead of the radiant gold.\nfeat: the 'summon quothe' icon was changed from the find familiar icon to the ranger's companion raven icon.\nfeat: the flock summoned by quothe will now only receive the beast master bonuses if quothe's summoner is a beast master ranger.\nfeat: a very simple progression was added to the flock ravens.",
+      "date_added": 1781349445,
       "date_updated": 0,
-      "date_scanned": 1768544644,
-      "filesize": 11017422,
+      "date_scanned": 1781349484,
+      "filesize": 12128641,
       "platforms": [
         {
           "platform": "windows",
@@ -133150,15 +133150,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -133198,10 +133198,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7275857
-      },
-      {
         "platform": "mac",
         "modfile_live": 7275857
       },
@@ -133212,6 +133208,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7275857
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7844843
       }
     ]
   },
