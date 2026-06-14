@@ -60146,7 +60146,7 @@
     "summary": "Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.",
     "description": "<p>Adds and updates content to align with the DnD 5.5e rules (and other sources), including Backgrounds, Classes, Feats, Races, Spells and more. V4 update is now live. Not compatible with previous save files.</p>\n<p> </p>\n<pre>D&amp;D 5.5e ALL-IN-ONE BEYOND — THE WORLD UPDATE\n\nBG3 was built on D&amp;D 2014 rules.\nBG3 WITH THIS MOD runs on the official 2024 Player's Handbook.\n\n■ Every base class rebuilt from scratch.\n■ Three brand new classes added.\n■ 80+ feats across five sourcebooks.\n■ New races, backgrounds, spells, and items.\n■ All in one standalone mod. No dependencies.\n\n------------------------\n\nCORE RULES — REBUILT\n\nThe 2024 PHB changes how the game works at its foundation.\n\n■ BLOODIED — Creatures at or below 50% HP gain the Bloodied condition. Many abilities interact with this state.\n■ HEAVY ARMOR STRENGTH REQUIREMENT — Strength 13 required to wear Heavy Armor effectively. Low-STR casters can no longer wear plate for free.\n■ ONE SPELL SLOT PER TURN — You can only expend one spell slot per turn. No more double-casting.\n■ EQUIPPING WEAPONS — Draw or equip a weapon as part of your Attack action.\n■ PRONE REWORK — Standing costs half your Speed. Melee attacks have Advantage, ranged attacks have Disadvantage.\n■ HIDING REWORK — Stealth updated to 2024 standards.\n■ EXTRA ATTACK + WAR MAGIC — Certain classes can now mix spells and attacks in the same Extra Attack sequence.\n■ HEAVY WEAPON ABILITY REQUIREMENT — Heavy weapons require appropriate ability scores.\n\n------------------------\n\nCLASS OVERHAUL — 12 BASE CLASSES REBUILT\n\nAll subclasses now unlock at Level 3. Every class redesigned for the 2024 PHB.\n\nBARBARIAN\nPrimal Knowledge (Lvl 3) — Brutal Strike (Lvl 9) — Instinctive Pounce\n\nBARD\nFont of Inspiration (Lvl 5) — Magical Secrets reworked (Lvl 10)\n\nCLERIC\nDivine Order (Lvl 1) — Sear Undead (Lvl 5) — Blessed Strikes (Lvl 7)\n\nDRUID\nPrimal Order (Lvl 1) — Wild Resurgence (Lvl 5) — Elemental Fury (Lvl 7)\n\nFIGHTER\nTactical Mind (Lvl 2) — Tactical Shift (Lvl 5) — Tactical Master (Lvl 9)\n\nMONK\nMonk's Focus replaces Ki — Uncanny Metabolism (Lvl 2) — Deflect Attacks (Lvl 3)\n\nPALADIN\nDivine Smite redesigned as a prepared spell — Faithful Steed (Lvl 5)\n\nRANGER\nFavored Enemy reworked (Lvl 1) — Deft Explorer (Lvl 2) — Roving (Lvl 6)\n\nROGUE\nCunning Strike (Lvl 5) — Improved Cunning Strike (Lvl 11)\n\nSORCERER\nInnate Sorcery (Lvl 1) — Sorcery Incarnate (Lvl 7)\n\nWARLOCK\nInvocations from Lvl 1 — 20+ invocations available — Magical Cunning (Lvl 2) — Mystic Arcanum (Lvl 11)\n\nWIZARD\nRitual Adept (Lvl 2) — Scholar (Lvl 2)\n\n------------------------\n\nNEW CLASSES — THREE FULL CLASSES ADDED\n\n------------------------\n\nGUNSLINGER\n\nRisk is in a Gunslinger's blood. Bold renegades who forge their own path with dangerous firearms — surviving by wits, split-second timing, and a considerable amount of luck.\n\nA full martial class built around firearms and the RISK resource. Weapon Mastery at Level 1.\n\nCore Features:\n■ Firearm Expert (Lvl 1)\n■ Quick Draw (Lvl 1)\n■ Critical Shot (Lvl 2)\n■ Risk (Lvl 2)\n■ Gut Shot (Lvl 5)\n■ Evasion (Lvl 7)\n■ Overkill (Lvl 11)\n\nSubclasses:\n■ HIGH ROLLER — Push your luck. Poker Face, Liar's Dice, Risky Business.\n■ SPELLSLINGER — Magic meets gunfire. Bang You're Dead, Spellshot, Counter-Mage.\n■ WHITE HAT — The lawful gunslinger. Lay Down the Law, Steely-Eyed, Long Arm of the Law.\n\n------------------------\n\nILLRIGGER\n\nKnights, assassins, and terror-commandos of Hell. Illriggers carry out their archdevil's infernal will through a unique SEAL system — place Seals on enemies, then detonate them.\n\nCore Features:\n■ Baleful Interdict (Lvl 1)\n■ Combat Mastery (Lvl 2)\n■ Interdiction (Lvl 2)\n■ Infernal Conduit (Lvl 6)\n■ Blood Price (Lvl 10)\n■ Terrorizing Force (Lvl 11)\n\nSubclasses:\n■ HELLSPEAKER (Moloch) — Manipulation and charm. Honey-Sweet Blades, Charm Enemy.\n■ PAINKILLER (Dispater) — Pure destruction. \"You Die on My Command!\"\n■ SANGUINE KNIGHT (Sutekh) — Blood magic and healing. Exsanguinate, Blood for Blood.\n■ SHADOWMASTER — Assassination and stealth. Marked for Death, Umbral Killer.\n\n------------------------\n\nARTIFICER\n\nMasters of magical invention. Artificers use their genius to create wonders — and turn those wonders into weapons.\n\nCore Features:\n■ Replicate Magic Item (Lvl 2)\n■ Spellcasting (Lvl 2)\n■ Flash of Genius (Lvl 7)\n■ Magic Item Adept (Lvl 10)\n■ Spell-Storing Item (Lvl 11)\n\nSubclasses:\n■ ALCHEMIST — Experimental Elixirs, Alchemical Savant, Restorative Reagents.\n■ ARMORER — Arcane Armor, Armor Model, Extra Attack (Lvl 5).\n■ ARTILLERIST — Eldritch Cannon, Arcane Firearm, Explosive Cannon.\n\n------------------------\n\nWEAPON MASTERY — NEW COMBAT LAYER\n\nEvery martial character unlocks Weapon Mastery at Level 1.\nEach weapon type has a unique special property.\n\n■ CLEAVE — Hit a second adjacent creature on a successful attack.\n■ GRAZE — Deal ability modifier damage even on a miss.\n■ TOPPLE — Force a CON save or knock the target Prone.\n■ NICK — Light weapons grant an extra attack without using your Bonus Action.\n■ VEX — Gain Advantage on your next attack against the same target.\n■ SLOW — Reduce target Speed by 10 ft until your next turn.\n■ PUSH — Push the target 10 ft away.\n■ SAP — Target has Disadvantage on its next attack roll.\n■ FLEX — Use one-handed or two-handed for different damage dice.\n\n------------------------\n\nFEATS — 80+ OPTIONS ACROSS FIVE SOURCEBOOKS\n\nPLAYER'S HANDBOOK 2024\nOrigin Feats (available at Level 1 via Backgrounds):\nAlert, Lucky, Magic Initiate, Musician, Savage Attacker, Skilled, Tavern Brawler, Tough, Healer\n\nGeneral Feats:\nActor, Athlete, Charger, Crossbow Expert, Defensive Duelist, Dual Wielder, Dungeon Delver, Durable, Elemental Adept, Great Weapon Master, Heavily Armored, Heavy Armor Master, Lightly Armored, Mage Slayer, Martial Adept, Medium Armor Master, Polearm Master, Resilient, Ritual Caster, Sentinel, Sharpshooter, Shield Master, Speedy, Spell Sniper, War Caster, Weapon Master\n\nNew General Feats:\nCrusher, Fey Touched, Inspiring Leader, Mounted Combatant, Piercer, Poisoner, Shadow Touched, Skill Expert, Skulker, Slasher\n\nXANATHAR'S GUIDE TO EVERYTHING\nDragon Fear, Dragon Hide, Dwarven Fortitude, Elven Accuracy, Fade Away, Flames of Phlegethos, Infernal Constitution, Orcish Fury, Squat Nimbleness\n\nTASHA'S CAULDRON OF EVERYTHING\nEldritch Adept, Fighting Initiate, Metamagic Adept\n\nFORGOTTEN REALMS: HEROES OF FAERÛN\nOrigin Feats: Cult of the Dragon Initiate, Emerald Enclave Fledgling, Harper Agent, Lords' Alliance Agent, Purple Dragon Rook, Spellfire Spark, Tyro of the Gauntlet, Zhentarim Ruffian\nGeneral Feats: Cold Caster, Dragonscarred, Enclave Magic, Fairy Trickster, Genie Magic, Harper Teamwork, Lordly Resolve, Mythal Touched, Order's Resilience, Purple Dragon Commandant, Spellfire Adept, Zhentarim Tactics\n\nTHE LORD OF THE RINGS ROLEPLAYING\nDeadly Archery, Dragon-Slayer, Fierce Shot, Gleam of Wrath, Nimbleness\n\n------------------------\n\nRACES — REBUILT FOR 2024\n\nAll base races reworked. Four extra races available via Human Level 1 Passive.\n\n■ AASIMAR (via Human) — Celestial Resistance, Healing Hands, Celestial Revelation\n■ DHAMPIR (via Human) — Speed 35 ft, Trace of Undeath, Vampiric Bite\n■ DRAGONBORN — Draconic Ancestry, Breath Weapon, Darkvision, Draconic Flight\n■ DWARF — Darkvision, Dwarven Resilience\n■ ELF — Fey Ancestry, Keen Senses. Subraces: Drow / High Elf / Wood Elf\n■ GITHYANKI — Astral Knowledge, Githyanki Psionics, Psychic Resilience\n■ GNOME — Darkvision, Gnomish Cunning\n■ GOLIATH (via Human) — Speed 35 ft, Giant Ancestry (6 options), Large Form\n■ HALF-ELF — Fey Ancestry, Resourceful. Subraces: Drow / High / Wood\n■ HALFLING — Brave, Luck\n■ HUMAN — Resourceful, Skillful, Versatile\n■ KALASHTAR (via Human) — Dual Mind, Mental Discipline, Severed from Dreams\n■ ORC — Adrenaline Rush, Darkvision, Relentless Endurance\n■ TIEFLING — Darkvision, Thaumaturgy. Subraces: Asmodeus / Mephistopheles / Zariel\n\n------------------------\n\nBACKGROUNDS — 37 TOTAL WITH ORIGIN FEATS\n\nEvery Background grants an Origin Feat at Level 1.\n\nPLAYER'S HANDBOOK (19):\nAcolyte, Charlatan, Criminal, Entertainer, Farmer, Folk Hero, Guide, Guild Artisan, Haunted One, Hermit, Merchant, Noble, Outlander, Sage, Sailor, Scribe, Soldier, Urchin, Wayfarer\n\nFORGOTTEN REALMS: HEROES OF FAERÛN (18):\nChondathan Freebooter, Dead Magic Dweller, Dragon Cultist, Emerald Enclave Caretaker, Flaming Fist Mercenary, Genie Touched, Harper, Ice Fisher, Knight of the Gauntlet, Lords' Alliance Vassal, Moonwell Pilgrim, Mulhorandi Tomb Raider, Mythalkeeper, Purple Dragon Squire, Rashemi Wanderer, Shadowmasters Exile, Spellfire Initiate, Zhentarim Mercenary\n\n------------------------\n\nSPELLS — 60+ NEW AND REVISED\n\nCantrips: Green-Flame Blade, Mind Sliver, Sorcerous Burst, Starry Wisp, Sword Burst, Thunderclap, True Strike (redesigned), Word of Radiance, Finger Guns, Hellfire\n\nLevels 1-2: Chromatic Orb, Divine Smite (now a spell), Hell's Lash, Arcane Vigor, Mind Spike, Shadow Blade, Snilloc's Snowball Swarm, Summon Beast, Tasha's Mind Whip, Warding Bond\n\nLevels 3-5: Conjure Barrage, Crusader's Mantle, Fount of Moonlight, Aura of Vitality, Bestow Curse, Lightning Arrow, Summon Fey, Steel Wind Strike, Synaptic Static\n\nLevels 6+: Circle of Death, Disintegrate (revised)\n\n------------------------\n\nITEMS — NEW WEAPONS AND UNIQUE LOOT\n\nFirearms (Gunslinger):\n■ Pistol / Pistol +1 / Pistol +2\n■ Musket / Musket +1 / Musket +2\n\nClass-specific loot:\n■ MOON SICKLE — Druid and Ranger. Location: Front of the Idol of Silvanus.\n■ HOLY AVENGER — Paladin. Location: Rosymorn Monastery.\n■ TRUE NAME — Illrigger. Location: He Who Was.\n\nOther notable items:\nArgument Solver, Blazer of Benevolence, Cap of Curing, Chain of Liberation, Corrosive Flail, Dragon's Grasp, Gloves of Heroism, Hellrider's Pride, Helmet of Smiting, Hoppy, Rupturing Blade, Spellthief, The Oak Father's Embrace, The Sacred Star (Dank Crypt), Xyanyde\n\n------------------------\n\nCOMING SOON\n\n■ PSION — Full psionic class currently in development.\n■ Additional subclasses and feat sources planned.\n\n------------------------\n\nLOCALIZATION\n\n■ English — built-in\n■ Spanish — built-in\n■ Korean — external patch available on nexusmod\n■ Russian — external patch available on mod.io\n■ Chinese (Simplified) — external patch available on mod.io\n\n------------------------\n\nCOMPATIBILITY\n\n■ Standalone — no other mods required.\n■ Install via the in-game BG3 Mod Manager.\n■ Not compatible with saves from before major version updates.\n■ May conflict with other class or feat overhaul mods.\n\n------------------------\n\nCREDITS\n\nOriginal mod: Yoonmoonsik\nSpanish localization: HermesVar\nGitHub: github.com/Yoonmoonsik/dnd55e\n\nIf you enjoy this mod, please rate it. It helps the author continue development.</pre>",
     "date_added": 1729165055,
-    "date_updated": 1781420835,
+    "date_updated": 1781436896,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -60160,15 +60160,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 7848588,
+      "id": 7849244,
       "mod_id": 4419649,
-      "version": "4.6.4.3",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-8u7y.zip",
+      "version": "4.6.4.8",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-95n6.zip",
       "changelog": null,
-      "date_added": 1781420756,
+      "date_added": 1781436865,
       "date_updated": 0,
-      "date_scanned": 1781421192,
-      "filesize": 46920380,
+      "date_scanned": 1781436953,
+      "filesize": 46921217,
       "platforms": [
         {
           "platform": "windows",
@@ -60295,7 +60295,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7848588
+        "modfile_live": 7849244
       }
     ]
   },
@@ -78326,9 +78326,9 @@
     "name": "AW's Lightning Assasssssin",
     "name_id": "lightning-loot1",
     "summary": "This mod series explores \"class like\" (not a class mod) playstyles by modifying items only. Sets of equipment provide players with a class-style experience, offering new spells, passives, and abilities that expand multi-class build options.",
-    "description": "<p>All Grandmaster Outfits used to summon the set are added to the <strong>Camp Chest</strong>. <br>All the progressive sets are randomly placed across ACT1 to ACT3.<br><br><span style=\"text-decoration:underline;\">Please check the update notes or join our Discord or Patreon for detailed information.</span></p>\n<p>This mod series explores \"class-like\" (not a class mod) playstyles by modifying <strong>items only</strong>. Sets of equipment provide players with a class-style experience, offering new spells, passives, and abilities that expand multi-class build options.</p>\n<h3><a title=\"Join Us!\" href=\"https://discord.gg/VWqtFKRp9J\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/discord.png\" alt=\"\" width=\"150\" height=\"50\"></a> <a title=\"Support Us!\" href=\"https://patreon.com/TEAMAW?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/patreon-logo.png\" alt=\"\" width=\"150\" height=\"50\"> </a><a title=\"Subscribe Us!\" href=\"https://www.youtube.com/@alovinghusbandw\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/ytb.png\" alt=\"\" width=\"150\" height=\"50\"></a></h3>\n<p><iframe src=\"https://www.youtube.com/embed/rNtI1h4pM3g\" width=\"560\" height=\"314\"></iframe><br><br>CAUTIONS:<br>This mod overrides: '<span style=\"text-decoration:underline;\">MAG_CHARGED_LIGHTNING</span>' by removing its 'TickFunctors' string: '<span style=\"text-decoration:underline;\">IF(HasMaximumLightningCharge(context.Target)):SetStatusDuration(MAG_CHARGED_LIGHTNING, 7, ForceSet)</span>' in order to raise the maximum stack limit to 20 stacks.</p>\n<h4>'Class Like' mods:<br><a title=\"[AW's] Moon Wattttcher\" href=\"https://mod.io/g/baldursgate3/m/aws-moon-wattttcher\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Moon Wattttcher</a><br><a title=\"[AW's] Dimension Breaaaaker\" href=\"https://mod.io/g/baldursgate3/m/aws-dimension-breaaaaker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Dimension Breaaaaker</a><br><a title=\"[AW's] Noxmongeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-noxmongeeeer\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Noxmongeeeer</a><br><a title=\"[AW's] Hell Walkeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-hell-walker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Hell Walkeeeer</a><br><br>Equipment mod:<br><a title=\"[AW's] Equipment Arsenaaaal\" href=\"https://mod.io/g/baldursgate3/m/aws-equipment-arsenaaaal\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Equipment Arsenaaaal</a><br><br>Overhaul mods:<br><a title=\"AW's Monk Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-lightning-assasssssin-knight-monk-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Monk Overhaul</a><br><a title=\"AW's Wizard Overhaul\" href=\"https://mod.io/g/baldursgate3/m/awswizardoverhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Wizard Overhaul</a><br><a title=\"AW's Ranger Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-ranger-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Ranger Overhaul</a><br><a title=\"AW's Rogue Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-rogue-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Rogue Overhaul</a><br><a title=\"AW's Barbarian Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-babarian-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Barbarian Overhaul</a></h4>\n<p>Big thanks to @XiphiasRex for creating the '<a title=\"AnimationUnlocker\" href=\"https://mod.io/g/baldursgate3/m/animationunlocker#description\" target=\"_blank\" rel=\"noopener noreferrer\">AnimationUnlocker</a>' mod and the general advices/helps on modding for all the modders.<br>Big thanks to @OhforFuksake's \"Modding With Ohfor - Baldur's Gate 3\" tutorial series. If you are also interested in making mods for BG3, he teaches in a good manner. </p>",
+    "description": "<p>All Items are located in the Tutorial Chest.<br>All the progressive sets are randomly placed across ACT1 to ACT3.<br><br><span style=\"text-decoration:underline;\">Please check the update notes or join our Discord or Patreon for detailed information.</span></p>\n<p>This mod series explores \"class-like\" (not a class mod) playstyles by modifying <strong>items only</strong>. Sets of equipment provide players with a class-style experience, offering new spells, passives, and abilities that expand multi-class build options.</p>\n<h3><a title=\"Join Us!\" href=\"https://discord.gg/VWqtFKRp9J\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/discord.png\" alt=\"\" width=\"150\" height=\"50\"></a> <a title=\"Support Us!\" href=\"https://patreon.com/TEAMAW?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/patreon-logo.png\" alt=\"\" width=\"150\" height=\"50\"> </a><a title=\"Subscribe Us!\" href=\"https://www.youtube.com/@alovinghusbandw\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/ytb.png\" alt=\"\" width=\"150\" height=\"50\"></a></h3>\n<p><iframe src=\"https://www.youtube.com/embed/rNtI1h4pM3g\" width=\"560\" height=\"314\"></iframe><br><br>CAUTIONS:<br>This mod overrides: '<span style=\"text-decoration:underline;\">MAG_CHARGED_LIGHTNING</span>' by removing its 'TickFunctors' string: '<span style=\"text-decoration:underline;\">IF(HasMaximumLightningCharge(context.Target)):SetStatusDuration(MAG_CHARGED_LIGHTNING, 7, ForceSet)</span>' in order to raise the maximum stack limit to 20 stacks.</p>\n<h4>'Class Like' mods:<br><a title=\"[AW's] Moon Wattttcher\" href=\"https://mod.io/g/baldursgate3/m/aws-moon-wattttcher\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Moon Wattttcher</a><br><a title=\"[AW's] Dimension Breaaaaker\" href=\"https://mod.io/g/baldursgate3/m/aws-dimension-breaaaaker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Dimension Breaaaaker</a><br><a title=\"[AW's] Noxmongeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-noxmongeeeer\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Noxmongeeeer</a><br><a title=\"[AW's] Hell Walkeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-hell-walker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Hell Walkeeeer</a><br><br>Equipment mod:<br><a title=\"[AW's] Equipment Arsenaaaal\" href=\"https://mod.io/g/baldursgate3/m/aws-equipment-arsenaaaal\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Equipment Arsenaaaal</a><br><br>Overhaul mods:<br><a title=\"AW's Monk Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-lightning-assasssssin-knight-monk-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Monk Overhaul</a><br><a title=\"AW's Wizard Overhaul\" href=\"https://mod.io/g/baldursgate3/m/awswizardoverhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Wizard Overhaul</a><br><a title=\"AW's Ranger Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-ranger-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Ranger Overhaul</a><br><a title=\"AW's Rogue Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-rogue-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Rogue Overhaul</a><br><a title=\"AW's Barbarian Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-babarian-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Barbarian Overhaul</a></h4>\n<p>Big thanks to @XiphiasRex for creating the '<a title=\"AnimationUnlocker\" href=\"https://mod.io/g/baldursgate3/m/animationunlocker#description\" target=\"_blank\" rel=\"noopener noreferrer\">AnimationUnlocker</a>' mod and the general advices/helps on modding for all the modders.<br>Big thanks to @OhforFuksake's \"Modding With Ohfor - Baldur's Gate 3\" tutorial series. If you are also interested in making mods for BG3, he teaches in a good manner. </p>",
     "date_added": 1732770265,
-    "date_updated": 1769092042,
+    "date_updated": 1781439899,
     "date_live": 1732771040,
     "visible": 1,
     "status": 1,
@@ -78342,15 +78342,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/b20a/37506806/crop_100x100/logo.png"
     },
     "modfile": {
-      "id": 7008373,
+      "id": 7849400,
       "mod_id": 4516388,
-      "version": "1.1.1.143",
-      "filename": "lightnings_98770d0f-6448-e095-czne.zip",
-      "changelog": "1. All summoned items are now not longer tagged as 'story items'.\n2. Removed 2 dyes from the chest. (There are much better mods for dying, we will not push this aspect further in out mods.)",
-      "date_added": 1763287012,
+      "version": "1.1.1.149",
+      "filename": "lightnings_98770d0f-6448-e095-2nls.zip",
+      "changelog": "Highlighted Updates\nUpdate v1.1.1.148 – [14_06_2026]\n\nAll:\n1. Balanced properties on all progressive set (Mage).\n2. Redesigned spells/passives on all progressive sets (Mage).\n3. Added class resource future to the all progressive sets (Mage).\n4. Debugged spells/passives on all progressive sets (Mage) and the Grand Master set (Mage).\n5. Fixed the Toggle passives related issues.",
+      "date_added": 1781439800,
       "date_updated": 0,
-      "date_scanned": 1763287118,
-      "filesize": 63703933,
+      "date_scanned": 1781439914,
+      "filesize": 63701614,
       "platforms": [
         {
           "platform": "windows",
@@ -78358,15 +78358,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -78481,10 +78481,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7008373
-      },
-      {
         "platform": "mac",
         "modfile_live": 7008373
       },
@@ -78495,6 +78491,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7008373
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7849400
       }
     ]
   },
@@ -82627,7 +82627,7 @@
     "summary": "The unofficial community bug fix mod - Over 2400 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 2400 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 中国人/中國人<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1781318774,
+    "date_updated": 1781437344,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -82641,15 +82641,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7843651,
+      "id": 7849259,
       "mod_id": 4561805,
-      "version": "4.5.7.2",
-      "filename": "itembugfix_010e73d5-9342-e528-5bsh.zip",
-      "changelog": "- Freecast now correctly affects every action resource\n- Fixed bug with Magehand Legerdemain 'Invisibility' on short/long rest",
-      "date_added": 1781318745,
+      "version": "4.5.7.3",
+      "filename": "itembugfix_010e73d5-9342-e528-38ev.zip",
+      "changelog": "- Performance optimization for grenades, specifically for older systems",
+      "date_added": 1781437290,
       "date_updated": 0,
-      "date_scanned": 1781318751,
-      "filesize": 1737337,
+      "date_scanned": 1781437310,
+      "filesize": 1736782,
       "platforms": [
         {
           "platform": "windows",
@@ -82763,7 +82763,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7843651
+        "modfile_live": 7849259
       }
     ]
   },
@@ -85568,7 +85568,7 @@
     "summary": "A support mod required by all my mods to properly function.",
     "description": "<p>This is a database like mod required by all my mods to properly function.</p>\n<p><a title=\"Join Us!\" href=\"https://discord.gg/VWqtFKRp9J\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/discord.png\" alt=\"\" width=\"150\" height=\"50\"></a> <a title=\"Support Us!\" href=\"https://patreon.com/TEAMAW?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/patreon-logo.png\" alt=\"Support us!\" width=\"150\" height=\"50\"> </a><a title=\"Subscribe Us!\" href=\"https://www.youtube.com/@alovinghusbandw\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/ytb.png\" alt=\"\" width=\"150\" height=\"50\"></a></p>\n<h4>'Class Like' mods:<br><a title=\"[AW's] Lightning Assasssssin\" href=\"https://mod.io/g/baldursgate3/m/lightning-loot1\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Lightning Assasssssin</a><br><a title=\"[AW's] Moon Wattttcher\" href=\"https://mod.io/g/baldursgate3/m/aws-moon-wattttcher\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Moon Wattttcher</a><br><a title=\"[AW's] Dimension Breaaaaker\" href=\"https://mod.io/g/baldursgate3/m/aws-dimension-breaaaaker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Dimension Breaaaaker</a><br><a title=\"[AW's] Noxmongeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-noxmongeeeer\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Noxmongeeeer</a><br><a title=\"[AW's] Hell Walkeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-hell-walker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Hell Walkeeeer</a><br><br>Equipment mod:<br><a title=\"[AW's] Equipment Arsenaaaal\" href=\"https://mod.io/g/baldursgate3/m/aws-equipment-arsenaaaal\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Equipment Arsenaaaal</a><br><br>Overhaul mods:<br><a title=\"AW's Monk Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-lightning-assasssssin-knight-monk-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Monk Overhaul</a><br><a title=\"AW's Wizard Overhaul\" href=\"https://mod.io/g/baldursgate3/m/awswizardoverhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Wizard Overhaul</a><br><a title=\"AW's Ranger Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-ranger-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Ranger Overhaul</a><br><a title=\"AW's Rogue Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-rogue-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Rogue Overhaul</a><br><a title=\"AW's Barbarian Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-babarian-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Barbarian Overhaul</a></h4>\n<p>Big thanks to @XiphiasRex for creating the '<a title=\"AnimationUnlocker\" href=\"https://mod.io/g/baldursgate3/m/animationunlocker#description\" target=\"_blank\" rel=\"noopener noreferrer\">AnimationUnlocker</a>' mod and the general advices/helps on modding for all the modders.<br>Big thanks to @OhforFuksake's \"Modding With Ohfor - Baldur's Gate 3\" tutorial series. If you are also interested in making mods for BG3, he teaches in a good manner.</p>",
     "date_added": 1735931039,
-    "date_updated": 1753092276,
+    "date_updated": 1781439572,
     "date_live": 1735931424,
     "visible": 1,
     "status": 1,
@@ -85582,15 +85582,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/b20a/37506806/crop_100x100/logo.png"
     },
     "modfile": {
-      "id": 6551262,
+      "id": 7849389,
       "mod_id": 4615421,
-      "version": "1.0.1.62",
-      "filename": "awseffectssupport_efc4770c-24c-8xwv.zip",
-      "changelog": "added a few HP percentage helpers",
-      "date_added": 1752044405,
+      "version": "1.0.1.64",
+      "filename": "awseffectssupport_efc4770c-24c-4x5b.zip",
+      "changelog": "Supporting future updates on MW.",
+      "date_added": 1781439533,
       "date_updated": 0,
-      "date_scanned": 1752044583,
-      "filesize": 4227266,
+      "date_scanned": 1781439546,
+      "filesize": 4230252,
       "platforms": [
         {
           "platform": "windows",
@@ -85598,15 +85598,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -85641,10 +85641,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6551262
-      },
-      {
         "platform": "mac",
         "modfile_live": 6551262
       },
@@ -85655,6 +85651,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6551262
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7849389
       }
     ]
   },
