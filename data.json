@@ -143035,9 +143035,9 @@
     "name": "DTO: Otherworldly Archetypes",
     "name_id": "dto-otherworldly-archetypes",
     "summary": "A collection of 12 new subclasses designed to blend seamlessly into the original line up and fully featured up to level 20.",
-    "description": "<h2>Otherworldly Archetypes is a pack of 12 new subclasses designed to blend seamlessly into the original line up and are fully featured up to level 20. <br><br>Visit <a href=\"https://prizzels.github.io/DTO/\" target=\"_blank\" rel=\"noopener noreferrer\">Daelen's Testament of the Otherworldly </a>to learn more<em>.</em></h2>\n<ul>\n<li>Bard - The College of Stormcallers - <em>\"Your thunder bellows, toppling your foes; their defiance answered with lightning staccato.\"</em></li>\n<li>Barbarian - Path of the Revenant - <em>\"Cursed by an eternal vengeance, you haunt the land to satiate an unrelenting taste for death.\"</em></li>\n<li>Cleric - Dream Domain - <em>\"You confront your foes in a dream where they are the weakest, with a form they fear most.\"</em></li>\n<li>Druid - Circle of Wrath - <em>\"You shift between aspects of the elements and build your wrath until you can unleash a storm worthy of nature's fury.\"<br></em></li>\n<li>Fighter - Chronoknight - <em>\"Wield time as a weapon, giving and taking when it suits your needs on the battlefield.\"<br></em></li>\n<li>Monk - Way of the Friar -<em> \"Bonded to your chosen kin, you are both guardian and guide, even as your community grows to many.\" </em></li>\n<li>Paladin - Oath of Illumination - <em>\"Empowered by Lathander's light, you eschew traditions for brilliant beams of radiant energy and smite your foes from a distance.</em>\"</li>\n<li>Ranger - Conclave of the Dawnstriders - <em>\"Invigorated by Lathander's light, you soar across the battlefield with a relentless zeal and divine rapidity.\"</em></li>\n<li>Rogue - Seeker - <em>\"An arcane duellist that steals from the Weave itself and channels it through their blade and sleight of hand\"</em></li>\n<li>Sorcerer - Wretched Soul - <em>\"Your soul is tainted by sinister energies which manifest as wither and decay, a corruption so dark and twisted that it eludes all defence.\"</em></li>\n<li>Warlock - The Psyker - <em>\"Play on the edge of oblivion as you manage the volatile malevolence of the Warp in exchange for its destructive disregard of reality.\"</em></li>\n<li>Wizard - School of Bombardment - <em>\"Rather than be limited by incantations, you discover a method to transform your magic energy into ordnance and lay siege to your foes from afar.\"</em></li>\n</ul>\n<p><em><strong>(<a href=\"https://mod.io/g/baldursgate3/m/mystras-spells#description\" target=\"_blank\" rel=\"noopener noreferrer\">Mystra's Spells</a> or <a title=\"5E Spells @ Nexus\" href=\"https://www.nexusmods.com/baldursgate3/mods/125\" target=\"_blank\" rel=\"noopener noreferrer\">5E Spells</a> strongly recommended, especially for Dream Domain and Wretched Soul)</strong><br><br><br>Some acknowledgements in absolutely no particular order:<br><br>So many helpful people at the <a href=\"https://discord.gg/bg3mods\" target=\"_blank\" rel=\"noopener noreferrer\">BG3 Modding Community</a> but especially <strong>XiphiasRex</strong>, <strong>Rando</strong>, <strong>JuuM</strong> and of course <strong>Norabyte</strong> whose tools and search engine were immensely useful.<br><strong>TheBackupArtist</strong> for all the beautiful icon art.<br><a href=\"https://mod.io/g/baldursgate3/m/mystras-spells#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Mystra's Spells</strong></a> and<strong> <a title=\"5E Spells @ Nexus\" href=\"https://www.nexusmods.com/baldursgate3/mods/125\" target=\"_blank\" rel=\"noopener noreferrer\">5E Spells</a> </strong>for fleshing out the spell lists<br><strong>Paizo</strong> and <strong>Owlcat</strong> for infusing me with Pathfinder appreciation.<br><strong>Larian</strong> for making this incredible game and toolkit.<br>Shout out to <strong>Hipp0</strong> for creating and <strong>celerev </strong>for reviving Trials of Tav and allowing me to playtest these mods without going insane.<br>And finally, you for checking out my mod and reading the Acknowledgements!<br><br>Image models were used to make the subclass icons, the rest is human &lt;3<br></em></p>",
+    "description": "<h2>Otherworldly Archetypes is a pack of 12 new subclasses designed to blend seamlessly into the original line up and are fully featured up to level 20. <br><br>Visit <a href=\"https://prizzels.github.io/DTO/\" target=\"_blank\" rel=\"noopener noreferrer\">Daelen's Testament of the Otherworldly </a>to learn more<em>.</em></h2>\n<ul>\n<li>Bard - The College of Stormcallers - <em>\"Your thunder bellows, toppling your foes; their defiance answered with lightning staccato.\"</em></li>\n<li>Barbarian - Path of the Revenant - <em>\"Cursed by an eternal vengeance, you haunt the land to satiate an unrelenting taste for death.\"</em></li>\n<li>Cleric - Dream Domain - <em>\"You confront your foes in a dream where they are the weakest, with a form they fear most.\"</em></li>\n<li>Druid - Circle of Wrath - <em>\"You shift between aspects of the elements and build your wrath until you can unleash a storm worthy of nature's fury.\"<br></em></li>\n<li>Fighter - Chronoknight - <em>\"Wield time as a weapon, giving and taking when it suits your needs on the battlefield.\"<br></em></li>\n<li>Monk - Way of the Friar -<em> \"Bonded to your chosen kin, you are both guardian and guide, even as your community grows to many.\" </em></li>\n<li>Paladin - Oath of Illumination - <em>\"Empowered by Lathander's light, you eschew traditions for brilliant beams of radiant energy and smite your foes from a distance.</em>\"</li>\n<li>Ranger - Conclave of the Dawnstriders - <em>\"Invigorated by Lathander's light, you soar across the battlefield with a relentless zeal and divine rapidity.\"</em></li>\n<li>Rogue - Seeker - <em>\"An arcane duellist that steals from the Weave itself and channels it through their blade and sleight of hand\"</em></li>\n<li>Sorcerer - Wretched Soul - <em>\"Your soul is tainted by sinister energies which manifest as wither and decay, a corruption so dark and twisted that it eludes all defence.\"</em></li>\n<li>Warlock - The Psyker - <em>\"Play on the edge of oblivion as you manage the volatile malevolence of the Warp in exchange for its destructive disregard of reality.\"</em></li>\n<li>Wizard - School of Bombardment - <em>\"Rather than be limited by incantations, you discover a method to transform your magic energy into ordnance and lay siege to your foes from afar.\"</em></li>\n</ul>\n<p><em><strong>(<a href=\"https://mod.io/g/baldursgate3/m/mystras-spells#description\" target=\"_blank\" rel=\"noopener noreferrer\">Mystra's Spells</a> or <a title=\"5E Spells @ Nexus\" href=\"https://www.nexusmods.com/baldursgate3/mods/125\" target=\"_blank\" rel=\"noopener noreferrer\">5E Spells</a> strongly recommended, especially for Dream Domain and Wretched Soul)</strong><br><br><br>Some acknowledgements in absolutely no particular order:<br><br>So many helpful people at the <a href=\"https://discord.gg/bg3mods\" target=\"_blank\" rel=\"noopener noreferrer\">BG3 Modding Community</a> but especially <strong>XiphiasRex</strong>, <strong>Rando</strong>, <strong>JuuM</strong> and of course <strong>Norabyte</strong> whose tools and search engine were immensely useful.<br><strong>TheBackupArtist</strong> for all the beautiful icon art.<br><a href=\"https://mod.io/g/baldursgate3/m/mystras-spells#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Mystra's Spells</strong></a> and<strong> <a title=\"5E Spells @ Nexus\" href=\"https://www.nexusmods.com/baldursgate3/mods/125\" target=\"_blank\" rel=\"noopener noreferrer\">5E Spells</a> </strong>for fleshing out the spell lists<br><strong>Paizo</strong> and <strong>Owlcat</strong> for infusing me with Pathfinder appreciation.<br><strong>Larian</strong> for making this incredible game and toolkit.<br>Shout out to <strong>Hipp0</strong> for creating and <strong>celerev </strong>for reviving Trials of Tav and allowing me to playtest these mods without going insane.<br>And finally, you for checking out my mod and reading the Acknowledgements!<br><br>Image models were used to make some of the subclass icons, the rest is human &lt;3<br></em></p>",
     "date_added": 1769042857,
-    "date_updated": 1778676289,
+    "date_updated": 1781628250,
     "date_live": 1769042857,
     "visible": 1,
     "status": 1,
@@ -143051,15 +143051,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/45bf/12244630/crop_100x100/illuminate.png"
     },
     "modfile": {
-      "id": 7651819,
+      "id": 7857188,
       "mod_id": 5714166,
-      "version": "1.2.0.65",
-      "filename": "daelenstestament_c714f127-6475-dhs0.zip",
-      "changelog": "(Illumination) Fixed visual bug introduced last patch\n(Seeker) Cleaned up equip requirements: Finesse Weapon + Free Offhand (Versatile is ok) + Light armor at most.",
-      "date_added": 1776618978,
+      "version": "1.2.0.66",
+      "filename": "daelenstestament_c714f127-6475-hp3x.zip",
+      "changelog": "(Dawnstrider)\t\nFixed some Zeal interactions that were granting extra stacks.\nSwapped Zeal and Valkyrie in progression. Resisting the temptation of a Zeal meta for all martials and Valkyrie is more fun as a dip anyway. Win/win. \n\n(Dream)\nMind Sliver from either spells mod should now benefit from Potent Spellcasting\nDeep Slumber now affects all targets within its AoE, upcasting increases duration of Torpor\n\n(Friar)\nFixed Pacifying Sweep cancelling itself\nFriar's Retribution now works properly and is based on the Monk's Wisdom Modifier. This is a strong ability that was bugged for way too long. Let's see those Retaliation builds.\nFixed Friar's Grace appearing on Bonded allies.\n\n(Psyker)\nRestored level 8 spell progression\nAdded some late game Perils consequences! Requires AdvancedTT Spells to see some of them.\nGellar's Field now also grants Resistance to Psychic damage and Advantage on mental saves. \n\n(Seeker) \nArcane Bolts now flagged as a spell (have fun!). Tooltip corrected to \"Can pierce magical Shields\", not a guaranteed hit. \n\n(Wretched Soul)\nMetamagic: Vile Affliction now grants its piercing effects for 10 turns after casting and costs 2 Sorcery Points.\nWither and Decay should no longer affect objects and items.",
+      "date_added": 1781628075,
       "date_updated": 0,
-      "date_scanned": 1776619019,
-      "filesize": 23859450,
+      "date_scanned": 1781628123,
+      "filesize": 23861940,
       "platforms": [
         {
           "platform": "windows",
@@ -143067,15 +143067,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -143175,10 +143175,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7651819
-      },
-      {
         "platform": "mac",
         "modfile_live": 7651819
       },
@@ -143189,6 +143185,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7651819
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7857188
       }
     ]
   },
