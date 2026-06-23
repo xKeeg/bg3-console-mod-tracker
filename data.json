@@ -82945,7 +82945,7 @@
     "summary": "The unofficial community bug fix mod - Over 2400 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1781911080,
+    "date_updated": 1782255857,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -82959,15 +82959,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7868453,
+      "id": 7882628,
       "mod_id": 4561805,
-      "version": "4.6.1.1",
-      "filename": "itembugfix_010e73d5-9342-e528-4vrt.zip",
-      "changelog": "- IMPORTANT: NPCs can now correctly use weapon actions in difficulty modes above Explorer, and Tenacity is now correctly prevented from usage by NPCs in Explorer\n- Raphael 'Soul Ascension', Cazador 'Vampiric Swarm', Balthazar 'The Dead Wastes', Tska'an 'Sacrifice Soul', Viconia DeVir 'Sanctuary of Loss', Auntie Ethel 'Weird Magic Surge', and War Caster: Shocking Grasp are now correctly blocked from being cast when Silenced\n- Cazador 'Vampiric Swarm' now correctly only triggers within 6m of Cazador\n- Oil of Bane and Oil of Diminution can now correctly affect multiple enemies when using an AoE attack with a coated weapon\n- Weapon passives which could inadvertently trigger statuses multiple times per DealDamage() functor are now correctly limited to once per target hit (25 changed)\n- Armour of Landfall 'Green Bed Regeneration' and Wavemother's Robe 'Watery Rejuvenation' can no longer be used out of combat to regain hit points via turn-based mode\n- Magic Ring, previously renamed to Ring of Gorgeous Bolts, has been returned to the Magic Ring name to not be confused with Ring of Gorgeous Bolts from the Ultimate Cut Content Restoration Mod by MaxStrengthWizard\n-- Previous homebrew passives removed, and unused passive Rigour of the Tempest added\n- Perform actions are no longer incorrectly canceled by merely receiving a status, but rather by being the target of an attack/effect\n- Code review/improvement",
-      "date_added": 1781911058,
+      "version": "4.6.2.1",
+      "filename": "itembugfix_010e73d5-9342-e528-0gcp.zip",
+      "changelog": "- Eldritch Invocation 'Otherworldly Leap' no longer just simply grants Enhance Leap, and now correctly grants Invocation: Enhance Leap\n- Awakened passive is now toggleable (change only available on new games/characters that have not yet obtained the passive)\n- The passive that is placed on the spellcaster of True Strike is now called 'True Strike' instead of 'True Strike Target'\n- Code review/improvement",
+      "date_added": 1782255841,
       "date_updated": 0,
-      "date_scanned": 1781911068,
-      "filesize": 1739370,
+      "date_scanned": 1782255848,
+      "filesize": 1740111,
       "platforms": [
         {
           "platform": "windows",
@@ -83081,7 +83081,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7868453
+        "modfile_live": 7882628
       }
     ]
   },
