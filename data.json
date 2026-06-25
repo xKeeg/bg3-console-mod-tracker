@@ -136297,7 +136297,7 @@
     "summary": "A Ranger who deals in the necromantic and blight instead of life and survival. With 3 reworked ranger classes to fit dark ranger and 6 custom classes.",
     "description": "<h4><span style=\"color:#674ea7;\"><span style=\"font-size:xx-large;\"><strong>Dark Ranger<br></strong></span></span></h4>\n<blockquote>\n<p>Not all who walk among the withered trees and crumbling bones of the wild are agents of cruelty. Some rangers find purpose in the shadowed cycles of the natural world where decay feeds the soil, disease culls the weak, and winter’s chill grants the land its rest. These rangers are keepers of the quiet balance, understanding that rot and ruin are as vital as growth and bloom.<br>Dark Rangers wield necromantic arts not to dominate the dead, but to guide them, ensuring the fallen return to the earth, or rise briefly as guardians of sacred places. They commune with carrion birds, fungi, and blackened roots, seeing beauty in what others call corruption. Their arrows may drip with pestilence, not out of malice, but as a hunter’s tool no different than flame or steel.<br>To the Dark Ranger, death is not an ending, but a season in the endless turning wheel of nature. Their presence unsettles those who cling only to life and light, yet in the wild places where plague and frost creep, they are both shepherd and sentinel.</p>\n</blockquote>\n<p><strong><br>For full break down of the class you can find it on my nexus page: <a href=\"https://www.nexusmods.com/baldursgate3/mods/12095\">Here</a></strong></p>",
     "date_added": 1758345100,
-    "date_updated": 1780325825,
+    "date_updated": 1782361394,
     "date_live": 1758345100,
     "visible": 1,
     "status": 1,
@@ -136311,15 +136311,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7761751,
+      "id": 7886845,
       "mod_id": 5245595,
-      "version": "1.0.0.75",
-      "filename": "darkrangersse_bb210517-afb7-5a-1hif.zip",
-      "changelog": "- Removed copy tags from Shadow Clone",
-      "date_added": 1779421452,
+      "version": "1.0.0.79",
+      "filename": "darkrangersse_bb210517-afb7-5a-d5sy.zip",
+      "changelog": "- Non-Lethal when activiated will now prevent the shadow clone from spawning to prevent any \"Accidental\" killings.\n- Fixed a issue where Eclipse Hunter was not preventing the user from casting or breaking concentration as it should.",
+      "date_added": 1782361167,
       "date_updated": 0,
-      "date_scanned": 1779421635,
-      "filesize": 101876747,
+      "date_scanned": 1782361349,
+      "filesize": 101876708,
       "platforms": [
         {
           "platform": "windows",
@@ -136327,15 +136327,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -136375,10 +136375,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7761751
-      },
-      {
         "platform": "mac",
         "modfile_live": 7761751
       },
@@ -136389,6 +136385,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7761751
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7886845
       }
     ]
   },
