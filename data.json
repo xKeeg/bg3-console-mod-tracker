@@ -124038,9 +124038,9 @@
     "name": "Eternal Queen Set",
     "name_id": "eternal-queen-set",
     "summary": "Complete Eternal Queen set, including a queen's body and an experimental 'physics'",
-    "description": "<p>Become the eternal queen with this set<br>the dress includes an option for the 'queen' body, additionally there's a queen body with physics option<br>Fully dyeable<br>supports bodytype 1,2,3,4, githyanki 1,2</p>\n<p><strong>Update 1.0.0.7<br></strong>Added vanilla bodytype 1 version and added support for githyanki bodytype 2</p>\n<p><strong>Update 1.0.0.6<br></strong>Added the queen's hammer, support for bodytype 2 and 4, a circlet and circlet + heels in the camp shoes slot<strong><br></strong></p>\n<p>The experimental physics is pretty subtle, but it's there:</p>\n<p></p><video controls width=\"600\" height=\"300\">\n<source src=\"https://i.imgur.com/zua6V8m.mp4\" type=\"video/mp4\"></source></video><br>physics work during photo mode when you're moving the character around<br>it also warps some part of the body, so if the physics' not too noticeable for your use case, it's best to just use the non-physics version if the warp is distracting\n<p> </p>\n<p>Commissioned for Morgana Evelyn</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Eternal Queen Dress + Hammer model by RyanReos<br>High Heel Feet model by ReallyLazyIcarus<br>Meshes and textures have been modified</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>Become the eternal queen with this set<br>the dress includes an option for the 'queen' body, additionally there's a queen body with physics option<br>Fully dyeable<br>supports bodytype 1,2,3,4, githyanki 1,2</p>\n<p><strong>Update 1.0.0.9</strong><br>Added a progressive AC and spell roll/DC passive.</p>\n<p><strong>Update 1.0.0.7<br></strong>Added vanilla bodytype 1 version and added support for githyanki bodytype 2</p>\n<p><strong>Update 1.0.0.6<br></strong>Added the queen's hammer, support for bodytype 2 and 4, a circlet and circlet + heels in the camp shoes slot<strong><br></strong></p>\n<p>The experimental physics is pretty subtle, but it's there:</p>\n<p></p><video controls width=\"600\" height=\"300\">\n<source src=\"https://i.imgur.com/zua6V8m.mp4\" type=\"video/mp4\"></source></video><br>physics work during photo mode when you're moving the character around<br>it also warps some part of the body, so if the physics' not too noticeable for your use case, it's best to just use the non-physics version if the warp is distracting\n<p> </p>\n<p>Commissioned for Morgana Evelyn</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Eternal Queen Dress + Hammer model by RyanReos<br>High Heel Feet model by ReallyLazyIcarus<br>Meshes and textures have been modified</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1751021268,
-    "date_updated": 1762251657,
+    "date_updated": 1782664685,
     "date_live": 1751023015,
     "visible": 1,
     "status": 1,
@@ -124054,15 +124054,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 6884788,
+      "id": 7900919,
       "mod_id": 5046593,
-      "version": "1.0.0.8",
-      "filename": "qmdrss_01296564-0f8a-19b0-e639-6kla.zip",
-      "changelog": "- fixed a bug with tiefling bt1 base body version",
-      "date_added": 1761638432,
+      "version": "1.0.0.9",
+      "filename": "qmdrss_01296564-0f8a-19b0-e639-jlgc.zip",
+      "changelog": "- added a progressive AC and spell attack roll/DC passive to the chest piece\n- moved the mantle passive to the heels",
+      "date_added": 1782664631,
       "date_updated": 0,
-      "date_scanned": 1761638520,
-      "filesize": 57521355,
+      "date_scanned": 1782664733,
+      "filesize": 57521107,
       "platforms": [
         {
           "platform": "windows",
@@ -124070,15 +124070,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -124178,10 +124178,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6884788
-      },
-      {
         "platform": "mac",
         "modfile_live": 6884788
       },
@@ -124192,6 +124188,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6884788
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7900919
       }
     ]
   },
