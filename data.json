@@ -56863,18 +56863,8 @@
     },
     "tags": [
       {
-        "name": "Classes",
-        "name_localized": "Classes",
-        "date_added": 0
-      },
-      {
-        "name": "Quality of Life",
-        "name_localized": "Quality of Life",
-        "date_added": 0
-      },
-      {
-        "name": "Subclasses",
-        "name_localized": "Subclasses",
+        "name": "Overhaul",
+        "name_localized": "Overhaul",
         "date_added": 0
       },
       {
@@ -56885,6 +56875,11 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Feats",
+        "name_localized": "Feats",
         "date_added": 0
       },
       {
@@ -84669,8 +84664,13 @@
         "date_added": 0
       },
       {
-        "name": "Subclasses",
-        "name_localized": "Subclasses",
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Overhaul",
+        "name_localized": "Overhaul",
         "date_added": 0
       },
       {
@@ -84684,36 +84684,6 @@
         "date_added": 0
       },
       {
-        "name": "Barbarian",
-        "name_localized": "Barbarian",
-        "date_added": 0
-      },
-      {
-        "name": "Cleric",
-        "name_localized": "Cleric",
-        "date_added": 0
-      },
-      {
-        "name": "Fighter",
-        "name_localized": "Fighter",
-        "date_added": 0
-      },
-      {
-        "name": "Paladin",
-        "name_localized": "Paladin",
-        "date_added": 0
-      },
-      {
-        "name": "Rogue",
-        "name_localized": "Rogue",
-        "date_added": 0
-      },
-      {
-        "name": "Warlock",
-        "name_localized": "Warlock",
-        "date_added": 0
-      },
-      {
         "name": "Other Classes",
         "name_localized": "Other Classes",
         "date_added": 0
@@ -84721,6 +84691,36 @@
       {
         "name": "English",
         "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
+        "date_added": 0
+      },
+      {
+        "name": "Karlach",
+        "name_localized": "Karlach",
+        "date_added": 0
+      },
+      {
+        "name": "Lae'zel",
+        "name_localized": "Lae'zel",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      },
+      {
+        "name": "Wyll",
+        "name_localized": "Wyll",
         "date_added": 0
       }
     ],
@@ -118733,8 +118733,18 @@
     },
     "tags": [
       {
-        "name": "Quality of Life",
-        "name_localized": "Quality of Life",
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Overhaul",
+        "name_localized": "Overhaul",
+        "date_added": 0
+      },
+      {
+        "name": "Rules Changes",
+        "name_localized": "Rules Changes",
         "date_added": 0
       },
       {
@@ -118770,61 +118780,6 @@
       {
         "name": "English",
         "name_localized": "English",
-        "date_added": 0
-      },
-      {
-        "name": "Astarion",
-        "name_localized": "Astarion",
-        "date_added": 0
-      },
-      {
-        "name": "Gale",
-        "name_localized": "Gale",
-        "date_added": 0
-      },
-      {
-        "name": "Halsin",
-        "name_localized": "Halsin",
-        "date_added": 0
-      },
-      {
-        "name": "Jaheira",
-        "name_localized": "Jaheira",
-        "date_added": 0
-      },
-      {
-        "name": "Karlach",
-        "name_localized": "Karlach",
-        "date_added": 0
-      },
-      {
-        "name": "Lae'zel",
-        "name_localized": "Lae'zel",
-        "date_added": 0
-      },
-      {
-        "name": "Minsc",
-        "name_localized": "Minsc",
-        "date_added": 0
-      },
-      {
-        "name": "Minthara",
-        "name_localized": "Minthara",
-        "date_added": 0
-      },
-      {
-        "name": "Shadowheart",
-        "name_localized": "Shadowheart",
-        "date_added": 0
-      },
-      {
-        "name": "The Dark Urge",
-        "name_localized": "The Dark Urge",
-        "date_added": 0
-      },
-      {
-        "name": "Wyll",
-        "name_localized": "Wyll",
         "date_added": 0
       }
     ],
