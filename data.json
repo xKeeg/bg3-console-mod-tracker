@@ -106466,9 +106466,9 @@
     "name": "Mind Weaver Animations",
     "name_id": "mindweaveranimations",
     "summary": "This addon for Mind Weaver Class takes advantage of the custom animations for spells from subclasses like Arcane Archer, 4 Elements Monk, Levitation, etc... and adds them to specific Mind Weaver subclasses.",
-    "description": "<p>Currently Aetheric Strider bow spell animations are available and will use a custom VFX version and animations from Arcane Archer, Shadowmind has Shadow Monk animations and Frostveil Sage has 4 Elements Monk body animations for spells with its own specific Frost VFX.</p>\n<p> </p>\n<p>An attempt will be made to give Astral Seer animations for Levitation from Mindflayers.</p>\n<p> </p>\n<h2>WARNING!!!! Changing animations like this will not be compatible with any other mods that edit animations tied to classes or races so use only one!!!</h2>",
+    "description": "<p>Currently Aetheric Strider bow spell animations are available and will use a custom VFX version and animations from Arcane Archer, Shadowmind has Shadow Monk animations and Frostveil Sage has 4 Elements Monk body animations for spells with its own specific Frost VFX.</p>\n<p> </p>\n<p><strong>Note: </strong>Due to Gnome race having some strange asset loading the ANimations within this mod will not work for the Gnome race with the listed subclasses but work with every other race.</p>\n<p> </p>\n<h2>WARNING!!!! Changing animations like this will not be compatible with any other mods that edit animations tied to classes or races so use only one!!!</h2>",
     "date_added": 1744985306,
-    "date_updated": 1782914544,
+    "date_updated": 1782982401,
     "date_live": 1745003209,
     "visible": 1,
     "status": 1,
@@ -106482,15 +106482,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/e51d/33530167/crop_100x100/id.png"
     },
     "modfile": {
-      "id": 7912585,
+      "id": 7915877,
       "mod_id": 4879175,
-      "version": "1.0.0.74",
-      "filename": "mindweaveranimations_08344bbe-2o8o.zip",
-      "changelog": null,
-      "date_added": 1782914513,
+      "version": "1.0.0.76",
+      "filename": "mindweaveranimations_08344bbe-6isj.zip",
+      "changelog": "Gnome race assets have been entirely removed due to causing body materials not appearing. The animations within the mod for the listed Mind Weaver classes will not work with Gnome race but will work with all other races.",
+      "date_added": 1782982261,
       "date_updated": 0,
-      "date_scanned": 1782914741,
-      "filesize": 10555291,
+      "date_scanned": 1782982282,
+      "filesize": 10047738,
       "platforms": [
         {
           "platform": "windows",
@@ -106624,7 +106624,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7912585
+        "modfile_live": 7915877
       }
     ]
   },
