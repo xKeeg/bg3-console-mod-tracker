@@ -11584,7 +11584,7 @@
     "summary": "This mod adds custom fringes/sides as well as vanilla ones from CC and NPCs to the Dragonborn Jaw slot in CC so you can customise how your characters hair looks further.",
     "description": "<h2>What is this mod?</h2>\n<p>This mod separates bangs/fringes, framing bangs and other parts such as Braids for shaved sides and such from the games hairs into their own asset and assigned to DragonbornJaw. Also includes some custom assets.</p>\n<h3>Location in Character Creation:</h3>\n<p>Currently adds 100 options to Dragonborn Jaw section so you can combine with hair, beards, horns and tails.</p>\n<p>This section can be found in vanilla in the general tab where you normally find your heads.</p>\n<p>This does mean it will show up for Dragonborn too. So if playing a Dragonborn I just suggest disabling the mod for that playthrough so you don't have to scroll past them for the other Dragonborn parts. Thank you for your understanding &lt;3</p>\n<h2>Compatibility</h2>\n<p>This mod is now compatible with other mods adding to Humanoid, Fey, Fiend and Celestial race sections. You no longer need my Patches for CC Races.lsx for this mod to work with other mods.</p>\n<h2>Switching to Latest Version</h2>\n<p>This mod was converted for use in the Toolkit, so I can further build on it via it. I have tried to make this as seamless as possible for you switching to these new versions. </p>\n<p>However when switching to the latest version of the mod please make sure to remove the pak of the original mod from your mods folder.</p>\n<p>Patch 6 of the mod will remain under old versions.</p>\n<p> </p>",
     "date_added": 1725488136,
-    "date_updated": 1753460102,
+    "date_updated": 1783370106,
     "date_live": 1725489084,
     "visible": 1,
     "status": 1,
@@ -11598,15 +11598,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/d8e5/32519245/crop_100x100/padme4000logo.png"
     },
     "modfile": {
-      "id": 6275879,
+      "id": 7934530,
       "mod_id": 4316759,
-      "version": "2.2.0.0",
-      "filename": "p4_fringes_80fb12aa-1d82-4df4-9smw.zip",
-      "changelog": "Fixed the last of the hairs causing ponytails and others to float backwards.\n    Added 17 more fringes/sides\n    - one new Eclipse fringe flipped to opposite side\n    - one new eclipse mix where it is both sides at once\n    - two new edits inspired by anime/80s\n    - five goblin fringes/sides\n    - two new Gortash variations\n    - two new highlight versions of my custom fringe Bettie bangs\n    - four new variations of my custom fringes with curls for more thickness and further forward.\n    - the bettie bangs now have icons showing the highlights, this is so you can more easily which bangs have which highlights. due to being the same shape mesh and just different highlights\n    Removal of IMPUI as a requirement. It is no longer needed for this mod to work.",
-      "date_added": 1744719983,
+      "version": "2.4.0.7",
+      "filename": "p4_fringes_80fb12aa-1d82-4df4-8gdt.zip",
+      "changelog": "Fixed issues on hairs for shorter races, and BT2/BT4\nAdded some new options",
+      "date_added": 1783368940,
       "date_updated": 0,
-      "date_scanned": 1744720056,
-      "filesize": 41915900,
+      "date_scanned": 1783369046,
+      "filesize": 48522184,
       "platforms": [
         {
           "platform": "windows",
@@ -11614,15 +11614,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -11717,10 +11717,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6275879
-      },
-      {
         "platform": "mac",
         "modfile_live": 6275879
       },
@@ -11731,6 +11727,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6275879
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7934530
       }
     ]
   },
@@ -149507,7 +149507,7 @@
   {
     "id": 5966700,
     "game_id": 6715,
-    "name": "NAERYS: Incendium",
+    "name": "INCENDIUM - Armor and Camp Clothing",
     "name_id": "naerys-incendium",
     "summary": "fire themed, modular outfit for BT1/2/3/4, Gith, Dragonborn, TMTS and short races.",
     "description": "<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">once again massive thanks for the model to <a href=\"https://www.nexusmods.com/profile/onyx/mods\">onyx<span style=\"color:#ffffff;\"> &lt;3</span></a></span></span></div>\n<h4>models &amp; textures by Ida Faber</h4>\n<div> </div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><span style=\"color:#ffffff;\"><strong>Consumed by fire.</strong></span></span></span></div>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">Bodyarmor (A, B, C) - body slot</span></span></span></div>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">skirt - cloak slot</span></span></span></div>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">bracers - gloves slot</span></span></span></div>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">boots with heels - boots slot</span></span></span></div>\n<p> </p>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">boots &amp; body also work in the camp clothing slot.</span></span></span><br><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">to contain it's power, the armor set is in a dragon egg within the tutorial chest</span></span></div>\n<p> </p>\n<p> </p>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><span style=\"color:#ffffff;\"><strong>Races &amp; Body Types</strong></span></span></span></div>\n<p><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">Humans, Drow, Elves, Tieflings -  BT1 / BT2 / BT3 / BT4</span></span></span></p>\n<p><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">Githyanki - female &amp; male</span></span></span></p>\n<p><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">Dragonborn - female &amp; male</span></span></span></p>\n<p><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">TMTS<br>Shorties</span></span></span></p>\n<p>Small Male Bodies</p>\n<p> </p>\n<p> </p>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><strong>Installation instructions</strong></span></span></div>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><span style=\"color:#d4d4d8;\">drop the file in BG3 MM - done!</span></span></span></div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><strong>The biggest and best supporters:</strong></span></span></div>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><a href=\"https://next.nexusmods.com/profile/khaleesinz?gameId=6945\">Mons</a>, <a href=\"https://next.nexusmods.com/profile/Petramalia\">Petra</a>, <a href=\"https://next.nexusmods.com/profile/Grace455?gameId=6945\">Lucille</a>, <a href=\"https://next.nexusmods.com/profile/PBTrinity?gameId=6945\">PB-Trinity</a>, <a href=\"https://next.nexusmods.com/profile/wayward314\">Wayward </a>and <a href=\"https://next.nexusmods.com/profile/AnxietyTheOrk?gameId=6945\">Anxiety</a> - thank you for everything. &lt;3</span></span></div>",
