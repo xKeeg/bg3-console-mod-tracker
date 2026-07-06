@@ -136636,10 +136636,10 @@
     "game_id": 6715,
     "name": "Aurora Head",
     "name_id": "aurorahead",
-    "summary": "Aurora head. She has both normal and cat eyes. For standard body type. Races include: Half-Elf, Elf, Drow, Gnome, Githyanki and Tiefling.",
-    "description": "<h2>Aurora Head Mod</h2>\n<p style=\"font-size:0.95rem;\"><em>“Her eyes hold the quiet light of the northern sky.”</em></p>\n<hr>\n<p><strong>About</strong></p>\n<p>This is <strong>Aurora</strong>. She’s currently available for the following races (alphabetical):<br><strong>Drow, Elf, Githyanki, Gnome, Half-Elf, Human, and Tiefling</strong>.</p>\n<ul>\n<li>Each head includes both <strong>regular</strong> and <strong>cat-eye</strong> versions.</li>\n<li>For <strong>Drow, Elf, and Half-Elf</strong>, there is a <strong>pinpoint eye</strong> variant with slightly smaller ears.</li>\n<li>I reduced the length of the lashes for a subtler look; <strong>normal lash versions</strong> are still available for <strong>Elf, Drow, Tiefling, Human, and Half-Elf</strong>.</li>\n</ul>\n<p>I wanted Aurora’s look to capture the quiet strength and beauty of <em>Michelle Pfeiffer in Ladyhawke</em> — maybe I should have named her <em>Isabeau d'Anjou</em>.</p>\n<p>My plan is to expand Aurora to include all races and strong body types over time; this will take a while.</p>\n<p>If you like this head, please consider sharing screenshots of your Tavs — I love seeing what others create.</p>\n<hr>",
+    "summary": "Aurora head. She has both normal and cat eyes. For standard body type. Races include: Half-Elf, Halfling, Half-Orc, Elf, Drow, Dwarf, Gnome, Githyanki and Tiefling.",
+    "description": "<h2>Aurora Head Mod</h2>\n<p style=\"font-size:0.95rem;\"><em>“Her eyes hold the quiet light of the northern sky.”</em></p>\n<hr>\n<p><strong>About</strong></p>\n<p>This is <strong>Aurora</strong>. She’s currently available for the following all races.</p>\n<ul>\n<li>Most heads include both <strong>regular</strong> and <strong>cat-eye</strong> versions.</li>\n<li>I reduced the length of the lashes for a subtler look; <strong>normal lash versions</strong> are still available for <strong>Elf, Drow, Tiefling, Human, Githyanki and Half-Elf</strong>.</li>\n</ul>\n<p>I wanted Aurora’s look to capture the quiet strength and beauty of <em>Michelle Pfeiffer in Ladyhawke</em> — maybe I should have named her <em>Isabeau d'Anjou</em>.</p>\n<p>My plan is to expand Aurora to include all races and strong body types over time; this will take a while.</p>\n<p>If you like this head, please consider sharing screenshots of your Tavs — I love seeing what others create.</p>\n<hr>",
     "date_added": 1758427389,
-    "date_updated": 1769705003,
+    "date_updated": 1783340041,
     "date_live": 1758427593,
     "visible": 1,
     "status": 1,
@@ -136653,15 +136653,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/a259/34781963/crop_100x100/tabbledabble_none_53800eb7-5615.png"
     },
     "modfile": {
-      "id": 7029412,
+      "id": 7932835,
       "mod_id": 5248434,
-      "version": "1.0.0.14",
-      "filename": "aurorahead_2c2f44a9-6990-9c9e-7tso.zip",
-      "changelog": "Fixed Githyanki skin spots.",
-      "date_added": 1763659289,
+      "version": "1.0.0.24",
+      "filename": "aurorahead_2c2f44a9-6990-9c9e-egui.zip",
+      "changelog": "Added custom skeletons to fix piercings for Elf, Human, Githyanki\nAdded Half-Orc heads\nAdded Dwarf heads\nAdded Halfling heads\nAdded an additional Gnome head\nAdded two additional Githyanki heads Un-yassified, same mesh but different skin textures",
+      "date_added": 1783339783,
       "date_updated": 0,
-      "date_scanned": 1763659395,
-      "filesize": 69801374,
+      "date_scanned": 1783340011,
+      "filesize": 131604257,
       "platforms": [
         {
           "platform": "windows",
@@ -136669,15 +136669,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -136720,6 +136720,11 @@
         "date_added": 0
       },
       {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
         "name": "Elf",
         "name_localized": "Elf",
         "date_added": 0
@@ -136735,6 +136740,11 @@
         "date_added": 0
       },
       {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
         "name": "Human",
         "name_localized": "Human",
         "date_added": 0
@@ -136742,6 +136752,11 @@
       {
         "name": "Half-Elf",
         "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
         "date_added": 0
       },
       {
@@ -136757,10 +136772,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7029412
-      },
-      {
         "platform": "mac",
         "modfile_live": 7029412
       },
@@ -136771,6 +136782,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7029412
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7932835
       }
     ]
   },
