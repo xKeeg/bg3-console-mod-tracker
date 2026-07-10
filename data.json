@@ -73261,9 +73261,9 @@
     "name": "Orchid Fall Dress",
     "name_id": "orchid-fall-dress",
     "summary": "BDO Outfit Inspired - Body 1 Female Only",
-    "description": "<h2>Maybe the fabric of the garment is not perfect, I'm still learning how to shape it properly and with each update I promise that I'm trying to improve it to the most perfect possible.</h2>\n<p> </p>\n<p><span style=\"color:#1e84cc;font-family:Roboto, sans-serif;font-size:x-large;\"><strong><em>Find in the <a href=\"https://www.nexusmods.com/baldursgate3/mods/457\">Tutorial Chest</a> or buy from the following sellers:<br><a href=\"https://bg3.wiki/wiki/Dammon\"><br></a><a title=\"Arron\" href=\"https://bg3.wiki/wiki/Arron\">Arron</a> IN <a href=\"https://bg3.wiki/wiki/Emerald_Grove\">Emerald Grove</a> ATO I <br><a href=\"https://bg3.wiki/wiki/Talli\">Talli</a> IN <a href=\"https://bg3.wiki/wiki/Last_Light_Inn\">Last Light Inn</a> ATO II<br><a href=\"https://bg3.wiki/wiki/Popper\">Popper</a> IN <a href=\"https://bg3.wiki/wiki/Circus_of_the_Last_Days\">Circus</a> ATO III<br><a href=\"https://bg3.wiki/wiki/Gloomy_Fentonson\">Gloomy Fentonson</a> IN <a href=\"https://bg3.wiki/wiki/Stormshore_Armoury\">Stormshore Armoury</a> ATO III</em></strong></span></p>\n<p> </p>\n<p><span style=\"color:#1e84cc;font-family:Roboto, sans-serif;font-size:x-large;\"><strong><em>Fully Dyeable - Body 1</em></strong></span></p>\n<h2><em>Just the clothes, no bonuses for now. (I accept suggestions)</em></h2>\n<p> </p>\n<p> </p>\n<h2><code><strong>If you could leave a \"Like\" to spread my work, I would be very grateful.</strong></code></h2>",
+    "description": "<h2>Maybe the fabric of the garment is not perfect, I'm still learning how to shape it properly and with each update I promise that I'm trying to improve it to the most perfect possible.<br><br>Opdate 1.6: Various fixes, including the all-black outfit, ambient occlusion issues, and physics.</h2>\n<p> </p>\n<p><span style=\"color:#1e84cc;font-family:Roboto, sans-serif;font-size:x-large;\"><strong><em>Find in the <a href=\"https://www.nexusmods.com/baldursgate3/mods/457\">Tutorial Chest</a> or buy from the following sellers:<br><a href=\"https://bg3.wiki/wiki/Dammon\"><br></a><a title=\"Arron\" href=\"https://bg3.wiki/wiki/Arron\">Arron</a> IN <a href=\"https://bg3.wiki/wiki/Emerald_Grove\">Emerald Grove</a> ATO I <br><a href=\"https://bg3.wiki/wiki/Talli\">Talli</a> IN <a href=\"https://bg3.wiki/wiki/Last_Light_Inn\">Last Light Inn</a> ATO II<br><a href=\"https://bg3.wiki/wiki/Popper\">Popper</a> IN <a href=\"https://bg3.wiki/wiki/Circus_of_the_Last_Days\">Circus</a> ATO III<br><a href=\"https://bg3.wiki/wiki/Gloomy_Fentonson\">Gloomy Fentonson</a> IN <a href=\"https://bg3.wiki/wiki/Stormshore_Armoury\">Stormshore Armoury</a> ATO III</em></strong></span></p>\n<p> </p>\n<p><span style=\"color:#1e84cc;font-family:Roboto, sans-serif;font-size:x-large;\"><strong><em>Fully Dyeable - Body 1</em></strong></span></p>\n<h2><em>Just the clothes, no bonuses for now. (I accept suggestions)</em></h2>\n<p> </p>\n<p> </p>\n<h2><code><strong>If you could leave a \"Like\" to spread my work, I would be very grateful.</strong></code></h2>",
     "date_added": 1731010361,
-    "date_updated": 1772812727,
+    "date_updated": 1783701855,
     "date_live": 1731011920,
     "visible": 1,
     "status": 1,
@@ -73277,15 +73277,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5502/34733429/crop_100x100/vivace.png"
     },
     "modfile": {
-      "id": 7025278,
+      "id": 7950160,
       "mod_id": 4470100,
-      "version": "1.5.1.2",
-      "filename": "lahndress_03385f7b-5de8-9447-7-1xcv.zip",
-      "changelog": "minor fix",
-      "date_added": 1763573234,
+      "version": "1.6.0.0",
+      "filename": "lahndress_03385f7b-5de8-9447-7-0wy4.zip",
+      "changelog": "Various fixes, including the all-black outfit, ambient occlusion issues, and physics.",
+      "date_added": 1783701758,
       "date_updated": 0,
-      "date_scanned": 1763573286,
-      "filesize": 29101591,
+      "date_scanned": 1783701850,
+      "filesize": 51922211,
       "platforms": [
         {
           "platform": "windows",
@@ -73293,15 +73293,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -73416,10 +73416,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7025278
-      },
-      {
         "platform": "mac",
         "modfile_live": 7025278
       },
@@ -73430,6 +73426,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7025278
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7950160
       }
     ]
   },
