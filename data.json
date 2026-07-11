@@ -150661,7 +150661,7 @@
       "mod_id": 6040654,
       "version": "2.1.2.56",
       "filename": "edh_familiars_9e296d8e-02fa-84-1t9l.zip",
-      "changelog": "- fixed various animation delays including jumps.\n- buffed flameskull stats",
+      "changelog": "- fixed various animation casting delays including jumps.\n- removed unarmed attacks from skeleton warrior\n-increased duration of wraith cat’s shadowblend \n- buffed flameskull stats",
       "date_added": 1783750664,
       "date_updated": 0,
       "date_scanned": 1783750930,
