@@ -82965,7 +82965,7 @@
     "summary": "The unofficial community bug fix mod - Over 1600 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1783546437,
+    "date_updated": 1783732795,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -82979,15 +82979,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7942871,
+      "id": 7951934,
       "mod_id": 4561805,
-      "version": "4.6.5.2",
-      "filename": "itembugfix_010e73d5-9342-e528-gjva.zip",
-      "changelog": "- \"Nauseous\" incorrect description in Portuguese localization corrected\n- Sarevok's Horned Helmet 'Deathbringer's Sight' and Assassin of Bhaal Cowl 'Murderous Sight' have been given custom Darkvision light cones, special thanks to Bert!\n- Dame Aylin 'Lunar Flare' is now correctly marked as a level 2 Evocation spell, and no longer incorrectly states it applies 2 turns of Guiding Bolt\n- Produce Flame: Hurl now correctly lasts until long rest\n- All Myrmidons now default to their special weapon attacks (matching Earth Myrmidon) instead of Main Hand Attack, and no longer display UI errors when selecting the special weapon attacks (3 changed)\n- All Myrmidon attacks are now correctly tagged with their appropriate DamageType and list their saving throw type in the tooltip (5 changed)\n- Air Myrmidon's Flail of the Vortex no longer has an unusable Tenacity passive attached to it\n- Improved Extra Attack no longer incorrectly references a main-hand weapon attack\n- Extra Attack and Improved Extra Attack tooltip modifications now simply state \"additional attack\" instead of \"additional weapon attack\"\n- Slayer's Improved Extra Attack no longer incorrectly references a main-hand weapon attack\n- Wild Strike and Improved Wild Strike no longer incorrectly reference Unarmed Strike, and now more accurately state \"creature Wild Shape\" instead of \"animal Wild Shape\"",
-      "date_added": 1783546348,
+      "version": "4.6.6.1",
+      "filename": "itembugfix_010e73d5-9342-e528-5tpv.zip",
+      "changelog": "- Code review/improvement\n- Dampen Elements and Absorb Elements should again correctly trigger on every NPC attack that uses the appropriate elemental damage type\n- Full review of Wild Shape and Slayer actions\n-- Slayer can now engage in dialogue without having to first dismiss the form\n-- Slayer actions now use Strength as the spell casting modifier, matching Orin's Slayer\n-- Wild Shape actions now always use their correct/intended spell casting modifiers, and fixed DCs will increase if save DC is higher",
+      "date_added": 1783732700,
       "date_updated": 0,
-      "date_scanned": 1783546367,
-      "filesize": 1751465,
+      "date_scanned": 1783732706,
+      "filesize": 1753353,
       "platforms": [
         {
           "platform": "windows",
@@ -83101,7 +83101,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7942871
+        "modfile_live": 7951934
       }
     ]
   },
