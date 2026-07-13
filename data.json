@@ -21100,6 +21100,104 @@
     ]
   },
   {
+    "id": 4324641,
+    "game_id": 6715,
+    "name": "Spell Slot x 2 and Feats Every 2 Levels",
+    "name_id": "spellslotx2andfeatsevery2levels",
+    "summary": "Spell Slots x 2 and Extra Feats in every 2 levels. Only vanilla classes.",
+    "description": "<p>Spell Slots x 2 and Extra feat every 2 levels, being 2, 4, 6, 8, 10 and 12. Only vanilla classes.</p>\n<p>This mod may not function correctly if loaded alongside other mods that alter the number of spell slots and talent frequencies or the default progression of classes.</p>",
+    "date_added": 1725761826,
+    "date_updated": 1783953096,
+    "date_live": 1725763568,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/spellslotx2andfeatsevery2levels",
+    "submitted_by": {
+      "id": 34651722,
+      "name_id": "shackal0",
+      "username": "Shackal0",
+      "profile_url": "https://mod.io/u/shackal0",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/4d9f/34651722/crop_100x100/d84c21a60756feb8a22d2e505af06cf.jpg"
+    },
+    "modfile": {
+      "id": 6279141,
+      "mod_id": 4324641,
+      "version": "1.0.0.6",
+      "filename": "spellslotx2andfeatsevery2level-ljzy.zip",
+      "changelog": "Added support for Path 8",
+      "date_added": 1744813027,
+      "date_updated": 0,
+      "date_scanned": 1744813223,
+      "filesize": 5120911,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/9e2c/4324641/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/9e2c/4324641/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/9e2c/4324641/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/9e2c/4324641/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6279141
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6279141
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6279141
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6279141
+      }
+    ]
+  },
+  {
     "id": 4324647,
     "game_id": 6715,
     "name": "Spell Slot x 2 and Feats Every Level",
@@ -26800,6 +26898,119 @@
       {
         "platform": "windows",
         "modfile_live": 6281154
+      }
+    ]
+  },
+  {
+    "id": 4331916,
+    "game_id": 6715,
+    "name": "Free Rain (Ritual Create/Destroy Water)",
+    "name_id": "create-water-ritual1",
+    "summary": "Makes Create/Destroy Water a ritual spell so that cleaning up all those suspicious blood stains won't consume precious spell slots.",
+    "description": "<h2>What does this do?</h2>\n<p>Makes Create/Destroy Water a Ritual spell, removing the spell slot cost for casts of any level.</p>\n<p>Gives you <strong><em>free rein</em></strong> to clean up to your heart's content... <em>geddit?</em></p>\n<h2>Who is this for?</h2>\n<p>Anyone who wants to bend the rules a little bit so they can keep their party and camp looking fresh without using up their spell slots.</p>",
+    "date_added": 1726059815,
+    "date_updated": 1783952583,
+    "date_live": 1726067679,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/create-water-ritual1",
+    "submitted_by": {
+      "id": 34776884,
+      "name_id": "cytotoxictce11",
+      "username": "PhalarAluve",
+      "profile_url": "https://mod.io/u/cytotoxictce11",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/0e40/34776884/crop_100x100/635px-phalar_aluve_gallery_awe.png"
+    },
+    "modfile": {
+      "id": 5559836,
+      "mod_id": 4331916,
+      "version": "1.0.0.3",
+      "filename": "createwaterritual_c6d1ba89-6c8-5d9o.zip",
+      "changelog": null,
+      "date_added": 1726059815,
+      "date_updated": 0,
+      "date_scanned": 1726060213,
+      "filesize": 131363,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "createwaterritual.png",
+      "original": "https://image.modcdn.io/mods/4e27/4331916/createwaterritual.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4e27/4331916/crop_320x180/createwaterritual.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4e27/4331916/crop_640x360/createwaterritual.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4e27/4331916/crop_1280x720/createwaterritual.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "Druid",
+        "name_localized": "Druid",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5559836
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5559836
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5559836
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5559836
       }
     ]
   },
@@ -83968,6 +84179,104 @@
     ]
   },
   {
+    "id": 4578005,
+    "game_id": 6715,
+    "name": "Infinite Illithid Wisdom Check",
+    "name_id": "illithid-wisdom-check",
+    "summary": "Infinite Illithid Wisdom Check can be used unlimited times without requiring a long rest. No passives or spells are needed just enable the mod. If you don't need it, simply disable the mod.",
+    "description": "<p> </p>\n<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/brandoftheabsolute1.png\" alt=\"\" width=\"800\" height=\"167\"></p>\n<h2><em>By SwissFred</em><br><br><span style=\"color:#ffff00;\">Illithid Wisdom Check can be used unlimited times without requiring a long rest.<br>No passives or spells are needed—just enable the mod. <br>If you don’t need it, simply disable the mod.<br>to have that choice in conversations do not attack or be aggressive.<br><br></span></h2>\n<p> </p>\n<p> </p>",
+    "date_added": 1734958894,
+    "date_updated": 1783952633,
+    "date_live": 1734962454,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/illithid-wisdom-check",
+    "submitted_by": {
+      "id": 33634988,
+      "name_id": "swissfred57",
+      "username": "SwissFred57",
+      "profile_url": "https://mod.io/u/swissfred57",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
+    },
+    "modfile": {
+      "id": 7244347,
+      "mod_id": 4578005,
+      "version": "2.0.8.6",
+      "filename": "illithidwisdomcheck_0ef0046c-4-0sqj.zip",
+      "changelog": "On game load, if the Illithid Wisdom Check has already been used by any party member, the usage flag will now be cleared.\nOptimized the logic that handles Illithid Wisdom Check detection.",
+      "date_added": 1767806599,
+      "date_updated": 0,
+      "date_scanned": 1767806636,
+      "filesize": 17582780,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "brandoftheabsolutetitle.png",
+      "original": "https://image.modcdn.io/mods/222c/4578005/brandoftheabsolutetitle.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/222c/4578005/crop_320x180/brandoftheabsolutetitle.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/222c/4578005/crop_640x360/brandoftheabsolutetitle.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/222c/4578005/crop_1280x720/brandoftheabsolutetitle.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7244347
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7244347
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7244347
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7244347
+      }
+    ]
+  },
+  {
     "id": 4582224,
     "game_id": 6715,
     "name": "Shadowheart Werewolf",
@@ -102174,6 +102483,109 @@
     ]
   },
   {
+    "id": 4854736,
+    "game_id": 6715,
+    "name": "NPC Redesign: Mystra (Vanilla Head) by AzazeL",
+    "name_id": "aza-npc-redesign-mystra-og-head",
+    "summary": "New Visuals for Mystra, the Goddess of Magic Vanilla Head Variant",
+    "description": "<h3><strong>Watch the Gallery above to see the Overall Changes</strong></h3>\n<p><strong><a href=\"https://mod.io/g/baldursgate3/m/aza-npc-redesign-mystra-alt-head\"><span style=\"font-size:large;\">Alternate Head Variant</span></a></strong></p>\n<p><strong><a href=\"https://www.patreon.com/posts/npc-redesign-is-125818455\"><span style=\"font-size:large;\">What NPC Redesign would you like to see next? [Live Survey — clickable</span><span style=\"font-size:large;\">]</span></a></strong></p>\n<blockquote>\n<p><strong>Content received:</strong> New visuals for Mystra, the Goddess of Magic</p>\n<p>If you're experiencing any visual bugs, please make sure first that you're not using any outdated shaders and you don't have any old replacers in your BG3/Data/Generated. I would also recommend checking the integrity of the game files</p>\n<p><br><strong>Version for MacOS/Consoles</strong> <strong>is pending approval</strong></p>\n</blockquote>\n<p><strong><a href=\"https://www.patreon.com/AzazeLwasTaken\">Special Thanks💝to my Patrons!</a><br></strong><a title=\"NexusMods: AzazeL\" href=\"https://next.nexusmods.com/profile/AzazeLwasTaken\"><img src=\"https://i.imgur.com/A7ZdcLf.png\" alt=\"NexusMods\" width=\"168\" height=\"79\"></a>  <a title=\"Mod.io: AzazeL\" href=\"https://mod.io/u/azazelwastaken/\"><img src=\"https://i.imgur.com/zUn0KQU.png\" alt=\"Mod.io\" width=\"136\" height=\"79\"></a>  <a title=\"Patreon: AzazeL\" href=\"https://www.patreon.com/c/AzazeLwasTaken\"><img src=\"https://i.imgur.com/topoLV2.png\" alt=\"Patreon\" width=\"157\" height=\"79\"></a></p>",
+    "date_added": 1744059485,
+    "date_updated": 1783953480,
+    "date_live": 1744198506,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aza-npc-redesign-mystra-og-head",
+    "submitted_by": {
+      "id": 35138009,
+      "name_id": "azazelwastaken",
+      "username": "AzazeLwasTaken",
+      "profile_url": "https://mod.io/u/azazelwastaken",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f797/35138009/crop_100x100/redgirl2.png"
+    },
+    "modfile": {
+      "id": 6253745,
+      "mod_id": 4854736,
+      "version": "1.0.0.3",
+      "filename": "aza_npcre_mystra_da97ca7a-51cd-7w3c.zip",
+      "changelog": null,
+      "date_added": 1744059536,
+      "date_updated": 0,
+      "date_scanned": 1744071418,
+      "filesize": 4497670,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/fd9a/4854736/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/fd9a/4854736/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/fd9a/4854736/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/fd9a/4854736/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6253745
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6253745
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6253745
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6253745
+      }
+    ]
+  },
+  {
     "id": 4855079,
     "game_id": 6715,
     "name": "NPC Redesign: Mystra (Alt. Head) by AzazeL",
@@ -115188,6 +115600,109 @@
       {
         "platform": "ps5",
         "modfile_live": 6369083
+      }
+    ]
+  },
+  {
+    "id": 4940715,
+    "game_id": 6715,
+    "name": "Witch Elf (Custom Subrace)",
+    "name_id": "witch-elf-custom-subrace",
+    "summary": "This mod adds a homebrew subrace to BG3 called Witch Elf. It's inspired by HHOM5, TW:W2 and WoW. Includes custom VFX Whip cantrip and a few nice features that will spice up your game.~",
+    "description": "<div style=\"text-align:center;\"><strong><em><span style=\"font-size:xx-small;\">𖥔</span></em></strong><br><br>It is only by way of pain one arrives at pleasure.<br><span style=\"font-size:xx-small;\"><br></span><strong><em><span style=\"font-size:xx-small;\"> ˖<br></span></em></strong><br><strong><span style=\"font-size:x-large;\">Witch Elf<em><span style=\"font-size:xx-small;\"> <br></span></em></span></strong><em><br><strong>Witch elves were a banished faction of high elves who devoted themselves to The Mistress of Darkness.<br>Those who worship Her are driven by their dark desires. Some want forbidden knowledge, others love pain and get pleasure out of it, but in the end all they want is to win The Mistress's favor at any cost.<br>This occultic subrace seeks to corrupt as many elves as possible.</strong></em><br><strong><em><span style=\"font-size:xx-small;\"><br>˖  𖥔  ˖<br><br></span></em></strong></div>\n<div style=\"text-align:center;\"><img src=\"https://imgur.com/76M5SLJ.png\" alt=\"76M5SLJ.png\"></div>\n<p style=\"text-align:center;\"><br><br></p>\n<div style=\"text-align:center;\"><img src=\"https://imgur.com/pOgf5oV.png\" alt=\"pOgf5oV.png\"></div>\n<p style=\"text-align:center;\"><br><span style=\"font-size:xx-small;\">Cantrip</span><br><strong><span style=\"font-size:small;\">1d10 Psychic damage</span></strong><br>You slash a creature with a dark projection of a purple whip.<br>The corruption consumes them for a split second,<br>causing an enemy to mess up their next attack:<br><br><u><strong>A Taste of Corruption</strong></u><br>Creature has a moment of weakness against the corruption,<br>it has <strong><u>Disadvantage</u></strong> on its next <strong><u>Attack Roll</u></strong>.<br><strong><em><span style=\"font-size:xx-small;\">˖<br><br></span></em></strong></p>\n<div style=\"text-align:center;\"><img src=\"https://imgur.com/oSmp9CI.gif\" alt=\"oSmp9CI.gif\"></div>\n<p style=\"text-align:center;\"><strong><em><span style=\"font-size:xx-small;\"><br><br>˖  𖥔  ˖<br></span></em></strong></p>\n<div style=\"text-align:center;\"><img src=\"https://imgur.com/76M5SLJ.png\" alt=\"76M5SLJ.png\"></div>\n<p style=\"text-align:center;\"><br><strong><em><span style=\"font-size:xx-small;\"> </span></em></strong></p>\n<div style=\"text-align:center;\"><img src=\"https://imgur.com/b7f0pOi.png\" alt=\"b7f0pOi.png\"></div>\n<p style=\"text-align:center;\"><br><br><span style=\"font-size:xx-small;\">Passive Feature<br></span>Your sadistic rituals taught you how to empower yourself through the means of agonizing pain.<br>When you are under any <strong><u>Condition</u></strong>, your attacks or spells deal an additional <strong><span style=\"font-size:small;\">1d4 Psychic damage</span></strong><br>and you gain <u><strong>Advantage</strong></u> to Charisma and Wisdom <u><strong>Saving Throws</strong></u>.<strong><em><span style=\"font-size:xx-small;\"><br><br>˖  𖥔  ˖<br></span></em></strong></p>\n<div style=\"text-align:center;\"><img src=\"https://imgur.com/76M5SLJ.png\" alt=\"76M5SLJ.png\"></div>\n<p style=\"text-align:center;\"><br><br></p>\n<div style=\"text-align:center;\"><img src=\"https://imgur.com/bovWV7u.png\" alt=\"bovWV7u.png\"></div>\n<p style=\"text-align:center;\"><br><span style=\"font-size:xx-small;\">Passive Feature</span><br>For your utmost loyalty, The Mistress of Darkness grants you resistance to <strong><span style=\"font-size:small;\">Psychic damage</span></strong>.<br>You take half as much damage from <strong><span style=\"font-size:small;\">Psychic damage</span></strong>.<br><br><br><strong><em><span style=\"font-size:xx-small;\">˖  𖥔  ˖</span></em></strong><br><br><strong><span style=\"font-size:x-large;\">Highly recommended mods for best experience:<br></span></strong><br><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/2617\" rel=\"nofollow\">Scantily Camp Outfit<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2002\" rel=\"nofollow\">Astralities' Hair Color Supplement<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2900\" rel=\"nofollow\">Astralities' Fantasy Skintone Expansion<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/562\" rel=\"nofollow\">P4_CC Blonde and White Hair Edits<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2972\" rel=\"nofollow\">Suan Eyes Preset<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2351\" rel=\"nofollow\">Beautiful Curvy Body and Sexy Outfits<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2001\" rel=\"nofollow\">Piercing Edits<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2047\" rel=\"nofollow\">Ghouls Vanilla Piercing Recolors<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2067\" rel=\"nofollow\">Trips' Accessory Collection<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2754\" rel=\"nofollow\">Unique Tav<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/2982\" rel=\"nofollow\">Long Hairs</a><br><br>Some of my mods:<br><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/3440\" rel=\"nofollow\">Beautiful Long Nails<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/3445\" rel=\"nofollow\">Gradient Hands and Feet Body Tattoo<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/1684\" rel=\"nofollow\">CovenElf's Tattoo and Makeup Collection<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/1955\" rel=\"nofollow\">CovenElf's New Colours for Tattoo and Makeup<br></a><br><strong><em><span style=\"font-size:xx-small;\">˖  𖥔  ˖</span></em></strong><br><br><strong><span style=\"font-size:x-large;\">Special thanks to:</span></strong><br><br><strong>NellsRelo for his wonderful Race Guide</strong><br><strong>Astralities for helping me start the subrace process and figure out the coding</strong><br><strong>Trips for endless knowledge on most relevant topics</strong><br><strong>ShinyHobo for the most helpful and intuitive</strong> <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool/releases/tag/v0.12.14\" rel=\"nofollow\">BG3 Multitool</a><br><strong>Labotor for helping me with learning coding and how eye preset work<br></strong><br><strong><em><span style=\"font-size:xx-small;\">˖  𖥔  ˖</span></em></strong><br><br></p>\n<div style=\"text-align:center;\"><img src=\"https://imgur.com/76M5SLJ.png\" alt=\"76M5SLJ.png\"></div>\n<p style=\"text-align:center;\"><br><br><strong><em><span style=\"font-size:xx-small;\"> 𖥔</span></em></strong></p>\n<p> </p>\n<p>Original Mod created by <strong>CovenElf <a href=\"https://www.nexusmods.com/baldursgate3/mods/3490\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nexusmods.com/baldursgate3/mods/3490</a><br></strong>I ported this mod with the permission of the creator.</p>",
+    "date_added": 1747349915,
+    "date_updated": 1783953022,
+    "date_live": 1747350365,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/witch-elf-custom-subrace",
+    "submitted_by": {
+      "id": 27805811,
+      "name_id": "eclip5ex",
+      "username": "Eclip5e_",
+      "profile_url": "https://mod.io/u/eclip5ex",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/852c/27805811/crop_100x100/eclipse_round.png"
+    },
+    "modfile": {
+      "id": 6369252,
+      "mod_id": 4940715,
+      "version": "1.0.0.1",
+      "filename": "covenelfwitchelfrace_94a1ff35-4d1k.zip",
+      "changelog": null,
+      "date_added": 1747349929,
+      "date_updated": 0,
+      "date_scanned": 1747349939,
+      "filesize": 3021283,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/d629/4940715/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d629/4940715/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d629/4940715/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d629/4940715/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6369252
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6369252
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6369252
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6369252
       }
     ]
   },
@@ -131253,6 +131768,119 @@
     ]
   },
   {
+    "id": 5133933,
+    "game_id": 6715,
+    "name": "Leader Homebrew Class",
+    "name_id": "leader-homebrew-class",
+    "summary": "Homebrew Leader Class",
+    "description": "<p><img src=\"https://i.imgur.com/J51D3cO.png\" alt=\"J51D3cO.png\"><br>A Leader's strength is defined by their unique journey to the forefront. Your command abilities flow from your personality and the trust you forge, but your motivations are entirely your own: a hunger for conquest, a need for radical change, or an unshakable conviction. Your path may be paved by innate charisma, learned strategy, or profound influence. Embrace a spectrum of command, for the only constant is that every true Leader leads their own way.<br><br><strong><u>Base Class Feature:</u></strong><br><br><strong>Hit Points:</strong></p>\n<ul>\n<li>Hit Points at 1st Level: 8</li>\n<li>Hit Points at Higher Levels: Gain +5 per level</li>\n</ul>\n<p><br><strong>Proficiencies:</strong></p>\n<ul>\n<li>Saving Throws: Charisma, and one additional proficiency based on the selected subclass</li>\n<li>Skills: Choose 2 from subclass exclusive lists</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/ViTVSAt.png\" alt=\"ViTVSAt.png\"><br><br><strong>Base Class Features:</strong></p>\n<ul>\n<li>Subclass Selection</li>\n<li>Charismatic Presence: You gain a +2 roll bonus to charisma saving throws and learn the Charm Person spell.</li>\n<li>3 Motivation Charges: Motivation Charges are a new action resource that are used for class and subclass-specific actions, these refresh on a long rest.</li>\n</ul>\n<h2>Select your subclass, check the Articles for more information - <a href=\"https://www.nexusmods.com/baldursgate3/articles/1611\">Warlord</a>, <a href=\"https://www.nexusmods.com/baldursgate3/articles/1612\">Evangelist</a>, <a href=\"https://www.nexusmods.com/baldursgate3/articles/1613\">Puppeteer</a>, <a href=\"https://www.nexusmods.com/baldursgate3/articles/1614\">Broker</a>, and <a href=\"https://www.nexusmods.com/baldursgate3/articles/1615\">Empath</a>.</h2>\n<p><br><img src=\"https://i.imgur.com/ML62QjY.png\" alt=\"ML62QjY.png\"><br><strong><br>Subclass Features:</strong></p>\n<ul>\n<li>Select a passive boon that helps you in combat or you allies.</li>\n<li>Preach, Incite, Influence, Bargain, and Resonate can be changed at each Leader level, All passives scale up based on your characters level at levels 6, 11, and 17.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/R4uURp4.png\" alt=\"R4uURp4.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>Loyal Companion: Expend a Bonus Action + Motivation Charge to form a powerful connection with an enemy, the target is drawn to your side as a devoted companion. This companion lasts until killed or you choose a new companion. Minor Warning: The Loyal Companion will turn hostile if you recruit a new companion. (Loyal Companions are given a teleport to use out of combat to help with traversal if they get stuck.)</li>\n<li>+1 Additional Motivation Charge (4)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/teRa2il.png\" alt=\"teRa2il.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Select a Feat</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/ieUAfwV.png\" alt=\"ieUAfwV.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>+1 Motivation Charge (5)</li>\n<li>Strategic Command: Inspire Action - Expend a Bonus Action + Motivation Charge, allowing you to choose one allied creature within 9m/30ft. That creature gains advantage on its next attack roll before the end of its next turn.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/1uhoXIx.png\" alt=\"1uhoXIx.png\"><br><br><strong>Subclass Features:</strong></p>\n<ul>\n<li>Gain auras based on your Subclass, these auras persist through long rest.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/xDvNHD0.png\" alt=\"xDvNHD0.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>+1 Motivation Charge (6)</li>\n<li>Companion Archetype: Your Loyal Companion develops specialized training. You can choose to grant it one of five archetypes: Vanguard, Skirmisher, Support, Arcanist, or Duelist.</li>\n</ul>\n<ol>\n<li>Vanguard: Your companion becomes a sturdy frontline combatant. It gains a +2 bonus to its AC, and damage taken is reduced by 2.</li>\n<li>Skirmisher: Your companion becomes agile and adept at flanking. It gains a +1 Bonus to its Dexterity score (to a maximum of 20) and its movement speed is increased by 3m/10ft. Additionally, it will not provoke Opportunity Attacks.</li>\n<li>Support: Your companion focuses on aiding you and your allies. It gains a +1 Bonus to its Wisdom score (to a maximum of 20) and it can use the Help action. Additionally, once per short rest, it can cast Cure Wounds at 1st level.</li>\n<li>Arcanist: Your companion becomes a focused spellcaster. It gains the ability to cast the Fire Bolt cantrip, and is able to cast 1st level Magic Missile and Burning Hands once per short rest.</li>\n<li>Duelist: Your companion becomes a swift and precise combatant. It gains the ability to cast Duelist's Riposte and gains the ability to cast Compelled Duel once per combat.</li>\n</ol>\n<p><br><img src=\"https://i.imgur.com/IghtQDo.png\" alt=\"IghtQDo.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Select a Feat</li>\n<li>(Tier 1) Edicts of Command: Edicts of Command are powerful mental abilities that manipulate the morale and perception of both allies and enemies. (You can choose two at level 8, one at level 12, one at level 16, and one at level 20) Each level interval increases the Tier of your Edicts of Command, unlocking spells that have a higher motivation charge cost. (View <a href=\"https://www.nexusmods.com/baldursgate3/articles/1526\">Articles</a> for more information).</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/X6mOZ0V.png\" alt=\"X6mOZ0V.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>+1 Motivation Charge (7)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/fkAehGi.png\" alt=\"fkAehGi.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Rallying Cry: You can expend a Bonus Action + Motivation Charge, allowing you to let out a powerful cry that ends the frightened or charmed condition on allied creatures within 9m/30ft. These creatures are also immune to becoming charmed or frightened for 3 turns and gain temporary HP equal to twice your character level.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/5XQG6Pd.png\" alt=\"5XQG6Pd.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>+1 Motivation Charge (8)</li>\n<li>Foresightful Action: Gain an additional Bonus Action Point.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/Mi4CYBf.png\" alt=\"Mi4CYBf.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>Select a Feat</li>\n<li>(Tier 2) Edicts of Command: Choose 1</li>\n<li>Companion Archetypes Enhanced:</li>\n</ul>\n<ol>\n<li>Vanguard: You gain a +3 bonus to AC, and damage taken is reduced by 2+ its Constitution Modifier.</li>\n<li>Skirmisher: You gain a +1 bonus to your DEX score (to a max of 20), its movement speed is increased by 3m/10ft, and it will not provoke Opportunity Attacks. Additionally, the numbed needed to roll a critical hit is reduced by 2.</li>\n<li>Support: You gain a +1 bonus to your WIS score (to a max of 20), and can use the Help action. Additionally, you can cast Cure Wounds as a 1st and 2nd level spell once per short rest and can cast Sanctuary once per long rest.</li>\n<li>Arcanist: You gain the ability to cast the Fire Bolt cantrip, and Magic Missiles and Burning Hands as a 1st level spell. Additionally, it adds it's Intelligence Modifier to their spell damage roll, and is able to cast Ice Storm as a 3rd level spell once per long rest.</li>\n<li>Duelist: You gain the ability to cast Duelist's Riposte, and Compelled Duel once per combat. Additionally, it adds it's Dexterity Modifier to their melee weapon attack rolls and gains the Sentinel: Vengeance feature.</li>\n</ol>\n<p><br><img src=\"https://i.imgur.com/nOyBmVW.png\" alt=\"nOyBmVW.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>+1 Motivation Charge (9)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/MRmfPc3.png\" alt=\"MRmfPc3.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Indomitable Will: You can expend a Motivation Charge to gain Advantage on your Attack Roll or Saving Throw.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/FBaUJla.png\" alt=\"FBaUJla.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>+1 Motivation Charge (10)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/jeqSkaW.png\" alt=\"jeqSkaW.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>Select a Feat</li>\n<li>(Tier 3) Edicts of Command: Choose 1</li>\n<li>Restorative Command: As an Action, you can restore your Motivation Charges equal to your Charisma Modifier.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/UOd2tKj.png\" alt=\"UOd2tKj.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>+1 Motivation Charge (11)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/qcm30sg.png\" alt=\"qcm30sg.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Paragon of Leadership: Your influence becomes truly profound. Allies within 6 meters gain a bonus to all saving throws equal to your charisma modifier, and your Loyal Companion gains this bonus in addition to advantage on all attack rolls.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/tjOLFky.png\" alt=\"tjOLFky.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>+1 Motivation Charge (12)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/iMU66CI.png\" alt=\"iMU66CI.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>(Tier 4) Edicts of Command: Choose 1</li>\n<li>Subclass Capstone</li>\n</ul>\n<p><br><br><br></p>\n<div style=\"text-align:center;\"><span style=\"font-size:large;\"><u><strong>Additional Notes</strong></u></span></div>\n<p><br><br>Please note: This class has had very little testing so insight on balance and bugs would be much appreciated.<br><br><span style=\"color:#cc0000;\"><span style=\"font-size:medium;\">WARNINGS:</span></span></p>\n<ul>\n<li>Killing a Loyal Companion/Pawn while it's allied to you, doesn't drop its regular loot.</li>\n<li>Making story NPC a Loyal Companion/Pawn may cause the game to bug out/crash. (Most bosses should be un-targetable).</li>\n<li>When using Loyal Companion/Pawn on large companion, it can cause some pathfinding issues.</li>\n</ul>\n<p><br><br><strong>Credits:</strong><br>This class was a collaborative effort, and I want to give a special thanks to those who helped. The original idea came from <a href=\"https://next.nexusmods.com/profile/Dedewhale?pk_vid=75008c9c5e39b746175397583340e903\">Dedewhale</a>, and we worked together to bring it to life. A big shout-out goes to <a href=\"https://next.nexusmods.com/profile/IncogneatoBurrito\">IncogneatoBurrito</a> for creating the Osiris script for the Loyal Companion and for making all the mod's images. Finally, thank you to <a href=\"https://next.nexusmods.com/profile/SansHelvetica?gameId=3474\">SansHelvetica</a> for their valuable help with the class's progressions.</p>\n<p> </p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>",
+    "date_added": 1754026661,
+    "date_updated": 1783953207,
+    "date_live": 1754026971,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/leader-homebrew-class",
+    "submitted_by": {
+      "id": 32938824,
+      "name_id": "graphicfade",
+      "username": "GraphicFade",
+      "profile_url": "https://mod.io/u/graphicfade",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 7304196,
+      "mod_id": 5133933,
+      "version": "1.0.0.13",
+      "filename": "leader_homebrew_class_84a40a20-2e0a.zip",
+      "changelog": "•  Change class tags to represent each subclass (Best used with DART).\n• Changed Wrenching Empathy cast animation.\n•  Fixed Shared Empathy status.\n•  A few grammar fixes.\n• Added the remaining spell icons to Broker and Empath. (Thanks to IncogneatoBurrito).",
+      "date_added": 1769123509,
+      "date_updated": 0,
+      "date_scanned": 1769123863,
+      "filesize": 32942334,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "01-leaderhomebrewclassthumbnail.2.png",
+      "original": "https://image.modcdn.io/mods/3398/5133933/01-leaderhomebrewclassthumbnail.2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/3398/5133933/crop_320x180/01-leaderhomebrewclassthumbnail.2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/3398/5133933/crop_640x360/01-leaderhomebrewclassthumbnail.2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/3398/5133933/crop_1280x720/01-leaderhomebrewclassthumbnail.2.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7304196
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7304196
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7304196
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7304196
+      }
+    ]
+  },
+  {
     "id": 5138870,
     "game_id": 6715,
     "name": "Queen's Garments",
@@ -138242,6 +138870,119 @@
       {
         "platform": "ps5",
         "modfile_live": 6863766
+      }
+    ]
+  },
+  {
+    "id": 5304406,
+    "game_id": 6715,
+    "name": "Granny Rings Immersive",
+    "name_id": "granny-rings",
+    "summary": "Granny's Rings have been looted. Have fun finding them. 353 rings are waiting for you to find them. Enjoy!",
+    "description": "<p>Granny Rings has 330 rings in inventory.</p>\n<p>Here is a small preview of what waits for you inside.</p>\n<p><img src=\"https://image.modcdn.io/members/fbc9/42535331/profilenewrings/twilight2.jpg\" alt=\"Twilight Prism\" width=\"380\" height=\"380\"></p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/fbc9/42535331/profilenewrings/containers2.jpg\" alt=\"\" width=\"380\" height=\"380\"></p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/fbc9/42535331/profilenewrings/luthier.jpg\" alt=\"\" width=\"380\" height=\"380\"></p>\n<p> </p>\n<p>A comprehensive list of Granny's Rings</p>\n<p><strong>Rings of Advantage</strong><br>1. Wings of Arcana (Arcana)<br>2. Broken Clover (Acrobatics)<br>3. Zircon Swan (Animal Handling)<br>4. Exotic Tempest (Athletics)<br>5. Chainbreaker Band (Attack)<br>6. Parallel Passion (Deception)<br>7. Nocturne Enigma (History)<br>8. Eclipse Whisper (Insight)<br>9. Obsidian Veil (Intimidation)<br>10. Darkling Embrace (Investigation)<br>11. Lunacrypt (Medicine)<br>12. Veil of Echoes (Nature)<br>13. Keeper's Seal (Perception)<br>14. Starlit Band (Performance)<br>15. Mystshade Band (Persuasion)<br>16. Abyssal Grace (Religion)<br>17. Nightfall Sigils (Slight of Hand)<br>18. Shadowveil (Stealth)<br>19. Veil of Shadows (Survival)<br>20. Unmounted Will (All)</p>\n<p><strong>Rings of Elemental Damage </strong>(Adds +2 of Damage Type Listed)<br>21. Ebon Chaos (Weapon, Acid)<br>22. Veil of Pandemonium (Weapon, Cold)<br>23. Malediction (Weapon, Fire)<br>24. Shadowstorm (Weapon, Force)<br>25. Dusk Reverie (Weapon, Lightning)<br>26. Grim Tempest (Weapon, Necrotic)<br>27. Nightmare’s Embrace (Weapon, Poison)<br>28. Lucid Anarchy (Weapon, Psychic)<br>29. Wicked Serenade (Weapon, Radiant)<br>30. Fury’s Veil (Weapon, Thunder)<br>31. Chaosveil (Unarmed, Acid)<br>32. Shadowwyrm (Unarmed, Cold)<br>33. Abyssal Ember (Unarmed, Fire)<br>34. Veil of Chaos (Unarmed, Force)<br>35. Nightshade Tempest (Unarmed, Lightning)<br>36. Serpent's Whisper (Unarmed, Necrotic)<br>37. Venomous Crown (Unarmed, Poison)<br>38. Twilight Ravage (Unarmed, Psychic)<br>39. Wraithfire(Unarmed, Radiant)<br>40. Darkheart Enigma (Unarmed, Thunder)</p>\n<p><strong>Rings of Damage </strong>(plus 1 to damage)<br>41. The Malevolent Seal (Melee Spell)<br>42. Feathermark (Ranged Spell)<br>43. Eclipse Warden (Melee Weapon)<br>44. Veil of the Forsaken (Ranged Weapon)<br>45. Rimebound Circle (Unarmed)</p>\n<p><strong>Rings of More Damage </strong>(plus 1d4 to damage)<br>46. Nightshade Loop (Melee Spell)<br>47. Midnight Covenant (Ranged Spell)<br>48. Duskborn (Melee Weapon)<br>49. The Dreadlord’s Band (Ranged Weapon)<br>50. Dark Covenant (Unarmed)</p>\n<p><strong>Rings of AoE </strong>(+1d4 of AoE damage to enemies within 4m)<br>51. Acidulous (Acid)<br>52. Nippy (Cold)<br>53. Arson (Fire)<br>54. Blackjack (Force)<br>55. Sitting Duck (Lightning)<br>56. Hoodoo (Necrotic)<br>57. Unhealthful (Poison)<br>58. Mentalist (Psychic)<br>59. Effulgent (Radiant)<br>60. Caterwaul (Thunder)</p>\n<p><strong>Rings of Armor</strong><br>61. The Shell of the Crab (+1)<br>62. Ring of the Lasting Night (+2)<br>63. Forgering (+3)</p>\n<p><strong>Spell Saves</strong><br>64. Shield of Arcana (+1)<br>65. Ward of Mages (+2)<br>66. Spellcaster's Band Save (+3)</p>\n<p><strong>Rings of Damage Immunity</strong><br>67. Iron Bastion (Acid)<br>68. Shieldbearer's Loop (Bludgeoning)<br>69. Unyielding Seal (Chasm)<br>70. Guardian's Embrace (Cold)<br>71. Damage Nullifier (Fire)<br>72. Eternal Bulwark (Force)<br>73. Invincible Circle (Lightning)<br>74. Sanctum Band (Necrotic)<br>75. Veil of the Untouchable (Piercing)<br>76. Damage Ward (Poison)<br>77. Circle of the Damageless (Psychic)<br>78. Runebound Loop (Radiant)<br>79. Veil of Endurance (Slashing)<br>80. Sigil of Fortitude (Thunder)<br>81. Fortress Signet (All)</p>\n<p><strong>Rings of Status Immunity </strong><br>82. The Duerra's Paragon (Blinded)<br>83. The Mindless (Charmed)<br>84. The Unbound Path (Difficult Terrain)<br>85. Kuldjargh's Hold (Disarm)<br>86. The Juniper Band (Vines)<br>87. The Soul's Anchor (Frightened)<br>88. Spinal Fortitude (Paralysed)<br>89. Girdle of the Galeb Duhr (Prone)<br>90. The Everlasting Thaw (Slip on Ice)<br>91. The Aegis of the Grove (Shadow Cursed Vines)<br>92. Gaea's Boon (Spike Growth)<br>93. Corellon's Pathwalker (Surface)<br>94. The Umbral Aegis (Shadow Curse Immunity)</p>\n<p><strong>Rings of Resistance </strong><br>95. Sentinel's Circlet (Acid)<br>96. Ironheart Band (Bludgeoning)<br>97. Resilience (Cold)<br>98. Ebonguard Loop (Falling)<br>99. Barrier Band (Fire)<br>100. Fortress Loop (Force)<br>101. Sylvan Whisper (Lightning)<br>102. Eldertree (Necrotic)<br>103. Moonlit Veil (Piercing)<br>104. Lórien's Embrace (Poison)<br>105. Aelinor's Promise (Psychic)<br>106. Starbloom Circlet (Radiant)<br>107. Faelora's Grace (Slashing)<br>108. Nymril’s Oath (Thunder)<br>109. Silverleaf (All)</p>\n<p><strong>Rings of Interrupt</strong><br>110. The Mage-Breaker's Band (Counterspell)<br>111. Ring of the Swift Reaction (Deflect Missiles)<br>112. Nephilim Slayer (Giant Killer)<br>113. Inquisitor's Guard (Githyanki Parry)<br>114. Astral Defender (Supreme Githyanki Parry)<br>115. Whispering Wind (Misty Escape)<br>116. The Retaliator (Riposte)<br>117. The Crusher (Shield Master)<br>118. The Aegis of Sun's Ire (Warding Flare)<br>119. The Black Eye (Hellish Rebuke)</p>\n<p><strong>Rings of Ambience </strong><br>120. Rose Whisper (Charisma)<br>121. Heartstring (Constitution)<br>122. Dusk's Caress (Dexterity)<br>123. Celestial Knot (Intelligence)<br>124. Moonlit Tear (Strength)<br>125. Promise Feather (Wisdom)</p>\n<p><strong>Rings with Benefits </strong><br>126. Goth King's Valor<br>127. Grasping Shadows<br>128. Boo Can Too<br>129. The Lost Dryad<br>130. The Cursed Druid<br>131. Rejuvenating Miasma<br>132. Dimension Door<br>133. Heroes' Feast<br>134. Bath Party<br>135. Aethelred<br>136. Sphere of Resilience<br>137. Anvil of Grandpa<br>138. Adored Will<br>139. Brave Aura<br>140. Broken Resolve<br>141. Crystal Spirit<br>142. Defiant Twin<br>143. Devoted Glamour<br>144. Exotic Riddle<br>145. Faint Beauty<br>146. Flawless Blossom<br>147. Grand Prospect<br>148. Happy Lily<br>149. Idle Mark<br>150. Lustrous Wish<br>151. Perfect Flower<br>152. Pristine Whisper<br>153. Pure Stone<br>154. Quiet Glamour<br>155. Royal Crux<br>156. Serpent Root<br>157. Serpentine Hum<br>158. Shadow Panther<br>159. Stunning Shield<br>160. Velvet Ambition<br>161. Worthy Lure<br>162. Aura of Regeneration<br>163. Vengeful Nettie<br>164. The Defiant Scale<br>165. Ward of the Invulnerable</p>\n<p><strong>Rings of Value</strong><br>166. Merchant’s Loop (420)<br>167. Coinclad (666)<br>168. Copperfang Circle (1314)<br>169. Greed’s Grip (2K)<br>170. Trader’s Trinket (4.5K)<br>171. Goblin Gold Band (8.8K)<br>172. The Vault (12K)<br>173. Barter Band (15K)</p>\n<p><strong>Rings of Proficiency</strong><br>174. Mystic Warband (Battleaxes)<br>175. Arcane Vanguard (Clubs)<br>176. Shadowblade Seal  (Daggers)<br>177. Enchanted Battle Ring (Darts)<br>178. Rune of the Warlord (Flails)<br>179. Mystic Gladiator (Glaives)<br>180. Phantom Strike (Greataxes)<br>181. Battleborn Enigma  (Greatclubs)<br>182. Warlock's Edge (Greatswords)<br>183. Valorforge Band (Halberds)<br>184. Sorcerer's Combat Loop (Handaxes)<br>185. Hero's Vow (Hand Crossbows)<br>186. Battleborn Circle (Heavy Armor)<br>187. Ironclad Oath (Heavy Crossbows)<br>188. Champion's Crest (Javelins)<br>189. Warbringer Loop (Light Armor)<br>190. Sentinel's Sigil (Light Crossbows)<br>191. Gladiator's Halo (Light Hammers)<br>192. Vanguard Band (Longbows)<br>193. Triumph Torque (Longswords)<br>194. Astral Warlord (Maces)<br>195. Starforged Signet (Mauls)<br>196. Ethereal Slayer (Medium Armor)<br>197. Warped Steel (Morningstars)<br>198. Riftwalker (Musical Instruments)<br>199. Psionic Edge (Pikes)<br>200. Blackout Shard (Quarterstaffs)<br>201. Whispersteel (Rapiers)<br>202. Humble Life (Scimitars)<br>203. Bright Pledge (Shields)<br>204. Mellow Force (Shortbows)<br>205. Voidblade Band (Shortswords)<br>206. Assassin's Mark (Sickles)<br>207. Mindpiercer (Slings)<br>208. Loyal Tribute (Spears)<br>209. Anonymous Bubble (Tridents)<br>210. Astral Marauder (Warhammers)<br>211. Phantom's Edge (Warpicks)</p>\n<p><strong>Granny's Creations</strong><br>212. Rubbish Reaper's Embrace<br>213. Scorchbind<br>214. Frostfire Covenant<br>215. Nebula's Shadow<br>216. Winter Crypt<br>217. Electrovenom<br>218. Opulent Specter<br>219. Mudshroud<br>220. Pink Widow<br>221. Poisonheart<br>222. Abyssal Cognizance<br>223. Twilight Prism<br>224. Gutter King<br>225. Venomshadow<br>226. Voltshade<br>227. Thundervein<br>228. Drowning Whisper<br>229. Phantom Gust<br>230. The Forgotten Ring</p>\n<p><strong>Rings of Worship</strong><br>231. Bahamut: Scales of Truth<br>232. Bane: Bane's Grasp<br>233. Bhaal: Silent Reaper<br>234. Corellon Larethian: Elvenheart Shadowband<br>235. Cyric: Trickster's Coil<br>236. Eilistraee: Glimmerdance<br>237. Garl Glittergold: Tempting Balance<br>238. Gond: Band of Creation<br>239. Gruumsh: Sinful Orb<br>240. Helm: Sanctified Loop<br>241. Ilmater: Weeping Guardian<br>242. Jergal: Final Testament<br>243. Kelemvor: Funeral Pyre<br>244. Kereska: Dragon’s Veil<br>245. Laduguer: Underdeep Sovereign<br>246. Lathander: Suffering’s Embrace<br>247. Lolth: Glistening Beauty<br>248. Loviatar: Exotic Temptress<br>249. Maglubiyet: Brakkal's Conviction<br>250. Mielikki: Circle of the Wilds<br>251. Milil: Worthy<br>252. Moradin: Anvilheart<br>253. Myrkul: Dry Bones<br>254. Mystra: Whispering Winds<br>255. Oghma: Insight's Embrace<br>256. Selûne: Moonlit Path<br>257. Shar: Umbral Veil<br>258. Silvanus: Verdant Guardian<br>259. Talos: Tempest's Scorn<br>260. Tempus: Unyielding Heart<br>261. Tiamat: Greedy Dragon<br>262. Tymora: Cosmic Gambler<br>263. Tyr: Judgment's Clarity<br>264. Umberlee: Abyssal Depths<br>265. Vlaakith: Celestial Guardian<br>266. Waukeen: Gilded Coin<br>267. Yondalla: Harmonious Confluence</p>\n<p><strong>Butterfly Rings</strong><br>268. Spiky <br>269. Animal Control<br>270. Void <br>271. Measured Armament <br>272. Tempermental Shell<br>273. Wiggler <br>274. Absolute Wealth<br>275. Briny Flinger<br>276. Veil of Power <br>277. Strength Club <br>278. Opposing Charm <br>279. Doorstep <br>280. Wrangler <br>281. Pilot <br>282. Unmentionable Boon <br>283. Formless<br>284. Aqua Aversion <br>285. Cold Air <br>286. Tremendously Strong<br>287. Sparkle of Life <br>288. Absolute Vitality<br>289. Icicle<br>290. Hurdler <br>291. Karabasan's Gift <br>292. Ki Vibrations <br>293. Unyielding <br>294. Slag Maker<br>295. Bug Zapper <br>296. Burning Frost<br>297. Polliwog <br>298. Fragments of Memory <br>299. Silver Moon <br>300. Speed Shift <br>301. Mirey Retort <br>302. Luthier <br>303. Dolor Sit Voluptas <br>304. Shellfish Allergy<br>305. Speedy Request <br>306. Cobra Kai <br>307. Rampart Force<br>308. Lucky Ducky <br>309. Bloody Mess <br>310. Breathe Freely <br>311. Shrinking Flame<br>312. Lidwin's Gift <br>313. Bark of Sussur <br>314. Stone Flinger <br>315. Golden Rain <br>316. Sopping Wet <br>317. Wild Speak</p>\n<p><strong>Rings of Loss</strong><br>318. Stolen Memories<br>319. Barbarian's Memory <br>320. Bard's Memory <br>321. General's Memory<br>322. Mother-Superior's Memory<br>323. Thief's Memory <br>324. Wizard's Memory</p>\n<p><strong>All Additional Rings</strong><br>325. Odorous Offense<br>326. Twilight Prism of Love<br>327. Bohemian Grove<br>328. Loose Canon<br>329. Scramasax<br>330. Dakota<br>331. Murderous Intent<br>332. Cultistry<br>333. Spider Junkie<br>334. Deth Grip<br>335. A Nice Touch<br>336. Bad Vibes<br>337. Bolts of Lightning <br>338. Burn <br>339. Chilling Aspect <br>340. Choke on This <br>341. Deth From Above<br>342. Ember Blade <br>343. Elsa <br>344. Gift of Life <br>345. Grasp of the Litch <br>346. Helpful <br>347. Ice Cold <br>348. Jedi Knight <br>349. Loving Litch <br>350. Ninja Assassin <br>351. Finger Blaster <br>352. Path of Light <br>353. Rain of Pain <br>354. Royal Curse <br>355. Haunted Band <br>356. Superiority<br>357. The Goad</p>\n<p>A <strong>Jewelry Crafting Kit</strong> has been added. <br>Crafting updates are coming!</p>\n<p> </p>\n<p>Enjoy,</p>\n<p>Granny  xoxoxoxoxo</p>\n<p> </p>\n<p> </p>",
+    "date_added": 1760984854,
+    "date_updated": 1783953060,
+    "date_live": 1761008569,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/granny-rings",
+    "submitted_by": {
+      "id": 42535331,
+      "name_id": "sem67",
+      "username": "_SEM",
+      "profile_url": "https://mod.io/u/sem67",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fbc9/42535331/crop_100x100/pixlr-image-generator-685c4d5eb.png"
+    },
+    "modfile": {
+      "id": 7366360,
+      "mod_id": 5304406,
+      "version": "1.0.0.153",
+      "filename": "grannylootrings_1584153f-01fb-g1z8.zip",
+      "changelog": "Ring \"Perfect Flower\" Thornseeker summon no longer has infinite attack (really this time).",
+      "date_added": 1770406543,
+      "date_updated": 0,
+      "date_scanned": 1770406607,
+      "filesize": 35728221,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "2.2.png",
+      "original": "https://image.modcdn.io/mods/b78a/5304406/2.2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b78a/5304406/crop_320x180/2.2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b78a/5304406/crop_640x360/2.2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b78a/5304406/crop_1280x720/2.2.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7366360
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7366360
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7366360
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7366360
       }
     ]
   },
@@ -149409,6 +150150,139 @@
     ]
   },
   {
+    "id": 5961435,
+    "game_id": 6715,
+    "name": "Dynamic Extra Encounters",
+    "name_id": "dynamic-extra-encounters",
+    "summary": "Adds Dynamic Encounters to the game, based on the players actions.",
+    "description": "<p>Breathe new life into your adventures across Faerûn! <strong>Dynamic Extra Encounters</strong> is an in-development mod that makes the world actively react to your choices, playstyle, and actions. This mod introduces a curated selection of situational battles, ensuring that your decisions carry weight and potential consequences.</p>\n<h3>Current Features</h3>\n<ul>\n<li><strong>Buried Terrors:</strong> Digging up treasure chests now carries a <strong>8% chance</strong> to disturb the dead, spawning an undead enemy right beside your hard-earned loot.<br><br></li>\n<li><strong>Marked by the Departed:</strong> Murder has consequences. Killing civilians has a <strong>12% chance</strong> of them becoming vengeful spirits, placing the <em>'Marked by the Departed'</em> status on your character. These spirits will bide their time and ambush you soon after. Be warned: if multiple civilians curse you before the ambush triggers, all generated spirits will spawn and attack at the exact same time.<br><br></li>\n<li><strong>Elemental Convergence:</strong> Unleashing raw magic draws the attention of the elemental planes. Dealing more than 50 damage of a specific element in a single turn has a <strong>8% chance</strong> to spawn a corresponding elemental (Fire elementals are an exception with a 1% spawn chance and damage dealt needs to by 75 or more):\n<ul>\n<li>Lightning Damage ➔ Air Elemental</li>\n<li>Fire Damage ➔ Fire Elemental</li>\n<li>Acid Damage ➔ Earth Elemental</li>\n<li>Cold Damage ➔ Water Elemental</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Hunted by the Githyanki:</strong> Every time you tap into your Illithid Powers, there is a <strong>20% chance</strong> that a Githyanki hunting party will sense the psionic ripple and warp in to eliminate your party.<br><br></li>\n<li><strong>The Price of Power (Cursed Artifacts):</strong> Slaying specific enemies carries a rare <strong>1.5% chance</strong> to drop one of six unique Cursed Items that grant a permanent +1 to an Ability Point (and an extra +1 while active), but invite relentless ambushes from hostiles seeking the artifact. Additionally, the curse of greed means looting gold carries a<strong> 0.1% chance</strong> to secretly slip a 7th artifact into your pockets, drastically raising merchant prices until you cure the curse for a permanent vendor discount. All artifacts bind to your character until <em>Remove Curse</em> is cast. (I HIGHLEY RECOMMEND downloading <a href=\"https://mod.io/g/baldursgate3/m/colors-custom-rarities#description\" rel=\"nofollow\">COLORS by For_Kiramay</a> - this will display all cursed artifacts with the correct color).<br><br></li>\n<li><strong>Battlefield Scavengers:</strong> Bloodshed inevitably attracts bottom-feeders. Roughly 10 minutes after your last encounter concludes, an opportunistic Kobold Scavenger will spawn to strip the fallen of their valuables. Claim your spoils quickly—they will take everything left behind, sparing only essential story items. If you engage in multiple battles within this window, the scavenger will systematically clear the oldest battlefield first. The kobold enters a 'Looting' state for 2 turns per corpse, vanishing once the area is picked clean.<br><br></li>\n<li><strong>Roots of Shadow:</strong> Slaying the three infiltrating Shadow Druids in the Druid Grove draws the attention of the other Shadow Druids still active in the Wilderness. This triggers a persistent threat: as your party moves and explores, hostile Shadow Druids will relentlessly track your trail and ambush you. This pursuit continues organically as you travel, only ceasing once you reach the Shadow-Cursed Lands—<em>a place far too dark even for those who walk the shadows. (If you have <a href=\"https://mod.io/g/baldursgate3/m/circle-of-the-thorns#description\" rel=\"nofollow\">Circle of the Thorns</a> installed, the Shadow Druids will have some of the spells and abilities from the mod).<br><br></em></li>\n<li><strong>Scent of the Glutton: </strong>A roaring campfire and a hearty meal are necessary comforts of the road, but the aroma travels far, attracting unwanted visitors. Upon completing a Long Rest, there is a <strong>10% chance</strong> that the scent of your feast attracts a Hungry Ogre to your camp. Once your party reaches Level 6, there is a 20% chance a second Hungry Ogre will try and join the feast!<br><br></li>\n<li><strong>Sentient Steel:</strong> Some discarded relics refuse to be worn by the unworthy. Equipping an untested piece of metal chest armor now carries a <strong>7% chance</strong> to awaken dormant magic. When triggered, the enchanted shell will violently rip itself off your character—forcing you to quickly scramble back into your previous gear—and spawn as a hostile Animated Armor. You must defeat the construct to reclaim the chest armor, once conquered, the armor is permanently safe to wear.<br><br></li>\n<li><strong>Smoke &amp; Daggers:</strong> Some locks aren't just meant to keep you out—they are bait. Successfully picking a lock now carries a <strong>7% chance</strong> to spring a hidden trap, summoning an opportunistic thief in a sudden blinding puff of smoke. This localized ambush catches the lockpicker Surprised for one turn, leaving them vulnerable as combat begins. If any active party member is Level 6 or higher, there is a 20% chance a second thief will appear also!<br><br></li>\n<li><strong>Echoes of Defeat:</strong> Whenever a standard enemy drops below 20% health, there is a <strong>3% chance</strong> they will flee the battlefield to plot revenge. These escaped enemies will begin stalking your party, with escalating chances to ambush you in future combat encounters. The longer they wait to strike, the deadlier they become, eventually returning as an Elite or Mini-Boss threat equipped with unique, randomized augmentations. This system excludes bosses, traders, and story NPCs—if you notice an unintended story NPC trigger this event, please let me know! (More details about this in <a href=\"https://www.nexusmods.com/baldursgate3/articles/1809\" rel=\"nofollow\">Articles</a>).<br><br></li>\n<li><strong>Tethered Fates:</strong> Traveling with allies means sharing their burdens. Depending on who is actively in your party and what events have unfolded during your journey, unique threats tied directly to their current circumstances will occasionally track your group down. Only one of these encounters can trigger once per Long Rest, ensuring that the baggage your companions carry surfaces organically as you explore the world together. (More details about this in <a href=\"https://www.nexusmods.com/baldursgate3/articles/1818\">Articles</a>).</li>\n</ul>\n<p> </p>\n<h3>Scaling and Difficulty</h3>\n<ul>\n<li>\n<p><strong>Level 20 Support:</strong> All encounters dynamically scale with your party, all the way up to level 20.</p>\n</li>\n<li>\n<p><strong>Evolving Threat:</strong> Battles start relatively manageable in the early game, but expect a noticeable spike in enemy difficulty and tactics once you reach Level 6.</p>\n</li>\n<li>\n<p><strong>Minibosses:</strong> Be prepared—some of these dynamic events include unique minibosses to truly test your party's mettle.</p>\n</li>\n</ul>\n<h3>Feedback and Development</h3>\n<p>The mod is nearly complete! I am still seeking community feedback regarding difficulty, balance and spawn rates!</p>\n<p><br><br><span style=\"text-decoration:underline;\">Credits</span><strong><br></strong>A big shout out to <a href=\"https://mod.io/g/baldursgate3/u/nexus-gabecamomescro\"><strong>GabeCamomescro</strong></a> and the users on my discord server for helping out!<br><br></p>\n<div style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></div>\n<div style=\"text-align:center;\">Buy me a coffee 💜<br><a href=\"https://ko-fi.com/graphicfade/donate\"><img src=\"https://i.imgur.com/mnuuR3n.png\" alt=\"mnuuR3n.png\"></a><br><br><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"btn_donate_LG.gif\"></a></div>\n<p><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><br></a><br><span style=\"font-size:medium;\"><u>Check out my other mods!</u></span><br><br>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a><br><br>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a><br><br>Visuals ---<br><a href=\"https://mod.io/g/baldursgate3/m/shadow-cursed-nimbus#description\">Shadow-Cursed Nimbus (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/nimbus-recolored#description\">Nimbus Recolored (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/scratch-recolored-husky#description\">Scratch Recolored: Husky</a><br><br>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest#description\">Fade's Camp Chest</a><br><a href=\"https://mod.io/g/baldursgate3/m/simply-more-gold-2x#description\">Simply More Gold (2x)</a><br><br>Gameplay ---<br><a href=\"https://mod.io/g/baldursgate3/m/early-access-illithid-powers-restored#description\">Early Access Illithid Powers Restored</a><br><a href=\"https://mod.io/g/baldursgate3/m/leader-homebrew-class#description\">Leader Homebrew Class</a><br><a href=\"https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul#description\">Sorcerer Subclass - Conflagrant Soul<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/21569\">Fade's Randomized Early Equipment</a></p>",
+    "date_added": 1775584916,
+    "date_updated": 1783953140,
+    "date_live": 1775584916,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dynamic-extra-encounters",
+    "submitted_by": {
+      "id": 32938824,
+      "name_id": "graphicfade",
+      "username": "GraphicFade",
+      "profile_url": "https://mod.io/u/graphicfade",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 7824625,
+      "mod_id": 5961435,
+      "version": "1.0.0.22",
+      "filename": "dynamicextraencounters_ea4f827-5xyh.zip",
+      "changelog": "• Added Ander's group to the exclusion list.\n• Added Valkrana's Undead Encounters to the exclusion list.\n• Smoke &amp; Dagger thieves should now spawn properly - Also increased spawn rate from 5% to 7%.\n• Buried Terrors spawn rate decreased from 12% to 8%.",
+      "date_added": 1780873527,
+      "date_updated": 0,
+      "date_scanned": 1780873568,
+      "filesize": 20605702,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/8ac8/5961435/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8ac8/5961435/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8ac8/5961435/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8ac8/5961435/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7824625
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7824625
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7824625
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7824625
+      }
+    ]
+  },
+  {
     "id": 5961439,
     "game_id": 6715,
     "name": "Moon Flower - New hair for Selunite Shadowheart",
@@ -151089,6 +151963,242 @@
       {
         "platform": "ps5",
         "modfile_live": 7729787
+      }
+    ]
+  },
+  {
+    "id": 6055446,
+    "game_id": 6715,
+    "name": "Dice Roll Text Replacer",
+    "name_id": "dicerolltextreplacer",
+    "summary": "Change dice roll result text such as success/failure to hopefully funny version",
+    "description": "<p><strong>What does this mod do?</strong><br>A very simple mod that replaces 4 dice roll result texts - Success, Critical Success, Failure, Critical Failure to my own version.<br><br>Failure -&gt; Skill Issue<br>Critical Failure -&gt; That's rough Buddy</p>\n<p>Success -&gt; Nice</p>\n<p>Critical Success -&gt; Let's go</p>\n<p><strong>Installation &amp; compatibility</strong><br>Install with mod manager. This mod can be installed/uninstalled at any point of playthrough! Can be used with any dice skin mod too since it doesn't edit that part.</p>",
+    "date_added": 1778680167,
+    "date_updated": 1783952983,
+    "date_live": 1778680456,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dicerolltextreplacer",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 7733024,
+      "mod_id": 6055446,
+      "version": "1.0.0.1",
+      "filename": "kjm_dicerolltextreplacer_5bb45-4r1f.zip",
+      "changelog": null,
+      "date_added": 1778680179,
+      "date_updated": 0,
+      "date_scanned": 1778680189,
+      "filesize": 177453,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "21552-1771505825-124092209.png",
+      "original": "https://image.modcdn.io/mods/d557/6055446/21552-1771505825-124092209.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d557/6055446/crop_320x180/21552-1771505825-124092209.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d557/6055446/crop_640x360/21552-1771505825-124092209.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d557/6055446/crop_1280x720/21552-1771505825-124092209.png"
+    },
+    "tags": [
+      {
+        "name": "Dice",
+        "name_localized": "Dice",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7733024
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7733024
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7733024
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7733024
+      }
+    ]
+  },
+  {
+    "id": 6061936,
+    "game_id": 6715,
+    "name": "White Ghost Set",
+    "name_id": "white-ghost-set",
+    "summary": "White ghost armor + weapon set. Includes camp clothing version.",
+    "description": "<p>Armor/Camp Clothing and Weapon set of the White Ghost<br>fully dyeable<br>Supports BT1</p>\n<p>Commissioned by Kiosta270<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "date_added": 1778929897,
+    "date_updated": 1783953171,
+    "date_live": 1778930333,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/white-ghost-set",
+    "submitted_by": {
+      "id": 35718117,
+      "name_id": "skirbie",
+      "username": "Skirbie",
+      "profile_url": "https://mod.io/u/skirbie",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
+    },
+    "modfile": {
+      "id": 7742052,
+      "mod_id": 6061936,
+      "version": "1.0.0.3",
+      "filename": "obsdmnotft_cda5884b-8a22-3830-4g6p.zip",
+      "changelog": null,
+      "date_added": 1778929902,
+      "date_updated": 0,
+      "date_scanned": 1778929944,
+      "filesize": 26866479,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/86e8/6061936/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/86e8/6061936/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/86e8/6061936/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/86e8/6061936/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7742052
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7742052
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7742052
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7742052
       }
     ]
   },
