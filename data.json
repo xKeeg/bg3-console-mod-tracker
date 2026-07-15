@@ -82925,7 +82925,7 @@
     "summary": "The unofficial community bug fix mod - Over 1600 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1783892281,
+    "date_updated": 1784078312,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -82939,15 +82939,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7959657,
+      "id": 7968876,
       "mod_id": 4561805,
-      "version": "4.6.7.1",
-      "filename": "itembugfix_010e73d5-9342-e528-76cv.zip",
-      "changelog": "- Crystal Skin now correctly provides resistance to all of the elemental damage types (Fire, Cold, Lightning, Acid, Thunder)\n- Shell of Resistance now provides resistance to the correct elemental damage types\n- Malfunctioning Shell of Resistance now provides vulnerability to the correct elemental damage types\n- Confusion now correctly rolls a removal save at the end of the affected target's turn\n- Magic Ring has been renamed to Rigour of the Tempest\n- Flurry of Blows, Drunken Technique, Intoxicating Strike, Sobering Realisation, and Shocking Grasp now correctly list an Attack Roll on their tooltips\n- Flurry of Blows: Topple now correctly lists an Attack Roll and a Dexterity save on its tooltip\n- Flurry of Blows: Stagger now correctly lists an Attack Roll and a Strength save on its tooltip\n- Reversion of all previous changes to NPC/Wild Shape fixed DC actions\n- Water Elemental 'Winter's Breath' now correctly lists a Constitution save on its tooltip, and states that targets take half-damage on a save\n- Fire Elemental 'Erupting Cinder' now correctly lists a Dexterity save on its tooltip, and states that targets take half-damage on a save\n- Earth Elemental 'Soil-Clogged' now correctly states it applies Prone on its tooltip\n- Earth Elemental 'Seismic Strike' now correctly lists a Constitution save on its tooltip, is set to the correct Bludgeoning DamageType, and correctly knocks targets away\n- Owlbear 'Rupture' now correctly knocks targets away\n- Malus Thorm 'Wail of Loss' now correctly knocks targets away\n- The Speedy Lightfeet 'Speedy Sparks' and The Watersparkers 'Watersparks' now correctly play a VFX on the wearer when gaining Lightning Charges\n- The Blast Pendant 'Lightning Blast' no longer incorrectly double-dips with the 1d8 Lightning damage from having 5 or more turns of Lightning Charges, now correctly only functions with Lightning spells, and adds damage directly to spells\n- Code improvements/fixes",
-      "date_added": 1783892259,
+      "version": "4.6.8.1",
+      "filename": "itembugfix_010e73d5-9342-e528-69fo.zip",
+      "changelog": "- Kar'niss 'Fanatic Retaliation' is now correctly prevented from use when Silenced\n- Boots of Persistence now uses the correct model on all races (thanks to Kobold Juno)\n- Additional Portuguese localization fixes (thanks to Nyx)\n- Staff of Interruption 'Counterspell' now correctly casts at level 5",
+      "date_added": 1784078296,
       "date_updated": 0,
-      "date_scanned": 1783892274,
-      "filesize": 1754545,
+      "date_scanned": 1784078638,
+      "filesize": 1755985,
       "platforms": [
         {
           "platform": "windows",
@@ -83061,7 +83061,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7959657
+        "modfile_live": 7968876
       }
     ]
   },
