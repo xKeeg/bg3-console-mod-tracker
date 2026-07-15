@@ -131637,7 +131637,7 @@
     "summary": "Queen's Garments is a pack that has undergarments fit for royalty. They feature many customisation options such as body sculpts and PHYSICS.",
     "description": "<p>A collection fit for your queen and all her needs<br>Only for bt1; pillar outfit available for bt3; roughly half of the outfits are also compatible with tiefling bt1<br>Uses camp clothing, camp shoes and underwear slot (accessories)</p>\n<p>Some of the included outfits:<br>Crimson Wings, Royal Knight, Bifrost, Eternal Queen, Scarlet<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits1.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Crimson Monarch, Secret Therapy, Artor, Valkyrie, Pillar<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits2.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Tactical Dress, Duskraven, Loveless, Cyber Bunny, Chic<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits3.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Commissioned for Morgana Evelyn<br>Pillar/Valkyrie BT3 refit commissioned for JC<br>Valkyrie outfit commissioned for Anonymous<br>Aesir outfit commissioned for Albion<br>Tiefling bt1 compatibility commissioned for Noir, Tina and Anonymous<br><br>Credits:<br>Duskraven - <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Secret Therapy - outfit by <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Additional glamour screenshots - Lara</p>\n<p>Find Queen's Garments at the following locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1754207608,
-    "date_updated": 1778929700,
+    "date_updated": 1784096048,
     "date_live": 1754210788,
     "visible": 1,
     "status": 1,
@@ -131651,15 +131651,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7742041,
+      "id": 7969694,
       "mod_id": 5138870,
-      "version": "1.0.0.36",
-      "filename": "eqlngerie_7b25c953-f727-cab3-3-dp7s.zip",
-      "changelog": "- added Queen version of bikini (fixed the previous version name to Princess)\n- added tiefling bt1 support for bikini and scarlet",
-      "date_added": 1778929641,
+      "version": "1.0.0.39",
+      "filename": "eqlngerie_7b25c953-f727-cab3-3-3xxy.zip",
+      "changelog": "- added the seductress set (+tief)\n- added the deluxe bunny set (+tief)",
+      "date_added": 1784096007,
       "date_updated": 0,
-      "date_scanned": 1778930072,
-      "filesize": 248581817,
+      "date_scanned": 1784096071,
+      "filesize": 278793664,
       "platforms": [
         {
           "platform": "windows",
@@ -131680,11 +131680,11 @@
       ]
     },
     "logo": {
-      "filename": "thumbnails6.png",
-      "original": "https://image.modcdn.io/mods/825a/5138870/thumbnails6.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/825a/5138870/crop_320x180/thumbnails6.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/825a/5138870/crop_640x360/thumbnails6.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/825a/5138870/crop_1280x720/thumbnails6.png"
+      "filename": "thumbnails7.png",
+      "original": "https://image.modcdn.io/mods/825a/5138870/thumbnails7.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/825a/5138870/crop_320x180/thumbnails7.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/825a/5138870/crop_640x360/thumbnails7.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/825a/5138870/crop_1280x720/thumbnails7.png"
     },
     "tags": [
       {
@@ -131763,7 +131763,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7742041
+        "modfile_live": 7969694
       }
     ]
   },
