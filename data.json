@@ -144713,7 +144713,7 @@
     "summary": "Collection of Homebrew Blade Cantrips. Includes Tidal Blade, Ember Blade, Static Blade, Blue-Frost Blade, Bright Blade, Cerebral Blade, Corrosive Blade, Virulent Blade, Warding Blade and Decaying Blade",
     "description": "<div> </div>\n<div>\n<div>Mod contains 10 homebrew Blade Cantrips for different damge types within the game as well as a new Blade Cantrip Adept feat. Some of the cantrips are homebrewed by me and others have all taken inspiration or direct implementation from this post on <a title=\"DnD Beyond\" href=\"https://www.dndbeyond.com/forums/dungeons-dragons-discussion/homebrew-house-rules/83978-homebrew-blade-cantrips-please-give-feedback\" target=\"_blank\" rel=\"noopener noreferrer\">DnD Beyond</a> by Leviathan of Levistus, so credit to him for allowing me to take his ideas for implementation and modify accordingly due to game mechanics.</div>\n<div> </div>\n<div>All the blade cantrips are implemented according to DnD rules and not implementation of larians booming blade. Meaning, the cantrips in this mod are considered cantrips and will not benefit from extra attack. If you want to cast a blade cantrip and use a weapon attack then grab the Blade Cantrip Adept feat that comes in this mod.</div>\n<br><br>\n<div>All Mind Weaver subclasses are allowed to select 2 Blade Cantrips at Level 2 (except Bright Blade) and all 3 subclasses of Sword Dancers of Eilistraee gain Bright Blade and Blue-Frost Blade at Level 1 automatically.</div>\n<br><iframe src=\"https://www.youtube.com/embed/JUv2VPw7TWI\" width=\"560\" height=\"314\"></iframe><br>\n<h4><strong>Blade Cantrip Adept (Feat)</strong></h4>\n<div>After casting a blade cantrip, you can make one melee weapon attack as a Bonus Action. This attack deals one-third of your weapon damage at Level 4, half weapon damage at Level 5, and full weapon damage at Level 6.</div>\n<div> </div>\n<div>\n<div>When you select this feat, you can also choose two Blade Cantrips.</div>\n<div> </div>\n<div>\n<h4><strong>Embered Blade (Available to Sorcerer, Warlock, Wizard and Mind Weaver)</strong></h4>\n<div>\n<div>\n<div>Strike a creature with a weapon attack, igniting it with unstable embers. If the creature does not move before the start of your next turn, the embers intensify, it takes Fire damage and the effect ends.</div>\n</div>\n</div>\n<div>\n<div>\n<div>At 5th level, the melee attack deals an extra 1d8 Fire damage to the target, and the Embered damage increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.</div>\n</div>\n</div>\n<div> </div>\n<div>\n<h4><strong>Tidal Blade (Available to Druid, Sorcerer, Wizard and Mind Weaver)</strong></h4>\n<div>\n<div>\n<div>Strike a creature with a weapon attack, lacing your steel with a surging current. The target is caught in Undercurrent until the end of its current turn. When Undercurrent ends, it erupts and target must succeed on a Strength Saving Throw or take 1d6 Bludgeoning damage and fall Prone.</div>\n</div>\n</div>\n<div>\n<div>\n<div>At 5th level, the melee attack deals an extra 1d6 Bludgeoning damage to the target, and the Undercurrent damage increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div><br>\n<h4><strong>Static Blade (Available to Sorcerer, Warlock, Wizard, Mind Weaver and Druid)</strong></h4>\n<div>Strike a creature with a weapon and charging it with lightning until the start of your next turn. If the charged creature or another creature moves within 3m of each other, you may cause lightning to arc between them dealing Lightning damage to new target and the charged target.</div>\n<div>At 5th level, the melee attack deals an extra 1d4 Lightning damage to the target, and the damage the secondary target takes increases to 2d4. Both damage rolls increase by 1d4 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Blue-Frost Blade (Available to Sorcerer, Warlock, Mind Weaver, Sword Dancers of Eilistraee and Warlock)</strong></h4>\n<div>Strike a creature with a weapon inflicting hypothermic frost until the end of your next turn. If the target uses a Reaction or Bonus Action, it takes Cold damage and the frost dissipates.</div>\n<div>At 5th level, the melee attack deals an extra 1d8 Cold damage to the target, and the hypothermic frost damage increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Corrosive Blade (Available to Sorcerer, Warlock, Wizard, Mind Weaver and Druid)</strong></h4>\n<div>Strike a creature with a weapon, coating it in magical acid and reducing its AC by 1. Until the end of your next turn, the target takes Acid damage equal to your Spellcasting Ability Modifier when it fails on a Dexterity Saving Throw.</div>\n<div>At 5th level, the melee attack deals an extra 1d6 Acid damage to the target, and the damage the target takes on failed Dexterity save increases to 1d6 + your Spellcasting Ability Modifer. Both damage rolls increase by 1d6 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Bright Blade (Available to Cleric and Sword Dancers of Eilistraee)</strong></h4>\n<div>Strike a creature with a weapon causing it to glow with radiant light. Until the end of your next turn, the next melee hit against the glowing creature deals additional Radiant damage and ends the effect.</div>\n<div>Radiant Light</div>\n<div>At 5th level, the melee attack deals an extra 1d6 Radiant damage to the target, and the radiant light damage increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Warding Blade (Available to Sorcerer, Warlock, Mind Weaver and Wizard)</strong></h4>\n<div>Strike a creature with a weapon attack gaining a shield with 1d6 Temporary Hit Points until the end of your next turn. If these temporary hit points are already active, hitting a creature refreshes their duration instead of rerolling them. When a hit removes them, the attacker takes 1d4 Force damage.</div>\n<div>At 5th level, the melee attack deals an extra 1d6 Force damage to the target, and the Temporary HP you gain increases to 2d6. Both rolls increase by 1d6 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Decaying Blade (Available to Sorcerer, Warlock, Wizard, Druid, Mind Weaver and Cleric)</strong></h4>\n<div>Strike a creature with a weapon attack. On a hit, the target is infused with necrotic decay, granting you a free cast of Shared Decay, which 1d8 Necrotic damage to both the target and the caster until the end of your current turn</div>\n<div>At 5th level, the melee attack deals an extra 1d8 Necrotic damage to the target, and the Shared Decay damage increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Cerebral Blade (Available to Sorcerer, Warlock, Wizard, Mind Weaver and Bard)</strong></h4>\n<div>Strike a creature with a weapon attack, slicing into its thoughts causing a Mental Fracture. Until the end of your next turn, the first time the target casts a spell or cantrip, it takes 1d8 Psychic damage and the effect ends.</div>\n<div>At 5th level, the melee attack deals an extra 1d8 Psychic damaghe to the target, and the Mental Fracture damage increases to 2d8. Both damage rolls increase by 1d8 at 11th level and 17th level.</div>\n<br>\n<h4><strong>Virulent Blade (Available to Sorcerer, Warlock, Wizard, Mind Weaver and Druid)</strong></h4>\n<div>Strike a creature with a weapon infecting it with Virulent Poison and on a failed Constitution Saving Throw, its next weapon attack is made with Disadvantage. If the target misses a weapon attack while Virulent Poison is active, it takes 1d6 Poison damage and the poison is removed.</div>\n<div>At 5th level, the melee attack deals an extra 1d6 Poison damage to the target, and the Virulent Poison damage increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.</div>\n</div>\n<p> </p>",
     "date_added": 1767123851,
-    "date_updated": 1780329771,
+    "date_updated": 1784297765,
     "date_live": 1767125276,
     "visible": 1,
     "status": 1,
@@ -144727,15 +144727,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/e51d/33530167/crop_100x100/id.png"
     },
     "modfile": {
-      "id": 7763285,
+      "id": 7979248,
       "mod_id": 5636525,
-      "version": "1.0.0.36",
-      "filename": "hbbladecantrips_33eec47a-b349-gil5.zip",
-      "changelog": "Changed Static Blade secondary effect so it doesn't cause random issues.\n\nStatic Blade: Strike a creature with a weapon charging it with static lightning. When the charged creature starts it's next turn it releases the static dealing Lightning damage to all their allies within 2m.",
-      "date_added": 1779472376,
+      "version": "1.0.0.43",
+      "filename": "hbbladecantrips_33eec47a-b349-g2yx.zip",
+      "changelog": "- Fixed Ember Blade damage tooltip map\n- Changed Tidal Blade weapon damage to be strictly Bludgeoning and both damage riders to Cold damage",
+      "date_added": 1784297617,
       "date_updated": 0,
-      "date_scanned": 1779472487,
-      "filesize": 21984011,
+      "date_scanned": 1784297659,
+      "filesize": 21984040,
       "platforms": [
         {
           "platform": "windows",
@@ -144743,15 +144743,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -144866,10 +144866,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7763285
-      },
-      {
         "platform": "mac",
         "modfile_live": 7763285
       },
@@ -144880,6 +144876,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7763285
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7979248
       }
     ]
   },
