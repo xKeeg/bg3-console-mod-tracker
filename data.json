@@ -68242,7 +68242,7 @@
     "summary": "Summon the wrath of nature with these new spells: Summon Beast (spell level 2) and Conjure Animals (spell level 3). Based on the DnD equivalents, tweaked for BG3 so they feel fair and balanced. A total of 16 new summons between both spells were added",
     "description": "<p>Adds new Spells Summon Beast (spell level 2) and Conjure Animals (spell level 3) for a total of 16 new animals to summon. Based on the DnD equivalents, tweaked for BG3 so they feel fair and balanced. For Druids, Rangers and Bard's Magical Secrets.</p>\n<p><strong>Compatible with level 20 mods! Compatible with 5e Spells! Compatible with anything!<br></strong></p>\n<p>If you are using a mod that already adds Summon Beast or Conjure Animals, don't worry, this mod will not conflict with those, you would just have two spells with a similar name. You can recognize mine by the description and the icons, plus the fact I implemented way more animals than anybody else before!</p>\n<hr>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/sbspell.png\" alt=\"\" width=\"400\" height=\"363\"></p>\n<p>Summon Beast is a Spell Level 2, unlocked at level 3 for Druids, level 5 for Rangers, and is a possible selection for Bard's Magical Secrets feature.</p>\n<p>It is intended to be a simple yet powerful singular creature that grows in power as you upcast it. The creature can take a form of Land or Sky, having 2 options for each:</p>\n<ol>\n<li>Wolf Spirit (Land)</li>\n<li>Black Bear Spirit (Land)</li>\n<li>White Raven Spirit (Sky)</li>\n<li>Eagle Spirit (Sky)</li>\n</ol>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/sbwolf.png\" alt=\"\" width=\"300\" height=\"184\"></p>\n<p> </p>\n<p>The Land creatures have the same stats: Pack Tactics and Maul.</p>\n<p>The Sky creatures have the same stats: Flyby and Maul.</p>\n<p>All of them appear enshrouded in a spiritual aura. This is just a visual effect and if you want the more ''realistic'' look you can disable the effect by toggling off the associated passive on the animal's hotbar.</p>\n<p>Upcasting Summon Beast enhances various abilities of the summoned beast: +5HP per Spell Slot Level, +1AC per Spell Slot Level and +1 Damage per Spell Slot Level. Additionally, for every 2nd spell level beyond Spell Slot Level 2 when upcasting, the creature can make an Extra Attack (at Spell Slot Level 4 it can make 1 Extra Attack, at Spell Slot Level 6 it can make 2 Extra Attacks, and at Spell Slot level 8 it can make 3 Extra Attacks).</p>\n<p>The proficiency bonus of the Summon Beast is the same as the summoner at the time of summoning.</p>\n<p><span style=\"text-decoration:underline;\"><strong>Please check the other screenshots at the top to see the rest of the animals.</strong></span></p>\n<p> </p>\n<hr>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/caspell.png\" alt=\"\" width=\"400\" height=\"441\"></p>\n<p>Conjure Animals is a Spell Level 3, unlocked at level 5 for Druids, level 9 for Rangers, and is a possible selection for Bard's Magical Secrets feature.</p>\n<p>It is intended to overwhelm enemies with numbers or special effects, unlike Summon Beast which is a more basic but resilient creature. Each animal was crafted to have unique abilities to diferentiate it from the others and so each one provides unique tactical options. You have 12 different options in total for Conjure Animals, some types coming in pairs instead of a singular animal:</p>\n<ol>\n<li>Two Brown Bears</li>\n<li>Two Dire Wolves</li>\n<li>Two Deep Rothe</li>\n<li>Two Giant Badgers</li>\n<li>Two Giant Eagles</li>\n<li>Two Giant Hyenas</li>\n<li>Two Giant Spiders</li>\n<li>Two Panthers</li>\n<li>One Dilophosaurus</li>\n<li>One Giant Boar</li>\n<li>One Polar Bear</li>\n<li>One Saber-Toothed Tiger</li>\n</ol>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/cagianteagle.png\" alt=\"\" width=\"400\" height=\"226\"></p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/caspider.png\" alt=\"\" width=\"400\" height=\"224\"></p>\n<p> </p>\n<p>Again, each animal has unique abilities and/or passives. These abilities are set and do not change when you upcast the spell. Instead, when you upcast the spell you conjure a higher quantity of the selected animal/s. Check the screenshots to see some of the abilities the animals have (often they have more than those pictured in the description in the screenshot).</p>\n<p><span style=\"text-decoration:underline;\"><strong>Please check the other screenshots at the top to see the rest of the animals.</strong></span></p>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
     "date_added": 1730159153,
-    "date_updated": 1769792309,
+    "date_updated": 1784383298,
     "date_live": 1730162102,
     "visible": 1,
     "status": 1,
@@ -68256,15 +68256,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/6c74/1135184/crop_100x100/740365.png"
     },
     "modfile": {
-      "id": 7147440,
+      "id": 7983395,
       "mod_id": 4450789,
-      "version": "2.2.8.28",
-      "filename": "conjureanimals2024_c70afd06-c2-cwjc.zip",
-      "changelog": "Re-imported icons. For real this time.",
-      "date_added": 1765859201,
+      "version": "2.3.0.30",
+      "filename": "conjureanimals2024_c70afd06-c2-1clp.zip",
+      "changelog": "Fixed Summon Beast's summons' attack roll not using the summoner's spell attack roll. Fixed some animals unintentionally leaving blood behind when dying.",
+      "date_added": 1784383210,
       "date_updated": 0,
-      "date_scanned": 1765859213,
-      "filesize": 3647718,
+      "date_scanned": 1784383223,
+      "filesize": 3647903,
       "platforms": [
         {
           "platform": "windows",
@@ -68272,15 +68272,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -68335,10 +68335,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7147440
-      },
-      {
         "platform": "mac",
         "modfile_live": 7147440
       },
@@ -68349,6 +68345,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7147440
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 7983395
       }
     ]
   },
