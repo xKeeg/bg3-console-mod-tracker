@@ -83033,7 +83033,7 @@
     "summary": "The unofficial community bug fix mod - Over 1600 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1784344988,
+    "date_updated": 1784679681,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -83047,15 +83047,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7981720,
+      "id": 7998851,
       "mod_id": 4561805,
-      "version": "4.6.9.1",
-      "filename": "itembugfix_010e73d5-9342-e528-69ez.zip",
-      "changelog": "- Glut 'Animating Spores' now correctly cannot be used on constructs, plants, and aberrations instead of only being usable on monstrosities, humanoids, and beasts\n- Bulette 'Diamond Scales' should no longer reapply in Honour mode when revived by Animating Spores\n- Sentinel: Snare now interacts with Polearm Master: Opportunity Attack and weapons with Extra Reach, displacing struck creatures back out to the maximum range of Extra Reach\n- Sentinel: Snare now correctly functions with unarmed characters, making a proper unarmed melee attack roll and dealing unarmed damage\n- Sentinel: Vengeance now correctly requires an equipped melee weapon to trigger\n- Unflinching Protector Amulet 'Unflinching Protection' now correctly refreshes on short rest, will no longer trigger when an incoming attack was already a miss, and will display a VFX on an ally when it affects them\n- Elegant Studded Leather 'Shield' now correctly refreshes on short rest\n- Helldusk Boots 'Infernal Resistance' will no longer trigger when a saving throw was already successful\n- Ring of Evasion 'Dextrous Evasion' will now correctly succeed saving throws for save DCs over 20",
-      "date_added": 1784344956,
+      "version": "4.6.10.1",
+      "filename": "itembugfix_010e73d5-9342-e528-5eyj.zip",
+      "changelog": "- Phase Spider Matriarch 'Spider Queen's Wrath' now correctly cannot be used when already enraged, and correctly displays the updated condition in Tactician+ mode\n- Owlbear 'Owlbear's Rage' now correctly cannot be used when already enraged, correctly displays the updated condition in Tactician+ mode, and plays a the correct sound effect when used\n- Polma 'Polma's Wrath' now correctly cannot be used when already enraged\n- Buthir 'Buthir's Wrath' now correctly cannot be used when already enraged, and correctly displays the updated condition in Tactician+ mode\n- Sahuagin 'Blood Frenzy' now correctly cannot be used on a target that has Calm Emotions\n- Enrage actions now correctly have a tooltip ErrorDescription for SG_Rage\n- Bulette 'Diamond Scales' is now automatically removed if the Bulette had previously lost it or was revived with Animating Spores\n- Reverted previous save DC changes to Wild Magic: Dark Tendrils and Wild Magic: Bolt of Light\n- King's Knife root template issue fixed\n- Wild Shape: Badger 'Burrow' now correctly states on the tooltip that it applies Prone for 1 turn\n- Bounty Hunter is now correctly limited to affecting Ensnaring Strike\n- Ensnaring Strike (Melee), upcast to level 3 or 4, now correctly apply the correct versions of Ensnared\n- Ensnaring Strike (Ranged), upcast to level 4, now lists the correct status in the tooltip\n- Code improvements",
+      "date_added": 1784679624,
       "date_updated": 0,
-      "date_scanned": 1784344965,
-      "filesize": 1757005,
+      "date_scanned": 1784679635,
+      "filesize": 1759209,
       "platforms": [
         {
           "platform": "windows",
@@ -83169,7 +83169,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 7981720
+        "modfile_live": 7998851
       }
     ]
   },
