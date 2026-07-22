@@ -79082,6 +79082,91 @@
         "date_added": 0
       },
       {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
         "name": "Armor",
         "name_localized": "Armor",
         "date_added": 0
@@ -88106,6 +88191,31 @@
         "date_added": 0
       },
       {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
         "name": "Dragonborn",
         "name_localized": "Dragonborn",
         "date_added": 0
@@ -88200,7 +88310,7 @@
     "game_id": 6715,
     "name": "Soaring Ambition - Ascended Fiend Wings",
     "name_id": "soaring-ambition-ascended-fiend-wings",
-    "summary": "Gives the player Raphael's Ascended Fiend form wings as equipment and also in cc.  Includes a selection of dyes that will change the wing and glow colours, and versions that will automatically change to match the wearer's skin.",
+    "summary": "Gives the player Raphael's Ascended Fiend form wings as equipment and also in cc. Includes a selection of dyes that will change the wing and glow colours, and versions that will automatically change to match the wearer's skin.",
     "description": "<p><strong>Update 22/04/25 version 1.0.0.65</strong> Fixed some incorrect wing animations for BT1-3, added some battle animations that should stop most cases of wing jittering in combat.</p>\n<p><strong>Minor update 14/04/25 version <span class=\"tw-font-bold tw-break-all tw-mb-1\">1.0.0.64 </span></strong>Fixed incorrect material assigned to githyanki on the Fiendish Wings Underwear (Skintone) item. </p>\n<p><strong>Update 11/04/25 version <span class=\"tw-font-bold tw-break-all tw-mb-1\">1.0.0.63</span> -</strong> Added a version of the wings that changes to match the wearer's skintone with race-specific textures for Githyanki and Dragonborn. Added the skintone version of the wings to <strong>character creation in both the beard and tail slots for all tall races</strong> (beard and hair slots for dragonborn).  Added a 'Potion of Soaring Ambition' that permanently grants the drinker the fly ability.  Added a camp footwear version of the wings.  Changed names of all wing items to include the slot used.  Updated some item icons and tweaked some animations.</p>\n<ul>\n<li>Please note the cc wings cannot hide during dialogue as they cannot be assigned the equipment property that does this, so may obscure the screen during cutscenes.</li>\n<li>The 'Potion of Soaring Ambition' permanently grants the drinker the fly ability, as the cc wings cannot grant it like equipment does, so this was the simplest workaround.</li>\n<li>The glow on the skintone equipment version of the wings can be changed using dyes like the other versions.  The cc wings cannot be dyed, but the glow colour may change with some modded eye colours, such as <a href=\"https://www.nexusmods.com/baldursgate3/mods/9097\">Feywild Eyes - Eye Color Collection</a>. Modded eye colours can also affect the non-cc versions too.</li>\n<li>The skintone version of the wings for dragonborn sadly do not have a glow, as I couldn't find a dragonborn skin shader with glow capabilities.</li>\n<li>Githyanki and Dragonborn have race-specific materials for the skintone version, the gith version includes spots, and the dragonborn one includes the multiple skin parameters they have. Due to this the dragonborn wings are also effected by draconic lineage markings.  I recommend <a href=\"https://www.nexusmods.com/baldursgate3/mods/15036\">Poesielibre's Dark Urge Scale Collection</a> and <a href=\"https://www.nexusmods.com/baldursgate3/mods/12670\">Funky Froge Skintones</a> to go with them!</li>\n</ul>\n<p>-----<br><br>In my quest to acquire everything my favourite fiend has ever laid his clawed hands upon, I've refitted the wings from Raphael's Ascended Fiend form to fit the <strong>tall</strong> player races, using the rigging and animations from the cambion wings.  They are not currently useable by short races.<br><br></p>\n<ul>\n<li><strong>The wings are equipment and also available in cc</strong>, and available in dyeable, non-dyeable and 'skintone' versions.  Non-dyeable uses the vanilla textures for the wings, and the skintone uses the wearer's skin, so the colour won't change if dyed, however the colour of the glow will still change if you use a dye with a glow parameter on them.  The dyeable wings are light purple by default as they were made to match the skin tone of my Tav, Vena.</li>\n</ul>\n<ul>\n<li>There are <strong>2 versions</strong> of each wing variant - one that <em>shows </em>during dialogue and cutscenes, potentially blocking the camera, and one that <em>hides </em>during them.  The ones that hide are marked with a little eyeball on the icon.</li>\n</ul>\n<ul>\n<li>Currently there are<strong> 4 equip options</strong> - cloak slot, underwear slot, underwear slot with succubus underwear included, and camp footwear slot.  If you choose the 'hide' version of the wings the harness will also vanish during dialogue, so keep that in mind if you use it as outerwear!</li>\n</ul>\n<p>The wings grant the user the <em>Fly action with unlimited uses</em>.  The cloak slot version also grants +2 to intimidation and a passive that causes nearby creatures that damage the wearer to be afflicted with burning.  The cc version of the wings does not grant the fly ability, which is why the 'Potion of Soaring Ambition' has been included, to grant your characters the fly ability.<br><br><strong><u>Where to find</u></strong><br>A container with the wings and their dyes can be found in the Tutorial chest.  The UUID for the container is c475aa41-6388-45ba-9bd3-32c5366af3e7.<br><br><strong><u>Dyeing</u></strong></p>\n<ul>\n<li>I've created several dyes that include glow parameters, so the glow on the wings can be changed. The wings are also compatible with other modded dyes that have glow parameters such as Padme4000's dyes <a href=\"https://mod.io/g/baldursgate3/m/npc-and-outfit-inspired-dyes\">[Link]</a><a href=\"https://mod.io/g/baldursgate3/m/p4-custom-dyes\"> [Link]</a>, or Cerberry's <a href=\"https://www.nexusmods.com/baldursgate3/mods/11055\">Glowing Accessories and Dyes</a>, and their 'Glow for Vanilla Dyes' addon that adds a glow parameter to all base game dyes.</li>\n<li>The wing dyes can change the glow colour of the non-dyeable wings, but will leave the rest of it as-is.</li>\n<li>If you dye the version of the wings with included succubus harness, it dyes the glow on that too!  Matchy-matchy.</li>\n<li>The companion dye options will dye the wings to match each companion's default skintone, as best as I could manage. Each has a glow that matches either their eyes or another notable feature (such as Minsc's tattoo or Karlach's body glow).</li>\n<li>I will not be making dyes for all skin tones as it would simply be too much work.  FearTaylor made a <a href=\"https://mod.io/g/baldursgate3/r/dye\">guide on making your own dyes</a>, you can follow it to make your own custom dyes for your Tav/Durge if you wish.  Alternatively, the mod <a href=\"https://www.nexusmods.com/baldursgate3/mods/12007\">EasyDye</a> can be used to customise the colours of equipment without needing to make a dye at all.</li>\n<li><del>I will not make these change to match the character's skin tone automatically.  That would require making custom skin textures, I am not interested in doing that at this point.</del> <strong>Updated on 11/04/25 to add the 'skintone' version which does change with the character's skin.</strong></li>\n</ul>\n<p><br><strong><u>Potential changes</u></strong></p>\n<ul>\n<li>The little spines on the back are part of the wings, I have no plans to remove them.</li>\n<li>I have been trying to make these wings work for shorties, with limited success, as they require custom animations.  If I manage to figure it out I'll update the mod.</li>\n<li>If there are any other slots you'd like me to make them available in, feel free to request it.</li>\n<li><del>I will not make them available in character creation, as that would make them no longer dyeable. </del><strong> Now available in the beard and tail (beard and hair for dragonborn) slots in cc!</strong></li>\n</ul>\n<p><br><strong><u>Known issues:</u></strong><br><br></p>\n<ul>\n<li>The tips of the BT4 wings clip through the floor slightly. This is due to the default pose used as the standard vanilla one looks weird to me so I swapped them.</li>\n<li>After using the dye remover you need to un-equip and re-equip the wings for the dye to actually be removed. No idea why.</li>\n<li>The wings sometimes get a little jittery, the animation shaking and stretching should resolve itself quickly.  If it persists please consult your cleric. </li>\n<li>The skintone version of the wings will revert to a base colour on the level-up/respec screen for some reason. Just pretend you do not see it.</li>\n<li>The wings will not work with Transmog mods such as Transmog Enhanced, likely due to the animations attached to them to make the wings work.</li>\n</ul>\n<p><br><strong><u>Thank yous</u></strong><br><a href=\"https://www.nexusmods.com/baldursgate3/users/35259540\">Lyniara</a> - for providing such breathtaking screenshots<br><a href=\"https://www.nexusmods.com/baldursgate3/users/193158143\">AkElka</a> - for help with working out how to make the animations smoother<br><a href=\"https://discord.gg/2NfhMytV\">BG3 Modding CMTY Discord </a> - for their eternal support<br><br><strong><u>Mods used in my screenshots: </u></strong><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/213\">Tav's Hair Salon</a> - Vena's hair<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/466\">Horns of Faerun</a> - Vena's horns<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10653\">Infernal Intimates</a> - Tav's stockings<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/87\">Basket Full of Equipment</a> - Lae'zel's clothing<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/8636\">Karlach's Glowing Horns</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/8741\">Terpsichore - Wyll Edits</a> - Wyll's hair and croptop<br><a href=\"https://mod.io/g/baldursgate3/m/wylls-devil-form-igmm-version\">Wyll's Devil Form</a> <br><a href=\"https://mod.io/g/baldursgate3/m/gales-wizardly-updo-default1\">Gale's Wizardly Updo</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14537\">Smoochy Makeup</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14544\">Poesielibre's Tiefling Nail Makeover - Metallic Claws Replacer</a><br>Vena's outfit is a personal mod and not available for download.<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/15036\">Poesielibre's Dark Urge Scale Collection</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/12670\">Funky Froge Skintones</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/2900\">Astralities' Fantasy Skintone Expansion</a><br><br><strong><u>Mods used in Lyniara's screenshots:</u></strong><br><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/7370\">PseudoKociara’s New CC Head Presets Vol. 2</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/10173\">Surodmg’s Resting Gith Face - Male Gith Heads and Lae’zel -</a><br>- <a href=\"https://mod.io/g/baldursgate3/m/glitzy-horns3\">Volno’s Glitzy Horns</a> <br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/11280\">Myky’s Makeup and Tattoos</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/2002\">Astralities’ Hair Color Supplement</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/4964\">Astralities’ Glow Eyes</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/7160\">Silver’s Hair Pack 2</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/5006\">Kay’s Hair Extensions</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/12639\">PseudoKociara’s PK Hair Collection</a><br>- <a href=\"https://mod.io/g/baldursgate3/m/jerinskis-alt-hairs\">Jerinski’s Alt Hairs</a><br>- <a href=\"https://mod.io/g/baldursgate3/m/p4-bangs-bangs-everywhere\">Padme4000’s Bangs Bangs Everywhere (a Fringes and Extra Hair mod)</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/1420\">Vessnelle’s Hair Collection</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/1774\">AstralSprout’s Extra Dyes for the Fashionable Folk of Faerun</a><br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/87\">AnteMaxx’s Basket Full of Equipment</a></p>\n<p> </p>\n<p>My Raphael and Raphael-adjacent mods available on Mod.io:</p>\n<p><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/raphaels-hornaments\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Raphael's Hornaments </span></span></span></span></a></span>- Gives Raphael golden horn ornaments in his cambion form, and gives Haarlep a golden and black harness<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/such-a-tease\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Such a Tease </span></span></span></span></a></span>- Opens up his doublet in both human and cambion forms<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/such-a-tease-ornamented-raphael-redressing-mod\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Such a Tease - Ornamented (Raphael redressing mod)</span></span></span></span></a></span> - Opens up his doublet and adds golden jewellery and accessories to both human and cambion forms<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/ornamented-orator-raphael-redressing-mod\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Ornamented Orator - Raphael redressing mod</span></span></span></span></a></span> - Adds golden jewellery and accessories to both human and cambion form, doublet stays closed<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/horusrestorus\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Horus Restorus</span></span></span></span></a></span> - Restores Rivington NPC Horus Crysst to have Raphael's face, which he had before patch 7<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/a-devil-you-do\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">A Devil You 'do (Raphael Hair Fixer)</span></span></span></span></a></span> - Fixes the gap between Raphael's hair and ears in his cambion form<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/a-devil-you-gnome-raphael-replacer\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">A Devil You Gnome (Raphael Replacer)</span></span></span></span></a></span> - Changes his human guise into a Gnome<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/cambions-companion\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Cambion's Companion (Haarlep Summon)</span></span></span></span></a></span> - a suggestively-shaped necklace that allows the wearer to summon Haarlep<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/the-house-of-hope-couture\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">The House Of Hope Couture - Raphael Outfits</span></span></span></span></a></span> - Adds both Raphael's outfits, Korrilla's outfit, Yurgir's outfit, and the debtor clothing as both camp clothing and armor, adds several fun spells to them including allowing you to summon Yurgir, transform into devils, and transform into Raphael's Ascended Fiend form.<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/mouses-manacles-raphael-themed-collars-n-cuffs\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Mouse's Manacles - Raphael Themed Collars n Cuffs</span></span></span></span></a></span> - Collars and wrist/ankle manacles themed around Raphael<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/infernal-intimates-tk\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Infernal Intimates - Stockings for all</span></span></span></span></a></span> - adds stockings to a dyeable version of the incubus harness for players</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/nikjima\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/13807/13807-1746708401-640373048.png\" alt=\"\" width=\"300\" height=\"61\"></a></p>",
     "date_added": 1736546602,
     "date_updated": 1745946940,
@@ -88266,6 +88376,26 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
         "date_added": 0
       },
       {
@@ -88419,6 +88549,31 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
         "date_added": 0
       },
       {
@@ -92052,7 +92207,7 @@
     "name": "Dress That Devil - turn into Raphael or Haarlep",
     "name_id": "dress-that-devil-turn-into-raphael-or-haarlep",
     "summary": "A ring that grants the wearer the ability to change themselves or others into any of Raphael/Haarlep/Mizora's forms and dress them up as they see fit.",
-    "description": "<p><strong>Update 13/10/2025 (<span class=\"tw-font-bold tw-mb-1 tw-util-line-wrap\">Version: 1.1.0.10</span>) -</strong> Mizora's cambion and human forms added.  A container with armor and camp clothing copies of Mizora's vanilla outfit can be found inside the main clothing chest.  The armor versions have some sorcerer spells for flavour.  Mizora's clothing visuals are only available for BT1 human/elf/tiefs, I don't have the energy to do refits at present, so all other body types will have Wavemother robe visuals.  The hair cloak changes colour to match the hair of whoever wears it, I don't know how to stop it doing that.<br>Added chasm immunity/fall damage immunity to all the shapeshifts, it only made sense as they can all fly.<br>Tweaked some animations for the ascended fiend.  <br>Added 'fiend' tags to all shapeshifts.<br>Added a 'debuffed' version of the ring that grants all the shapeshifts but without the 666 HP buff, for those who found it too gamebreaking.<br>Fixed the cambion half-plate pants textures.<br>Added BT3 compatibility to the cambion armour set.  The human BT3 version has different pants than the rest as they had a large, unfilled tail hole.<br>Fixed clipping on BT1 cambion gloves.<br>Adjusted the fit of the BT2 cambion armor.</p>\n<p> </p>\n<p><strong>Update 19/04/25</strong> - Restored the Ascended Fiend form's flames, he is once again suitable for toasting marshmallows upon.</p>\n<p>Added new vanilla animations as well as the photo mode animations for the ascended fiend.  </p>\n<p>Keep in mind most photo mode poses will have his tail sitting straight out and stiff, this is because the ascended fiend's tail is part of his body mesh, and the body photo mode animations do not include tail positioning.  Tieflings and such have separate tails and therefore separate animations for this, which he cannot be assigned to him as his tail is not separate.<br>His right wing detaches from his body in some poses, this is a vanilla issue that I cannot figure out how to fix.  His arms also clip through his wings and face in some poses, again, not something I can fix.</p>\n<p>Added Cambion armour visuals for BT2.<br>Added 'Belted pants' for BT1/2 and BT4 cambion tieflings, which include the cambion Belt, knee pads, and Raphael's leather bracers. </p>\n<p>Fixed Raphael/Haarlep's cambion hair. (from my '<a href=\"https://mod.io/g/baldursgate3/m/a-devil-you-do\">a Devil you 'do'</a> mod)</p>\n<p>---</p>\n<p>Update 07/02/25 to fix body piercings so they hide under clothing, and to move the horns on the human Raphael forms down slightly to line up better with his cambion form ones.</p>\n<p>---</p>\n<p>This mod allows you to cast a spell which can turn any character into any of Raphael or Haarlep's standard forms, and all bar the Ascended fiend form are fully dressable in standard equipment.  This mod does not effect the actual Raphael or Haarlep models, and is not affected by outfit mods such as my Such a Tease, or full character-transform mods such as A Devil You Gnome.<br><br><strong>The current transforms are</strong> - Human and cambion Raphael, succubus and incubus Haarlep, Raphael's ascended fiend form. I've also added two fun little in-between Raphael forms - one that's his human form with horns, and one that has a mix of human and cambion facial features. <br><br>If you cast the spell on an NPC they will be naked, as NPCs don't 'dress' the same way player characters and origins do.  <br><br>The spell persists in cutscenes and through long rest, it will only be removed if you cast the removal spell.<br><br>The spell is on a ring, which can be obtained from a container via the tutorial chest and camp chest.  The UUID for the container is <strong>0b79be50-43c4-4852-8834-b6017a27516b</strong> if you want to spawn it yourself.<br><br>Shifting into any of the forms provided will grant the shifted party the fly ability, fire immunity, and Devil's Sight.  The ascended fiend form also has access to several of the spells he uses in that form, modified to be useable without access to Soul Pillars.  Overpowered, yes, but the main point is for people to have fun with screen-archery and such, so more stuff = better.<br><br>The male cambion bodies wear <em>BT4 tiefling clothes</em>.  Keep in mind these will not always fit them all that well due to them being leaner than BT4 bodies, especially in the arm, chest and thigh areas.<br>I've included a couple of items that will fit their bodies properly in the container with the ring, such as the incubus Harness Haarlep wears and Karlach's camp pants, because I think they suit them.  I'm willing to attempt to refit other items if requested, though this will be done at my own pace and discretion.<br>Haarlep's succubus form wears<em> BT1 human clothes</em>.  Human Raphael, unurprisingly, wears <em>BT2 human clothes</em>.  Ascended Fiend Raphael is forever naked and proud, bar the version with the crown.  If anyone wants to mod some fancy little hats for him be my guest, I can make him dressable too.<br><br><strong>The current contents of the clothing container, with the BT4 tief visuals fitted for the cambion bodies:</strong></p>\n<ul>\n<li>Incubus harness underwear (dyeable and glowing non-dyeable versions)</li>\n<li>A set of armor that gives the cambion armor visuals for BT1 &amp; 2 normies and BT4 tiefs. Has other, vanilla visuals for other races. They have the stats from the Helldusk set.</li>\n<li>2 versions of The Crown of Karsus (includes an OP mind control spell that lasts until long rest and Power Word:Kill). One version sits on his head, the other fits to his horns.</li>\n<li>A variety of body piercings for the underwear slot, both alone and with the incubus harness. Piercings only have visuals for the cambion bodies, and BT1/2 humans. A separate mod with the piercings for all bodies is in the works. Piercings are dyeable.</li>\n<li>Karlach's camp clothing</li>\n<li>Raphael's trousers as camp clothing (2 versions, either sitting over/under his tail in cambion form)</li>\n<li>'Belted pants' for BT1/2 and BT4 cambion tieflings, which include the cambion Belt, knee pads, and Raphael's leather bracers.</li>\n</ul>\n<p><br>Raphael's normal outfits, including his cambion doublet for BT4 tiefs, are available in my <a href=\"https://mod.io/g/baldursgate3/m/the-house-of-hope-couture\">House of Hope Couture</a> mod, along with a few of his spells, for added roleplay immersion.</p>\n<p>KariiMatcha's <a href=\"https://www.nexusmods.com/baldursgate3/mods/13640\">Haarlep in Gold</a> mod has a camp clothing optional file of their outfit that fits the cambion bodies.<br><br>I swapped the animation sets the male cambions use with the BT4 animation sets, in order to reduce instances of them simply not having animations during cutscenes.  I've done some testing, but not the entire game, if any animations seem to be particularly janky or broken please give me specific details and I'll look into it.<br>This also means if you try using, for example, the Raphael cambion form spell on actual Haarlep he will not animate properly in his cutscene, as the majority of Haarlep's animations are cambion-exclusive.   He just stands on the bed looking down at you in a suggestive manner.<br><br><em>It's fully compatible with the kiss, hug, and replayable romance scene mods, </em>however animations tend to play out based on the bodytype of the character underneath the shapeshift.  For that reason I recommend using the cambion shapeshifts on Halsin or Minsc, for example, and the human ones on Gale/Astarion etc, as they're the right height. <br><br>Everyone but the Ascended Fiend form is anatomically correct, for your romance cutscene funtimes.<br><br><em>The mod currently has some issues with BG3SX -</em> You can use it on any transformed character, however their 'anatomical correctness' is a touch off - they'll use the genitals from the character that's been transformed.  They'll also behave as if they're the height of the transformed character, so again I recommend using the male cambion transforms on BT4s, human Raphael on BT2s, etc.<br><br><strong>Load order:</strong><br><del>If you're using my House of Hope Couture mod, make sure this one is placed after it in the load order.  Both change the ascended fiend form animations, but this one does a few extra changes that HoHC does not, so animations will be missing if you place it first.</del> As of version 1.0.0.6 both this mod and House of Hope Couture use the exact same animations for the fiend so load order no longer matters.<br><br><strong>Known issues:</strong><br>The cambion wings jitter about sometimes, I don't know why.<br><br><strong>Other mods used in screenshots:</strong><br><a href=\"https://mod.io/g/baldursgate3/m/the-house-of-hope-couture\">Th* House of Hope Couture</a><br><a href=\"https://mod.io/g/baldursgate3/m/a-devil-you-do\">A Devil You 'do (Raphael Hair Fixer)</a><br><a href=\"https://mod.io/g/baldursgate3/m/raphaels-hornaments\">Raphael's Hornaments</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/97\">Basket Full of Equipment. NSFW version</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10653\">https://mod.io/g/baldursgate3/m/infernal-intimates-tk</a><br><a href=\"https://mod.io/g/baldursgate3/m/all-camp-clothes-and-dyes\">All camp clothes and dyes<br></a><a href=\"https://mod.io/g/baldursgate3/m/soaring-ambition-ascended-fiend-wings\">Soaring Ambition - Ascended Fiend Wings</a><br><a href=\"https://mod.io/g/baldursgate3/m/mouses-manacles-raphael-themed-collars-n-cuffs\">Mouse's Manacles - Raphael Themed Collars n Cuffs</a><br><br><strong>Credits/Thank yous:</strong><br><a href=\"https://www.nexusmods.com/baldursgate3/users/35259540\">Lyniara</a>: Helping me fix the cambion armor skirt physics<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/5633\">Plus utilities icons</a> - giving me easy access to vanilla icons to edit</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/nikjima\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/13807/13807-1746708401-640373048.png\" alt=\"\" width=\"300\" height=\"61\"></a></p>",
+    "description": "<p><strong>Update 13/10/2025 (<span class=\"tw-font-bold tw-mb-1 tw-util-line-wrap\">Version: 1.1.0.10</span>) -</strong> Mizora's cambion and human forms added.  A container with armor and camp clothing copies of Mizora's vanilla outfit can be found inside the main clothing chest.  The armor versions have some sorcerer spells for flavour.  Mizora's clothing visuals are only available for BT1 human/elf/tiefs, I don't have the energy to do refits at present, so all other body types will have Wavemother robe visuals.  The hair cloak changes colour to match the hair of whoever wears it, I don't know how to stop it doing that.<br>Added chasm immunity/fall damage immunity to all the shapeshifts, it only made sense as they can all fly.<br>Tweaked some animations for the ascended fiend.  <br>Added 'fiend' tags to all shapeshifts.<br>Added a 'debuffed' version of the ring that grants all the shapeshifts but without the 666 HP buff, for those who found it too gamebreaking.<br>Fixed the cambion half-plate pants textures.<br>Added BT3 compatibility to the cambion armour set.  The human BT3 version has different pants than the rest as they had a large, unfilled tail hole.<br>Fixed clipping on BT1 cambion gloves.<br>Adjusted the fit of the BT2 cambion armor.</p>\n<p> </p>\n<p><strong>Update 19/04/25</strong> - Restored the Ascended Fiend form's flames, he is once again suitable for toasting marshmallows upon.</p>\n<p>Added new vanilla animations as well as the photo mode animations for the ascended fiend.  </p>\n<p>Keep in mind most photo mode poses will have his tail sitting straight out and stiff, this is because the ascended fiend's tail is part of his body mesh, and the body photo mode animations do not include tail positioning.  Tieflings and such have separate tails and therefore separate animations for this, which he cannot be assigned to him as his tail is not separate.<br>His right wing detaches from his body in some poses, this is a vanilla issue that I cannot figure out how to fix.  His arms also clip through his wings and face in some poses, again, not something I can fix.</p>\n<p>Added Cambion armour visuals for BT2.<br>Added 'Belted pants' for BT1/2 and BT4 cambion tieflings, which include the cambion Belt, knee pads, and Raphael's leather bracers. </p>\n<p>Fixed Raphael/Haarlep's cambion hair. (from my '<a href=\"https://mod.io/g/baldursgate3/m/a-devil-you-do\">a Devil you 'do'</a> mod)</p>\n<p>---</p>\n<p>Update 07/02/25 to fix body piercings so they hide under clothing, and to move the horns on the human Raphael forms down slightly to line up better with his cambion form ones.</p>\n<p>---</p>\n<p>This mod allows you to cast a spell which can turn any character into any of Raphael or Haarlep's standard forms, and all bar the Ascended fiend form are fully dressable in standard equipment.  This mod does not effect the actual Raphael or Haarlep models, and is not affected by outfit mods such as my Such a Tease, or full character-transform mods such as A Devil You Gnome.<br><br><strong>The current transforms are</strong> - Human and cambion Raphael, succubus and incubus Haarlep, Raphael's ascended fiend form. I've also added two fun little in-between Raphael forms - one that's his human form with horns, and one that has a mix of human and cambion facial features. <br><br>If you cast the spell on an NPC they will be naked, as NPCs don't 'dress' the same way player characters and origins do.  <br><br>The spell persists in cutscenes and through long rest, it will only be removed if you cast the removal spell.<br><br>The spell is on a ring, which can be obtained from a container via the tutorial chest and camp chest.  The UUID for the container is <strong>0b79be50-43c4-4852-8834-b6017a27516b</strong> if you want to spawn it yourself.<br><br>Shifting into any of the forms provided will grant the shifted party the fly ability, fire immunity, and Devil's Sight.  The ascended fiend form also has access to several of the spells he uses in that form, modified to be useable without access to Soul Pillars.  Overpowered, yes, but the main point is for people to have fun with screen-archery and such, so more stuff = better.<br><br>The male cambion bodies wear <em>BT4 tiefling clothes</em>.  Keep in mind these will not always fit them all that well due to them being leaner than BT4 bodies, especially in the arm, chest and thigh areas.<br>I've included a couple of items that will fit their bodies properly in the container with the ring, such as the incubus Harness Haarlep wears and Karlach's camp pants, because I think they suit them.  I'm willing to attempt to refit other items if requested, though this will be done at my own pace and discretion.<br>Haarlep's succubus form wears<em> BT1 human clothes</em>.  Human Raphael, unurprisingly, wears <em>BT2 human clothes</em>.  Ascended Fiend Raphael is forever naked and proud, bar the version with the crown.  If anyone wants to mod some fancy little hats for him be my guest, I can make him dressable too.<br><br><strong>The current contents of the clothing container, with the BT4 tief visuals fitted for the cambion bodies:</strong></p>\n<ul>\n<li>Incubus harness underwear (dyeable and glowing non-dyeable versions)</li>\n<li>A set of armor that gives the cambion armor visuals for BT1 &amp; 2 normies and BT4 tiefs. Has other, vanilla visuals for other races. They have the stats from the Helldusk set.</li>\n<li>2 versions of The Crown of Karsus (includes an OP mind control spell that lasts until long rest and Power Word:Kill). One version sits on his head, the other fits to his horns.</li>\n<li>A variety of body piercings for the underwear slot, both alone and with the incubus harness. Piercings only have visuals for the cambion bodies, and BT1/2 humans. A separate mod with the piercings for all bodies is in the works. Piercings are dyeable.</li>\n<li>Karlach's camp clothing</li>\n<li>Raphael's trousers as camp clothing (2 versions, either sitting over/under his tail in cambion form)</li>\n<li>'Belted pants' for BT1/2 and BT4 cambion tieflings, which include the cambion Belt, knee pads, and Raphael's leather bracers.</li>\n</ul>\n<p><br>Raphael's normal outfits, including his cambion doublet for BT4 tiefs, are available in my <a href=\"https://mod.io/g/baldursgate3/m/the-house-of-hope-couture\">House of Hope Couture</a> mod, along with a few of his spells, for added roleplay immersion.</p>\n<p>KariiMatcha's <a href=\"https://www.nexusmods.com/baldursgate3/mods/13640\">Haarlep in Gold</a> mod has a camp clothing optional file of their outfit that fits the cambion bodies.<br><br>I swapped the animation sets the male cambions use with the BT4 animation sets, in order to reduce instances of them simply not having animations during cutscenes.  I've done some testing, but not the entire game, if any animations seem to be particularly janky or broken please give me specific details and I'll look into it.<br>This also means if you try using, for example, the Raphael cambion form spell on actual Haarlep he will not animate properly in his cutscene, as the majority of Haarlep's animations are cambion-exclusive.   He just stands on the bed looking down at you in a suggestive manner.<br><br><em>It's fully compatible with the kiss, hug, and replayable romance scene mods, </em>however animations tend to play out based on the bodytype of the character underneath the shapeshift.  For that reason I recommend using the cambion shapeshifts on Halsin or Minsc, for example, and the human ones on Gale/Astarion etc, as they're the right height. <br><br>Everyone but the Ascended Fiend form is anatomically correct, for your romance cutscene funtimes.<br><br><em>The mod currently has some issues with BG3SX -</em> You can use it on any transformed character, however their 'anatomical correctness' is a touch off - they'll use the genitals from the character that's been transformed.  They'll also behave as if they're the height of the transformed character, so again I recommend using the male cambion transforms on BT4s, human Raphael on BT2s, etc.<br><br><strong>Load order:</strong><br><del>If you're using my House of Hope Couture mod, make sure this one is placed after it in the load order.  Both change the ascended fiend form animations, but this one does a few extra changes that HoHC does not, so animations will be missing if you place it first.</del> As of version 1.0.0.6 both this mod and House of Hope Couture use the exact same animations for the fiend so load order no longer matters.<br><br><strong>Known issues:</strong><br>The cambion wings jitter about sometimes, I don't know why.<br><br><strong>Other mods used in screenshots:</strong><br><a href=\"https://mod.io/g/baldursgatee/m/the-house-of-hope-couture\">th* House of Hope Couture</a><br><a href=\"https://mod.io/g/baldursgate3/m/a-devil-you-do\">A Devil You 'do (Raphael Hair Fixer)</a><br><a href=\"https://mod.io/g/baldursgate3/m/raphaels-hornaments\">Raphael's Hornaments</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/97\">Basket Full of Equipment. NSFW version</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/10653\">https://mod.io/g/baldursgate3/m/infernal-intimates-tk</a><br><a href=\"https://mod.io/g/baldursgate3/m/all-camp-clothes-and-dyes\">All camp clothes and dyes<br></a><a href=\"https://mod.io/g/baldursgate3/m/soaring-ambition-ascended-fiend-wings\">Soaring Ambition - Ascended Fiend Wings</a><br><a href=\"https://mod.io/g/baldursgate3/m/mouses-manacles-raphael-themed-collars-n-cuffs\">Mouse's Manacles - Raphael Themed Collars n Cuffs</a><br><br><strong>Credits/Thank yous:</strong><br><a href=\"https://www.nexusmods.com/baldursgate3/users/35259540\">Lyniara</a>: Helping me fix the cambion armor skirt physics<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/5633\">Plus utilities icons</a> - giving me easy access to vanilla icons to edit</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/nikjima\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/13807/13807-1746708401-640373048.png\" alt=\"\" width=\"300\" height=\"61\"></a></p>",
     "date_added": 1738622197,
     "date_updated": 1761318773,
     "date_live": 1738622725,
@@ -92137,6 +92292,26 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
         "date_added": 0
       },
       {
@@ -95491,6 +95666,31 @@
       {
         "name": "Dyes",
         "name_localized": "Dyes",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
         "date_added": 0
       },
       {
