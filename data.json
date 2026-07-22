@@ -27540,6 +27540,169 @@
     ]
   },
   {
+    "id": 4333179,
+    "game_id": 6715,
+    "name": "Armor of the Githyanki",
+    "name_id": "armor-of-the-githyanki",
+    "summary": "Unlocks fifty pieces of Githyanki themed armor for Tav / Origin characters! All items spawn in the tutorial chest. Some pieces do have body type / race restrictions. Those are clearly marked on all items. Compatible with patch 8!",
+    "description": "<center><img src=\"https://i.ibb.co/zcTQssY/main-header.png\" alt=\"BG3 Modathon July 2026\" width=\"800\" height=\"420\"></center>\n<h3> </h3>\n<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>What is this mod?</strong></span></span></h3>\n<ul>\n<li>Unlocks 50 Githyanki-themed armor pieces without breaking game balance.</li>\n<li>Armor can be found in the tutorial chest on the nautiloid. </li>\n<li>All equipment weights halved so that most Tavs / Origins can easily pick up the Armor Cache.</li>\n</ul>\n<h3> </h3>\n<h3><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\"><strong>What's new in 2.0.0.2?</strong></span></span></h3>\n<ul>\n<li>The item spawn order has been rearranged in the Githyanki cache. It's now ordered from most to least body/race type permisivity.</li>\n<li>Githyanki Light Leather Armor, previously Gith exclusive, now available on <strong>ALL race / body types</strong>.</li>\n<li>Seven pieces of Gith exclusive equiment now usable by <strong>ALL except Dragonborn</strong>: Gishra's Crown, Ghustil's Monocle, Githyanki Raider's Helmet, Infernal Mask, Kithrak's Silver Helmet, Varsh's Monocle, Vlaakith's Crown</li>\n<li>Three pieces of Gith exclusive equiment now usable by <strong>ALL except Dragonborn and Tiefilings</strong>: Fine Githyanki Monastic Crown, Githyanki Amethyst Circlet, Inquisitor's Diadem</li>\n</ul>\n<p><strong>Overall Equipment Breakdown</strong></p>\n<ul>\n<li>18 - All Races / Body Types</li>\n<li>17 - Most races / Body Types</li>\n<li>15 - Githyanki Only</li>\n</ul>\n<p><em><strong>Note: This mod is still under construction. I will update this mod as I rescale more items. Unfortunately it's a slow, manual process.</strong></em></p>\n<h3> </h3>\n<h3><strong><span style=\"color:#6d9eeb;\"><span class=\"bbcode-size-4\">Installation </span></span></strong></h3>\n<p><span class=\"bbcode-size-14\">Simply drop the .zip into the <strong>BG3 Mod Manager</strong>. It is also available via the in-game mod-manager.</span></p>\n<h3> </h3>\n<h3><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;\"><strong>Known Conflicts</strong></span> </span></h3>\n<ul>\n<li>Other mods that edit vanilla Githyanki armor models.</li>\n</ul>\n<h3> </h3>\n<h3><span class=\"bbcode-size-14\"><span class=\"bbcode-size-4\"><span style=\"color:#6d9eeb;\"><strong>Frequently Asked Questions</strong></span></span></span></h3>\n<ol>\n<li>Can you make your mods work with my favorite mod that someone else other than you or I created?\n<ul>\n<li>Unfortunately,<strong> the answer is no.</strong> Why? With all the countless other mods out there that there's simply too many permutations and it exponentially complicates maintenance on my mods.</li>\n<li><strong>But I'm a mod author and I'd like for our mods to play nicely together!!!</strong>\n<ul>\n<li> Send me a DM and we can talk about it. With your intimate knowledge of how your mod is built, there's a chance we can make it work!</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>I've run into a problem with your mod. How do I submit a bug report?\n<ul>\n<li>First thing's first. Unload <span style=\"text-decoration:underline;\"><strong>ALL</strong></span> other mods and try the mod you're having trouble with one more time.\n<ul>\n<li>If that fixed it that means you've found a mod conflict. Please see FAQ 1 about addressing mod conflicts.</li>\n</ul>\n</li>\n<li>Still having trouble? Drop me a note below and I'll look into it. </li>\n</ul>\n</li>\n</ol>\n<p>Thanks so much in advance for your understanding and continued support. 🙏❤️ </p>\n<p> </p>\n<p>💔 This mod has not been submitted for cross-platform compatibility due to it still being tested or other design limitations.</p>",
+    "date_added": 1726104696,
+    "date_updated": 1784748545,
+    "date_live": 1726104906,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/armor-of-the-githyanki",
+    "submitted_by": {
+      "id": 34836700,
+      "name_id": "cobaltcactus",
+      "username": "CobaltCactus",
+      "profile_url": "https://mod.io/u/cobaltcactus",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2fd7/34836700/crop_100x100/cobaltcactus.png"
+    },
+    "modfile": {
+      "id": 7931264,
+      "mod_id": 4333179,
+      "version": "2.0.0.2",
+      "filename": "armor_of_the_githyanki_3ad2c8f-93pi.zip",
+      "changelog": "Added increased compatability of equipment to race/body types, fixed Inquisitor's Gauntlets display name, sorted equipment spawn order in TUT chest cache.",
+      "date_added": 1783295380,
+      "date_updated": 0,
+      "date_scanned": 1783295634,
+      "filesize": 153295058,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.1.png",
+      "original": "https://image.modcdn.io/mods/47c7/4333179/thumbnail.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/47c7/4333179/crop_320x180/thumbnail.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/47c7/4333179/crop_640x360/thumbnail.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/47c7/4333179/crop_1280x720/thumbnail.1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Modathon 2026",
+        "name_localized": "Modathon 2026",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7931264
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7931264
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7931264
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7931264
+      }
+    ]
+  },
+  {
     "id": 4333254,
     "game_id": 6715,
     "name": "Priest Class",
@@ -28498,6 +28661,104 @@
       {
         "platform": "ps5",
         "modfile_live": 5563523
+      }
+    ]
+  },
+  {
+    "id": 4334382,
+    "game_id": 6715,
+    "name": "MysticDoubleResources",
+    "name_id": "mysticdoubleresources",
+    "summary": "Gives the Mystic twice as much psi points and psionic mastery charges.",
+    "description": "<p>Gives the Mystic twice as much psi points and psionic mastery charges.</p>",
+    "date_added": 1726172703,
+    "date_updated": 1784747494,
+    "date_live": 1726172987,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/mysticdoubleresources",
+    "submitted_by": {
+      "id": 32940264,
+      "name_id": "xhevo",
+      "username": "Xhevo",
+      "profile_url": "https://mod.io/u/xhevo",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/cd7e/32940264/crop_100x100/t5p6o5dm8oe71.png"
+    },
+    "modfile": {
+      "id": 5563531,
+      "mod_id": 4334382,
+      "version": "1.0.0.1",
+      "filename": "mysticdoubleresources_7637d00e-gu0y.zip",
+      "changelog": "Initial release",
+      "date_added": 1726172704,
+      "date_updated": 0,
+      "date_scanned": 1726172707,
+      "filesize": 115900,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/758a/4334382/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/758a/4334382/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/758a/4334382/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/758a/4334382/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5563531
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5563531
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5563531
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5563531
       }
     ]
   },
@@ -47846,6 +48107,94 @@
     ]
   },
   {
+    "id": 4378231,
+    "game_id": 6715,
+    "name": "Magmatic Hell Dice",
+    "name_id": "magmatic-hell-dice",
+    "summary": "A dice design of a magmatic hell. (Compatible with all languages)",
+    "description": "",
+    "date_added": 1727916436,
+    "date_updated": 1784747377,
+    "date_live": 1727916679,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/magmatic-hell-dice",
+    "submitted_by": {
+      "id": 35416488,
+      "name_id": "gonzy42",
+      "username": "Gonzy42",
+      "profile_url": "https://mod.io/u/gonzy42",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/c29c/35416488/crop_100x100/image7.png"
+    },
+    "modfile": {
+      "id": 5625761,
+      "mod_id": 4378231,
+      "version": "1.0.0.2",
+      "filename": "magmatichell_6c3f1e6a-9699-2d9-bwuq.zip",
+      "changelog": null,
+      "date_added": 1727916443,
+      "date_updated": 0,
+      "date_scanned": 1727916462,
+      "filesize": 17143050,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/2c5e/4378231/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2c5e/4378231/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2c5e/4378231/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2c5e/4378231/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Dice",
+        "name_localized": "Dice",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5625761
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5625761
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5625761
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5625761
+      }
+    ]
+  },
+  {
     "id": 4378321,
     "game_id": 6715,
     "name": "Pactbound - A Warlock Overhaul",
@@ -52515,6 +52864,109 @@
       {
         "platform": "ps5",
         "modfile_live": 5674801
+      }
+    ]
+  },
+  {
+    "id": 4393335,
+    "game_id": 6715,
+    "name": "The Rage Mage - A Barbarian Spellcaster Subclass",
+    "name_id": "the-rage-mage",
+    "summary": "Introduces a new subclass for the Barbarian that allows for spellcasting while Raging and has a limited number of spell slots and Sorcerer spells. Based on homebrew by Mage Hand Press.",
+    "description": "<p>Based on homebrew by Mage Hand Press in <em>Valda's Spire of Secrets</em>, the Rage Mage mixes a Barbarian's standard ferociousness with skill with the arcane. The Rage Mage draws from the Sorcerer spell lists, focusing on Evocation and Transmutation magic that they can bring into combat. Unlike other Barbarians, they can cast spells while Raging... but spells you unlock through this subclass will <strong>only</strong> work during a Rage.</p>\n<p>Your spells key off Charisma much like a Sorcerer. The subclass now has full levels 1-20 support, but tell me if you run into any issues with upcasting.</p>\n<p><strong>Compatibility notes</strong>: There are currently some bugs with Larian's merging process when multiclassing. The <a href=\"https://www.nexusmods.com/baldursgate3/mods/12871\">Nexus version</a> uses a framework to get around this, but if you're on Mod.io I assume you don't have it. If you're starting as a Barbarian, the mod should work with other Barb subclasses.</p>\n<p> </p>\n<h3><strong>Features by level</strong></h3>\n<ul>\n<li><strong>Level 3</strong>:\n<ul>\n<li>You can cast or concentrate on spells while Raging, and casting a spell will preserve your Rage. However, spells learnt through this class can <strong>only</strong> be cast when Raging. (You may use a Rage Charge to activate certain utility spells, like Charm Person, out of combat.)</li>\n<li>You gain spell slots at the same rate as an Arcane Trickster or Eldritch Knight. Your spell list uses Sorcerer spells that are part of either the Evocation or Transmutation schools. At certain levels, you may learn spells from the full Sorcerer spell list.</li>\n<li>You can use Constitution instead of Intelligence for Arcana checks.<br><br></li>\n</ul>\n</li>\n<li><strong>Level 6</strong>: When you are Raging and make a Reckless Attack, you can use a bonus action to trade out your second attack with a spell.<br><br></li>\n<li><strong>Level 10</strong>: You can cast the spells Enhance Jump, Feather Fall, Darkvision and See Invisibility on yourself at will, even when out of spell slots or not in a Rage.<br><br></li>\n<li><strong>Level 14</strong>: Once per turn when you hit an enemy with a melee weapon attack, you can expend a spell slot to create a small arcane explosion. This deals Force damage based on the spell slot used: 2d6 for a 1st-level slot, 4d6 for a 2nd-level slot, etc.</li>\n</ul>\n<h3> </h3>\n<h3><strong>Multiclassing notes</strong></h3>\n<p>Rage Mage spells can be upcasted using whatever spell slots you have available, though they always only work during a Rage. Spells <strong>from other sources </strong>should work both in and out of a Rage. They'll also keep a Rage going, if it's active.</p>\n<h3> </h3>\n<h3><strong>Credits</strong></h3>\n<p>As mentioned, this is based off homebrew by Mage Hand Press, available in <a href=\"https://magehandpress.com/valdas\"><em>Valda's Spire of Secrets</em></a>. Mage Hand have been fairly open to their content being ported to BG3 on their Discord.</p>\n<p> </p>",
+    "date_added": 1728273232,
+    "date_updated": 1784747623,
+    "date_live": 1728273821,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/the-rage-mage",
+    "submitted_by": {
+      "id": 34885127,
+      "name_id": "wailingbard",
+      "username": "TheWailingBard",
+      "profile_url": "https://mod.io/u/wailingbard",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/04bc/34885127/crop_100x100/20thanniversaryhat.png"
+    },
+    "modfile": {
+      "id": 6983026,
+      "mod_id": 4393335,
+      "version": "1.0.0.15",
+      "filename": "magehandsubclasses_fa6229e2-7f-8mx3.zip",
+      "changelog": "- Fix a Rage Mage's throw damage being limited to 2, even after their Rage Damage increases.\n- A Rage Mage's Rage status does not say they \"cannot cast or concentrate on spells\".\n- Fix a few misc minor bugs. If you are, for some reason, making a non-Intelligence Arcana check, the game will not try to correct for your Constitution.\n- Remove any redundant CF code in favour of allowing it to automatically pick things up.\n- Remove some other stuff that could lead to incompatibilites.\n- Some general clean-up, add a few tooltips to a few descriptions.",
+      "date_added": 1762981117,
+      "date_updated": 0,
+      "date_scanned": 1762981124,
+      "filesize": 1063029,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "ragemage2.png",
+      "original": "https://image.modcdn.io/mods/75ed/4393335/ragemage2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/75ed/4393335/crop_320x180/ragemage2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/75ed/4393335/crop_640x360/ragemage2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/75ed/4393335/crop_1280x720/ragemage2.png"
+    },
+    "tags": [
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6983026
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6983026
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6983026
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6983026
       }
     ]
   },
@@ -60317,7 +60769,7 @@
     "summary": "The most ambitious D&amp;D 5.5e conversion yet: 16 classes, 110 subclasses, 90+ feats, 120+ new/revised spells, 40 backgrounds, 6 new races, and 8 core rule changes — a complete rebuild, still growing with every update.",
     "description": "DnD 5.5e All-in-One BEYOND\n<p><a href=\"https://github.com/Yoonmoonsik/dnd55e\">DnD 5.5e All-in-One BEYOND</a> is a Baldur's Gate 3 mod that packs a broad set of D&amp;D 5.5e-inspired rules, player options, spells, feats, equipment, and class updates into a single all-in-one mod.</p>\n<p>For deeper gameplay notes, class details, spell behavior, item locations, and community-maintained documentation, see the <a href=\"https://github.com/Yoonmoonsik/dnd55e/wiki\">Wiki</a>.</p>\n<p><em>Note: The Wiki is maintained by community contributors and is not officially written or managed by the mod developer. Some information may be incomplete, outdated, or inaccurate.</em></p>\n<h2>Playthrough Videos</h2>\n<p>For gameplay examples, build ideas, and practical references, check the playthrough videos on the <a href=\"https://www.youtube.com/@yoonmoonsik43\">Yoonmoonsik YouTube channel</a> and the dedicated <a href=\"https://www.youtube.com/playlist?list=PLOxzTx3j5VdueKEU6lfAmzKL5KQt0rNhi\">playthrough playlist</a>.</p>\n<h2>Rules and Actions</h2>\n<h3>Basic Rules</h3>\n<ul>\n<li>Bloodied</li>\n<li>Equipping Weapons</li>\n<li>Extra Attack, including War Magic integration</li>\n<li>Heavy Armor Strength Requirement</li>\n<li>Heavy Weapon Ability Requirement</li>\n<li>Hiding</li>\n<li>Hit Point Dice</li>\n<li>Inspiration from Background</li>\n<li>One Spell Slot Spell per Turn</li>\n<li>Prone</li>\n<li>Spell Scroll Usage Limitation</li>\n<li>Weapon Mastery</li>\n</ul>\n<h3>Common Actions</h3>\n<ul>\n<li>Distract</li>\n<li>Dodge</li>\n<li>Hide</li>\n<li>Jump</li>\n<li>Shove</li>\n<li>Topple</li>\n</ul>\n<h2>Character Backgrounds</h2>\n<h3>Player's Handbook</h3>\n<p>Acolyte, Charlatan, Criminal, Entertainer, Farmer, Folk Hero, Guide, Guild Artisan, Haunted One, Hermit, Merchant, Noble, Outlander, Sage, Sailor, Scribe, Soldier, Urchin, Wayfarer.</p>\n<h3>Forgotten Realms: Heroes of Faerun</h3>\n<p>Chondathan Freebooter, Dead Magic Dweller, Dragon Cultist, Emerald Enclave Caretaker, Flaming Fist Mercenary, Genie Touched, Harper, Ice Fisher, Knight of the Gauntlet, Lords' Alliance Vassal, Moonwell Pilgrim, Mulhorandi Tomb Raider, Mythalkeeper, Purple Dragon Squire, Rashemi Wanderer, Shadowmasters Exile, Spellfire Initiate, Zhentarim Mercenary.</p>\n<h2>Classes</h2>\n<ul>\n<li><strong>Artificer</strong> — Alchemist, Armorer, Artillerist, Battle Smith</li>\n<li><strong>Barbarian</strong> — Berserker, Fractured, Giant, Shadow Gnawer, Wild Magic, Wildheart, World Tree, Zealot</li>\n<li><strong>Bard</strong> — Dance, Glamour, Lore, Moon, Spirits, Swords, Valor</li>\n<li><strong>Cleric</strong> — Apocalypse, Astral, Death, Grave, Nature, Shadow, Tempest, Knowledge, Life, Light, Mind, Trickery, War</li>\n<li><strong>Druid</strong> — Circle of Dragons, Dreams, Stars, Land, Moon, Sea, Spores, Unbroken</li>\n<li><strong>Fighter</strong> — Arcane Archer, Banneret, Battle Master, Cavalier, Champion, Eldritch Knight, Psi Warrior, Rune Knight, Viking</li>\n<li><strong>Gunslinger</strong> — High Roller, Spellslinger, White Hat</li>\n<li><strong>Illrigger</strong> — Architect of Ruin, Hellspeaker, Painkiller, Sanguine Knight, Shadowmaster</li>\n<li><strong>Monk</strong> — Elements, Kensei, Mercy, Open Hand, Shadow</li>\n<li><strong>Monster Hunter</strong> — Carver Guild, Devourer Guild, Occultist Guild</li>\n<li><strong>Paladin</strong> — Ancients, Crown, Devotion, Glory, Noble Genies, Vengeance, Oathbreaker</li>\n<li><strong>Ranger</strong> — Beast Master, Fey Wanderer, Gloom Stalker, Hollow Warden, Hunter, Swarm Keeper, Winter Walker</li>\n<li><strong>Rogue</strong> — Arcane Trickster, Assassin, Blade of Radiance, Scion of the Three, Highway Rider, Soulknife, Swashbuckler, Thief</li>\n<li><strong>Sorcerer</strong> — Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, Frost Sorcery, Shadow Magic, Spellfire Sorcery, Storm Sorcery, Wild Magic Sorcery</li>\n<li><strong>Warlock</strong> — Archfey, Celestial, Fiend, Great Old One, Hexblade, Undead, expanded Invocations</li>\n<li><strong>Wizard</strong> — Abjurer, Bladesinger, Conjurer, Diviner, Enchanter, Evoker, Illusionist, Necromancer, Transmuter</li>\n<li><strong>Psion</strong> — Coming soon</li>\n</ul>\n<h2>Feats</h2>\n<h3>Fighting Styles</h3>\n<p>Archery, Blind Fighting, Defense, Dueling, Great Weapon Fighting, Interception, Protection, Thrown Weapon Fighting, Two-Weapon Fighting, Unarmed Fighting.</p>\n<h3>Player's Handbook</h3>\n<p><strong>Origin Feats:</strong> Alert, Lucky, Magic Initiate: Cleric, Magic Initiate: Druid, Magic Initiate: Wizard, Musician, Savage Attacker, Skilled, Tavern Brawler, Tough, Healer.</p>\n<p><strong>General Feats:</strong> Actor, Athlete, Charger, Crossbow Expert, Defensive Duelist, Dual Wielder, Dungeon Delver, Durable, Elemental Adept, Great Weapon Master, Heavily Armored, Heavy Armor Master, Lightly Armored, Mage Slayer, Martial Adept, Medium Armor Master, Polearm Master, Resilient, Ritual Caster, Sentinel, Sharpshooter, Shield Master, Speedy, Spell Sniper, War Caster, Weapon Master, Crusher, Fey Touched, Inspiring Leader, Mounted Combatant, Piercer, Poisoner, Shadow Touched, Skill Expert, Skulker, Slasher.</p>\n<h3>Additional Sources</h3>\n<ul>\n<li><strong>Xanathar's Guide to Everything:</strong> Dragon Fear, Dragon Hide, Dwarven Fortitude, Elven Accuracy, Fade Away, Flames of Phlegethos, Infernal Constitution, Orcish Fury, Squat Nimbleness.</li>\n<li><strong>Tasha's Cauldron of Everything:</strong> Eldritch Adept, Fighting Initiate, Metamagic Adept.</li>\n<li><strong>Forgotten Realms: Heroes of Faerun:</strong> Cult of the Dragon Initiate, Emerald Enclave Fledgling, Harper Agent, Lords' Alliance Agent, Purple Dragon Rook, Spellfire Spark, Tyro of the Gauntlet, Zhentarim Ruffian, Cold Caster, Dragonscarred, Enclave Magic, Fairy Trickster, Genie Magic, Harper Teamwork, Lordly Resolve, Mythal Touched, Order's Resilience, Purple Dragon Commandant, Spellfire Adept, Zhentarim Tactics.</li>\n<li><strong>The Lord of The Ring Roleplaying:</strong> Deadly Archery, Dragon-Slayer, Fierce Shot, Gleam of Wrath, Nimbleness.</li>\n</ul>\n<h2>Races and Species</h2>\n<ul>\n<li>Aasimar, Dhampir, Goliath, and Kalashtar are available as Human subclass options.</li>\n<li>Dragonborn, Dwarf, Elf, Githyanki, Gnome, Half Elf, Halfling, Human, Orc, and Tiefling are supported.</li>\n<li>Several species include ancestry or lineage options, including Dragonborn Draconic Ancestry, Elf and Half Elf sub-lineages, Goliath Giant Ancestry, and Tiefling legacy options.</li>\n</ul>\n<h2>Spells</h2>\n<h3>Cantrips</h3>\n<p>Acid Splash, Blade Ward, Chill Touch, Eldritch Blast, Finger Guns, Frightful Start, Green-Flame Blade, Hellfire, Mind Sliver, Poison Spray, Prestidigitation, Resistance, Shillelagh, Sorcerous Burst, Spare the Dying, Starry Wisp, Sword Burst, Thunderclap, True Strike, Vicious Mockery, Word of Radiance.</p>\n<h3>Leveled Spells</h3>\n<ul>\n<li><strong>Level 1:</strong> Absorb Elements, Armor of Agathys, Ballistic Smite, Body Warping of Gorgoroth, Catapult, Chromatic Orb, Cloak of Shadow, Color Spray, Cure Wounds, Divine Favor, Divine Smite, Entangle, Feather Fall, Guiding Bolt, Healing Word, Hell's Lash, Hex, Hungering Blade, Hunter's Mark, Inflict Wounds, Jump, Longstrider, Magic Missile, Ray of Sickness, Searing Smite, Sleep, Spectral Slash, Tasha's Hideous Laughter, Thorn Armor, Tide of Darkness, Umbral Tendril, Wardaway, Wrathful Smite.</li>\n<li><strong>Level 2:</strong> Aganazzar's Scorcher, Aid, Arcane Vigor, Blindness, Cloud of Daggers, Crown of Madness, Darkbolt, Darkness, Dazing Blast, Death Armor, Dragon's Breath, Find Steed, Fire Rune, Flame Blade, Gust of Wind, Lesser Restoration, Magic Weapon, Melf's Acid Arrow, Mind Spike, Misty Step, Prayer of Healing, Ray of Enfeeblement, Searing Orb, Shadow Blade, Snilloc's Snowball Swarm, Spiritual Weapon, Summon Beast, Tasha's Mind Whip, Warding Bond.</li>\n<li><strong>Level 3:</strong> Ashardalon's Stride, Astral Flood, Aura of Vitality, Bestow Curse, Blink, Cacophonic Shield, Conjure Barrage, Crusader's Mantle, Elemental Exhalation, Fear, Laeral's Silver Lance, Lightning Arrow, Mass Healing Word, Murmurs of Doom, Phantom Steed, Summon Fey, Tidal Wave, Trollblood Infusion, Void Strike.</li>\n<li><strong>Level 4:</strong> Banishment, Confusion, Conjure Woodland Beings, Dominate Beast, Fount of Moonlight, Ice Storm, Murder of Crows, Otiluke's Resilient Sphere, Phantasmal Killer, Polymorph, Stoneskin, Vitriolic Sphere.</li>\n<li><strong>Level 5:</strong> Awaken, Circle of Power, Cone of Cold, Contagion, Danse Macabre, Dominate Person, Enervation, Hold Monster, Insect Plague, Mass Cure Wounds, Steel Wind Strike, Synaptic Static.</li>\n<li><strong>Level 6:</strong> Circle of Death, Disintegrate.</li>\n</ul>\n<h2>Items</h2>\n<h3>Equipment</h3>\n<p>Argument Solver, Blazer of Benevolence, Cap of Curing, Chain of Liberation, Charge-Bound Warhammer, Corrosive Flail, Dragon's Grasp, Enforcer Club, Enforcer Helmet, Enforcer Shield, Gloves of Heroism, Hellrider's Pride, Helmet of Smiting, Holy Avenger, Hoppy, Hunting Shortbow, Moon Sickle, Musket, Musket +1, Musket +2, Pistol, Pistol +1, Pistol +2, Rupturing Blade, Spellthief, The Baneful, The Oak Father's Embrace, The Sacred Star, True Name, Voltedge, Whip, Whip +1, Whip +2, Xyanyde.</p>\n<h3>Spell Scrolls</h3>\n<p>Spell scrolls are restricted to specific classes, with cantrip scrolls and Scrolls of Revivify always exempt.</p>\n<h2>Creatures</h2>\n<ul>\n<li>Bugbear</li>\n<li>Dire Wolf</li>\n<li>Wolf</li>\n<li>Worg</li>\n</ul>\n<h2>Credits</h2>\n<ul>\n<li><strong>Korean / Japanese Translation:</strong> <a href=\"https://www.nexusmods.com/profile/Eolaloe\">Eolaloe</a></li>\n<li><strong>Spanish / Latin Spanish Translation:</strong> <a href=\"https://github.com/incolhermex-droid\">incolhermex-droid</a></li>\n<li><strong>French Translation:</strong> CyberBoloss</li>\n<li><strong>Brazilian Portuguese Translation:</strong> <a href=\"https://mod.io/u/shadowahjin\">ShadowAhJin</a></li>\n<li><strong>Item Models:</strong> <a href=\"https://mod.io/g/baldursgate3/u/skirbie\">skirbie</a> (<a href=\"https://mod.io/g/baldursgate3/m/viper-carbine-steampunk-rifle-gun\">Viper Carbine Steampunk Rifle Gun</a>, <a href=\"https://mod.io/g/baldursgate3/m/hand-cannon-gunslinger-weapon\">Hand Cannon Gunslinger Weapon</a>)</li>\n</ul>\n<h2>Legal</h2>\n<p>DnD 5.5e All-in-One BEYOND is unofficial Fan Content permitted under the <a href=\"https://company.wizards.com/en/legal/fancontentpolicy\">Fan Content Policy</a>. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>",
     "date_added": 1729165055,
-    "date_updated": 1784614967,
+    "date_updated": 1784748512,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -60331,15 +60783,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 7995341,
+      "id": 8002200,
       "mod_id": 4419649,
-      "version": "4.11.0.0",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-8k45.zip",
+      "version": "4.11.1.0",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-aive.zip",
       "changelog": null,
-      "date_added": 1784614954,
+      "date_added": 1784748492,
       "date_updated": 0,
-      "date_scanned": 1784615089,
-      "filesize": 77323982,
+      "date_scanned": 1784748636,
+      "filesize": 77537540,
       "platforms": [
         {
           "platform": "windows",
@@ -60489,19 +60941,19 @@
     "platforms": [
       {
         "platform": "mac",
-        "modfile_live": 7434277
+        "modfile_live": 7989186
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7434277
+        "modfile_live": 7989186
       },
       {
         "platform": "ps5",
-        "modfile_live": 7434277
+        "modfile_live": 7989186
       },
       {
         "platform": "windows",
-        "modfile_live": 7995341
+        "modfile_live": 8002200
       }
     ]
   },
@@ -97195,6 +97647,114 @@
     ]
   },
   {
+    "id": 4793107,
+    "game_id": 6715,
+    "name": "Eridis - Tiefling Head Preset",
+    "name_id": "eridis-tiefling-head-preset",
+    "summary": "Head Preset for Tieflings",
+    "description": "<p>A head preset for tieflings. ♥ <br><br>Original Mod created by <strong>Gwindylll <a href=\"https://www.nexusmods.com/baldursgate3/mods/15345\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nexusmods.com/baldursgate3/mods/15345</a><br></strong>I ported this mod with the permission of the creator.</p>\n<h3><br>Mods used in Photos</h3>\n<p>Hair ♥ <br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4021\" rel=\"nofollow\">Dissidia Hair</a><br><br>Outfit ♥ <br><a href=\"https://https//www.nexusmods.com/baldursgate3/mods/6977\" rel=\"nofollow\">Lokelani's Lovish Livery</a><br><a href=\"https://https//www.nexusmods.com/baldursgate3/mods/14273\" rel=\"nofollow\">Dragon age gear<br></a><a href=\"https://https//www.nexusmods.com/baldursgate3/mods/8298\" rel=\"nofollow\">Calishan Pirate Outfit<br><br></a>Eyes, Tattoo ♥<br><a href=\"https://https//www.nexusmods.com/baldursgate3/mods/3744\" rel=\"nofollow\">Mari's tattoo</a><br><a href=\"https://https//www.nexusmods.com/baldursgate3/mods/4964\" rel=\"nofollow\">Astrl Glow eyes</a></p>",
+    "date_added": 1741929107,
+    "date_updated": 1784746915,
+    "date_live": 1741929634,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/eridis-tiefling-head-preset",
+    "submitted_by": {
+      "id": 27805811,
+      "name_id": "eclip5ex",
+      "username": "Eclip5e_",
+      "profile_url": "https://mod.io/u/eclip5ex",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/852c/27805811/crop_100x100/eclipse_round.png"
+    },
+    "modfile": {
+      "id": 6176755,
+      "mod_id": 4793107,
+      "version": "1.0.0.1",
+      "filename": "eridishead_1b7be6ee-ee3b-9c36-06l8.zip",
+      "changelog": null,
+      "date_added": 1741929127,
+      "date_updated": 0,
+      "date_scanned": 1741929146,
+      "filesize": 13388495,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/ae44/4793107/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ae44/4793107/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ae44/4793107/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ae44/4793107/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6176755
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6176755
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6176755
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6176755
+      }
+    ]
+  },
+  {
     "id": 4793119,
     "game_id": 6715,
     "name": "Moon - Head Preset",
@@ -101853,6 +102413,109 @@
       {
         "platform": "windows",
         "modfile_live": 7097456
+      }
+    ]
+  },
+  {
+    "id": 4843728,
+    "game_id": 6715,
+    "name": "Marcus Restyled (Hair Dye Remover)",
+    "name_id": "marcus-restyled-a-bit",
+    "summary": "Marcus' beard now matches his hair.",
+    "description": "<p><strong><span style=\"font-size:medium;\">Marcus' Beard and Hair Fixed</span></strong></p>\n<p><em>Does Marcus die his beard?</em></p>\n<p><span style=\"font-size:small;\">Marcus' (the Flaming Fist spy at Last Light Inn) beard doesn't match his hair, and I don't know what is going on with his fringe. It really bothers me more than it should. So I fix.<br><strong>What's Changed:</strong> <a href=\"https://bg3.wiki/wiki/Marcus_Falgor\" rel=\"nofollow\">Marcus'</a> beard now matches his hair, and he's brushed his hair too.</span></p>",
+    "date_added": 1743745261,
+    "date_updated": 1784746971,
+    "date_live": 1743745578,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/marcus-restyled-a-bit",
+    "submitted_by": {
+      "id": 36947939,
+      "name_id": "butteredsidedown1",
+      "username": "whatsontheflip",
+      "profile_url": "https://mod.io/u/butteredsidedown1",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8cb5/36947939/crop_100x100/16300c9f54392150871c22a11bb5faf.jpg"
+    },
+    "modfile": {
+      "id": 6450553,
+      "mod_id": 4843728,
+      "version": "1.6.0.7",
+      "filename": "marcus_restyled_a247e4fb-5e5c-do0p.zip",
+      "changelog": "Created new character visuals for all Marcus' appearances. Overrode all Marcus' templates to point to new character visuals.",
+      "date_added": 1749527259,
+      "date_updated": 0,
+      "date_scanned": 1749527265,
+      "filesize": 1119388,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "marcustitle.png",
+      "original": "https://image.modcdn.io/mods/a5cb/4843728/marcustitle.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a5cb/4843728/crop_320x180/marcustitle.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a5cb/4843728/crop_640x360/marcustitle.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a5cb/4843728/crop_1280x720/marcustitle.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6450553
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6450553
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6450553
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6450553
       }
     ]
   },
@@ -121153,6 +121816,109 @@
     ]
   },
   {
+    "id": 5002092,
+    "game_id": 6715,
+    "name": "Sorcerer Subclass - Conflagrant Soul",
+    "name_id": "sorcerer-subclass-conflagrant-soul",
+    "summary": "Focuses on the volatile interaction of fire and grease, empowering you to control both elements and exploit their destructive synergy in melee combat.",
+    "description": "<p>Conflagrant Soul Sorcerers embody the destructive synergy of fire and grease. You're not a typical back-line caster; instead, you thrive in the thick of combat, weaving together weapon attacks and powerful fire spells.<br>This subclass focuses on the dynamic interplay of <strong>fire and grease</strong> to control the battlefield. You'll find yourself creating slippery surfaces, enhancing your weapon with new grease and fire spells, and igniting your enemies with unique fire spells that synergize with your grease effects. It offers a distinct playstyle for Sorcerers who want to get up close and personal.<br>I'm excited to share this, my first ever subclass mod! Any and all feedback, especially constructive criticism, is highly appreciated.<br><br><u>Fire spells from Mystra's Spells and Dawnstar's are included in the Conflagrant Soul spell list<br></u>The subclass for <a href=\"https://bg3.wiki/wiki/Aelis_Siryasius\">Aelis Siryasius</a> was changed from Draconic Bloodline to Conflagrant Soul<br><br></p>\n<div><img src=\"https://i.imgur.com/twXHnPN.png\" alt=\"twXHnPN.png\"></div>\n<p><br><strong><span style=\"font-size:large;\">Subclass Features:<br></span></strong></p>\n<ul>\n<li><strong>Level 1: Searing Weaponry</strong><br>\n<ul>\n<li>You gain proficiency with one-handed martial weapons, and your weapon attacks deal extra fire damage equal to your proficiency bonus.</li>\n</ul>\n</li>\n<li><strong>Level 1: Grease Dancer</strong><br>\n<ul>\n<li>You are immune to the prone condition caused by grease. While standing on a surface affected by grease, you do not provoke opportunity attacks.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Level 3: Grease Kin</strong><br>\n<ul>\n<li>As an action, you can expend sorcery points to summon a Grease Mephit or a Grease Elemental - Grease Surface required to summon.</li>\n</ul>\n</li>\n<li><strong>Level 3: Inner Blaze</strong><br>\n<ul>\n<li>You have resistance to fire damage. Additionally, whenever you are subjected to the Burning condition, the condition does not apply its normal effect. Instead, you gain 2 stacks of <a href=\"https://bg3.wiki/wiki/Heat_(Condition)\" rel=\"nofollow\">Heat</a>.</li>\n</ul>\n</li>\n<li><strong>Level 3: Greasefire Ward</strong><br>\n<ul>\n<li>At the cost of 2 Sorcery Points, Conjure an ethereal barrier to grant 2 allies Immunity to Fire Damage and to falling Prone on Grease Surfaces for 3 turns.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Level 6: Searing Flames</strong><br>\n<ul>\n<li>Your fire spells ignore fire resistance.</li>\n</ul>\n</li>\n<li><strong>Level 6: Greased Momentum</strong><br>\n<ul>\n<li>When you start your turn on a Grease Surface during combat, you gain an additional 15ft/4.5m of movement speed.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Level 9: Combustible Kin</strong><br>\n<ul>\n<li>When your Grease Mephit or Grease Elemental die from one of your spells that deal fire damage, they create an explosion, dealing fire damage to any targets within a 10ft/3m radius. (Mephits deal 3d6 fire damage and Elementals deal 5d6 fire damage. Increased by +1d6 At levels 11,14,17,20)</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Level 11: Conflagrant Core</strong>\n<ul>\n<li>You are immune to fire damage.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Level 11: Improved Searing Flames</strong>\n<ul>\n<li>Your mastery of fire allows your spells to fully ignore Immunity to Fire damage.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Level 15: Igniting Power</strong><br>\n<ul>\n<li>When you cast a fire spell and expend a sorcery point, it applies <strong>Resonant Combustion</strong> for 1 turn. Resonant Combustion makes the target vulnerable to fire damage.</li>\n</ul>\n</li>\n<li><strong>Level 15: Conflagrant Fury</strong><br>\n<ul>\n<li>While standing on a surface affected by grease, your critical hit threshold is reduced by 3.</li>\n</ul>\n</li>\n</ul>\n<p><br><br><span style=\"font-size:large;\"><strong>C</strong><strong>o</strong><strong>n</strong><strong>f</strong><strong>l</strong><strong>a</strong><strong>g</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong> S</strong><strong>o</strong><strong>u</strong><strong>l</strong><strong> S</strong><strong>p</strong><strong>e</strong><strong>l</strong><strong>l</strong><strong> L</strong><strong>i</strong><strong>s</strong><strong>t</strong><strong>:</strong></span><br>At level 1 you get to select 2 level 1 spells. Level 3 you can select 2 spells (Spell Levels 1,2). Level 5 you get to select 1 spell (Spell Levels 1,2,3). Level 7 you can select 2 spells (Levels 1,2,3,4). Level 9 you can select 2 spells (Levels 1,2,3,4,5). Level 11 &amp; 13 you can select 1 spell (Levels 1,2,3,4,5,6).</p>\n<p><br><span style=\"font-size:medium;\"><strong><u><span style=\"color:#ebebeb;\">C</span><span style=\"color:#edebde;\">a</span><span style=\"color:#f0ebd1;\">n</span><span style=\"color:#f2ebc4;\">t</span><span style=\"color:#f5ecb8;\">r</span><span style=\"color:#f7ecab;\">i</span><span style=\"color:#faec9e;\">p</span><span style=\"color:#fcec91;\">s:<br></span></u><br></strong></span><strong>Oily Blade<br></strong></p>\n<ul>\n<li>You enchant your main hand weapon. The weapon is coated in slick grease. If you hit a creature with this weapon, the creature must succeed on a Dexterity saving throw(DC 13) or be knocked prone.</li>\n</ul>\n<p><strong>Flickering Lash<br></strong></p>\n<ul>\n<li>You create a whip-like lash of flickering flames that strikes a creature within range. Make a melee spell attack roll against the target. On a hit, the target takes 1d8 fire damage. If the target is affected by Prone or Slicked, the damage increases to 1d10 fire damage. <u>(Damage scales with Cantrip D8/D10.)</u></li>\n</ul>\n<p><strong>Slick</strong></p>\n<ul>\n<li>Create a surface of grease, AoE: 2m/6.5ft (Half the size of Grease spell)(Mainly used to summon Grease Familiars)</li>\n</ul>\n<div> </div>\n<p><strong><u><span style=\"font-size:medium;\"><span style=\"color:#ebebeb;\">1</span><span style=\"color:#ecebe4;\">s</span><span style=\"color:#edebde;\">t</span><span style=\"color:#eeebd7;\">-</span><span style=\"color:#f0ebd1;\">L</span><span style=\"color:#f1ebcb;\">e</span><span style=\"color:#f2ebc4;\">v</span><span style=\"color:#f3ebbe;\">e</span><span style=\"color:#f5ecb8;\">l</span> <span style=\"color:#f7ecab;\">S</span><span style=\"color:#f8eca4;\">p</span><span style=\"color:#faec9e;\">e</span><span style=\"color:#fbec98;\">l</span><span style=\"color:#fcec91;\">l</span><span style=\"color:#fdec8b;\">s:<br></span><br></span></u></strong><strong>Scorching Touch<br></strong></p>\n<ul>\n<li>Make a melee spell attack roll against a creature within your reach. On a hit, the target takes 2d8 fire damage, and if the target is affected by Slicked, it takes an additional 1d6 fire damage. <u>(Scales up to 9th level, increased by 1d8 for each spell level, the additional damage increases by 1d6 every 3 spell levels.)</u></li>\n</ul>\n<p><strong>Greased Weapon<br></strong></p>\n<ul>\n<li>Enchant your main hand weapon. For the duration, the weapon deals an extra 1d4 bludgeoning damage and has a 75% chance to apply Slicked(Reduces the target's movement speed by half). <u>(Scales up to 9th level, bludgeoning damage increases by 1d4 every 2 levels, chance to apply Slicked increases each level.)</u></li>\n</ul>\n<div> </div>\n<p><strong><u><span style=\"font-size:medium;\"><span style=\"color:#ebebeb;\">2</span><span style=\"color:#ecebe4;\">n</span><span style=\"color:#edebde;\">d</span><span style=\"color:#eeebd7;\">-</span><span style=\"color:#f0ebd1;\">L</span><span style=\"color:#f1ebcb;\">e</span><span style=\"color:#f2ebc4;\">v</span><span style=\"color:#f3ebbe;\">e</span><span style=\"color:#f5ecb8;\">l</span> <span style=\"color:#f7ecab;\">S</span><span style=\"color:#f8eca4;\">p</span><span style=\"color:#faec9e;\">e</span><span style=\"color:#fbec98;\">l</span><span style=\"color:#fcec91;\">l</span><span style=\"color:#fdec8b;\">s:<br></span><br></span></u></strong><strong>Flickering Strike</strong></p>\n<ul>\n<li>Make a melee spell attack against a creature within range. On a hit, the target takes 2d6 fire damage. If the target is affected by Slicked, it also becomes Ignited, for 1 turn. (Ignited deals 1d6 fire damage when initially applied, and then when reaching 5 stacks of ignited, it deals 5d6 damage and the target is no longer ignited.) <u>(Scales up to 9th level, increased by 1d6 for each spell level. At 5th level, Ignited is applied for 2 turns.)</u></li>\n</ul>\n<p><strong>Oily Evasion</strong></p>\n<ul>\n<li>Your body becomes incredibly slick with grease. The attack that hit you deals half damage. Additionally, the attacker must succeed on a Dexterity saving throw or fall prone. The saving throw DC is equal to 8 + your proficiency bonus + your Charisma modifier.</li>\n</ul>\n<p><strong>Armour of Cinders</strong></p>\n<ul>\n<li>Gain 15 Temporary Hit Points and deal 5 Fire Damage to any creature that hits you with a melee attack. <u>(Scales up to 9th level, temporary hp and fire damage increase by +5 per level.)</u></li>\n</ul>\n<div> </div>\n<p><strong><u><span style=\"font-size:medium;\"><span style=\"color:#ebebeb;\">3</span><span style=\"color:#ecebe4;\">r</span><span style=\"color:#edebde;\">d</span><span style=\"color:#eeebd7;\">-</span><span style=\"color:#f0ebd1;\">L</span><span style=\"color:#f1ebcb;\">e</span><span style=\"color:#f2ebc4;\">v</span><span style=\"color:#f3ebbe;\">e</span><span style=\"color:#f5ecb8;\">l</span> <span style=\"color:#f7ecab;\">S</span><span style=\"color:#f8eca4;\">p</span><span style=\"color:#faec9e;\">e</span><span style=\"color:#fbec98;\">l</span><span style=\"color:#fcec91;\">l</span><span style=\"color:#fdec8b;\">s:<br></span></span></u></strong><strong><br>Grease Bomb<br></strong></p>\n<ul>\n<li>You hurl an orb of potent grease. Dealing 3d6 bludgeoning damage, and the area in a 15ft/4.5m radius centered on that point becomes covered in grease for 10 turns. Creatures also hit by this are affected by Slicked for 3 turns. <u>(Scales up to 9th level, increased by 1d6 for each spell level.)</u></li>\n</ul>\n<p><strong>Searing Brand<br></strong></p>\n<ul>\n<li>You touch a creature. For the duration, whenever the branded creature is hit with a melee weapon attack, it takes an extra 2d6 fire damage. If the branded creature is affected by Slicked when hit, the extra damage increases to 3d6 fire damage. <u>(Scales up to 9th level, increased by 1d6 every 2 levels and increases the duration.)</u></li>\n</ul>\n<p> </p>\n<p><strong><span style=\"font-size:medium;\"><u><span style=\"color:#ebebeb;\">4</span><span style=\"color:#ecebe4;\">t</span><span style=\"color:#edebde;\">h</span><span style=\"color:#eeebd7;\">-</span><span style=\"color:#f0ebd1;\">L</span><span style=\"color:#f1ebcb;\">e</span><span style=\"color:#f2ebc4;\">v</span><span style=\"color:#f3ebbe;\">e</span><span style=\"color:#f5ecb8;\">l</span> <span style=\"color:#f7ecab;\">S</span><span style=\"color:#f8eca4;\">p</span><span style=\"color:#faec9e;\">e</span><span style=\"color:#fbec98;\">l</span><span style=\"color:#fcec91;\">l</span><span style=\"color:#fdec8b;\">s:<br></span><br></u></span></strong><strong>Conflagrant Blade<br></strong></p>\n<ul>\n<li>For the duration, your melee weapon attacks are infused with volatile fire and grease. When you hit a creature with a melee weapon, it takes an extra 3d8 fire damage, and becomes coated in grease(Greasy Condition), spreading grease in a 10ft/3m radius around the target for 3 turns. <u>(Scales up to 9th level, increased by 1d8 for each spell level. Each spell level upcast increases the chance to apply Greasy and the duration.)</u></li>\n</ul>\n<p><strong>Grease Burst<br></strong></p>\n<ul>\n<li>You let out a burst, covering the ground around you in grease in a 30ft/9m radius. Creatures within this radius must make a Dexterity saving throw. On a failed save, they take 5d8 bludgeoning damage and are affected by Slicked for 3 Turns. On a successful save, they take half damage and are not Slicked. <u>(Scales up to 9th level, damage increases by 1d8 per level.)</u></li>\n</ul>\n<p><strong>Conflagrant Eruption<br></strong></p>\n<ul>\n<li>Teleport up to 9 meters to an unoccupied space. When you do so, each creature within 3 meters of your destination must make a Dexterity Saving Throw or take 4d8 fire damage and become Greasy for 3 turns. <u>(Scales up to 9th level, increased by 1d8 for each spell level. Every 2 levels the range and duration of greasy is increased.)</u></li>\n</ul>\n<div> </div>\n<p><strong><u><span style=\"font-size:medium;\"><span style=\"color:#ebebeb;\">5</span><span style=\"color:#ecebe4;\">t</span><span style=\"color:#edebde;\">h</span><span style=\"color:#eeebd7;\">-</span><span style=\"color:#f0ebd1;\">L</span><span style=\"color:#f1ebcb;\">e</span><span style=\"color:#f2ebc4;\">v</span><span style=\"color:#f3ebbe;\">e</span><span style=\"color:#f5ecb8;\">l</span> <span style=\"color:#f7ecab;\">S</span><span style=\"color:#f8eca4;\">p</span><span style=\"color:#faec9e;\">e</span><span style=\"color:#fbec98;\">l</span><span style=\"color:#fcec91;\">l</span><span style=\"color:#fdec8b;\">s:<br></span><br></span></u></strong><strong>Searing Grease<br></strong></p>\n<ul>\n<li>You unleash a wave of searing hot grease in a 15ft/5m cone. Each creature in the area must make a Dexterity saving throw. On a failed save, a creature takes 4d8 fire damage and is affected by Greased for 5 turns. While coated in this grease, the creature has disadvantage with weapon attacks and is unable to use bonus actions. On a successful save, the creature takes half damage and is still affected by Greased. <u>(Scales up to 9th level, damage increases by 1d8 per level.)</u></li>\n</ul>\n<p><strong>Volatile Coating</strong></p>\n<ul>\n<li>Apply a Volatile Coating on yourself or an Ally. For the duration, whenever the coated creature is hit by a melee attack, the attacker takes 2d6 fire damage as volatile grease ignites. If the attacker is affected by Slicked or Greased, the fire damage increases to 3d6. <u>(Scales up to 9th level, increased by 1d6 every level, ignited duration increased every 2 levels.)</u></li>\n</ul>\n<p><br><strong><span style=\"font-size:large;\"><span style=\"color:#eeeeee;\">S</span><span style=\"color:#eeddd3;\">t</span><span style=\"color:#eeccb9;\">a</span><span style=\"color:#eebb9e;\">t</span><span style=\"color:#eeaa84;\">u</span><span style=\"color:#ee9969;\">s</span><span style=\"color:#ee884f;\">e</span><span style=\"color:#ee7734;\">s</span><span style=\"color:#ee661a;\">:</span></span></strong></p>\n<ul>\n<li><strong>Slicked:</strong> Reduces the target's movement speed by half.</li>\n<li><strong>Ignited:</strong> Deals 1d6 fire damage when initially applied, and then when reaching 5 stacks of ignited, it deals 5d6 damage and the target is no longer ignited.</li>\n<li><strong>Greased:</strong> Disadvantage on weapon attacks, and unable to use bonus action points.</li>\n<li><strong>Greasy:</strong> Spreads grease in a 3 meter radius around the target at the end of each turn.</li>\n<li><strong>Resonant Combustion:</strong> Makes the target vulnerable to fire damage.</li>\n</ul>\n<p> </p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>",
+    "date_added": 1749443141,
+    "date_updated": 1784747998,
+    "date_live": 1749444069,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul",
+    "submitted_by": {
+      "id": 32938824,
+      "name_id": "graphicfade",
+      "username": "GraphicFade",
+      "profile_url": "https://mod.io/u/graphicfade",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 6824576,
+      "mod_id": 5002092,
+      "version": "1.0.0.7",
+      "filename": "conflagrantsoul_sorcerersubcla-5xjw.zip",
+      "changelog": "General:\n• The Grease Elemental and Grease Mephit now have a bonus to attack rolls equal to the caster's proficiency bonus instead of a static set amount.\n• The Grease Mephit now gain a bonus to their damage rolls equal to the caster's proficiency bonus.\n\nNew Spell:\n• Greasefire Ward is granted at level 3, At the cost of 2 Sorcery Points, target 2 allies granting them immunity to fire damage and immunity to falling prone on grease surfaces.",
+      "date_added": 1759611731,
+      "date_updated": 0,
+      "date_scanned": 1759611759,
+      "filesize": 5694269,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "cs_icon_resize.1.png",
+      "original": "https://image.modcdn.io/mods/ed2a/5002092/cs_icon_resize.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ed2a/5002092/crop_320x180/cs_icon_resize.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ed2a/5002092/crop_640x360/cs_icon_resize.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ed2a/5002092/crop_1280x720/cs_icon_resize.1.png"
+    },
+    "tags": [
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Sorcerer",
+        "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6824576
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6824576
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6824576
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6824576
+      }
+    ]
+  },
+  {
     "id": 5003635,
     "game_id": 6715,
     "name": "Minthara - Dirt B Gone",
@@ -129239,6 +130005,114 @@
     ]
   },
   {
+    "id": 5087726,
+    "game_id": 6715,
+    "name": "Druid Wildshape Addons",
+    "name_id": "druid-wildshape-addons",
+    "summary": "Adds more wild shape options for Druids.",
+    "description": "<p><span style=\"color:#dd7e6b;font-size:xx-large;\"><strong><u>About This Mod</u></strong></span><br>Adds way more options for Druid Wild Shapes. More color options for the Vanilla shapes, as well as completely new wild shape options to enhance your roleplay experience.<br><br>This mod is an addon, meaning, you will not find these shapes in the Vanilla spell container. These instead add two new containers to keep the Vanilla spell container neat and tidy and incase you want to use these but already have a Druid mod that overrides the vanilla Druid.<br><br><strong><span style=\"color:#dd7e6b;font-size:medium;\"><u>Spell Containers</u></span><br></strong>• <strong>Beasts</strong>: This includes all the wild shapes intended for combat. They cost <span style=\"color:#f6b26b;\"><strong>1 Bonus Action Point</strong></span> and <strong><span style=\"color:#93c47d;\">1 Wild Shape Charge</span></strong>.<br>• <strong>Critters</strong>: This is your small wild shapes that may not be suitable for Combat, but can be used to access certain places, talk to animals or just be adorable. These do not cost any wild shape charges to use, they only cost <strong><span style=\"color:#f6b26b;\">1 Bonus Action Point</span></strong>.<br><br><span style=\"color:#dd7e6b;font-size:xx-large;\"><strong><u>Features</u></strong></span><br>• All wild shapes have the \"Help\" action.<br>• You can speak to companions and NPC's while in animal form.<br>• Wild shapes from the Critters container do not cost Wild Shape Charges.<br>• Adds a toggleable action that lets you automatically exit out of Wild Shape after combat ends when you have it toggled on.<br><br><strong><span style=\"color:#dd7e6b;font-size:xx-large;\"><u>Compatibility<br></u></span></strong>This mod is/should for the most part be compatibl* with other Wild Shape mods since this is an Add-On. However functions and actions for Wild Shapes from this mod may only work with the wild shapes from this mod and vice versa. This is nothing that will break the mods though.<br><br>Patch 8 Compatible. Not sure about previous Patches.</p>",
+    "date_added": 1752339971,
+    "date_updated": 1784747698,
+    "date_live": 1752340453,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/druid-wildshape-addons",
+    "submitted_by": {
+      "id": 43598859,
+      "name_id": "imfreja",
+      "username": "ImFreja",
+      "profile_url": "https://mod.io/u/imfreja",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/89a2/43598859/crop_100x100/indranew.png"
+    },
+    "modfile": {
+      "id": 6794718,
+      "mod_id": 5087726,
+      "version": "1.0.0.19",
+      "filename": "druidwildshapeaddons_patch8_11-auzq.zip",
+      "changelog": "Fixed Wild Strike passives not working for the wildshapes.",
+      "date_added": 1758593011,
+      "date_updated": 0,
+      "date_scanned": 1758593150,
+      "filesize": 41581364,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "wildshapes.4.png",
+      "original": "https://image.modcdn.io/mods/396b/5087726/wildshapes.4.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/396b/5087726/crop_320x180/wildshapes.4.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/396b/5087726/crop_640x360/wildshapes.4.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/396b/5087726/crop_1280x720/wildshapes.4.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Druid",
+        "name_localized": "Druid",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6794718
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6794718
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6794718
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6794718
+      }
+    ]
+  },
+  {
     "id": 5089715,
     "game_id": 6715,
     "name": "Divine Dream Guardian",
@@ -135427,6 +136301,104 @@
     ]
   },
   {
+    "id": 5212243,
+    "game_id": 6715,
+    "name": "Short Rest Tweaks",
+    "name_id": "short-rest-tweaks",
+    "summary": "Lets you recover Spell Slots, Sorcery Points and Rage Charges on Short Rests.",
+    "description": "<p>Sick of having to long rest after every fight? Then this is the mod for you!</p>\n<p>This recovers Spell Slots, Sorcery Points and Rage Charges when you use Short Rest.</p>",
+    "date_added": 1756841540,
+    "date_updated": 1784748288,
+    "date_live": 1756841540,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/short-rest-tweaks",
+    "submitted_by": {
+      "id": 43598859,
+      "name_id": "imfreja",
+      "username": "ImFreja",
+      "profile_url": "https://mod.io/u/imfreja",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/89a2/43598859/crop_100x100/indranew.png"
+    },
+    "modfile": {
+      "id": 6738980,
+      "mod_id": 5212243,
+      "version": "1.0.0.1",
+      "filename": "short_rest_tweaks_ab08ce8b-bc0-9tqy.zip",
+      "changelog": null,
+      "date_added": 1756841564,
+      "date_updated": 0,
+      "date_scanned": 1756841570,
+      "filesize": 50882,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/da17/5212243/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/da17/5212243/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/da17/5212243/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/da17/5212243/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Cheats",
+        "name_localized": "Cheats",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6738980
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6738980
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6738980
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6738980
+      }
+    ]
+  },
+  {
     "id": 5214907,
     "game_id": 6715,
     "name": "Quothe Evolved",
@@ -137913,6 +138885,109 @@
       {
         "platform": "windows",
         "modfile_live": 7940831
+      }
+    ]
+  },
+  {
+    "id": 5253892,
+    "game_id": 6715,
+    "name": "The Shadow Reaper Class",
+    "name_id": "the-shadows-reaper-class",
+    "summary": "Will you control the weapon, or will it control you? This is a mod to add a new class and some unique spell based around Kayn from League of Legends to the game. Supports Level 20",
+    "description": "<p>My first time ever making a mod for any game. A new class based around taking out crowds of enemies, plus allowing you to specialize into either the quick Shadow Assassin, or the Savage Darkin Slayer.</p>\n<p>I have a feeling that this class may be over tuned a bit, and i know that the level 13+ stuff is more than likely busted, please feel free to offer suggestions.</p>\n<p>I was inspired to make this mod thanks to <a href=\"https://mod.io/g/baldursgate3/u/eclip5ex\">Eclip5e_'s</a> <a href=\"https://mod.io/g/baldursgate3/m/iron-revenant-class#description\">Iron Revenant Class</a>. Go check it out.</p>\n<p> </p>\n<p>New Spells:</p>\n<p>LvL 1 - Reaping Slash<br>(Charge in and slash enemies in an area)</p>\n<p>LvL 3 - Shadow Step<br>(Reskined Misty Step) </p>\n<p>LvL 5 - Blade's Reach + Extra attack<br>(Cleave forward striking all enemies in its path, slowing them)</p>\n<p>LvL 6 - Umbral Trespass<br>(Target an enemy, teleporting to them and dealing big damage)<br>LvL 6 - Subclasses - Darkin Slayer and Shadow Assassin.</p>\n<p>LvL 7 - Upgraded Blades Reach<br>(Gives you an upgraded Blade's Reach based on what form you took. Darkin causes enemies to go prone, Shadow Assassin turns into a bonus action and gains range)</p>\n<p>LvL 8 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow assassin gains a mix of bonus move speed or actions)</p>\n<p>LvL 9 - Upgrade Reaping Slash<br>(Reaping Slash does more damage. Shadow Assassin's hits a larger area, Darkin Slayer's heals on hit)</p>\n<p>LvL 10 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassin gains a mix of bonus move speed or actions)</p>\n<p>LvL 11 - Upgrade Umbral Trespass<br>(Shadow Assassin's Umbral Trespass has increased target range and doesn't cost anything to use. Darkin Slayer's heals for a high amount of health)</p>\n<p>LvL 12 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassins gains a mix of bonus move speed or actions)</p>\n<p> </p>\n<p>LvL 15 - Shadow Assassin's Shadow Strike<br>(Modified Sneak Attack, deals big damage but only usable while invisible)</p>\n<p>LvL 18 - Soul Reaper<br>(A difficult and taxing skill, hitting it will make an enemy who lives wish they died,)</p>\n<p>LvL 20 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassins gains a mix of bonus move speed or actions)<br><br></p>\n<p> </p>",
+    "date_added": 1758657967,
+    "date_updated": 1784747794,
+    "date_live": 1758657967,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/the-shadows-reaper-class",
+    "submitted_by": {
+      "id": 38944663,
+      "name_id": "elmathedragon",
+      "username": "ElmaTheDragon",
+      "profile_url": "https://mod.io/u/elmathedragon",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/4eaa/38944663/crop_100x100/elmaprofilepic.jpg"
+    },
+    "modfile": {
+      "id": 7715472,
+      "mod_id": 5253892,
+      "version": "1.0.0.21",
+      "filename": "class_shadowassassin_d292923f-4g5k.zip",
+      "changelog": "Fixed a bug where Reaper of Souls would not work.\nFixed a bug where the level 20 Darkin Healing displayed the wrong amount of healing.",
+      "date_added": 1778235398,
+      "date_updated": 0,
+      "date_scanned": 1778235418,
+      "filesize": 10073693,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.png",
+      "original": "https://image.modcdn.io/mods/a373/5253892/thumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a373/5253892/crop_320x180/thumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a373/5253892/crop_640x360/thumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a373/5253892/crop_1280x720/thumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7715472
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7715472
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7715472
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7715472
       }
     ]
   },
@@ -143271,6 +144346,109 @@
       {
         "platform": "ps5",
         "modfile_live": 7271090
+      }
+    ]
+  },
+  {
+    "id": 5526499,
+    "game_id": 6715,
+    "name": "LevelCap40",
+    "name_id": "levelcap40",
+    "summary": "Raises level cap to 40. Requires \"UnlockLevelCurve – Level 13–20 | Patch 8\" Multiclass before 20 in a single class. If multiple level-ups occur at once at lvl 20, a black screen may appear—press ESC and reopen level-up.",
+    "description": "<p>The <strong>LevelCap40</strong> mod expands the progression system in <em>Baldur's Gate 3</em> by raising the maximum character level from <strong>20 to 40</strong>, providing players with the opportunity for extended development, more powerful builds, and deeper customization.</p>\n<h3><strong>Features:</strong></h3>\n<ul>\n<li>\n<p><strong>Raises the level cap from 20 to 40</strong>, allowing for much more character growth.</p>\n</li>\n<li>\n<p>From <strong>level 21 to level 40</strong>, each level requires <strong>40,000 EXP</strong> to progress.</p>\n</li>\n<li>\n<p><strong>Max level per class is still capped at 20</strong>, so multiclassing is required to continue leveling past 20.</p>\n</li>\n<li>\n<p><strong>Multiclassing must be done before reaching level 20</strong> within a single class.</p>\n</li>\n</ul>\n<h3><strong>Requirements:</strong></h3>\n<ul>\n<li>\n<p>This mod requires the <strong>\"UnlockLevelCurve – Level 13–20 | Patch 8\"</strong> mod to function correctly.</p>\n</li>\n</ul>\n<h3><strong>Important Notes:</strong></h3>\n<ul>\n<li>\n<p>If multiple level-ups occur at once when reaching level 20, a <strong>black screen</strong> may appear. To fix this, simply <strong>press ESC</strong> and reopen the level-up menu to continue.</p>\n</li>\n</ul>",
+    "date_added": 1764463061,
+    "date_updated": 1784747926,
+    "date_live": 1764464299,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/levelcap40",
+    "submitted_by": {
+      "id": 49058728,
+      "name_id": "lech-sunrise1",
+      "username": "lech_sunrise1",
+      "profile_url": "https://mod.io/u/lech-sunrise1",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 7084868,
+      "mod_id": 5526499,
+      "version": "1.0.0.6",
+      "filename": "lvlcap40_b0805c93-03e0-ef93-0f-3iuj.zip",
+      "changelog": null,
+      "date_added": 1764463997,
+      "date_updated": 0,
+      "date_scanned": 1764464013,
+      "filesize": 141077,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/a846/5526499/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a846/5526499/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a846/5526499/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a846/5526499/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7084868
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7084868
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7084868
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7084868
       }
     ]
   },
@@ -149078,6 +150256,114 @@
     ]
   },
   {
+    "id": 5808325,
+    "game_id": 6715,
+    "name": "Ezuneo's Draconic Tails",
+    "name_id": "ezuneos-draconic-tails",
+    "summary": "Adds 10 variations of draconic style tails to CC. For all body types.",
+    "description": "<p style=\"text-align:center;\"><span style=\"font-size:x-large;\">🐲<strong><u>About</u></strong>🐲</span><br><br>This mod adds 10 variations of draconic style tails to character creation menu.<br>Available for all body types &amp; races.<br>🌟<br>To make it compatible with custom races, I made the tall body types available for all. <br>Please select the tail corresponding to your tav's body type (BT1/BT2/Bt3/BT4).<br>However BT2 Githyanki is more compatible with BT1 type tail.<br><br><br><strong><span style=\"font-size:large;\">🎨<u>Colours</u>🎨</span></strong><br>★ Tails are tintable with horn &amp; horn tip colours <br>★ Tail F follows skin colour and is only tintable with horn colours for the scales.<br>★ Feathers and fur follow tav's hair &amp; hair highlights colours.<br>★ This mod also adds vanilla horn colour options to all races.<br><strong><br><br><span style=\"font-size:large;\">⚠️ <u>Notes</u> ⚠️<br></span></strong>✧ You need a mod that removes tiefling tails to prevent double tails on tieflings.<br>✧ They work with dragonborns (BT3/BT4 types) but they don't follow dragonborn skin colours.<br><br><br><strong><span style=\"font-size:large;\">💖 <u>Credits</u> 💖</span></strong><span style=\"font-size:small;\"><br>Mods used in pictures:<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14364?tab=description\" rel=\"nofollow\">Lighty Lights</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17576\" rel=\"nofollow\">Draconic Body Scales</a><br><br><span style=\"font-size:medium;\"><br>⭐ Support me on <a href=\"https://ko-fi.com/felisiryx\" rel=\"nofollow\">ko-fi</a> or <a href=\"https://www.patreon.com/c/ezuneo\" rel=\"nofollow\">Patreon</a> ⭐<br></span>I post WIPs, updates, and upcoming mods previews on my Patreon!</span></p>",
+    "date_added": 1771666615,
+    "date_updated": 1784747108,
+    "date_live": 1771666615,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ezuneos-draconic-tails",
+    "submitted_by": {
+      "id": 45264710,
+      "name_id": "ezuneo",
+      "username": "ezuneo",
+      "profile_url": "https://mod.io/u/ezuneo",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/e25b/45264710/crop_100x100/felis-icon1.png"
+    },
+    "modfile": {
+      "id": 7421782,
+      "mod_id": 5808325,
+      "version": "1.1.0.2",
+      "filename": "ezn_draconictails_240366f9-211-4ddn.zip",
+      "changelog": "Initial Release",
+      "date_added": 1771666635,
+      "date_updated": 0,
+      "date_scanned": 1771666846,
+      "filesize": 40343724,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/dc4c/5808325/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/dc4c/5808325/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/dc4c/5808325/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/dc4c/5808325/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7421782
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7421782
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7421782
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7421782
+      }
+    ]
+  },
+  {
     "id": 5819281,
     "game_id": 6715,
     "name": "Friends With Benefits - Approval Rating Buffs",
@@ -150891,6 +152177,114 @@
       {
         "platform": "ps5",
         "modfile_live": 7533576
+      }
+    ]
+  },
+  {
+    "id": 5953883,
+    "game_id": 6715,
+    "name": "Gloomy Flower - New hair for Shadowheart",
+    "name_id": "sgt-gloomy-flower-new-hair-for-shadowheart",
+    "summary": "New custom hairstyle for Shadowheart in Act 1 and 2",
+    "description": "<h2><em>\"Such a grim name for such a beautiful flower\" </em>🥀</h2>\n<p><br><span style=\"font-size:large;\">🔮 This is a small mod that I made purely for myself and for my new playthrough. I'm sharing this with those who like me would like to see something new in our dear Shadsy after 27 runs (yeah, FULL runs). Quite good reason to romance her, again ;)<br><br><br>🔮 This hairstyle is for Acts 1 and 2</span></p>\n<p> </p>\n<h3><a href=\"https://mod.io/g/baldursgate3/m/sgt-gloomy-flower-bob-haircut-for-shadowheart\">Shorter hair for Act 1/2</a></h3>\n<h3><a href=\"https://mod.io/g/baldursgate3/m/sgt-moon-flower-new-hair-for-selunite-shadowheart\">Selunite hairstyle for Act 3</a></h3>\n<h3><a href=\"https://mod.io/g/baldursgate3/m/sgt-dark-flower-new-hair-for-dj-shadowheart\">Dark Justiciar hairstyle for Act 3</a></h3>\n<h3><a href=\"https://mod.io/g/baldursgate3/m/sgt-moon-flower-bob-haircut-for-shadowheart-act-3\">Shorter hair for Act 3</a></h3>",
+    "date_added": 1775392109,
+    "date_updated": 1784747864,
+    "date_live": 1775393570,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/sgt-gloomy-flower-new-hair-for-shadowheart",
+    "submitted_by": {
+      "id": 55809654,
+      "name_id": "sweetgenerousthingsmods",
+      "username": "SweetGenerousThingsMods",
+      "profile_url": "https://mod.io/u/sweetgenerousthingsmods",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/a5cb/55809654/crop_100x100/dam_vivid.jpg"
+    },
+    "modfile": {
+      "id": 7599155,
+      "mod_id": 5953883,
+      "version": "1.0.0.1",
+      "filename": "gloomyflower_6d91d3f8-1735-40a-6vac.zip",
+      "changelog": null,
+      "date_added": 1775392126,
+      "date_updated": 0,
+      "date_scanned": 1775392138,
+      "filesize": 4303469,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "cover.2.jpg",
+      "original": "https://image.modcdn.io/mods/ee16/5953883/cover.2.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ee16/5953883/crop_320x180/cover.2.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ee16/5953883/crop_640x360/cover.2.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ee16/5953883/crop_1280x720/cover.2.jpg"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7599155
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7599155
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7599155
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7599155
       }
     ]
   },
@@ -154024,6 +155418,247 @@
       {
         "platform": "ps5",
         "modfile_live": 7895744
+      }
+    ]
+  },
+  {
+    "id": 6183659,
+    "game_id": 6715,
+    "name": "Aylin and Isobel Join the Party",
+    "name_id": "aylin-and-isobel-join-the-party",
+    "summary": "Aylin and Isobel can be recruited as full party members and have new interactions in Act 3.",
+    "description": "<p>After Dame Aylin and Isobel Thorm have been reunited, they will join your camp as fully recruitable party members with new dialogue options and reactions to more story events!</p>\n<p><strong>DISCLAIMER:</strong> This is an early release, I'm still actively working on the mod! I think it's already in really good shape, but I expect there to still be bugs to fix and edge-cases to support. I greatly appreciate bug reports and feedback during development!</p>\n<p>In my testing, this mod can be added to existing saves. If Aylin and Isobel have already left your camp after dealing with Lorroakan, don't worry - you'll have the option to bring them back! Just check your inventory for the \"Letter to Selûnite Enclave\" and it will tell you what to do. There's also an image on this mod page that shows you exactly where you need to go if you want a visual reference.</p>\n<p style=\"text-align:center;\"><strong>Released as part of the July 2026 Modathon</strong></p>\n<p style=\"text-align:center;\"><img src=\"https://i.ibb.co/KjZ8VJ5F/2026-week-1-Celestial-Shadows.png\" alt=\"\" width=\"495\" height=\"260\"></p>\n<p style=\"text-align:center;\"><strong>Themed with the paladin of the moon and<br></strong><strong>the cleric risen from the shadow-cursed lands.</strong></p>\n<p>I still plan to:</p>\n<p>1. Add Aylin and Isobel to the epilogue</p>\n<p>2. Give Aylin and Isobel some sort of reaction to meeting Aradin outside Sorcerous Sundries</p>\n<p>3. Give Aylin and Isobel at least basic camp corner decorations</p>\n<p> </p>\n<h3>Details</h3>\n<p>All the 'new' dialogue uses repurposed assets from the original game. I did not use AI in any way or at any stage of developing this mod. All files were created and edited using the official toolkit or a text editor (except the thumbnail I guess, which I made with normal image editing tools).</p>\n<p>Aylin can't be recruited if Isobel died and vice-versa. This is sort-of a character decision, but TBH it's mostly because so much of the dialogue and scripting in this mod would burst into flames if one of them is missing lol.</p>\n<p>If you recruit Aylin or Isobel but they refuse to actually enter the party, it's because the party is full and they just don't have specific enough voice lines to say you need to dismiss someone first.</p>\n<p><strong>Highlighted Additions:</strong></p>\n<ul>\n<li>Aylin and Isobel's main camp dialogues have new options for the player to ask them to join or leave the party.</li>\n<li>If Isobel is taken to the first meeting with Lorroakan (<em>not</em> the confrontation that will happen if Aylin is also there), she can make comments, start a fight with Lorroakan, and be betrayed by the player.</li>\n<li>After defeating Lorroakan, the player has new dialogue options when Aylin and Isobel explain their plan to leave for the Selûnite enclave.\n<ul>\n<li>If they decide to stay in camp, Aylin won't be available to talk or join the party until after she's rested for a couple of days.</li>\n<li>If they decide to leave camp, a letter will be added to the player's inventory after a couple of days, and it can be mailed to the Selûnite enclave to cause Aylin and Isobel to return to camp.</li>\n</ul>\n</li>\n<li>Aylin and Isobel have new one-time greetings after the following events:\n<ul>\n<li>Talking with Lorroakan about his plans for Aylin (Isobel only)</li>\n<li>Killing Lorroakan with Isobel's help (Isobel only)</li>\n<li>Entering the Cloister of Sombre Embrace</li>\n<li>Shadowheart freeing or 'freeing' her parents</li>\n<li>Entering the House of Hope</li>\n<li>Defeating Raphael (Aylin only)</li>\n<li>The Dark Urge ridding themself of their urges (<em>currently</em> Aylin only)</li>\n</ul>\n</li>\n</ul>\n<p><strong>More Additions:</strong></p>\n<ul>\n<li>Aylin gets toggle-able passives that control whether her wings are armoured (the original appearance), unarmoured, or hidden.\n<ul>\n<li>If Aylin's wing armour is enabled during the day, then she will automatically toggle it off at night when she's wearing camp clothes. However, this shouldn't happen if she's set to wear camp clothes all the time or if she doesn't enable wing armour during the day.</li>\n</ul>\n</li>\n<li>Isobel gets a toggle-able passive that controls whether her eyeliner is running (the original appearance) or not.</li>\n<li>A new dialogue option is available for both of them after they've returned to camp from the enclave, or just for Aylin after she's finished resting in camp.</li>\n<li>A completely new dialogue will trigger after you hand Shadowheart over to Viconia where Aylin and Isobel get Big Mad at you. (There are consequences.)</li>\n<li>Aylin will use different greetings when spoken to at night depending on which combination of her and Isobel are currently in the party.</li>\n<li>Aylin will exclaim after certain Act 3 bosses are killed in combat (e.g. the Chosen, Sarevok, etc.).</li>\n</ul>\n<p><strong>Changes:</strong></p>\n<ul>\n<li>Aylin will clean the dirt and blood off her face when she joins camp, and she and Isobel will change into camp clothes at night after they've been in camp for at least a day.</li>\n<li>The conditions for the player's dialogue option to invite Aylin to join them permanently have been changed (must have been in camp for at least one night, and if Shadowheart is present then she must have already talked with Aylin about her past).</li>\n<li>Aylin's end-game ally ability to summon her is replaced after she has been recruited to summon a Moonlight Sliver instead.</li>\n<li>Aylin will no longer auto-stabilize and auto-resurrect while in the party during combat.</li>\n<li>Aylin will no longer lose all statuses when she goes to camp after being recruited.</li>\n<li>Aylin's Lunar Blessing ability now costs a Bonus Action instead of being completely free.</li>\n<li>If Aylin has not yet been told about Lorroakan, several changes have been made to prevent her from being able to meet him until she has been told. This is just to make sure that Aylin's hostile tone when meeting Lorroakan makes sense because it would be a <em>lot</em> of work to make a brand new meeting between them that starts friendly and ends like normal.\n<ul>\n<li>The conversation where the player tells Aylin about Lorroakan will be forced if she approaches the portal as a playable character, and some of the player's options in this conversation to avoid telling her the truth have been disabled (only if it gets triggered as a failsafe - the options are still available if she's spoken with earlier).</li>\n<li>The portal up to Ramazith's Tower cannot be used directly by Aylin, she can only go up to the tower by following a grouped party member, or if she's not in the party at all and goes up as an NPC.</li>\n</ul>\n</li>\n<li>If Aylin is in the active party when she's told about Lorroakan, she won't immediately run off to confront him unless she's dismissed from the party. Isobel's dialogue about Aylin's intent to confront Lorroakan will start differently if Aylin has not yet left, and one of the player's options will be reworded.</li>\n<li>If Aylin is trapped in Lorroakan's soulcage after the player sided with her, she can now be freed from the cage and Lorroakan can be fought again. If she's defeated and caged a second time, she will be hidden and cannot be freed again.</li>\n<li>If the player is controlling Isobel during Aylin's confrontation with Lorroakan, the options to betray Aylin are disabled because there's just no way Isobel would turn on her like that. If there's a reason to leave these options enabled that I'm overlooking, feel free to let me know.</li>\n<li>In the nighttime conversations after defeating Lorroakan (Isobel on her own and the two of them at once), some changes are made if Isobel joined the fight against Lorroakan (such as several lines at the start of the conversations being skipped and some of the player's options being reworded to reflect that Isobel already knows what happened).</li>\n<li>If you meet Lorroakan for the first time with Isobel in the party and commit to betraying Aylin (which will turn Isobel hostile), then you will no longer be able to support Aylin during her confrontation with Lorroakan. It's just such a niche path that would be a hassle to add support for, so, yeah, no current plans to do that. If you happen to be playing the one character who would do all of this... sorry, lol. Or, I dunno, let me know if this is actually more common than I think.</li>\n<li>Fixed a bug in the original game where Lorroakan's wand won't appear in a specific dialogue path of his initial meeting scene.</li>\n</ul>\n<p> </p>\n<h3>Compatibility</h3>\n<p>This mod is <em>maybe</em> console compatible - Aylin is technically a new playable race, but this mod doesn't add most of what a race mod does, so it just depends on which side of the line it falls on. After some more development time, I'll submit it for approval and we'll see what happens.</p>\n<p>In my testing, it is fully compatible with:</p>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/isobelsurvivabilityoverhaul#description\">Isobel Survivability Overhaul</a> by koboldJuno</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/22759\">Look At This Photograph - Isobel Dialogue Unlocker</a> by magnetuning</li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/transmogrification-lite#description\">Transmogrification Lite</a> by me (for use with Aylin and Isobel's starting equipment)</li>\n</ul>\n<p>Compatibility with mods that change Aylin and Isobel's appearances is a bit complicated.</p>\n<ul>\n<li>For Aylin:\n<ol>\n<li>Changes to her appearance while imprisoned in the Shadowfell will probably work.</li>\n<li>Changes to her appearance after being freed will probably work <em>until</em> she joins the camp (and also for her conversation with Shadowheart about her past), but most changes won't last after that.</li>\n</ol>\n</li>\n<li>For Isobel: Most changes to her appearance will probably not work (but some things like head replacers <em>might</em> work depending on how they're made).</li>\n<li>To get technical for other modders:\n<ul>\n<li>I had to replace Aylin and Isobel's character visual resources in order to fix their equipment being baked into their appearance (and I created new resources for them rather than overriding the originals). However, in the original game Aylin is always shapeshifted into one of her two appearances, and I haven't changed the character visual resources that she uses when shapeshifted. This mod only removes her shapeshifted appearance (and so she starts using this mod's new character visual resource that she's actually defined with) when she joins camp.</li>\n<li>I think anything that directly overrides the resources <em>used</em> by their character visual resources (like the actual head models, materials, etc.) will work with this mod?</li>\n<li>If you want to change their appearances as players, you have my permission to override their new character visual resources.</li>\n</ul>\n</li>\n</ul>\n<p>This mod changes the following dialogue files:</p>\n<ul>\n<li>CAMP_Isobel (DialogsBinary and Timeline)</li>\n<li>CAMP_Nightsong (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_FinalConfrontation^ (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_IsobelCamp (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_Lorroakan^ (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_NightsongAndIsobelCampAfterFight (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_NightsongCamp^ (DialogsBinary)</li>\n<li>LOW_SorcerousSundries_NightsongConclusion^ (Timeline)</li>\n<li>LOW_SorcerousSundries_NightsongSmash^ (Timeline)</li>\n</ul>\n<p>The files denoted with <code>^</code> are not critical and if needed can be overridden by another mod that is placed later in the load order. Just be aware that the more of these that are replaced, the jankier this mod's behavior will become and the less new dialogue you will see.</p>\n<p>It also overrides:</p>\n<ol>\n<li>The Osiris script <code>GLO_Nightsong</code> just to stop Aylin from fully healing every time she returns to camp after she's recruited.</li>\n<li>Aylin's root template to make a few minor changes like her default title, but I don't think anything critical.</li>\n<li>Aylin's breastplate root template (<code>ARM_Nightsong</code>) in order to add a physics resource just so it can be placed on the ground for use with Transmogrification Lite.</li>\n<li>The portal leading up to Ramazith's Tower just to add a condition that Aylin can't use it (can only go up if not in the party or if grouped with a player who uses the portal).</li>\n</ol>\n<p> </p>\n<h3>Known Issues</h3>\n<p>This is a large and technically complex mod, so there are a handful of issues that I'm already aware of and that don't need to be reported. Please do report any other issues you find, though! Thanks.</p>\n<p>1. In the level-up screen, you can't zoom in on Aylin. The only way to fix this is to make Aasimar a fully playable race that can be chosen on the character creator screen, which is beyond the scope of this mod.</p>\n<p>2. Can't ask Withers to resurrect Isobel if she's been recruited but is NOT currently in the party. (If she is in the party while dead, Withers can resurrect her.) You can still use a spell or scroll to resurrect her instead. This issue technically applies to Aylin too, but she should always resurrect herself before there's time for it to be a problem.</p>\n<p>3. After defeating Lorroakan, anytime Aylin is in the tower with his body she will always run over to him and can't be controlled to go elsewhere. I'm honestly pretty baffled as to why this is happening, but it can be easily avoided by grouping with her and traveling out of the tower, after which she'll return to normal.</p>\n<p>4. After Aylin and Isobel promise their support for the Gather Your Allies quest, Isobel's death will always cause the quest to update. This is because her death normally breaks their support, and the only way to stop it from happening would be overriding another resource and further complicating mod compatibility, so instead I just undo the quest update as soon as it happens and you're left with a notification for nothing. It shouldn't cause any actual issues, though.</p>\n<p>5. Aylin and Isobel's approval of the player will not be visible if added to existing games (it should be visible in new games).</p>\n<p> </p>\n<h3>Special Thanks</h3>\n<p>Editing dialogue on the XML level is very complicated and <em>extremely</em> confusing to get started with, so I don't think I would have tried learning how to do it without the in-depth research and guides that <a href=\"https://mod.io/g/baldursgate3/u/magnetuning\">magnetuning</a> has generously shared on the topic. He has my immense thanks, and if you haven't already then I recommend you check out his mods!</p>",
+    "date_added": 1782969939,
+    "date_updated": 1784748605,
+    "date_live": 1782973930,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/aylin-and-isobel-join-the-party",
+    "submitted_by": {
+      "id": 35043001,
+      "name_id": "worldwalker42",
+      "username": "WorldWalker42",
+      "profile_url": "https://mod.io/u/worldwalker42",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/c344/35043001/crop_100x100/window-iced-over.1.jpg"
+    },
+    "modfile": {
+      "id": 7945975,
+      "mod_id": 6183659,
+      "version": "1.0.2.9",
+      "filename": "ww_aylinisobeljoinparty_9ef108-ecls.zip",
+      "changelog": "1. Added new endgame ally ability to summon a Moonlight Sliver instead of Aylin if she has been recruited at any point\n2. Improved how Aylin rests in camp (added status that indicates what she is doing and added failsafe to ensure she doesn't get stuck in this state)\n3. Improved some of the added dialogue for short players\n4. Improved Aylin and Isobel's High Hall appearance by switching them out of camp clothes and into their fallback armor if they stayed at the enclave\n5. Fixed Aylin and Isobel not turning hostile unless in the party when Shadowheart is betrayed\n6. Fixed default shade of Isobel's gloves\n7. Fixed minor incompatibility with Isobel Survivability Overhaul",
+      "date_added": 1783617176,
+      "date_updated": 0,
+      "date_scanned": 1783617187,
+      "filesize": 2924175,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/2651/6183659/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2651/6183659/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2651/6183659/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2651/6183659/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Modathon 2026",
+        "name_localized": "Modathon 2026",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7945975
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7945975
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7945975
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7945975
+      }
+    ]
+  },
+  {
+    "id": 6194005,
+    "game_id": 6715,
+    "name": "Flicker Hair Pack",
+    "name_id": "m30-flicker-hair-pack",
+    "summary": "11 hairs in various cybergoth/punk styles and textures, for all races and body types.",
+    "description": "<div style=\"text-align:center;\"> </div>\n<p> </p>\n<div style=\"text-align:center;\">╔════════════════════════════════════════*.·:·.☽✧   ✦   ✧☾.·:·.*════════════════════════════════════════╗</div>\n<blockquote><br>\n<div style=\"text-align:center;\"><em>The weakest of your kind<br>You're crippled and so blind<br>Flickering, then dying<br>I am not there </em></div>\n<div> </div>\n</blockquote>\n<div style=\"text-align:center;\">I am so happy to finally share this mod with everyone. I had so much fun making these, and I hope that you enjoy them as well!<br><br>This mod is a 300-member gift over on my <a href=\"https://www.patreon.com/cw/mouch30\">patreon</a> (free, as always)<br><br></div>\n<div style=\"text-align:center;\">⛧°｡⋆༺♱༻⋆｡°⛧ <br><br>introducing <strong>Flicker</strong> - 11 cybergoth/punk hairs in various styles and textures<br><br>!! PINK DRESS + FLICKER is an <a href=\"https://www.cgtrader.com/3d-models/character/clothing/two-buns-dreads\">asset</a> i purchased from <a href=\"https://www.cgtrader.com/designers/ellieiv\">EllieIv</a> !!<br>everything else is from bg3!<br><br>&gt;&gt; the small horns in FLICKER and LOVELY DAY are colored by Horn Tip! &lt;&lt;<br><br></div>\n<div style=\"text-align:center;\"><strong><u>Included in this mod:</u></strong><br><br>⋆˙⟡ 11 Hairs ⋆˙⟡<br><br>⟢ IT'S BEEN FUN</div>\n<div style=\"text-align:center;\">⟢ COUNTERBLOW</div>\n<div style=\"text-align:center;\">⟢ SELLING REBELLION</div>\n<div style=\"text-align:center;\">⟢ MY REVENGE ON THE WORLD</div>\n<div style=\"text-align:center;\">⟢ PINK DRESS</div>\n<div style=\"text-align:center;\">⟢ ST. EDITH</div>\n<div style=\"text-align:center;\">⟢ INFILTRATING MY WAY THROUGH THE SYSTEM</div>\n<div style=\"text-align:center;\">⟢ BE ME</div>\n<div style=\"text-align:center;\">⟢ CUTTING</div>\n<div style=\"text-align:center;\">⟢ FLICKER</div>\n<div style=\"text-align:center;\">⟢ LOVELY DAY</div>\n<p> </p>\n<div style=\"text-align:center;\"><u><strong>Credits</strong></u></div>\n<div> </div>\n<div style=\"text-align:center;\">programs used: Blender, Photoshop, BG3 Toolkit<br><br>thank you to our lovely screenarchers for taking such gorgeous photos!</div>\n<div style=\"text-align:center;\">✦  <a href=\"https://www.nexusmods.com/profile/VespertilioArt\">VespertilioArt</a>  ✦</div>\n<div style=\"text-align:center;\">✦  <a href=\"https://www.nexusmods.com/profile/Haarlepspup\">haarlepspup [roach</a>] ✦</div>\n<div style=\"text-align:center;\">✦ <a href=\"https://noirebelle.carrd.co/\">noi</a> ✦ <br><br>SEE ARTICLE FOR MODS USED</div>\n<div style=\"text-align:center;\"> </div>",
+    "date_added": 1783273826,
+    "date_updated": 1784748404,
+    "date_live": 1783276809,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/m30-flicker-hair-pack",
+    "submitted_by": {
+      "id": 41896918,
+      "name_id": "mouch30",
+      "username": "mouch30",
+      "profile_url": "https://mod.io/u/mouch30",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b9c0/41896918/crop_100x100/asdf.jpg"
+    },
+    "modfile": {
+      "id": 7929946,
+      "mod_id": 6194005,
+      "version": "1.0.0.7",
+      "filename": "m30_flicker_hair_9a00f688-6a08-4qwa.zip",
+      "changelog": "- Initial Release",
+      "date_added": 1783273855,
+      "date_updated": 0,
+      "date_scanned": 1783273925,
+      "filesize": 39055333,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.png",
+      "original": "https://image.modcdn.io/mods/8ce9/6194005/thumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8ce9/6194005/crop_320x180/thumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8ce9/6194005/crop_640x360/thumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8ce9/6194005/crop_1280x720/thumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7929946
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7929946
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7929946
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7929946
       }
     ]
   }
