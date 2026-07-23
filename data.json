@@ -66981,9 +66981,9 @@
     "name": "Smart Containers 2024 - More Sorting Containers",
     "name_id": "smart-containers-2024-more-sorting-containers",
     "summary": "Adds 6 new backpacks/containers that, similar to the Camp Supplies Sack, automatically add items of the correspondent type. Scrolls, Potions/Elixirs, Poisons/Coatings, Arrows, Grenades/Explosives and Books are supported.",
-    "description": "<p><img src=\"https://image.modcdn.io/mods/8eaf/4439739/smartcontainerslogo3.png\" alt=\"\" width=\"600\" height=\"337\"></p>\n<p>Adds 6 new backpacks/containers that, similar to the Camp Supplies Sack, automatically add items of the correspondent type. Scrolls, Potions/Elixirs, Poisons/Coatings, Arrows, Grenades/Explosives and Books are supported. Check screenshots to see each one.</p>\n<p>The containers are all found inside the Chest of Containers (created so it doesn't clutter inventory and so don't they conflict with other items), which itself is found at various locations:</p>\n<ol>\n<li>One is granted immeadatly upon installing the mod and loading your save, found at your Camp Chest.</li>\n<li>One is inside the Tutorial Chest in the Nautiloid.</li>\n<li>The following NPC vendors sell the Chest too:\n<ol>\n<li>Arron, Emerald Grove, Act 1</li>\n<li>Quartermaster Talli, Last Light Inn, Act 2</li>\n<li>Danthelon, Rivington, Act 3</li>\n</ol>\n</li>\n</ol>\n<p>The chest contains 4 sets of the containers so each party member can have one of each type. Once you get the chest, just take out the containers you want to use and send them to whichever character you wish.</p>\n<p><strong><u>Disclaimer</u></strong>: do not sell the sorting containers to vendors. If you want to dispose of them for any reason, just throw them away or put them back into the Chest of Containers and then sell/get rid of the Chest.</p>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
+    "description": "<p><img src=\"https://image.modcdn.io/mods/8eaf/4439739/smartcontainerslogo3.png\" alt=\"\" width=\"600\" height=\"337\"></p>\n<p>Adds 6 new backpacks/containers that, similar to the Camp Supplies Sack, automatically add items of the correspondent type. Scrolls, Potions/Elixirs, Poisons/Coatings, Arrows, Grenades/Explosives and Books are supported. Check screenshots to see each one.</p>\n<p>The containers are all found inside the Chest of Containers (created so it doesn't clutter inventory and so don't they conflict with other items), which itself is found at various locations:</p>\n<ol>\n<li>One is granted immeadatly upon installing the mod and loading your save, found at your Camp Chest.</li>\n<li>One is inside the Tutorial Chest in the Nautiloid.</li>\n<li>The following NPC vendors sell the Chest too:\n<ol>\n<li>Arron, Emerald Grove, Act 1</li>\n<li>Quartermaster Talli, Last Light Inn, Act 2</li>\n<li>Danthelon, Rivington, Act 3</li>\n</ol>\n</li>\n</ol>\n<p>The chest contains 4 sets of the containers so each party member can have one of each type. Once you get the chest, just take out the containers you want to use and send them to whichever character you wish.</p>\n<p><strong><u>Mod-authors:</u></strong> you can assign the tag <strong>CHIZ_IGNORE_SORTING</strong> to any item you want to never be put into these containers.</p>\n<p><strong><u>Disclaimer</u></strong>: do not sell the sorting containers to vendors. If you want to dispose of them for any reason, just throw them away or put them back into the Chest of Containers and then sell/get rid of the Chest.</p>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
     "date_added": 1729819527,
-    "date_updated": 1738862244,
+    "date_updated": 1784830909,
     "date_live": 1729820204,
     "visible": 1,
     "status": 1,
@@ -66997,15 +66997,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/6c74/1135184/crop_100x100/740365.png"
     },
     "modfile": {
-      "id": 5835412,
+      "id": 8006220,
       "mod_id": 4439739,
-      "version": "1.2.0.9",
-      "filename": "smartcontainers2024_c0150b37-8-5oya.zip",
-      "changelog": "Changed icon of Potion Bag to something more appropriate. Fixed Basilisk Oil not being sorted into Potion Bag and Orthon Handbombs not being sorted into Explosives Box.",
-      "date_added": 1733379365,
+      "version": "1.3.0.10",
+      "filename": "smartcontainers2024_c0150b37-8-kc4o.zip",
+      "changelog": "Added sorting exclusions: book \"Teachings of Loss: The Nightsinger\" and the Scrolls of Dethrone, Sights of the Seelie and Artistry of War won't be sorted, along with their associated unique books. Modders can use the CHIZ_IGNORE_SORTING tag for items they don't want to be sorted.",
+      "date_added": 1784830761,
       "date_updated": 0,
-      "date_scanned": 1733379480,
-      "filesize": 1353918,
+      "date_scanned": 1784830766,
+      "filesize": 1355395,
       "platforms": [
         {
           "platform": "windows",
@@ -67013,15 +67013,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -67076,10 +67076,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 5835412
-      },
-      {
         "platform": "mac",
         "modfile_live": 5835412
       },
@@ -67090,6 +67086,10 @@
       {
         "platform": "ps5",
         "modfile_live": 5835412
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8006220
       }
     ]
   },
@@ -130776,114 +130776,6 @@
       {
         "platform": "ps5",
         "modfile_live": 6567390
-      }
-    ]
-  },
-  {
-    "id": 5092158,
-    "game_id": 6715,
-    "name": "Tailless_Tieflings [Fixed]",
-    "name_id": "tailless-tieflings-fixed",
-    "summary": "Removes tails from tieflings created by player. This is not my mod - I got it from nexus, author is Fluffy Spider. I apologize for taking it without asking and express gratitude for its creation.",
-    "description": "<p>Это не мой мод, я тиснул его с нексуса. Автор - <a href=\"https://www.nexusmods.com/baldursgate3/users/10942243\">FluffySpider</a>, ему огромное спасибо за данный мод и приношу извинения, что без его разрешения. </p>\n<p>Вот ссылка на оригинал:</p>\n<p>https://www.nexusmods.com/baldursgate3/mods/11761</p>",
-    "date_added": 1752498975,
-    "date_updated": 1760621558,
-    "date_live": 1752498975,
-    "visible": 1,
-    "status": 1,
-    "dependencies": false,
-    "profile_url": "https://mod.io/g/baldursgate3/m/tailless-tieflings-fixed",
-    "submitted_by": {
-      "id": 48608816,
-      "name_id": "littlewiteogre",
-      "username": "PadreTroll",
-      "profile_url": "https://mod.io/u/littlewiteogre",
-      "profile_img_100x100_url": "https://thumb.modcdn.io/members/af46/48608816/crop_100x100/5dafa11ee10fb275fd6262c21c1f651.jpg"
-    },
-    "modfile": {
-      "id": 6568484,
-      "mod_id": 5092158,
-      "version": "2.4.0.1",
-      "filename": "tailless_tieflings_d2c84b89-b3-l37v.zip",
-      "changelog": null,
-      "date_added": 1752498984,
-      "date_updated": 0,
-      "date_scanned": 1752498995,
-      "filesize": 2875372,
-      "platforms": [
-        {
-          "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
-          "status": 1
-        }
-      ]
-    },
-    "logo": {
-      "filename": "2025-07-14_20-34-42.png",
-      "original": "https://image.modcdn.io/mods/25d7/5092158/2025-07-14_20-34-42.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/25d7/5092158/crop_320x180/2025-07-14_20-34-42.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/25d7/5092158/crop_640x360/2025-07-14_20-34-42.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/25d7/5092158/crop_1280x720/2025-07-14_20-34-42.png"
-    },
-    "tags": [
-      {
-        "name": "Customisation",
-        "name_localized": "Customisation",
-        "date_added": 0
-      },
-      {
-        "name": "Races",
-        "name_localized": "Races",
-        "date_added": 0
-      },
-      {
-        "name": "Patch 8 Tested",
-        "name_localized": "Patch 8 Tested",
-        "date_added": 0
-      },
-      {
-        "name": "Available on Mac and Console",
-        "name_localized": "Available on Mac and Console",
-        "date_added": 0
-      },
-      {
-        "name": "Other Customisation",
-        "name_localized": "Other Customisation",
-        "date_added": 0
-      },
-      {
-        "name": "Tiefling",
-        "name_localized": "Tiefling",
-        "date_added": 0
-      }
-    ],
-    "platforms": [
-      {
-        "platform": "windows",
-        "modfile_live": 6568484
-      },
-      {
-        "platform": "mac",
-        "modfile_live": 6568484
-      },
-      {
-        "platform": "xboxseriesx",
-        "modfile_live": 6568484
-      },
-      {
-        "platform": "ps5",
-        "modfile_live": 6568484
       }
     ]
   },
