@@ -153566,9 +153566,9 @@
     "name": "Goblin Hunter Set",
     "name_id": "goblin-hunter-set",
     "summary": "Goblin Hunter Armor + Weapon set.",
-    "description": "<p>Armor/Camp Clothing and Weapon set of the Goblin Hunter<br>Fully Dyeable<br>Supports BT2</p>\n<p>Commissioned by Orcbolg</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Credits:<br><a href=\"https://www.cgtrader.com/3d-models/character/fantasy-character/goblin-slayer-4ce4cd80-6ff2-4c95-9b09-d4bc77c06e47\">Armor</a> by grandeyo<br><a href=\"https://skfb.ly/pGCQv\">Steel Sword</a> by Björn<br><a href=\"https://skfb.ly/onVn8\">Silver Sword</a> by Aren Boada<br><a href=\"https://skfb.ly/oPWFu\">Scabbard</a> by mefq<br><a href=\"https://skfb.ly/oTOt6\">Pommel</a> by Aid<br><a href=\"https://skfb.ly/6WNn9\">Shortsword and Shield</a> by G.Salmon<br><a href=\"https://skfb.ly/oStFT\">Dagger</a> by Dasamura<br>Meshes and Textures has been modified<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>Armor/Camp Clothing and Weapon set of the Goblin Hunter<br>Fully Dyeable<br>Supports BT1/2</p>\n<p>Commissioned by Orcbolg</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Credits:<br><a href=\"https://www.cgtrader.com/3d-models/character/fantasy-character/goblin-slayer-4ce4cd80-6ff2-4c95-9b09-d4bc77c06e47\">Armor</a> by grandeyo<br><a href=\"https://skfb.ly/pGCQv\">Steel Sword</a> by Björn<br><a href=\"https://skfb.ly/onVn8\">Silver Sword</a> by Aren Boada<br><a href=\"https://skfb.ly/oPWFu\">Scabbard</a> by mefq<br><a href=\"https://skfb.ly/oTOt6\">Pommel</a> by Aid<br><a href=\"https://skfb.ly/6WNn9\">Shortsword and Shield</a> by G.Salmon<br><a href=\"https://skfb.ly/oStFT\">Dagger</a> by Dasamura<br>Meshes and Textures has been modified<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1777086211,
-    "date_updated": 1779900345,
+    "date_updated": 1784824162,
     "date_live": 1777086848,
     "visible": 1,
     "status": 1,
@@ -153582,15 +153582,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7749577,
+      "id": 8005806,
       "mod_id": 6009687,
-      "version": "1.0.0.13",
-      "filename": "gbslyrarmr_a9a8f711-3b92-dcac-2lqm.zip",
-      "changelog": "- reduced shield bash pushing distance to 4.5m",
-      "date_added": 1779061810,
+      "version": "1.0.0.14",
+      "filename": "gbslyrarmr_a9a8f711-3b92-dcac-1rjz.zip",
+      "changelog": "- added support for bt1 (+ githyanki)",
+      "date_added": 1784824115,
       "date_updated": 0,
-      "date_scanned": 1779061886,
-      "filesize": 42165726,
+      "date_scanned": 1784824323,
+      "filesize": 48368884,
       "platforms": [
         {
           "platform": "windows",
@@ -153598,15 +153598,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -153639,6 +153639,11 @@
         "date_added": 0
       },
       {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
         "name": "Body Type 2",
         "name_localized": "Body Type 2",
         "date_added": 0
@@ -153651,6 +153656,11 @@
       {
         "name": "Elf",
         "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
         "date_added": 0
       },
       {
@@ -153686,10 +153696,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7749577
-      },
-      {
         "platform": "mac",
         "modfile_live": 7749577
       },
@@ -153700,6 +153706,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7749577
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8005806
       }
     ]
   },
