@@ -154886,7 +154886,7 @@
     "summary": "A streamlined version of Camp Activities, now campers won't wander away.",
     "description": "<p>A very simple, lightweight mod that makes your campers a bit more active. They wander, perform, and act on their own. </p>\n<p>2 passives are included:<br>- Music Critic, which turns off camp performances<br>- Wallflower, which makes the character immune to the activity code<br><br>Thank you to <a href=\"https://mod.io/g/baldursgate3/u/forkiramay\">For_Kiramay</a> for helping me figure out the wandering camper issue.</p>",
     "date_added": 1781837294,
-    "date_updated": 1784765747,
+    "date_updated": 1784905255,
     "date_live": 1781845922,
     "visible": 1,
     "status": 1,
@@ -154900,15 +154900,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
     },
     "modfile": {
-      "id": 8003258,
+      "id": 8009965,
       "mod_id": 6148370,
-      "version": "1.0.0.123",
-      "filename": "campactivitiesfixed_82983cc8-c-cc8u.zip",
-      "changelog": "* Any player selected while in camp will now automatically be tagged as a Wallflower. This, unfortunately, requires a new game but existing games will continue to function just fine, they just won't get the new-new.",
-      "date_added": 1784765539,
+      "version": "1.0.0.124",
+      "filename": "campactivitiesfixed_82983cc8-c-8i9i.zip",
+      "changelog": "* Added backup code to deal with edge cases where players may turn the Wallflower passive on a party member, then removes said party member from the party and leaves them in camp. Since Wallflower prevents the code that forces wanderers back to their tents from working, rejected exes will now have Wallflower removed and will be allowed the joy of participating in activities. This will NOT affect Music Critic.",
+      "date_added": 1784905119,
       "date_updated": 0,
-      "date_scanned": 1784765584,
-      "filesize": 22403767,
+      "date_scanned": 1784905163,
+      "filesize": 22404391,
       "platforms": [
         {
           "platform": "windows",
@@ -154977,7 +154977,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8003258
+        "modfile_live": 8009965
       }
     ]
   },
