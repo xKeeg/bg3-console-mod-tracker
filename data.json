@@ -79422,7 +79422,7 @@
     "summary": "This mod series explores \"class like\" (not a class mod) playstyles by modifying items only. Sets of equipment provide players with a class-style experience, offering new spells, passives, and abilities that expand multi-class build options.",
     "description": "<p>All Items are located in the Tutorial Chest.<br>All the progressive sets are randomly placed across ACT1 to ACT3.<br><br><span style=\"text-decoration:underline;\">Please check the update notes or join our Discord or Patreon for detailed information.</span></p>\n<p>This mod series explores \"class-like\" (not a class mod) playstyles by modifying <strong>items only</strong>. Sets of equipment provide players with a class-style experience, offering new spells, passives, and abilities that expand multi-class build options.</p>\n<h3><a title=\"Join Us!\" href=\"https://discord.gg/VWqtFKRp9J\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/discord.png\" alt=\"\" width=\"150\" height=\"50\"></a> <a title=\"Support Us!\" href=\"https://patreon.com/TEAMAW?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/patreon-logo.png\" alt=\"\" width=\"150\" height=\"50\"> </a><a title=\"Subscribe Us!\" href=\"https://www.youtube.com/@alovinghusbandw\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/58f2/39825734/profile/ytb.png\" alt=\"\" width=\"150\" height=\"50\"></a></h3>\n<p><iframe src=\"https://www.youtube.com/embed/rNtI1h4pM3g\" width=\"560\" height=\"314\"></iframe><br><br>CAUTIONS:<br>This mod overrides: '<span style=\"text-decoration:underline;\">MAG_CHARGED_LIGHTNING</span>' by removing its 'TickFunctors' string: '<span style=\"text-decoration:underline;\">IF(HasMaximumLightningCharge(context.Target)):SetStatusDuration(MAG_CHARGED_LIGHTNING, 7, ForceSet)</span>' in order to raise the maximum stack limit to 20 stacks.</p>\n<h4>'Class Like' mods:<br><a title=\"[AW's] Moon Wattttcher\" href=\"https://mod.io/g/baldursgate3/m/aws-moon-wattttcher\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Moon Wattttcher</a><br><a title=\"[AW's] Dimension Breaaaaker\" href=\"https://mod.io/g/baldursgate3/m/aws-dimension-breaaaaker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Dimension Breaaaaker</a><br><a title=\"[AW's] Noxmongeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-noxmongeeeer\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Noxmongeeeer</a><br><a title=\"[AW's] Hell Walkeeeer\" href=\"https://mod.io/g/baldursgate3/m/aws-hell-walker\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Hell Walkeeeer</a><br><br>Equipment mod:<br><a title=\"[AW's] Equipment Arsenaaaal\" href=\"https://mod.io/g/baldursgate3/m/aws-equipment-arsenaaaal\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Equipment Arsenaaaal</a><br><br>Overhaul mods:<br><a title=\"AW's Monk Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-lightning-assasssssin-knight-monk-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Monk Overhaul</a><br><a title=\"AW's Wizard Overhaul\" href=\"https://mod.io/g/baldursgate3/m/awswizardoverhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Wizard Overhaul</a><br><a title=\"AW's Ranger Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-ranger-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Ranger Overhaul</a><br><a title=\"AW's Rogue Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-rogue-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Rogue Overhaul</a><br><a title=\"AW's Barbarian Overhaul\" href=\"https://mod.io/g/baldursgate3/m/aws-babarian-overhaul#description\" target=\"_blank\" rel=\"noopener noreferrer\">AW's Barbarian Overhaul</a></h4>\n<p>Big thanks to @XiphiasRex for creating the '<a title=\"AnimationUnlocker\" href=\"https://mod.io/g/baldursgate3/m/animationunlocker#description\" target=\"_blank\" rel=\"noopener noreferrer\">AnimationUnlocker</a>' mod and the general advices/helps on modding for all the modders.<br>Big thanks to @OhforFuksake's \"Modding With Ohfor - Baldur's Gate 3\" tutorial series. If you are also interested in making mods for BG3, he teaches in a good manner. </p>",
     "date_added": 1732770265,
-    "date_updated": 1781439899,
+    "date_updated": 1785488885,
     "date_live": 1732771040,
     "visible": 1,
     "status": 1,
@@ -79452,15 +79452,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
