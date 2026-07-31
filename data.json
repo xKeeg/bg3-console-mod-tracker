@@ -10265,7 +10265,7 @@
     "summary": "Adds instruments which enhance music performances with VFX and QoL features. Auto-join and complete music performances with companions, ensemble summons or instrument sprites. Find and learn 12 pieces of sheet music to perform BG3 songs.",
     "description": "<p>Special thanks to the following channels for featuring the Ember's Lute music mods!</p>\n<ul>\n<li>Larian From Hell: <a href=\"https://www.youtube.com/watch?v=khkg6V81-wE&amp;t=35s\">How to Get the Best Experience Out of Modding Baldur’s Gate </a></li>\n<li>Jay Dunna: <a href=\"https://www.youtube.com/watch?v=Jg2f7q5dvic\">HUGE NEW CONSOLE MOD DROP in Baldur's Gate 3 - YouTube</a></li>\n<li>SiNKillER: <a href=\"https://www.youtube.com/watch?v=jBLNE3-8INk\">Best New Baldur's Gate 3 Mods for Console &amp; PC ⚔️ | Part 2</a></li>\n</ul>\n<h4>All features in this mod are enabled through equipping one of its custom instruments!</h4>\n<h2>What is the Ember's Lute Mod?</h2>\n<p>Ember's Lute is a mod that enhances music performances with QoL features, more ways to perform music, custom visual FX and custom instrument textures.</p>\n<p>Here's a summary of what the mod does:</p>\n<ul>\n<li>Auto-perform music with companions, ensembles (summon a band) or play complete songs \"solo\" with musical sprites.</li>\n<li>Conduct music with Passive toggles - silence by instrument type mid-performance.</li>\n<li>Perform music outside of camp to gathered crowds and possibly receive a reward.</li>\n<li>A bit more animated reaction variety to musical performances.</li>\n<li>Custom musical performance VFX for each performable song.</li>\n<li>Custom lute textures with toggle-able glowmap options, and dyeable lute variants.</li>\n<li>2 summonable ensembles to perform music with.</li>\n<li>Instrument varnishes which let you convert any vanilla or custom instrument by adding the mod capabilities to it.</li>\n<li>Find 12 pieces of sheet music and learn to perform new songs.</li>\n</ul>\n<h2><strong>Getting Started</strong></h2>\n<ul>\n<li>A book, a re-usable scroll and a lute will automatically be placed in the player inventory on entering the game.</li>\n<li>Use the scroll to summon a temporary chest of instruments from this mod into your inventory and take what you want from it! You can use this scroll to access the mod inventory whenever and wherever, although you can also find the chest on vendors in each of the Acts. </li>\n<li>Read the Getting Started book for more information such as vendor locations.</li>\n</ul>\n<h2>Three Themes</h2>\n<ul>\n<li><strong>Musical Sprites:</strong> auto-perform complete music solo with instrument sprites.</li>\n<li><strong>Ensembles:</strong> summon a musical band of Rock Gnome spirits, or raise the undead with a custom Spider's Lyre.</li>\n<li><strong>Annoying:</strong> perform music with a lute that will automatically whistle along, and has a selection of spells designed to cause chaos and make mischief.</li>\n</ul>\n<h2>A General Note on Compatibility</h2>\n<p>This mod does not change the vanilla music performances. Its custom music performances, instrument toggles and spell effects are only triggered when you either equip one of its instruments, or use the instrument varnishes. It's just a design approach and there are pros and cons. Pro is it should be compatible with most other mods, and happily co-exist alongside other music mods. Con, music performance functionality added by another music mod will probably not work on the custom instruments in this mod (but should be fine with vanilla instruments).  </p>\n<h2>Adding and Removing This Mod</h2>\n<ul>\n<li>This mod can be safely added mid-campaign at any point.</li>\n<li>Since this mod adds custom instruments, spells and statuses, it cannot be removed mid-game without pre-requisite in-game steps to fully erase the custom items. For PC players only, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n</ul>\n<h2>Console Players</h2>\n<p>Since mods cannot be removed mid-campaign, I recommend (for this and for any other mod) making a Save point before you add the mod and trying it out to see if you would like to keep it in your campaign. Most of the features of this mod can be quickly accessed via the pink Summon Instruments scroll that was dropped into your inventory. If you have lost or destroyed this scroll, it can be re-purchased from vendors in all 3 acts (Druid's Grove, Last Light Inn and Chromatic Scale).</p>\n<h2>FAQ</h2>\n<ul>\n<li><strong>Q: Do I need another mod to grant musical proficiency without spending a Feat?</strong></li>\n<li>A: Not necessary, these are magical custom instruments that grant musical proficiency when they are equipped.</li>\n</ul>\n<ul>\n<li><strong>Q: Do I need the Divinity Song Pack DLC to use this mod?</strong></li>\n<li>A: It is not a requirement for this mod. If you have the DLC, you will be able to perform the 3 extra songs on the custom instruments with the custom VFX. If you do not have the DLC, then you will be able to perform the standard 3 songs. The custom musical performances, including the \"Weeping Dawn\", are available to learn regardless of whether the DLC is present or not.</li>\n</ul>\n<ul>\n<li><strong>Q: (PC Only) Do the instruments in this mod work with Enhanced Transmog?</strong></li>\n<li>A: At this point in time, the music mod instruments use custom tags which is not supported by Transmog. I will be uploading a patch in the future that works around this, although it will only be available via Nexus due to the script extender external dependency requirement.<em> This was a lie (the intent was honest...). I stopped supporting Transmog after version 2 of this mod.</em></li>\n</ul>\n<ul>\n<li><strong>Q: My music performances are interrupted, is it caused by this mod?</strong></li>\n<li>A: No - it's known brittle behaviour of the vanilla music statuses. This mod explains what is going on <a href=\"https://mod.io/g/baldursgate3/m/music-perform-fixer#discussion\">Interrupted Music Performance Fixer for Baldur's Gate 3 - mod.io</a> and has a solution to prevent it happening for the most common causes.</li>\n</ul>\n<ul>\n<li><strong>Q: I get a stuck blue arrow when trying to update the mod, or a locked error is thrown.</strong></li>\n<li>A: Update issues are sometimes due to BG3 becoming out-of-sync with mod.io and the fix is usually to unsubscribe and re-subscribe. You may need to first disable the mod, then exit and re-launch BG3 before unsubscribing in the Mod Manager. See this article for a bit more information: <a href=\"https://www.nexusmods.com/baldursgate3/articles/1033\">Stuck Blue Arrows</a></li>\n</ul>\n<ul>\n<li><strong>Q: Companions aren't throwing me coins when I perform in camp now, is this a bug?</strong></li>\n<li>A: No, this was an intentional change in version 3. Why? I just thought it was a bit funny that companions would throw you a coin. If you perform music outside of camp, then gathered crowds will still toss you a coin if they like your music (among other things). You can also disable the custom music performance reactions in mod preferences, if you would like the vanilla crowd reaction behaviour instead.</li>\n</ul>\n<h3>Thanks</h3>\n<ul>\n<li>To ShigeoV2 for the Spanish translation addon, which you can find here: <a target=\"_blank\" rel=\"noopener noreferrer\">Ember's Lute ES</a></li>\n<li>To VentulusCN2 for the Chinese translation addon, which you can find here: <a href=\"https://mod.io/g/baldursgate3/m/embers-lute-chs\">embers-lute-chs</a></li>\n<li>To Shinyhobo for the BG3 multi-tool: <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\">ShinyHobo/BG3-Modders-Multitool</a></li>\n<li><a style=\"text-decoration:inherit;\">To Norbyte for a variety of essential modding tools, such as LSLib: </a><a href=\"https://github.com/Norbyte/lslib/releases\">LSLib</a></li>\n<li>To LaughingLeader for the BG3 Mod Manager: <a href=\"https://github.com/LaughingLeader/BG3ModManager\">BG3 Mod Manager</a></li>\n</ul>",
     "date_added": 1723950211,
-    "date_updated": 1784591245,
+    "date_updated": 1785502929,
     "date_live": 1723989159,
     "visible": 1,
     "status": 1,
@@ -10295,15 +10295,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -10363,19 +10363,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7994078
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7507114
+        "modfile_live": 7994078
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7507114
+        "modfile_live": 7994078
       },
       {
         "platform": "ps5",
-        "modfile_live": 7507114
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7994078
       }
     ]
@@ -11584,7 +11584,7 @@
     "summary": "This mod adds custom fringes/sides as well as vanilla ones from CC and NPCs to the Dragonborn Jaw slot in CC so you can customise how your characters hair looks further.",
     "description": "<h2>What is this mod?</h2>\n<p>This mod separates bangs/fringes, framing bangs and other parts such as Braids for shaved sides and such from the games hairs into their own asset and assigned to DragonbornJaw. Also includes some custom assets.</p>\n<h3>Location in Character Creation:</h3>\n<p>Currently adds 100 options to Dragonborn Jaw section so you can combine with hair, beards, horns and tails.</p>\n<p>This section can be found in vanilla in the general tab where you normally find your heads.</p>\n<p>This does mean it will show up for Dragonborn too. So if playing a Dragonborn I just suggest disabling the mod for that playthrough so you don't have to scroll past them for the other Dragonborn parts. Thank you for your understanding &lt;3</p>\n<h2>Compatibility</h2>\n<p>This mod is now compatible with other mods adding to Humanoid, Fey, Fiend and Celestial race sections. You no longer need my Patches for CC Races.lsx for this mod to work with other mods.</p>\n<h2>Switching to Latest Version</h2>\n<p>This mod was converted for use in the Toolkit, so I can further build on it via it. I have tried to make this as seamless as possible for you switching to these new versions. </p>\n<p>However when switching to the latest version of the mod please make sure to remove the pak of the original mod from your mods folder.</p>\n<p>Patch 6 of the mod will remain under old versions.</p>\n<p> </p>",
     "date_added": 1725488136,
-    "date_updated": 1783370814,
+    "date_updated": 1785502766,
     "date_live": 1725489084,
     "visible": 1,
     "status": 1,
@@ -11614,15 +11614,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -11717,19 +11717,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7934530
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6275879
+        "modfile_live": 7934530
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6275879
+        "modfile_live": 7934530
       },
       {
         "platform": "ps5",
-        "modfile_live": 6275879
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7934530
       }
     ]
@@ -36610,7 +36610,7 @@
     "summary": "Unleash the power of your mind with the Mind Weaver class! This mod introduces a new playable class focused on psionic abilities, wielding psychic weapons, and manipulating the battlefield with their ****** prowess.",
     "description": "<h4>Considering I am finished modding and adding any new classes and subclasses to Baldurs Gate 3 I thought it would be a good idea to list all class/subclass mods created by me as many have mentioned they were unaware. Enjoy!</h4>\n<h4><a href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee#description\" target=\"_blank\" rel=\"noopener noreferrer\">Sword Dancers of Eilistraee</a> - 3 subclasses with Sword Dancer, Darksong Knight and Silver Bladedancer</h4>\n<h4><a href=\"https://mod.io/g/baldursgate3/m/way-of-the-mind-weaver#description\" target=\"_blank\" rel=\"noopener noreferrer\">Way of the Mind Weaver</a> - Monk subclass allowing soft multi-classing Mind Weaver classes</h4>\n<h4><a href=\"https://mod.io/g/baldursgate3/m/way-of-the-sword-saint#description\">Way of the Sword Saint</a> - Monk Subclass, melee/martial oriented</h4>\n<h4><a href=\"https://mod.io/g/baldursgate3/m/storm-domain#description\">Storm Domain</a> - Lightning based Cleric Subclass</h4>\n<h4><a href=\"https://mod.io/g/baldursgate3/m/college-of-bladeweave#description\">College of Bladeweave</a> - Blade Cantrip oriented Bard Subclass similar to College of Swords but focused on blade cantrips and multi-hit weapon attacks</h4>\n<h4><a href=\"https://mod.io/g/baldursgate3/m/sea-soul#description\">Sea Soul</a> - Sorcerer Subclass focused on Water Spells</h4>\n<h4><a href=\"https://mod.io/g/baldursgate3/m/homebrew-blade-cantrips#description\">Homebrew Blade Cantrips</a> - Collection of homebrewed Blade Cantrips for all missing damage type elements</h4>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/mind-weavers.1.png\" alt=\"\" width=\"600\" height=\"600\"></p>\n<p>This mod introduces the Mind Weaver, a homebrew class designed to fill the void of psychic-based and hybrid classes in Dungeons and Dragons. Mind Weavers are enigmatic masters of psionic energy, capable of manipulating thoughts, warping reality, and unleashing devastating psychic attacks. They are the architects of the battlefield, using their minds as weapons to control enemies, bolster allies, and bend the very fabric of reality to their will.</p>\n<p>For detailed description of all Subclasses and their full progression, spells, passives you can read through on Nexus <a title=\"Mind Weaver Class\" href=\"https://www.nexusmods.com/baldursgate3/mods/10431\" target=\"_blank\" rel=\"noopener noreferrer\">Mind Weaver Class</a>  as there is a ton of text which exceed the limit on mod.io and it is a homebrew class with 90% new spells and passives. All subclasses have had priority when designed to be balanced and in line with existing in game base classes. Individual progression for each subclass had details and link below </p>\n<p><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;background-color:#0d0d10;\">Class is currently is setup to go to level 20 if you are using expansion or unlocked level curve and supports spell upcasts and feat gain.  Otherwise all spells and passives are unlocked by level 12.</span></p>\n<p> </p>\n<p><strong>Amazing TT translation by Uno, Kegan and others.</strong></p>\n<p><a href=\"https://homebrewery.naturalcrit.com/share/x8WLix8g7Sth\">https://homebrewery.naturalcrit.com/share/x8WLix8g7Sth</a></p>\n<p><a href=\"https://www.reddit.com/r/DnDHomebrew/comments/1kbxwfo/mind_weaver_10_play_a_customizable_psionic/\">https://www.reddit.com/r/DnDHomebrew/comments/1kbxwfo/mind_weaver_10_play_a_customizable_psionic/</a></p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/screenshot2025-05-01064916.png\" alt=\"\" width=\"400\" height=\"517\"></p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/mindweaver.1.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h2><strong>Mind Weaver</strong></h2>\n<p>Mind Weavers are masters of psychic and psionic energies, capable of bending the minds and wills of their foes to their advantage. Drawing from a deep well of mental prowess, they unleash powerful spells that devastate enemies and protect allies. Mind Weavers manipulate thoughts, project their consciousness, and harness the power of the astral plane to amplify their abilities. With a focus on intelligence and precision, they excel in controlling the battlefield and outsmarting their opponents through sheer mental force. Their connection to the astral plane allows them to draw upon cosmic energies, creating powerful psychic barriers and weaving intricate mental illusions. This makes them unparalleled strategists and formidable adversaries.</p>\n<h2><strong>Subclasses </strong></h2>\n<hr>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/mwshadow300.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h2><strong>Shadowmind</strong></h2>\n<div>\n<div>Shadowminds represent the darker aspect of psionics, those who learned to weaponize fear, paranoia, and the toxic thoughts that lurk in every mind. They've discovered that shadows are not merely absence of light, but psychic imprints where consciousness fears to tread. By manifesting their own mental shadow, they can be in two places at once, attacking from unexpected angles while their enemies fight phantoms. The poison element represents corrupted thoughts and psychic toxins, not physical venom, but mental contamination that sickens the mind and body alike.</div>\n<br>\n<div><em>This is a class I originally attempted to create but due to not having enough knowledge it ended with me creating Void Reaver. I truly planned no more subclasses but given I found the files randomly in an old branch it made sense to put it to life before calling it quits with Mind Weaver. Shadowmind completely revolves around dual play between you and your Living Shadow which can do an enormous amount of things from casting spells, attacking in melee and from range when Shadowmind does, has reactions and will inflict negative statuses granting Shadowmind additional power on top of many others. The subclass primarily deals Poison and Psychic damage.</em></div>\n<div> </div>\n<div>\n<ul>\n<li>1 or 2 more spells/skills will be added. 1 probably past level 13</li>\n<li>And i plan on updating Mind Weaver Animations addon to give Shadowmind animations specifically from Shadow Monk as it fits the theme</li>\n</ul>\n</div>\n<div> </div>\n<h3><strong><a title=\"Shadowmind Progression\" href=\"https://www.nexusmods.com/baldursgate3/articles/1621\" target=\"_blank\" rel=\"noopener noreferrer\">Shadowmind Progression</a></strong></h3>\n<p> </p>\n<p><strong>Shadowmind quick tips:</strong></p>\n<div>\n<ul>\n<li>Shadowmind plays entirely different than every class within this mod. You rely on your Living shadow mechanically through every combat encounter</li>\n<li>Start with 16INT + 16 DEX/STR depending on preference or you can go full INT if choosing Psionic Weapon infusion</li>\n<li>You can dual wield or single wield. Dual wield will give more damage to Shadowmind due to Mindrot Bloom while single wielding Longswords or other 2handed weapons if you use them will give more damage to Living Shadow. Having Dual Wilder will outperform both however so the investment is worth it but costs a feat.</li>\n<li>Mechanically do not expect to just cast spells and swing your swords, you can use your shadow for enormous amounts of things and it eventually satisfies your extra attack through reactions</li>\n<li>Keep in mind that any abilities/passives/skills that Shadowmind has through equipment will also be available to Living Shadow for use</li>\n<li>Enjoy, this one is fun for sure.</li>\n</ul>\n</div>\n<p> </p>\n<p><iframe src=\"https://www.youtube.com/embed/KoStqe0KVC4\" width=\"560\" height=\"314\"></iframe></p>\n</div>\n<p> </p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/112.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h2><strong>Mindblade Magus</strong></h2>\n<div>\n<div>The Mindblade Magus embodies the perfect fusion of arcane and steel. With every swing, they infuse their weapon with elemental energy, turning a blade strike into a storm of thought and power. Lightning arcs along the edge, fire sears from the wound, frost clings to their movements, thunder resounds from their blows, and acid corrodes where the strike lands. Through Spellstrike, the Mindblade weaves spell and steel into one seamless assault delivering devastating power at the cost of precision, or measured strikes with uncanny control. To face a Mindblade Magus is to duel against mind and matter entwined, where each motion is guided by the will of thought itself.</div>\n<div> </div>\n<h3><a href=\"https://www.nexusmods.com/baldursgate3/articles/1543\" target=\"_blank\" rel=\"noopener noreferrer\">Mindblade Magus Progression</a></h3>\n<p> </p>\n<p><strong>Mindblade Magus quick tips:</strong></p>\n<div>\n<ul>\n<li>I intended this subclass to be played with the 3 different summoned Mindswords but you are not required to play in that manner and this why Mindswords scale with your character Level providing enhancements and passive buffs to the weapons.</li>\n<li>The Mindswords also give you the benefit of INT to attack and damage rolls. If you go the route of using other weapons go with either DEX or STR and remember that only Scimitars, Rapiers and Longswords are supported and you cannot use Shields or have an Offhand weapon.</li>\n<li>Spellstrike will be your main tool for dealing damage + the type of Mindblade Arcana you pick during progression.</li>\n<li>Mindblade Arcana gives you a ton of different abilities and will change how you play this subclass.</li>\n<li>All Spellstrikes benefit from Mind Surge and all Resonance attacks (extra attacks after Spellstrike) will scale with Level. At Level 5 your 2 attacks will outscale a typical dual Attack with weapons because of the elemental damage they do. The Elemental Infusion also persists meaning you can continue to deal good damage even if using Enervating Blade</li>\n<li>Spellstrike converts all spells you have from Saves to Attack Rolls unless you use Dimensional Blade arcana and you have a ton of ways to boost your Attack Rolls with buffs or Reactions like Prescient Strike</li>\n<li>Your AC should be plentiful as Student Of War gives you full INT modifier to AC when not using Armor and half of it with Light Armor. If you choose to use Medium Armor the INT to AC is blocked.</li>\n<li>I plan on adding maybe another Mindblade weapon (Shortsword probably) and a few more Mindblade Arcanas</li>\n</ul>\n</div>\n</div>\n<p> </p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/soulbreaker.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h2><strong>Soul Scion</strong></h2>\n<div>\n<div>Unlike their psionic brethren who manipulate the mind, Soul Scions are Mind Weavers who turned to Animacy, the study of the soul itself. Rejecting the traditional psychic arts of their kind, they sought a deeper understanding of existence. Striking down their foes, they their very Soul Essence, harvesting the remnants of shattered spirits to fuel devastating abilities. This stolen energy allows them to empower themselves, weaken their enemies, and dominate the battlefield with unnatural resilience and control. A Soul Scion does not simply fight; they twist the fabric of existence, siphoning power from adversaries to enhance their own might while crippling the will of those who stand against them.</div>\n<br>\n<div>Masters of buffing, debuffing, and soul domination, they use Soul Essence to turn combat in their favor, whether by bolstering their speed and strength, sapping the will of their enemies, or unleashing devastating spells fueled by the echoes of the fallen. A Soul Scion does not simply break their foes, they unravel them, reshaping their soul and spirit into weapons of war.</div>\n<div> </div>\n<h3><a title=\"Soul Scion Progression\" href=\"https://www.nexusmods.com/baldursgate3/articles/1340\" target=\"_blank\" rel=\"noopener noreferrer\">Soul Scion Progression</a></h3>\n<p><strong>Soul Scion quick tips:</strong></p>\n<div>\n<ul>\n<li>You can either start with DEX or STR but absolutely need INT. I would start 16 INT + either DEX or STR at 15/16 depending on what weapons you plan on using</li>\n<li>Every weapon proficiency is available and the subclass supports Single or Dual Wield with both Ranged and Melee Weapons. You start with a Longsword and can grab a Longbow from tutorial chest</li>\n<li>You can play this subclass fully Ranged or Melee, or do both Ranged/Melee at the same time which is what is always prefered.</li>\n<li>Always have both bow/melee weapon around as not being able to use Soul Lash and deal damage to generate soul essence hurts.</li>\n<li>Soul Lash mechanic is your main spellcasting builder, you want to always use weapon attacks and never miss. Accuracy &gt; damage</li>\n<li>You are NOT a martial class and do NOT deal your main damage from weapon attacks. You are a spellcaster that needs to melee in order to cast spells/skills.</li>\n<li>You play this class as a controller, you can mind control, inflict curses/statuses, buff allies and yourself, debuff enemies and deal good damage with spells but are not intended to replace sorcerer/wizard levels of damage.</li>\n<li>Scion gains nothing new past level 12 as it's hard to balance Soul Essence and it will be added in the future and once more testing is done with level 12</li>\n</ul>\n</div>\n<div> </div>\n</div>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/frostveilsage.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h2><strong>Frostveil Sage</strong></h2>\n<p>Frostveil Sages are a splintered order of Mind Weavers, once counted among the Astral Seers, who gazed deep into the astral plane but turned their focus outward, beyond its boundaries. Their relentless curiosity led them to the frozen, celestial realms, where the raw, unyielding power of the cosmos offered a strength unparalleled in the astral void. These Sages abandoned their ties to the Astral Seers, seeking a new form of mastery in the unrelenting frost of the celestial worlds. Wielding a staff infused with celestial frost, Frostveil Sages blend their background in astral manipulation with the chilling power of otherworldly ice magic. Each strike of their staff and every spell they cast channels the frigid energy of the stars, capable of freezing enemies solid or shattering them with bursts of glacial force. This mastery of celestial frost grants them devastating melee attacks, dynamic area control, and the ability to reshape the battlefield into a frozen wasteland.</p>\n<h3><a href=\"https://www.nexusmods.com/baldursgate3/articles/1234\">Frostveil Sage Progression</a></h3>\n<div>\n<div>\n<p><strong>Frostveil Sage quick tips:</strong></p>\n<ul>\n<li>Start with 15/17 or 16/16 INT/DEX , and up INT over DEX as you are a spell caster </li>\n<li>Frostbite is your main mechanic for dealing extra damage, it does not expire during turns and spells can either accumulate Frostbite additively or consume it for extra damage which scales by level</li>\n<li>You have tons of AC with INT/DEX both being added to AC but can only wear robes. Wearing any armor or shields will remove it. On top of that you have tons of ways with spells to add additional AC, Frost Incarnate every turn, etc... You get to be a true battlemage and cast spells in close proximity. </li>\n<li>At Level 5 Sage can cast a Spell/Cantrip + Melee Attack + Unarmed Attack. Due to this spell damage has been reduced. Whether I reduced it too much, not enough or it's just right will be up to debate. Provide feedback and I plan on playing through the game with it after releasing to test things. It is meant to be balanced for regular difficulties and not difficulty mods.</li>\n<li>This subclass is not a long range nuker, you want something that blows stuff up from distance play Astral Seer or Wizard/Sorcerer. </li>\n<li>You will also find a Longsword in your inventory when starting a new character. Dual wielding is not meant for Sage and single handing weapons or Versatile weapons is what the subclass was designed around.</li>\n<li>This subclass does have a Monk theme but Chillbound Strike will not benefit from items that add to Unarmed damage because it uses it's own custom scaling and additional damage from DEX modifier. You are a caster first and foremost</li>\n</ul>\n</div>\n</div>\n<p> </p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/psionicwarden.1.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h3><strong>Psionic Warden</strong></h3>\n<p>Psionic Wardens are a unique blend of mental fortitude and physical prowess, embodying the perfect balance between warrior and spellcaster. As a specialized subclass of the Mind Weaver, Psionic Wardens channel their psychic energies into their weapons, seamlessly fusing melee combat with psionic power. They excel in devastating their enemies with powerful strikes imbued with psychic energy. Their abilities include telekinetic manipulation, astral shielding, and psionic infusion, enhancing their combat effectiveness and versatility on the battlefield. Psionic Wardens dominate the heat of battle through their unique talents, maintaining control and overwhelming their foes. Their connection to the astral plane allows them to unleash devastating attacks and maneuver with unmatched agility, making them formidable adversaries.</p>\n<h3><a title=\"Psionic Warden progression\" href=\"https://www.nexusmods.com/baldursgate3/articles/1018\" target=\"_blank\" rel=\"noopener noreferrer\">Psionic Warden progression</a></h3>\n<p><strong>Psionic Warden quick tips:</strong></p>\n<ul>\n<li>Start with 17 INT, and up either DEX or CON. Continue prioritizing INT as it benefits this subclass greatly with some DEX for AC</li>\n<li>Your first Cerebral Enhancement should always be Psionic Blade Infusion so you can use INT for your damage and attack rolls</li>\n<li>Also consider getting Mind over Matter to add a portion of your INT modifier to AC</li>\n<li>Warden is not a martial class but rather a close quarters spell caster which projects their spells through their weapon</li>\n<li>A lot of spells will deal damage by swinging a sword while also dealing half damage of the weapon itself. The class was meant to be unique in this way</li>\n<li>You are not a martial class and do not get extra attacks. You gain Psionic Synergy at level 5 which allows casting a spell and making a regular attack after in the same turn.</li>\n<li>Warden also gets a shield and spell reflect, shield will deal damage back and increase AC while spell reflect will reflect damage back to the attacker but also deal damage to you</li>\n<li>Using Mind Surge enhances Wardens spells but will cause Mental Exhaustion which blocks it being used for number of turns. This is used to balance it and not go around for example casting Psionic Devastation to keep enemies stunned.</li>\n</ul>\n<p> </p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/forceblade.1.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h3><strong>Forceblade</strong></h3>\n<p>Forceblades are formidable warriors who combine their exceptional melee combat skills with potent psionic energy. Clad in heavy armor, they wield large greatswords imbued with psychic power, expelling such immense force that the psychic damage fully manifests as force damage. This unique ability allows them to create devastating attacks and shockwaves, obliterating their enemies’ defenses with sheer kinetic power. Forceblades excel in close-quarters combat, using their psionic abilities to enhance their strength, speed, and agility. Their powerful strikes not only deal significant physical and force damage but also shatter their enemies’ bodies and armor, leaving them broken and vulnerable. With their unparalleled blend of martial prowess and psychic might, Forceblades dominate the battlefield with relentless and overwhelming force.</p>\n<h3><a title=\"Forceblade progression\" href=\"https://www.nexusmods.com/baldursgate3/articles/1019\" target=\"_blank\" rel=\"noopener noreferrer\">Forceblade progression</a></h3>\n<p><strong>Forceblade quick tips:</strong></p>\n<ul>\n<li>Start with 17 STR, 15 INT. Get INT to 16-18 eventually and keep prioritizing STR first</li>\n<li>Forceblade is a martial subclass very similar to Paladin but a mage like paladin nonetheless as you have a much better variety of spells and weapon skills</li>\n<li>You have a limited amount of spells and spell slots, however you gain weapon skills which benefit from extra attack, Astral Bladeburst being an example. To keep things balances these weapon skills/spells use spell slots</li>\n<li>The subclass was meant to be a frontliner, it can wear heavy armor and wields a greatsword</li>\n</ul>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/astralseer.1.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h3><strong>Astral Seer</strong></h3>\n<p>Astral Seers are masterful spellcasters who draw upon the vast energies of the astral plane to bend reality to their will. With unparalleled control over psychic power, they can devastate enemies with powerful spells that warp and shatter the fabric of existence. Astral Seers excel in long-range combat, using their ****** acuity to manipulate the battlefield and overwhelm their foes with cosmic force. In addition to their destructive capabilities, they possess the unique ability to mend and buff their allies, enhancing their strength and resilience. However, their immense power comes with a cost, as their psychic enhancements can sometimes cause unforeseen side effects to those they seek to aid. Balancing their formidable offensive and supportive abilities, Astral Seers are both feared and revered on the battlefield, wielding the raw power of the astral plane.</p>\n<h3><a title=\"Astral Seer progression\" href=\"https://www.nexusmods.com/baldursgate3/articles/1020\" target=\"_blank\" rel=\"noopener noreferrer\">Astral Seer progression</a></h3>\n<p><strong>Astral Seer quick tips:</strong></p>\n<ul>\n<li>Start with 17 INT, 14 DEX, 14 CON. Continue prioritizing INT with some DEX/CON as needed</li>\n<li>Astral Seer is a very volatile class as it can cause Astral Anomalies to happen at every turn. Each spell cast has a 5% chance of causing an anomaly to happen</li>\n<li>Astral Anomalies damage everyone or apply buffs to everyone, ally or foe</li>\n<li>Astral Flux passives, which work like Metamagic and certain other features will empower your spells greatly but will apply Astral Instability. Astral instability is a status which on every turn increases Anomalies to occur at 50% chance per stack.</li>\n<li>Anomaly Suppression allows to suppress any Anomalies, those that happen at 5% chance or Astral Flux causing Astral Instability to happen. There are limited charges of it so use them wisely</li>\n<li>You can wreak havoc with your spells or you can heal, or support your allies with spells like Voidfrost Sphere. You can also completely disrupt the enemy with Insanity Prelude</li>\n<li>Seer's Temptation allows you to go even further in order to replenish your Mind Surges at the cost of you going Insane/Mac and attacking your team mates</li>\n<li>At the end of the day and like the description says, this class is unpredictable and made to make the runs be fun</li>\n<li>So, <strong>Tread carefully and embrace the CHAOS</strong></li>\n</ul>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/shadowmind.1.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h3><strong>Void reaver</strong></he>\n<p>th* Void Reaver is a master of dual-wielding and close-quarters spellcasting, harnessing both the ****** powers of the Mind Weavers and the mysterious energies of the void. With twin blades imbued with potent psionic energy, they seamlessly blend melee combat with spellcasting, gaining unique advantages in close combat. Their connection to the void allows them to momentarily slip between dimensions, existing partially within the void itself. This grants them unparalleled mobility, enabling them to evade attacks, reposition with precision, and unleash psionic fury with deadly accuracy. On the battlefield, the Void Reaver is a relentless force, merging intense aggression with the tactical edge of dimensional manipulation, making them a feared and unstoppable presence.</p>\n<h3><a title=\"Void Reaver progression\" href=\"https://www.nexusmods.com/baldursgate3/articles/1021\" target=\"_blank\" rel=\"noopener noreferrer\">Void Reaver progression</a></h3>\n<p><strong>Void Reaver quick tips:</strong></p>\n<ul>\n<li>This is a 100% dual wielding class, you are expected to dual wield weapons. I prefer Longswords but it can be any finesse weapons</li>\n<li>When you start the new character the second Longsword will be in your bag and you start with Dual Wielder feat.</li>\n<li>Reaver's Grace cantrip allows you to apply Finesse to any Longsword and use dexterity this way we can use all Longswords in the game</li>\n<li>As far as stats go this is a DEX/INT class, start with 16/16 INT/DEX. Afterwards get DEX to 18 and after INT to 18 and so on. </li>\n<li>The class relies heavily on its cantrips for damage and at level 5 with Voidweave can cast them for free after executing a Dual Wield Attack.</li>\n<li>All single target Cantrips will proc Dimensional Ambush at lvl 3 (Sneak Attack) and apply either Psychic or Force damage with a custom LevelMap (might need tweaking for damage)</li>\n<li>It is a Third caster like Arcane Trickster so minimal reliance on Spells and maximum reliance on Dual Wield attacks and Cantrips. It is not a Rogue!</li>\n<li>Given its mobility and defensive buffs I chose to have it not even have Light Armor</li>\n<li><strong>IMPORTANT! </strong>Any mods that modify base class dual-wielding will cause one of the main designs of Void Reaver called Voidweave not to work correctly. Disable any dual Wielding mods prior to using this subclass</li>\n</ul>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/aethericstrider.png\" alt=\"\" width=\"180\" height=\"180\"></p>\n<h3><strong>Aetheric Strider<br></strong></h3>\n<p>Aetheric Striders are elusive assassins, masters of both the ethereal and the physical realms. Drawing upon the boundless energy of the aether, they strike from the shadows, combining deadly precision with supernatural agility. Wielding a bow and sword in perfect harmony, they can shift effortlessly between long-range precision and devastating melee strikes. Each arrow loosed from their bow hums with psychic energy, while their sword cleaves with necrotic force, sapping the very life from their foes. Their signature ability allows them to teleport through the aether after every strike, closing the gap to deliver fatal blows or retreating into the shadows to line up their next shot. Aetheric Striders are feared assassins, bending time and space to hunt their quarry, leaving nothing but echoes of death in their wake.</p>\n<h3><a title=\"Aetheric Strider Progression\" href=\"https://www.nexusmods.com/baldursgate3/articles/1182\" target=\"_blank\" rel=\"noopener noreferrer\">Aetheric Strider Progression</a></h3>\n<p><strong>Aetheric Strider quick tips:</strong></p>\n<ul>\n<li>This is a Strength + Int class so you can start with 16/16 STR/INT and go from there.</li>\n<li>Bow will be located in your backpack when you start as Aetheric Strider.</li>\n<li>Arcane Might Infusion will allow using Strength in place of Dexterity for Melee and Ranged weapons like bows</li>\n<li>You can also go Dexterity + Intelligence as 2 cantrips can be cast within the same turn but i Intended it to be Strength first</li>\n<li>Blade and Bow Requiem is the main mechanic of the class. The idea is to always be switching between melee and ranged attacks whether cantrips or weapon as you get extra Damage</li>\n<li>Veilstriders Wrath at Level 5 will allow you to cast Cantrip + Cantrip or Cantrip + Weapon Attack in same turn but you have to start with a Cantrip</li>\n<li>You are expected to single wield a weapon, Greatsword, Longsword, Rapier or otherwise. Dual Wield will take up the bonus action preventing Veilstriders to trigger unless using Dual Wield mods to allow Action Only</li>\n<li>Game itself has bugs applying VFX on weapons and prepare effects on them when selecting Bow spells/attacks while a melee weapon is active and vice versa. You can switch the weapon before using the attack and it wont happen but nothing can be done about it and its a minor issue.</li>\n<li>2 more spells will be added in the future</li>\n<li>This is an initial release so report any bugs or balance issues you may encounter</li>\n</ul>\n<p> </p>\n<h4><strong>Added Infusion addition:</strong></h4>\n<div>\n<ul>\n<li>Removed Arcane Might Infusion and added Aether Infusion which grants using Aether Might or Aether Precision and is automatically gained at Level 1</li>\n<li>Aether Might converts all weapon damage and attack rolls to Strength</li>\n<li>Blade and Bow Requiem scales slightly higher now with 1d4 from lvl 1-4, 1d6 level 5-9 and 1d8 level 10-12</li>\n<li>Aether Precision converts all weapon except Greatclubs, Greataxes, Greatswords, Halberds, Mauls and Pikes to Dexterity for damage and attack rolls. Glaives are also included given there is a Dexterity Glaive and it somewhat fits</li>\n<li>To abalnce out the incosistent damage from Cantrips on Aetheric Strider almost all cantrips have been changed from Melee/Ranged Spell Attacks to Weapon and Ranged attacks while still dealing Necrotic/Psychic damage. This will give a better sense of progression and building the class based on Aether Infusion</li>\n<li>The changed Cantrips include Soulrend, Aetherblade Ruin, Deathveil Siral, Mindpierce Arrow, Psionic Detonation. Mindseeker is excluded and is still a Ranged Spell Attack as it is guaranteed to always hit.</li>\n<li>Deathveil SPiral and Psionic Detonation changed to be usable once per combat as they now deal full Weapon Damage as Necrotic/Osychic to all targets within range</li>\n<li>Cerebral Amplification enhancement has been removed as now the damage is more consistent</li>\n</ul>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/untitled.png\" alt=\"\" width=\"800\" height=\"185\"></p>\n</div>\n<h4><strong>Added Aetheric Strider Necroveil Arrows and new VFX:</strong></h4>\n<div>\n<ul>\n<li>Recreated all Bow spell VFX from Mind Weaver and Arcane Archer without the animations. The Bow Cast, Prepare and Impact VFX turned out amazing</li>\n<li>Changed all Bow Spell and Cantrip Icons to reflect the same theme</li>\n<li>Added Necroveil Arrow Spells and Cantrips</li>\n<li>Necroveil Arrow: Wither - Fire a necrotic arrow that deals Necrotic damage and inflicts Weak Grip. For the next 3 turns, the target's body will wither every turn, taking Psychic damage unless they pass a Constitution saving throw.</li>\n<li>Necroveil Arrow: Spellseal - Fire a necrotic arrow that deals Necrotic damage and Psychic damage. For the next 3 turns, if the target attempts to cast a spell, you may React and fire a bow attack against them. On hit, the spell is Blocked.</li>\n<li>Necroveil Arrow: Sunder - Fire a necrotic arrow that deals Necrotic damage and Psychic damage. For the next 3 turns, if the target makes a weapon attack, you may React, forcing them to miss and fire a bow attack against them. On hit, they are Disarmed.</li>\n<li>Necroveil Arrow: Veilbind - Fire a necrotic arrow that deals Necrotic damage and Psychic damage. For the next 3 turns, if the target moves, you may React and fire a bow attack against them. On hit, the target becomes Restrained until they succeed a Strength Saving Throw.</li>\n<li>Necroveil Arrow: Repulse - Fire a necrotic arrow that deals Necrotic damage and Psychic damage. For the next 3 turns, if the target deals weapon damage to an ally, you may React and fire a bow attack against them. On hit, the target is pushed back 5 meters and knocked Prone.</li>\n<li>Necroveil Arrow: Chainshot - Loose a potent arrow charged with Necroveil energy, striking an enemy target and rebounding within a distance of 10m to up to 4 nearby foes with alternating damage of Necrotic damage or Psychic damage plus your Spellcasting Ability Modifier. Each impact resonates with Necroveil force, leaving enemies reeling from the chain of assaults.</li>\n</ul>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/strider-new.png\" alt=\"\" width=\"800\" height=\"498\"></p>\n</div>\n<h4><strong>Added Frostveil Sage summon Rimeclaw</strong></h4>\n<div>\n<div>Added new summon Rimeclaw which is a covered in ice Artcic Bear with various Frost abilities. It deals low damage, is tanky, freezes ground and inflicts Frostbite with every ability including standard attacks boosting Sage's damage. This summon is meant to be utility based.</div>\n<div> </div>\n<div><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/rimeclaw.png\" alt=\"\" width=\"1000\" height=\"354\"></div>\n</div>\n<h4><strong>Added 3 final spells for Soul Scion</strong></h4>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/scion-new-spells.png\" alt=\"\" width=\"900\" height=\"296\"></p>\n<h4><strong>Added Psionic Echo mechanic for Psionic Warden</strong></h4>\n<div>\n<div>Psionic Warden got a new combo mechanic called Psionic Echo which unlocks Psionic Echo: Arc and Psionic Echo: Ray which can be used as a combo in a single turn. This will enable more interesting gameplay and remove Warden being starved for spell slots and completely reliant on them enhancing more dynamic gameplay.</div>\n</div>\n<ul>\n<li>\n<div>After casting a spell and when Psionic Synergy is applied you will get Psionic Echo which allows the use of Psionic Echo: Arc</div>\n<div> </div>\n</li>\n<li>\n<div>Using Psionic Echo: Arc will unlock Psionic Echo: Ray and apply Psionic Fragment status to the enemy</div>\n</li>\n<li>\n<div>\n<div>When using Psionic Echo: Ray on enemies that have a Psionic Fragment it will also Frighten them for 2 turns in addition to dealing damage. On other targets it just deals the standard damage</div>\n<div> </div>\n<div><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/psionic-echo.png\" alt=\"\" width=\"600\" height=\"444\"></div>\n<div> </div>\n</div>\n</li>\n</ul>\n<h4><strong>Changed Astral Instability for Astral Seer and also renamed it to Astral Chaos</strong></h4>\n<div>\n<ul>\n<li>Astral Chaos will now not block any Astral Flux abilities and it can be stacked Additively</li>\n<li>Astral Eruption will allow clearing all Astral Chaos to 0 once above 3 stacks and will scale the damage with number of stacks</li>\n<li>Chaos Fling is a bonus action Cantrip which also becomes available at 3 stacks of Astral Chaos but does not reduce or remove Astral Chaos</li>\n<li>Added Chaotic Casting reaction which will give you the corresponding spell slot back if you roll Against DC 21 - Astral Chaos stacks at the cost of expending a Mind Surge</li>\n<li>Added Embrace the Chaos which grants double the Astral Chaos based on Mind Surge spent</li>\n</ul>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/seer-chaos.png\" alt=\"\" width=\"600\" height=\"536\"></p>\n<p> </p>\n</div>\n<div>\n<h4><strong>Added Dark Afflictions mechanic for Void Reaver</strong></h4>\n<ul>\n<li>If you are updating an existing save with a character as Void Reaver, you must respec that character into something else and then back to Void Reaver in order to get the correct progression!</li>\n<li>Mindforce Blades will not generate Torment and Corruption if the corresponding weapons hits. Psychic (Maindhand) will give Torment while Force (Offhand) will give Corruption. If both attacks land during a dual wield attack you gain both</li>\n<li>Dark Affliction: Psyche and Dark Affliction: Void passive toggles will allow converting all damage while Mindforce Blades are active to only deal either Psychic or Void damage and generate either Torment or Corruption which each hit allowing to gain the needed Affliction easier when dualwielding attacks miss</li>\n<li>Majority of Cantrips have had Mind Surge effects removed and now inhgerently apply whem with Torment or Corruption active. When the cantrips deal damage they will grant second level of Affliction, Dark Affliction: Delirium from Torment and Dark Affliction: Blight from corruption.</li>\n<li>Once both Delirium and Torment are consumed from successful Cantrip attacks Void Reaver can freely cast Dark Affliction: Awakening which unlocks Abyssal Bolt and Abyssal Discharge which are freecasts and never miss their targets. Only one can be used per Awakening</li>\n<li>Dark Affliction: Awakening can also be used on demand by expending Mind Surge but has high resource costs</li>\n<li>The above mechanics improves the flow of combat and makes it much more engaging.</li>\n<li>Slightly reduced damage on Dimensional Ambush to accomodate for Dark Afflictions being added</li>\n<li>Void Reaver progression was also changed so that the class feels more rewarding in how it gains additional power spikes. You can check the progression changes in the article on Nexus</li>\n</ul>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/dark-afflictions.png\" alt=\"\" width=\"1200\" height=\"680\"></p>\n</div>\n<p> </p>\n<h4><strong>Mind Weaver Addons</strong></h4>\n<ul>\n<li>Mind Weaver Custom Animations <a href=\"https://mod.io/g/baldursgate3/m/mindweaveranimations\">https://mod.io/g/baldursgate3/m/mindweaveranimations</a></li>\n<li>Feat every 1 Levels: <a href=\"https://mod.io/g/baldursgate3/m/mind-weaver-class-feat-every-1-levels\">https://mod.io/g/baldursgate3/m/mind-weaver-class-feat-every-1-levels</a></li>\n<li>Feat Every 2 Levels: <a href=\"https://mod.io/g/baldursgate3/m/mind-weaver-class-feat-every-2-levels\">https://mod.io/g/baldursgate3/m/mind-weaver-class-feat-every-2-levels</a></li>\n<li>Extra Feat at Level 2 <a href=\"https://mod.io/g/baldursgate3/m/mind-weaver-class-extra-feat-at-level-2\">https://mod.io/g/baldursgate3/m/mind-weaver-class-extra-feat-at-level-2</a></li>\n<li>French Translation: <a href=\"https://mod.io/g/baldursgate3/m/mindweaver-tradfr1\">https://mod.io/g/baldursgate3/m/mindweaver-tradfr1</a></li>\n<li>Russian Translation: <a href=\"https://mod.io/g/baldursgate3/m/ru-mindweaver\">https://mod.io/g/baldursgate3/m/ru-mindweaver</a></li>\n<li>Chinese Translation: <a href=\"https://mod.io/g/baldursgate3/m/mindweaver-chs\">https://mod.io/g/baldursgate3/m/mindweaver-chs</a></li>\n</ul>\n<p> </p>\n<p>Some good mods equipment that can synergize with Mind Weaver class is her** <a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment</a> made by GraphicFade, same person that made the current items inside Mind Weaver.</p>\n<p>All credit to GraphicFade for creating Mind Weaver specific items listed below:</p>\n<ul>\n<li>Bracers and Ring are sold by Talli in last light inn</li>\n<li>Boots are sold by Lann Tarv at moonrise tower</li>\n<li>Robe and Amulet are sold by the Hoarding Merregon in the Gauntlet of Shar</li>\n</ul>\n<p> </p>\n<p>Other mods made by me:</p>\n<ul>\n<li><a title=\"Sword Dancers of Eilistraee\" href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee\" target=\"_blank\" rel=\"noopener noreferrer\">Sword Dancers of Eilistraee</a></li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/homebrew-blade-cantrips\" target=\"_blank\" rel=\"noopener noreferrer\">Homebrew Blade Cantrips</a> - Compatible automatically with both Mind Weaver and Sword Dancers of Eilistraee and you need to download the mod separately.</li>\n</ul>\n<p> </p>\n<p> </p>\n<hr>\n<p> </p>",
     "date_added": 1726827970,
-    "date_updated": 1782917291,
+    "date_updated": 1785502120,
     "date_live": 1726833531,
     "visible": 1,
     "status": 1,
@@ -36640,15 +36640,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -36708,19 +36708,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7912685
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7766411
+        "modfile_live": 7912685
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7766411
+        "modfile_live": 7912685
       },
       {
         "platform": "ps5",
-        "modfile_live": 7766411
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7912685
       }
     ]
@@ -41291,7 +41291,7 @@
     "summary": "Addon for Mind Weaver Class mod for feats every 1 levels",
     "description": "",
     "date_added": 1727206197,
-    "date_updated": 1782914467,
+    "date_updated": 1785502074,
     "date_live": 1727206498,
     "visible": 1,
     "status": 1,
@@ -41321,15 +41321,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -41359,19 +41359,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7912573
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7759499
+        "modfile_live": 7912573
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7759499
+        "modfile_live": 7912573
       },
       {
         "platform": "ps5",
-        "modfile_live": 7759499
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7912573
       }
     ]
@@ -41384,7 +41384,7 @@
     "summary": "Addon for Mind Weaver Class mod for feats every 2 levels",
     "description": "",
     "date_added": 1727206255,
-    "date_updated": 1782914502,
+    "date_updated": 1785502052,
     "date_live": 1727206520,
     "visible": 1,
     "status": 1,
@@ -41414,15 +41414,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -41452,19 +41452,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7912578
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7759502
+        "modfile_live": 7912578
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7759502
+        "modfile_live": 7912578
       },
       {
         "platform": "ps5",
-        "modfile_live": 7759502
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7912578
       }
     ]
@@ -60769,7 +60769,7 @@
     "summary": "The most ambitious D&amp;D 5.5e conversion yet: 16 classes, 110 subclasses, 90+ feats, 120+ new/revised spells, 40 backgrounds, 6 new races, and 8 core rule changes — a complete rebuild, still growing with every update.",
     "description": "DnD 5.5e All-in-One BEYOND\n<p><a href=\"https://github.com/Yoonmoonsik/dnd55e\">DnD 5.5e All-in-One BEYOND</a> is a Baldur's Gate 3 mod that packs a broad set of D&amp;D 5.5e-inspired rules, player options, spells, feats, equipment, and class updates into a single all-in-one mod.</p>\n<p>For deeper gameplay notes, class details, spell behavior, item locations, and community-maintained documentation, see the <a href=\"https://github.com/Yoonmoonsik/dnd55e/wiki\">Wiki</a>.</p>\n<p><em>Note: The Wiki is maintained by community contributors and is not officially written or managed by the mod developer. Some information may be incomplete, outdated, or inaccurate.</em></p>\n<h2>Playthrough Videos</h2>\n<p>For gameplay examples, build ideas, and practical references, check the playthrough videos on the <a href=\"https://www.youtube.com/@yoonmoonsik43\">Yoonmoonsik YouTube channel</a> and the dedicated <a href=\"https://www.youtube.com/playlist?list=PLOxzTx3j5VdueKEU6lfAmzKL5KQt0rNhi\">playthrough playlist</a>.</p>\n<h2>Rules and Actions</h2>\n<h3>Basic Rules</h3>\n<ul>\n<li>Bloodied</li>\n<li>Equipping Weapons</li>\n<li>Extra Attack, including War Magic integration</li>\n<li>Heavy Armor Strength Requirement</li>\n<li>Heavy Weapon Ability Requirement</li>\n<li>Hiding</li>\n<li>Hit Point Dice</li>\n<li>Inspiration from Background</li>\n<li>One Spell Slot Spell per Turn</li>\n<li>Prone</li>\n<li>Spell Scroll Usage Limitation</li>\n<li>Weapon Mastery</li>\n</ul>\n<h3>Common Actions</h3>\n<ul>\n<li>Distract</li>\n<li>Dodge</li>\n<li>Hide</li>\n<li>Jump</li>\n<li>Shove</li>\n<li>Topple</li>\n</ul>\n<h2>Character Backgrounds</h2>\n<h3>Player's Handbook</h3>\n<p>Acolyte, Charlatan, Criminal, Entertainer, Farmer, Folk Hero, Guide, Guild Artisan, Haunted One, Hermit, Merchant, Noble, Outlander, Sage, Sailor, Scribe, Soldier, Urchin, Wayfarer.</p>\n<h3>Forgotten Realms: Heroes of Faerun</h3>\n<p>Chondathan Freebooter, Dead Magic Dweller, Dragon Cultist, Emerald Enclave Caretaker, Flaming Fist Mercenary, Genie Touched, Harper, Ice Fisher, Knight of the Gauntlet, Lords' Alliance Vassal, Moonwell Pilgrim, Mulhorandi Tomb Raider, Mythalkeeper, Purple Dragon Squire, Rashemi Wanderer, Shadowmasters Exile, Spellfire Initiate, Zhentarim Mercenary.</p>\n<h2>Classes</h2>\n<ul>\n<li><strong>Artificer</strong> — Alchemist, Armorer, Artillerist, Battle Smith</li>\n<li><strong>Barbarian</strong> — Berserker, Fractured, Giant, Shadow Gnawer, Wild Magic, Wildheart, World Tree, Zealot</li>\n<li><strong>Bard</strong> — Choreography, Dance, Glamour, Lore, Moon, Spirits, Swords, Valor</li>\n<li><strong>Cleric</strong> — Apocalypse, Astral, Death, Forge, Grave, Nature, Shadow, Tempest, Knowledge, Life, Light, Mind, Trickery, Twilight, War</li>\n<li><strong>Druid</strong> — Circle of Dragons, Dreams, Stars, Land, Moon, Sea, Spores, Unbroken</li>\n<li><strong>Fighter</strong> — Arcane Archer, Banneret, Battle Master, Cavalier, Champion, Eldritch Knight, Psi Warrior, Rune Knight, Viking</li>\n<li><strong>Gunslinger</strong> — High Roller, Spellslinger, White Hat</li>\n<li><strong>Illrigger</strong> — Architect of Ruin, Hellspeaker, Painkiller, Sanguine Knight, Shadowmaster</li>\n<li><strong>Monk</strong> — Drunken Master, Elements, Kensei, Mercy, Open Hand, Shadow</li>\n<li><strong>Monster Hunter</strong> — Carver Guild, Devourer Guild, Occultist Guild</li>\n<li><strong>Paladin</strong> — Ancients, Conquest, Crown, Devotion, Glory, Noble Genies, Vengeance, Watchers, Oathbreaker</li>\n<li><strong>Ranger</strong> — Beast Master, Fey Wanderer, Gloom Stalker, Hollow Warden, Hunter, Swarm Keeper, Winter Walker</li>\n<li><strong>Rogue</strong> — Arcane Trickster, Assassin, Blade of Radiance, Scion of the Three, Highway Rider, Soulknife, Swashbuckler, Thief</li>\n<li><strong>Sorcerer</strong> — Aberrant Sorcery, Clockwork Sorcery, Divine Soul, Draconic Sorcery, Frost Sorcery, Heroic Sorcery, Shadow Magic, Spellfire Sorcery, Storm Sorcery, Wild Magic Sorcery</li>\n<li><strong>Warlock</strong> — Archfey, Celestial, Fiend, Great Old One, Hexblade, Undead, expanded Invocations</li>\n<li><strong>Wizard</strong> — Abjurer, Bladesinger, Conjurer, Diviner, Enchanter, Evoker, Illusionist, Necromancer, Transmuter</li>\n<li><strong>Psion</strong> — Coming soon</li>\n</ul>\n<h2>Feats</h2>\n<h3>Fighting Styles</h3>\n<p>Archery, Blind Fighting, Defense, Dueling, Great Weapon Fighting, Interception, Protection, Thrown Weapon Fighting, Two-Weapon Fighting, Unarmed Fighting.</p>\n<h3>Player's Handbook</h3>\n<p><strong>Origin Feats:</strong> Alert, Lucky, Magic Initiate: Cleric, Magic Initiate: Druid, Magic Initiate: Wizard, Musician, Savage Attacker, Skilled, Tavern Brawler, Tough, Healer.</p>\n<p><strong>General Feats:</strong> Actor, Athlete, Charger, Crossbow Expert, Defensive Duelist, Dual Wielder, Dungeon Delver, Durable, Elemental Adept, Great Weapon Master, Heavily Armored, Heavy Armor Master, Lightly Armored, Mage Slayer, Martial Adept, Medium Armor Master, Polearm Master, Resilient, Ritual Caster, Sentinel, Sharpshooter, Shield Master, Speedy, Spell Sniper, War Caster, Weapon Master, Crusher, Fey Touched, Inspiring Leader, Mounted Combatant, Piercer, Poisoner, Shadow Touched, Skill Expert, Skulker, Slasher.</p>\n<h3>Additional Sources</h3>\n<ul>\n<li><strong>Xanathar's Guide to Everything:</strong> Dragon Fear, Dragon Hide, Dwarven Fortitude, Elven Accuracy, Fade Away, Flames of Phlegethos, Infernal Constitution, Orcish Fury, Squat Nimbleness.</li>\n<li><strong>Tasha's Cauldron of Everything:</strong> Eldritch Adept, Fighting Initiate, Metamagic Adept.</li>\n<li><strong>Forgotten Realms: Heroes of Faerun:</strong> Cult of the Dragon Initiate, Emerald Enclave Fledgling, Harper Agent, Lords' Alliance Agent, Purple Dragon Rook, Spellfire Spark, Tyro of the Gauntlet, Zhentarim Ruffian, Cold Caster, Dragonscarred, Enclave Magic, Fairy Trickster, Genie Magic, Harper Teamwork, Lordly Resolve, Mythal Touched, Order's Resilience, Purple Dragon Commandant, Spellfire Adept, Zhentarim Tactics.</li>\n<li><strong>The Lord of The Ring Roleplaying:</strong> Deadly Archery, Dragon-Slayer, Fierce Shot, Gleam of Wrath, Nimbleness.</li>\n</ul>\n<h2>Races and Species</h2>\n<ul>\n<li>Aasimar, Changeling, Goliath, and Kalashtar are available as Human subrace options. Dhampir can be taken as a Human, Elf, Tiefling, Dwarf, Halfling, or Gnome subrace.</li>\n<li>Dragonborn, Dwarf, Elf, Githyanki, Gnome, Half Elf, Halfling, Human, Orc, and Tiefling are supported.</li>\n<li>Several species include ancestry or lineage options, including Dragonborn Draconic Ancestry, Elf and Half Elf sub-lineages, Goliath Giant Ancestry, and Tiefling legacy options.</li>\n</ul>\n<h2>Spells</h2>\n<p>The lists below cover new and revised spells only. The wiki has the complete per-level tables, including spells that are unchanged.</p>\n<h3>Cantrips</h3>\n<p>Acid Splash, Blade Ward, Booming Blade, Bursting Sinew, Finger Guns, Frightful Start, Green-Flame Blade, Hellfire, Holy Word, Mind Sliver, Sorcerous Burst, Spare the Dying, Starry Wisp, Sword Burst, Thunderclap, Toll the Dead, True Strike, Vengeful Blade, Word of Radiance.</p>\n<h3>Leveled Spells</h3>\n<ul>\n<li><strong>Level 1:</strong> Absorb Elements, Armor of Agathys, Ballistic Smite, Body Warping of Gorgoroth, Catapult, Chromatic Orb, Cloak of Shadow, Color Spray, Command, Cure Wounds, False Life, Healing Word, Hell's Lash, Hungering Blade, Spectral Slash, Spellfire Flare, Thorn Armor, Thunderous Smite, Tide of Darkness, Umbral Tendril, Wardaway, Witch Bolt, Wrathful Smite.</li>\n<li><strong>Level 2:</strong> Aganazzar's Scorcher, Arcane Vigor, Darkbolt, Dazing Blast, Death Armor, Dragon's Breath, Elminster's Elusion, Find Steed, Fire Rune, Gust of Wind, Lesser Restoration, Mind Spike, Moonbeam, Prayer of Healing, Rime's Binding Ice, Searing Orb, Shadow Blade, Snilloc's Snowball Swarm, Summon Beast, Tasha's Mind Whip, Warding Bond.</li>\n<li><strong>Level 3:</strong> Ashardalon's Stride, Astral Flood, Aura of Vitality, Bestow Curse, Cacophonic Shield, Conjure Barrage, Crusader's Mantle, Elemental Exhalation, Laeral's Silver Lance, Lightning Arrow, Murmurs of Doom, Phantom Steed, Summon Fey, Tidal Wave, Trollblood Infusion, Void Strike.</li>\n<li><strong>Level 4:</strong> Conjure Woodland Beings, Fire Dance, Fount of Moonlight, Murder of Crows, Spellfire Storm, Vitriolic Sphere.</li>\n<li><strong>Level 5:</strong> Awaken, Circle of Power, Cone of Cold, Dawn, Dream, Enervation, Holy Weapon, Steel Wind Strike, Summon Celestial, Synaptic Static.</li>\n<li><strong>Level 6:</strong> Circle of Death, Disintegrate.</li>\n</ul>\n<h2>Items</h2>\n<h3>Equipment</h3>\n<p>Argument Solver, Blazer of Benevolence, Cap of Curing, Chain of Liberation, Charge-Bound Warhammer, Corrosive Flail, Dragon's Grasp, Enforcer Club, Enforcer Helmet, Enforcer Shield, Gloves of Heroism, Hellrider's Pride, Helmet of Smiting, Holy Avenger, Hoppy, Hunting Shortbow, Moon Sickle, Musket, Musket +1, Musket +2, Pistol, Pistol +1, Pistol +2, Rupturing Blade, Spellthief, The Baneful, The Oak Father's Embrace, The Sacred Star, True Name, Voltedge, Whip, Whip +1, Whip +2, Xyanyde.</p>\n<h3>Spell Scrolls</h3>\n<p>Spell scrolls are restricted to specific classes, with cantrip scrolls and Scrolls of Revivify always exempt.</p>\n<h2>Creatures</h2>\n<ul>\n<li>Bugbear</li>\n<li>Displacer Beast</li>\n<li>Drider</li>\n<li>Ettercap</li>\n<li>Giant Eagle</li>\n<li>Gnoll</li>\n<li>Goblin</li>\n<li>Harpy</li>\n<li>Hobgoblin</li>\n<li>Hook Horror</li>\n<li>Hyena</li>\n<li>Kobold</li>\n<li>Kuo-Toa</li>\n<li>Raven</li>\n<li>Spectator</li>\n<li>Spider</li>\n<li>Wolf</li>\n<li>Worg</li>\n</ul>\n<h2>Credits</h2>\n<ul>\n<li><strong>Japanese Translation:</strong> <a href=\"https://www.nexusmods.com/profile/Eolaloe\">Eolaloe</a></li>\n<li><strong>Spanish / Latin Spanish Translation:</strong> <a href=\"https://github.com/incolhermex-droid\">incolhermex-droid</a></li>\n<li><strong>French Translation:</strong> <a href=\"https://github.com/mcz-xiocku\">CyberBoloss</a></li>\n<li><strong>Brazilian Portuguese Translation:</strong> <a href=\"https://mod.io/u/shadowahjin\">ShadowAhJin</a> (<a href=\"https://github.com/CaioShin93\">CaioShin93</a>)</li>\n<li><strong>Italian Translation:</strong> Alessandro</li>\n<li><strong>Russian Translation:</strong> <a href=\"https://github.com/ANizamutdinov\">ANizamutdinov</a></li>\n<li><strong>Item Models:</strong> <a href=\"https://mod.io/g/baldursgate3/u/skirbie\">skirbie</a> (<a href=\"https://mod.io/g/baldursgate3/m/viper-carbine-steampunk-rifle-gun\">Viper Carbine Steampunk Rifle Gun</a>, <a href=\"https://mod.io/g/baldursgate3/m/hand-cannon-gunslinger-weapon\">Hand Cannon Gunslinger Weapon</a>)</li>\n</ul>\n<h2>Legal</h2>\n<p>DnD 5.5e All-in-One BEYOND is unofficial Fan Content permitted under the <a href=\"https://company.wizards.com/en/legal/fancontentpolicy\">Fan Content Policy</a>. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>",
     "date_added": 1729165055,
-    "date_updated": 1785488667,
+    "date_updated": 1785502182,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -61078,15 +61078,15 @@
     "platforms": [
       {
         "platform": "mac",
-        "modfile_live": 7989186
+        "modfile_live": 8029008
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7989186
+        "modfile_live": 8029008
       },
       {
         "platform": "ps5",
-        "modfile_live": 7989186
+        "modfile_live": 8029008
       },
       {
         "platform": "windows",
@@ -74816,7 +74816,7 @@
     "summary": "Implements Cleric and Domain changes based on PHB2024. Compatible with level 20 mods.",
     "description": "<p>Implements Cleric and its Domain (subclasses) changes based on PHB2024 of DnD. Compatible with level 20 mods. Compatible with Patch 8.</p>\n<p><span style=\"text-decoration:underline;\"><strong>IMPORTANT DISCLAIMER: </strong></span>If you are playing with the Level 20 Mod called ''<strong>Expansion</strong>'' you need to disable the optional class features for Clerics specifically since this mod implements the newest version of those.</p>\n<p> </p>\n<hr>\n<p> </p>\n<h3>Base Cleric Changes:</h3>\n<p><strong>Level 1:</strong></p>\n<ol>\n<li>NEW: Choose a Divine Order: Protector or Thaumaturge.</li>\n<li>Divine Order: Protector gives Proficiency with Martial Weapons and Heavy Armor.</li>\n<li>Divine Order: choose one Cleric cantrip to learn automatically and gain a bonus equal to your Wisdom Modifier to all your Arcana and Religion Skill Checks.</li>\n<li>Base Proficiency is: Simple Weapons, Light Armor, Medium Armor and Shields.</li>\n<li>Removed Proficiency with Morningstars and Flails (because now Proficiency depends on Divine Order chosen).</li>\n<li>Removed Proficiency with Martial Weapons and Heavy Armor from all Subclasses (because now Proficiency depends on Divine Order chosen).</li>\n<li>At EVERY LEVEL OF CLERIC you can choose to replace a learned Cantrip for another.</li>\n</ol>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/divineorderprotector.1.png\" alt=\"\" width=\"400\" height=\"190\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/divineorderthaumaturge.1.png\" alt=\"\" width=\"400\" height=\"251\"></p>\n<p> </p>\n<p><strong>Level 2:</strong></p>\n<ol>\n<li>Now Clerics start at level 2 with 2 Channel Divinity Charges instead of 1.</li>\n<li>Channel Divinity now regains 1 use per Short Rest, and all uses per Long Rest.</li>\n<li>NEW: Channel Divinity: Divine Spark. This new ability let's inflict Radiant or Necrotic damage (you choose) or Heal a target creature (including Undead and Constructs as per the rules).</li>\n<li>The base damage of Divine Spark increases further at levels 7, 12 and 18.</li>\n<li>Updated Turned Status from Turn Undead to the new rules. Now it's stronger: Undead Turned can't use Actions, Bonus Actions or Reactions, have Disadvatange on all Ability Checks and Attack Rolls, are forced to run away from the source of the Turned Status, are considered speechless (similar to Silenced) and cannot Concentrate (breaks Concentration if they were already concentrating). Now this status is also grouped with Incapacitated and Frightened Status groups which may help it interact with things that affect those specific status groups.</li>\n</ol>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/divinespark1.png\" alt=\"\" width=\"400\" height=\"321\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/divinespark2.png\" alt=\"\" width=\"300\" height=\"235\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/divinespark3.png\" alt=\"\" width=\"300\" height=\"237\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/divinespark4.png\" alt=\"\" width=\"300\" height=\"185\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/turnedcondition.png\" alt=\"\" width=\"400\" height=\"335\"></p>\n<p><strong>Level 5:</strong></p>\n<ol>\n<li>Destroy Undead renamed to Sear Undead and updated to the new rules. Now it has the potential to be stronger: instead of a fixed 4d6 Damage, now the damage dice is bigger and the amount of dice scale with your Wisdom Modifier: rolls one d8 dice times your Wisdom Modifier Bonus.</li>\n</ol>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/searundead.png\" alt=\"\" width=\"400\" height=\"222\"></p>\n<p><strong>Level 7:</strong></p>\n<ol>\n<li>NEW: Blessed Strikes feature. Choose between Blessed Strikes: Divine Strike <strong><span style=\"text-decoration:underline;\">OR</span> </strong>Blessed Strikes: Potent Spellcasting.</li>\n<li>Blessed Strikes: Divine Strike functions similar to the old Divine Strike of Clerics (previously unlocked at level 8, +1d8 Radiant Damage to your weapon attacks once-per-turn) but now you can choose at any point between inflicting Radiant or Necrotic Damage (on top it being unlocked one level early and being moved to the base class). Supported modded subclasses' Divine Strikes are automatically compatible with this.</li>\n<li>Blessed Strikes: Potent Spellcasting funcions the same as the old Potent Spellcasting (add your Wisdom Modifier to the damage of your Cleric Cantrips). If you choose this you won't be able to use Divine Strikes, obviously, including those coming from a subclass (you may unlock it but will be unusable).</li>\n<li>These changes enable any Domain/Subclass to go for the flavor of Cleric they want (melee or caster) since now these choices are on the base class instead of the subclass. Because of this, the old Divine Strike has been removed from all base-game Subclasses.</li>\n<li>Additionally, base Divine Spark Damage and Healing now increases to 2d8.</li>\n</ol>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/blessedstrikes1.png\" alt=\"\" width=\"400\" height=\"192\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/blessedstrikes2.png\" alt=\"\" width=\"300\" height=\"215\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/blessedstrikes3.png\" alt=\"\" width=\"300\" height=\"220\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/blessedstrikes4.png\" alt=\"\" width=\"400\" height=\"193\"></p>\n<p><strong>Level 10 (since version 3.5):</strong></p>\n<ol>\n<li>Divine Intervention was completely redesigned in PHB2024: Usable<strong> Once per Long Rest</strong>, Divine Intervention now is a toggleable passive that when enabled infuses you with Divine Power. While infused with this Divine Power (meaning, while the passive is toggled on) you gain access to a new temporary ability called <strong>Invoke Divine Intervention</strong>. This ability is split into 5 versions of itself (Invoke Divine Intervention: Spell Level 1, 2, 3, 4 and 5), each <strong>containing within itself ALL Cleric Spells in the game up to Spell Level 5</strong> giving you access to any Cleric Spell up to level Spell Level 5 without needing to prepare it beforehand (excluding special Domain Spells that are not normally in the Cleric Spell List because of technical limitations).</li>\n<li>You can use cast one spell from this Divine Intervention spell list without expending a spell slot, after which the Divine Power fades until you take a Long Rest.</li>\n<li>Because the old Divine Intervention has been replaced by this, there won't be a way to access <a href=\"https://bg3.wiki/wiki/Devotee%27s_Mace\">Devotee's Mace</a> anymore. For this reason, I've created another small mod that makes it buyable from a vendor in Act 3: <a href=\"https://mod.io/g/baldursgate3/m/devotees-mace-vendor\">Devotee's Mace Vendor mod</a></li>\n</ol>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/divineintervention2.png\" alt=\"\" width=\"600\" height=\"282\"></p>\n<p> </p>\n<p><strong>Level 12:</strong></p>\n<ol>\n<li>NEW: Improved Blessed Strikes feature. This upgrades the Blessed Strikes feature you selected at level 7.</li>\n<li>Divine Strikes now do +2d8 of additional damage.</li>\n<li>Potent Spellcasting becomes Improved Potent Spellcasting. This feature let's cast for free a new ability called Blessed Vitality each time you damage an enemy with a Cleric Cantrip. Blessed Vitality let's you grant a target Temporary Hit Points equal to twice your Wisdom Modifier.</li>\n<li>Additionally, base Divine Spark Damage and Healing now increases to 3d8.</li>\n</ol>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/blessedstrikes5.png\" alt=\"\" width=\"400\" height=\"264\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/blessedstrikes6.png\" alt=\"\" width=\"400\" height=\"221\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/blessedvitality.png\" alt=\"\" width=\"300\" height=\"164\"></p>\n<p><strong>Level 20:</strong></p>\n<ul>\n<li><strong>Greater Divine Intervention</strong>: adds the Wish spell to the list of available spells to use with Divine Intervention. This requires the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14429\">Advanced Tabletop Spells</a> mod from NexusMods installed to activate (if you don't have this mod you will just miss this feature but everything else will work still).</li>\n</ul>\n<h3>Subclasses (Domains) Changes:</h3>\n<p><strong>Life Domain:</strong></p>\n<ul>\n<li>No changes except for a slightly updated Domain Spells List:</li>\n<li>Level 1: Cure Wounds + Bless (no changes)</li>\n<li>Level 3: Aid + Lesser Restoration (no changes)</li>\n<li>Level 5: Mass Healing Word + Revivify (Mass Healing Word in place of Beacon of Hope)</li>\n<li>Level 7: Guardian of Faith + Death Ward (no changes)</li>\n<li>Level 9: Mass Cure Wounds + Greater Restoration (no changes)</li>\n</ul>\n<p><strong>Light Domain:</strong></p>\n<ul>\n<li>New resource: Warding Flare Charges. This resource is used to cast Warding Flare or Warding Flare: Ally. This scales with your Wisdom Modifier and restores on a Long Rest.</li>\n<li>Renamed Improved Warding Flare to Warding Flare: Ally and moved it to Level 3 down from Level 6.</li>\n<li>At level 6: NEW Improved Warding Flare: Warding Flare Charges now restore on Short Rest or Long Rest. Whenever you use Warding Flare to protect yourself or an ally, you can cast for free the new ability Warding Flare: Health Boost. This ability let's you grant an ally Temporary Hit Points equal to 2d6+your Wisdom Modifier. This ability can work on Undead and Constructs too.</li>\n<li>Slightly updated the Domain Spells List:</li>\n<li>Level 1: Burning Hands + Faerie Fire (no changes)</li>\n<li>Level 3: Scorching Ray + See Invisibility (See Invisibility in place of Flaming Sphere)</li>\n<li>Level 5: Daylight + Fireball (no changes)</li>\n<li>Level 7: Guardian of Faith + Wall of Fire (no changes)</li>\n<li>Level 9: Destructive Wave + Flame Strike (no changes)</li>\n</ul>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/lightdomain5.1.png\" alt=\"\" width=\"400\" height=\"194\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/lightdomain4.png\" alt=\"\" width=\"400\" height=\"259\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/lightdomain3.1.png\" alt=\"\" width=\"400\" height=\"260\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/lightdomain1.1.png\" alt=\"\" width=\"400\" height=\"248\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/lightdomain2.1.png\" alt=\"\" width=\"400\" height=\"261\"></p>\n<p><strong>Trickery Domain:</strong></p>\n<ul>\n<li>Invoke Duplicity has been changed considerably in the PHB2024, but these changes have already been perfectly done by a fellow modder, <a href=\"https://www.nexusmods.com/baldursgate3/users/89809\">wesslen</a>, you can find his mod here (it is compatible with this mod, load it after mine): <a href=\"https://www.nexusmods.com/baldursgate3/mods/5311\">UA6 Invoke Duplicity</a></li>\n<li>Updated Domain Spells List:</li>\n<li>Level 1: Charm Person + Disguise Self (no changes)</li>\n<li>Level 3: Invisibility + Pass Without Trace (Invisibility in place of Mirror Image)</li>\n<li>Level 5: Hypnotic Pattern + Blink (both take the place of Bestow Curse and Fear)</li>\n<li>Level 7: Confusion + Dimension Door (no changes)</li>\n<li>Level 9: Dominate Person + Seeming (no changes)</li>\n</ul>\n<p><strong>War Domain:</strong></p>\n<ul>\n<li>Number of War Priest Bonus Attack Charges now scales with your Wisdom Modifier and restore on Short Rest on top of Long Rest.</li>\n<li>War Domain Clerics now can use their Bonus Attack without needing to do a normal attack first, as per the Rules in PHB2024. This takes the form of new abilities granted automatically to War Domain Clerics that are Melee/Ranged/Unarmed Attack that cost a Bonus Action+War Priest Charge to use.</li>\n<li>War God's Blessing at level 6 (boost an ally's attack roll) has been reworked into something different: War God's Blessing: Divine Casting let's you expend a Channel Divinity charge to cast a unique version of Shield of Faith or Spiritual Weapon that doesn't cost a spell slot, doesn't require Concentration and can be used at the same as the regular versions of the spell (for example, you can have 2 Spiritual Weapons out at the same time by casting the regular spell and then casting this unique version).</li>\n<li>Avatar of Battle (level 17 unlock, requires level 20 mods to reach) has been buffed to it gives Resistance to ALL Piercing, Slashing and Bludgeoning Damage, magical and non-magical.</li>\n<li>Updated Domain Spells List:</li>\n<li>Level 1: Guiding Bolt + Shield of Faith (Guiding Bolt in place of Divine Favour)</li>\n<li>Level 3: Magic Weapon + Spiritual Weapon (no changes)</li>\n<li>Level 5: Spirit Guardians + Crusader's Mantle (no changes)</li>\n<li>Level 7: Fire Shield + Freedom of Movement (Fire Shield in place of Stoneskin)</li>\n<li>Level 9: Flame Strike + Hold Monster (no changes)</li>\n</ul>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/wardomain5.png\" alt=\"\" width=\"400\" height=\"167\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/wardomain6.png\" alt=\"\" width=\"300\" height=\"237\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/wardomain7.png\" alt=\"\" width=\"300\" height=\"226\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/wardomain8.png\" alt=\"\" width=\"300\" height=\"200\"></p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/wardomain1.png\" alt=\"\" width=\"350\" height=\"348\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/wardomain2.1.png\" alt=\"\" width=\"300\" height=\"187\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/wardomain3.png\" alt=\"\" width=\"300\" height=\"218\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/wardomain4.png\" alt=\"\" width=\"400\" height=\"170\"></p>\n<p> </p>\n<p><strong>Knowledge Domain:</strong></p>\n<ul>\n<li>At level 3, Knowledge of the Ages has been replaced with the new feature Mind Magic. Mind Magic allows you to expend one charge of your Channel Divinity to make your next cast of Knowledge Domain Cleric spell not expend a spell slot.</li>\n<li>At level 6, Read Thoughts has been reworked. As the original PHB2024 feature cannot be implemented in the game, the following changes have been made to Read Thoughts in the spirit of the original feature: now Read Thoughts grants both Detect Thoughts and Speak with Animals statuses at no cost, but requires Concentration to mantain and can only be used Once-Per-Short-Rest.</li>\n<li>At level 17, the new feature Divine Foreknowledge has been added. Divine Foreknowledge grants you Advantage on <strong>ALL </strong>d20 checks/rolls your <strong>own </strong>character makes.</li>\n<li>Updated Spell List:</li>\n<li>Level 1: Command + Charm Person</li>\n<li>Level 3: Detect Thoughts + Calm Emotions</li>\n<li>Level 5: Counterspell + Speak With Dead</li>\n<li>Level 7: Confusion + Banishment</li>\n<li>Level 9: Dispel Evil and Good + Dominate Person</li>\n</ul>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/knowledgedomain1.png\" alt=\"\" width=\"400\" height=\"253\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/knowledgedomain2.png\" alt=\"\" width=\"400\" height=\"300\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/knowledgedomain3.png\" alt=\"\" width=\"400\" height=\"328\"></p>\n<p><img src=\"https://image.modcdn.io/mods/4d16/4473697/knowledgedomain4.png\" alt=\"\" width=\"400\" height=\"190\"></p>\n<p> </p>\n<p><strong>Tempest and Nature Domains:</strong></p>\n<ul>\n<li>These Domains are not included in the PHB2024. Thus they are left unmodified, EXCEPT for removing their Heavy Armour/Martial Weapons Proficiencies because now Cleric's extra Proficiencies depend upon the new Divine Order chosen at level 1. Note: if you pick Blessed Strikes: Potent Spellcasting then you will lose access to the Divine Strike of your subclass (you will unlock it at level 8 but it will be unusable), this is intended of course as you are supposed to only have Divine Strikes or Potent Spellcasting, not both.</li>\n</ul>\n<p> </p>\n<h3>Compatibility and Load Order</h3>\n<p>This mod is compatible with the level 20 mods Expansion and UnlockLevelCurve. Load this mod after those, and after all other cleric mods. The <a href=\"https://www.nexusmods.com/baldursgate3/mods/13701\">NexusMods version of this mod</a> has more features and Compatibility Patches for better integration with many modded subclasses, but I can't add such files here on mod.io.</p>\n<p>An optional recommendation: if you don't have any mod that already does it, you should get my mods <a href=\"https://mod.io/g/baldursgate3/m/warden-of-vitality-for-druids-and-clerics\">Warden of Vitality for Clerics</a> and <a href=\"https://mod.io/g/baldursgate3/m/improved-warden-of-vitality\">Improved Warden of Vitality</a> so you can use that spell on Clerics too as per PHB2024.</p>\n<p>Remember to disable Expansion mod's optional features for Cleric specifically if you use that mod.</p>\n<p>I also highly recommend <a href=\"https://www.nexusmods.com/baldursgate3/mods/5248\">UA8 Healing Buffs mod</a> for better balance of healing spells.</p>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
     "date_added": 1731150734,
-    "date_updated": 1782454829,
+    "date_updated": 1785502833,
     "date_live": 1731205040,
     "visible": 1,
     "status": 1,
@@ -74846,15 +74846,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -74904,19 +74904,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7890861
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7549726
+        "modfile_live": 7890861
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7549726
+        "modfile_live": 7890861
       },
       {
         "platform": "ps5",
-        "modfile_live": 7549726
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7890861
       }
     ]
@@ -107890,7 +107890,7 @@
     "summary": "This addon for Mind Weaver Class takes advantage of the custom animations for spells from subclasses like Arcane Archer, 4 Elements Monk, Levitation, etc... and adds them to specific Mind Weaver subclasses.",
     "description": "<p>Currently Aetheric Strider bow spell animations are available and will use a custom VFX version and animations from Arcane Archer, Shadowmind has Shadow Monk animations and Frostveil Sage has 4 Elements Monk body animations for spells with its own specific Frost VFX.</p>\n<p> </p>\n<p><strong>Note: </strong>Due to Gnome race having some strange asset loading the ANimations within this mod will not work for the Gnome race with the listed subclasses but work with every other race.</p>\n<p> </p>\n<h2>WARNING!!!! Changing animations like this will not be compatible with any other mods that edit animations tied to classes or races so use only one!!!</h2>",
     "date_added": 1744985306,
-    "date_updated": 1782986743,
+    "date_updated": 1785502097,
     "date_live": 1745003209,
     "visible": 1,
     "status": 1,
@@ -107920,15 +107920,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -108033,19 +108033,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7916026
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7718803
+        "modfile_live": 7916026
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7718803
+        "modfile_live": 7916026
       },
       {
         "platform": "ps5",
-        "modfile_live": 7718803
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7916026
       }
     ]
@@ -117535,7 +117535,7 @@
     "summary": "A lightning based longsword + the Warden armor set. Gives you access to 3 lightning spells and 1 aura.",
     "description": "<p>A paladin longsword + armor set with 3 spells and 1 toggleable aura</p>\n<p>works for all bodytype, but bt2 has a more unique appearance</p>\n<p><strong>Update 1.0.0.12</strong><br>added a new skill onto the sword (Radiant Bolt Strike)</p>\n<p> <br>Commissioned by OrioneXV<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Paladin Longsword mesh by Efarys: https://skfb.ly/6TtHO<br>licensed under Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/). <br>Mesh and textures modified.</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1747935809,
-    "date_updated": 1782907896,
+    "date_updated": 1785502745,
     "date_live": 1747936153,
     "visible": 1,
     "status": 1,
@@ -117565,15 +117565,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -117698,19 +117698,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7912342
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7579548
+        "modfile_live": 7912342
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7579548
+        "modfile_live": 7912342
       },
       {
         "platform": "ps5",
-        "modfile_live": 7579548
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7912342
       }
     ]
@@ -125721,7 +125721,7 @@
     "summary": "Complete Eternal Queen set, including a queen's body and an experimental 'physics'",
     "description": "<p>Become the eternal queen with this set<br>the dress includes an option for the 'queen' body, additionally there's a queen body with physics option<br>Fully dyeable<br>supports bodytype 1,2,3,4, githyanki 1,2</p>\n<p><strong>Update 1.0.0.9</strong><br>Added a progressive AC and spell roll/DC passive.</p>\n<p><strong>Update 1.0.0.7<br></strong>Added vanilla bodytype 1 version and added support for githyanki bodytype 2</p>\n<p><strong>Update 1.0.0.6<br></strong>Added the queen's hammer, support for bodytype 2 and 4, a circlet and circlet + heels in the camp shoes slot<strong><br></strong></p>\n<p>The experimental physics is pretty subtle, but it's there:</p>\n<p></p><video controls width=\"600\" height=\"300\">\n<source src=\"https://i.imgur.com/zua6V8m.mp4\" type=\"video/mp4\"></source></video><br>physics work during photo mode when you're moving the character around<br>it also warps some part of the body, so if the physics' not too noticeable for your use case, it's best to just use the non-physics version if the warp is distracting\n<p> </p>\n<p>Commissioned for Morgana Evelyn</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Eternal Queen Dress + Hammer model by RyanReos<br>High Heel Feet model by ReallyLazyIcarus<br>Meshes and textures have been modified</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1751021268,
-    "date_updated": 1782664685,
+    "date_updated": 1785502808,
     "date_live": 1751023015,
     "visible": 1,
     "status": 1,
@@ -125751,15 +125751,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -125859,19 +125859,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7900919
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6884788
+        "modfile_live": 7900919
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6884788
+        "modfile_live": 7900919
       },
       {
         "platform": "ps5",
-        "modfile_live": 6884788
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7900919
       }
     ]
@@ -132434,7 +132434,7 @@
     "summary": "Speak with Dead has no question limit, can communicate with its killer, and even burned corpses can respond.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/speakwithdeadunlimited_base.png\" alt=\"Speak with Dead Unlimited Mod\" width=\"300\" height=\"200\"></p>\n<p style=\"color:#ffa500;\">By SwissFred</p>\n<p style=\"color:#ffa500;\"><strong>Speak with Dead Unlimited</strong></p>\n<ul style=\"color:#ffa500;\">\n<li>No question limit – ask as many times as you want. Great if you missed an answer.</li>\n<li>Corpses will answer questions, including from their killer.</li>\n<li>Burned, dissolved in acid, or unrecognizable corpses will also respond.</li>\n</ul>\n<p style=\"color:#ffa500;\"><strong>Installation:</strong><br>Install and enable the mod.<br><br><strong>How to use:</strong><br>Unlock spell Speak with Dead, or use an item that enables it.<br>Mod will then enhance the spell.</p>\n<p style=\"color:#ffa500;\"><strong>Uninstallation:</strong><br>Save, exit, and remove the mod.<br><br><strong>Most corpses</strong> have nothing to say — this is a game feature.</p>\n<p style=\"color:#ffa500;\">Select Your Statuses has Speak with Dead Unlimited built in<br><a style=\"color:#ffa500;\" href=\"https://mod.io/g/baldursgate3/m/select-your-statuses#description\"> Select Your Statuses (Individual) for Baldur's Gate 3 - mod.io </a></p>",
     "date_added": 1753711398,
-    "date_updated": 1782039017,
+    "date_updated": 1785502849,
     "date_live": 1753712562,
     "visible": 1,
     "status": 1,
@@ -132464,15 +132464,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -132517,19 +132517,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7873733
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7684351
+        "modfile_live": 7873733
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7684351
+        "modfile_live": 7873733
       },
       {
         "platform": "ps5",
-        "modfile_live": 7684351
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7873733
       }
     ]
@@ -137296,7 +137296,7 @@
     "summary": "This mod extends the Oath of the Watcher mode featured in Tasha's Cauldron of Everything by BigGreenMako up to level 20 and modifies it to function in Patch 8.",
     "description": "<h2>This mod was created by <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/3634\" rel=\"nofollow\">BigGreenMako (Original mod Link)</a></strong></h2>\n<p> </p>\n<blockquote>\n<h3>If you wish to use it up to level 20, you must first download and install this mod.</h3>\n<h3>20레벨까지 쓰고자 할 경우, 반드시 이 모드를 먼저 다운받아 설치하세요</h3>\n<h3><strong><a href=\"https://mod.io/g/baldursgate3/m/unlocklevelcurve#description\" target=\"_blank\" rel=\"noopener noreferrer\">Unlock Level Curve</a></strong></h3>\n</blockquote>\n<p> </p>\n<p>This mod extends the Oath of the Watcher mod featured in Tasha's Cauldron of Everything by <span style=\"font-size:medium;\"><a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a></span> up to level 20 and modifies it to function in Patch 8.</p>\n<p><span style=\"font-size:medium;\">The Oath of the Watchers mod created by <a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a> is a Paladin subclass mod with excellent quality and polish.<br>However, the original mod was only developed up to level 12, and with updates discontinued, it no longer runs on Patch 8 and has been left abandoned.<br><br>Since I believe it would be a shame for such a high-quality mod to be forgotten, I have updated and re-uploaded it with the following changes:</span><br><br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote><span style=\"font-size:x-large;\"><strong>Changes</strong></span><br><br>\n<ul>\n<li><span style=\"font-size:medium;\">Fixed to work on <strong>Patch 8</strong></span></li>\n</ul>\n<span style=\"font-size:medium;\"><br></span>\n<ul>\n<li><span style=\"font-size:medium;\">Added a <strong>Subclass Icon</strong> (remade from the original icon)</span></li>\n</ul>\n<span style=\"font-size:medium;\"><br></span>\n<ul>\n<li><span style=\"font-size:medium;\">A more detailed account of the Tenets of the Watchers. (<strong><a href=\"https://dnd5e.wikidot.com/paladin:watchers\" rel=\"nofollow\">Source</a></strong>)</span></li>\n</ul>\n<span style=\"font-size:medium;\"><br></span>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>Expanded to level 20</strong></span></li>\n</ul>\n<span style=\"font-size:medium;\">Level 15 Skill <strong>Vigilant Rebuke</strong> / Level 20 Skill <strong>Mortal Bulwark</strong> <strong>added</strong><br><br></span>\n<ul>\n<li>Changed the Oath dialogue tag from the Oath of Ancient  to 1 of 6 options (Devotion, Ancient , Vengeance, Crown, Oathbreaker, and Paladin dialogue tag not added)</li>\n</ul>\n<span style=\"font-size:medium;\"><br></span>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>Level 7 – Aura of the Sentinel adjusted</strong></span>\n<ul>\n<li><span style=\"font-size:medium;\">Converted into a toggleable ability (On/Off)</span></li>\n<li>\n<p>Add-on file (requires separate installation) - Increases aura range from 3m to 6m at level 7<a href=\"https://mod.io/g/baldursgate3/m/oath-of-the-watchers-add-on-increase-aura-to-6#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong> (link)</strong></a></p>\n</li>\n</ul>\n</li>\n</ul>\n</blockquote>\n</figure>\n<p><span style=\"font-size:medium;\"><br></span><strong><span style=\"font-size:large;\">For more detailed explanations of the subclass skills,<a href=\"https://www.nexusmods.com/baldursgate3/articles/1518\" rel=\"nofollow\"> please refer to the related post in the Articles section.</a></span></strong></p>\n<p><span style=\"font-size:large;\"><br></span><br><br><span style=\"font-size:x-large;\"><strong>한국어 번역 파일은 이 모드 자체에 포함되어 있습니다.</strong><br></span><br><br><span style=\"font-size:medium;\"><a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a></span>가 만든 타샤의 만물 가마솥에 수록된 감시자의 맹세 모드를 20레벨까지 확장하고 패치8에서 작동할 수 있게 수정한 모드입니다.<br><span style=\"font-size:medium;\"><a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a>가 만든 Oath of the Watchers 모드는 훌륭한 완성도를 자랑하는 팔라딘 서브클래스 모드지만, </span><br><span style=\"font-size:medium;\">현재 원본 모드는 12레벨까지 제작되어 있고 업데이트가 중단된 채 패치 8에서 실행되지 않고 방치된 상황입니다. </span><br><br><span style=\"font-size:medium;\">저는 이런 좋은 퀄리티의 모드가 잊혀지는 게 안타깝다고 생각해서 이 모드를 다음과 같이 수정해서 업로드합니다.</span><br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote><span style=\"font-size:x-large;\"><strong>수정 내용</strong></span><br><br>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>패치 8에서 실행되게 수정.</strong></span></li>\n</ul>\n<span style=\"font-size:medium;\"><br></span>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>서브클래스 아이콘 제작</strong> (기존 아이콘 리메이크함)</span></li>\n</ul>\n<span style=\"font-size:medium;\"><br></span>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>감시자의 맹세 계명</strong> 내용을 더 자세히 작성함. (<a href=\"https://dnd5e.wikidot.com/paladin:watchers\" rel=\"nofollow\">출처</a>)</span></li>\n</ul>\n<span style=\"font-size:medium;\"><br></span>\n<ul>\n<li><span style=\"font-size:medium;\"><strong>레벨 20까지 확장</strong></span></li>\n</ul>\n<span style=\"font-size:medium;\">- 15레벨 스킬 <strong>경계의 응징</strong>,  20레벨 스킬 <strong>필멸 세계의 보루 추가</strong><br><br></span>\n<ul>\n<li>맹세 대화 태그를 선조의 맹세에서 <strong>6가지 선택지 (헌신, 선조, 복수, 왕관, 맹세파기자, 팔라딘 대화 태그 추가 안하는 선택지) 중 1개를 택하는 방식</strong>으로 변경</li>\n</ul>\n<span style=\"font-size:medium;\"><br></span>\n<ul>\n<li><span style=\"font-size:medium;\">7레벨 – <strong>파수꾼의 맹세 오라를 다음과 같이 수정했습니다.</strong></span>\n<ul>\n<li><span style=\"font-size:medium;\">스킬을 </span><strong>토글 키로 켜고 끄는 방식으로 변경</strong></li>\n<li>애드온 파일 (별도 설치 필요)- 7레벨에서 오라 범위를 3m -&gt;6m로 증가<a href=\"https://mod.io/g/baldursgate3/m/oath-of-the-watchers-add-on-increase-aura-to-6#description\" target=\"_blank\" rel=\"noopener noreferrer\"> <strong>(링크)</strong></a></li>\n</ul>\n</li>\n</ul>\n</blockquote>\n</figure>\n<p><strong><br><span style=\"font-size:large;\"><br>더 자세한 서브 모드 설명은 <a href=\"https://www.nexusmods.com/baldursgate3/articles/1538\" target=\"_blank\" rel=\"noopener noreferrer\">다음 게시물을 참조하세요.</a></span></strong></p>",
     "date_added": 1757420410,
-    "date_updated": 1785256872,
+    "date_updated": 1785502907,
     "date_live": 1760015349,
     "visible": 1,
     "status": 1,
@@ -137326,15 +137326,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -137384,19 +137384,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8028059
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7692506
+        "modfile_live": 8028059
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7692506
+        "modfile_live": 8028059
       },
       {
         "platform": "ps5",
-        "modfile_live": 7692506
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8028059
       }
     ]
@@ -138772,7 +138772,7 @@
     "summary": "Aurora head. She has both normal and cat eyes, plus long and normal lashes. For ALL body type. For ALL races.",
     "description": "<h2>Aurora Head Mod - Final Update.</h2>\n<p style=\"font-size:0.95rem;\"><em>“Her eyes hold the quiet light of the northern sky.”</em></p>\n<hr>\n<p><strong>About</strong></p>\n<p>This is <strong>Aurora</strong>. This head has support for <strong>all races</strong> and <strong>all body types</strong>.</p>\n<ul>\n<li>Most heads include both <strong>regular</strong> and <strong>cat-eye</strong> versions.</li>\n<li>Features the option for longer lashes and normal lashes.</li>\n</ul>\n<p>I wanted Aurora’s look to capture the quiet strength and beauty of <em>Michelle Pfeiffer in Ladyhawke</em> — maybe I should have named her <em>Isabeau d'Anjou</em>.</p>\n<p>My plan is to expand Aurora to include all races and strong body types over time; this will take a while.</p>\n<p>If you like this head, please consider sharing screenshots of your Tavs — I love seeing what others create.</p>\n<hr>",
     "date_added": 1758427389,
-    "date_updated": 1783505699,
+    "date_updated": 1785502784,
     "date_live": 1758427593,
     "visible": 1,
     "status": 1,
@@ -138802,15 +138802,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -138910,19 +138910,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7940831
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7029412
+        "modfile_live": 7940831
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7029412
+        "modfile_live": 7940831
       },
       {
         "platform": "ps5",
-        "modfile_live": 7029412
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7940831
       }
     ]
@@ -139186,7 +139186,7 @@
     "summary": "This mod is an extension and update of BigGreenMako's \"Oath of Glory\" mod, originally based on the 2024 Player's Handbook. It expands the subclass progression up to level 20 and ensures full compatibility with Patch 8.",
     "description": "<h2>This mod was created by <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/3413\">BigGreenMako (Original mod Link)</a></strong></h2>\n<p> </p>\n<blockquote>\n<h3>If you wish to use it up to level 20, you must first download and install this mod.</h3>\n<h3>20레벨까지 쓰고자 할 경우, 반드시 이 모드를 먼저 다운받아 설치하세요</h3>\n<h3><strong><a href=\"https://mod.io/g/baldursgate3/m/unlocklevelcurve#description\" target=\"_blank\" rel=\"noopener noreferrer\">Unlock Level Curve</a></strong></h3>\n</blockquote>\n<p> </p>\n<p>This mod extends the Oath of Glory mod featured in PHB2024 by <a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a> up to level 20 and modifies it to function in Patch 8.</p>\n<p>The Oath of Glory mod created by <a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a> is a Paladin subclass mod with excellent quality and polish.<br>However, the original mod was only developed up to level 12, and with updates discontinued, it no longer runs on Patch 8 and has been left abandoned.<br><br>Since I believe it would be a shame for such a high-quality mod to be forgotten, I have updated and re-uploaded it with the following changes:<br><br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote><strong>Changes</strong><br><br>\n<ul>\n<li>Fixed to work on <strong>Patch 8</strong></li>\n</ul>\n<br>\n<ul>\n<li>Added a <strong>Subclass Icon</strong> (remade from the original icon)</li>\n</ul>\n<br>\n<ul>\n<li>A more detailed account of the Tenets of the Watchers. (<strong><a href=\"https://dnd5e.wikidot.com/paladin:glory\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></strong>)</li>\n</ul>\n<br>\n<ul>\n<li><strong>Expanded to level 20</strong></li>\n</ul>\n- Oath of Glory Creates the Level 15 and 20 skills: Glorious defense*, Living legend<br>*  (example of Additional Features to Be Implemented Later)<br>- Add level 13, 17 Oath spells:<br><em>Level 13: confusion*, Freedom Of Movement (* Replaced with another 4th-level spell in place of the original Compulsion.)<br>Level 17: Legend Lore, Yolande's Regal Presence  (* These spells are included in this mod itself.)</em><br><br>\n<ul>\n<li>Changed the Oath dialogue tag from the Oath of Devotion  to 1 of 6 options (Devotion, Ancient , Vengeance, Crown, Oathbreaker, and Paladin dialogue tag not added)</li>\n</ul>\n<br>\n<ul>\n<li><strong>Level 7 – Aura of Alacrity adjusted</strong></li>\n</ul>\n- Converted into a toggleable ability (On/Off)</blockquote>\n<blockquote>- Creating an addon file that increases the range of Aura of Alacrity at Level 6 to 6m.<a href=\"https://mod.io/g/baldursgate3/m/oathof-glory-add-on-increase-aura-to-6#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong> (Link)</strong></a></blockquote>\n</figure>\n<p><br><strong>For more detailed explanations of the subclass skills,  <a href=\"https://www.nexusmods.com/baldursgate3/articles/1562\" target=\"_blank\" rel=\"noopener noreferrer\">please refer to the related post in the Articles section.</a><br></strong></p>\n<p><br><br><br><strong>한국어 번역 파일은 이 모드 자체에 포함되어 있습니다.</strong><br><br><br><a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a>가 만든 PHB2024에 수록된 영광의 맹세 모드를 20레벨까지 확장하고 패치 8에서 작동할 수 있게 수정한 모드입니다.<br><a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a>가 만든 Oath of Glory 모드는 훌륭한 완성도를 자랑하는 팔라딘 서브클래스 모드지만, <br>현재 원본 모드는 12레벨까지 제작되어 있고 업데이트가 중단된 채 패치 8에서 실행되지 않고 방치된 상황입니다. <br><br>저는 이런 좋은 퀄리티의 모드가 잊혀지는 게 안타깝다고 생각해서 이 모드를 다음과 같이 수정해서 업로드합니다.<br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote><strong>수정 내용</strong><br><br>\n<ul>\n<li><strong>패치 8에서 실행되게 수정.</strong></li>\n</ul>\n<br>\n<ul>\n<li><strong>서브클래스 아이콘 제작</strong> (기존 아이콘 리메이크함)</li>\n</ul>\n<br>\n<ul>\n<li><strong>영의 맹세 계명</strong> 내용을 더 자세히 작성함. (<a href=\"https://dnd5e.wikidot.com/paladin:glory\" target=\"_blank\" rel=\"noopener noreferrer\">출처</a>)</li>\n</ul>\n<br>\n<ul>\n<li><strong>레벨 20까지 확장</strong></li>\n</ul>\n- 영광의 맹세 15, 20레벨 스킬인 영광스러운 방어* (추가 기능 추후 구현 예정), 살아 있는 전설 제작<br>- 13, 17레벨 맹세 주문 추가:<br><em>13레벨: 혼란*, 자유 이동 (* 원본의 <a href=\"https://dnd5e.wikidot.com/spell:compulsion\" rel=\"nofollow\">Compulsion</a>을 대신하는 다른 4레벨 주문으로 대체했습니다.)<br>17레벨: 전승 지식*, 욜란데의 위풍당당한 존재감 (* 이 주문들은 이 모드에 자체적으로 포함되어 있습니다.)</em><br><br>\n<ul>\n<li>맹세 대화 태그를 헌신의 맹세에서 <strong>6가지 선택지 (헌신, 선조, 복수, 왕관, 맹세파기자, 팔라딘 대화 태그 추가 안하는 선택지) 중 1개를 택하는 방식</strong>으로 변경</li>\n</ul>\n<br>\n<ul>\n<li>7레벨 – 기민함의<strong> 오라를 다음과 같이 수정했습니다.</strong></li>\n</ul>\n- 스킬을 <strong>토글 키로 켜고 끄는 방식으로 변경</strong></blockquote>\n<blockquote>- 6레벨의 Aura of Alacrity 범위를 6m로 늘려주는 애드온 파일 제작 <a href=\"https://mod.io/g/baldursgate3/m/oathof-glory-add-on-increase-aura-to-6#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>(링크)</strong></a></blockquote>\n</figure>\n<p><strong><br><br><a href=\"https://www.nexusmods.com/baldursgate3/articles/1563\" target=\"_blank\" rel=\"noopener noreferrer\">더 자세한 서브 모드 설명은 다음 게시글을 참고하세요.</a><br></strong></p>",
     "date_added": 1759736226,
-    "date_updated": 1785258939,
+    "date_updated": 1785502892,
     "date_live": 1759751559,
     "visible": 1,
     "status": 1,
@@ -139216,15 +139216,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -139279,19 +139279,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8028194
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7758834
+        "modfile_live": 8028194
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7758834
+        "modfile_live": 8028194
       },
       {
         "platform": "ps5",
-        "modfile_live": 7758834
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8028194
       }
     ]
