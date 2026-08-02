@@ -107225,12 +107225,12 @@
   {
     "id": 4875463,
     "game_id": 6715,
-    "name": "Druid Circle Of Wildfire",
+    "name": "Circle Of Wildfire",
     "name_id": "circle-of-wildfire",
     "summary": "Circle of Wildfire druid subclass from 5E Tasha's Cauldron of Everything",
     "description": "<blockquote>\n<p>\"Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbours both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.\"</p>\n</blockquote>\n<p>This mod is my take on bringing the Circle of Wildfire druid subclass from 5E Tasha's Cauldron of Everything into Baldur's Gate 3, acting almost entirely with rules as written.</p>\n<h3>CIRCLE OF WILDFIRE SPELLS</h3>\n<p>Once you gain access to these additional spells, you always have them prepared, and they do not count against the number of spells you can prepare each day:</p>\n<ul>\n<li>Level 2 - Burning Hands, Cure Wounds</li>\n<li>Level 3 - Flaming Sphere, Scorching Ray</li>\n<li>Level 5 - Plant Growth, Revivify</li>\n<li>Level 7 - Fire Shield</li>\n<li>Level 9 - Flame Strike, Mass Cure Wounds</li>\n</ul>\n<h3>SUMMON WILDFIRE SPIRIT</h3>\n<p>At level 2, you can summon the primal spirit bound to your soul by expending an action and one use of your Wild Shape feature, rather than assuming a beast form. The spirit takes the appearance of a flaming bird, and its HP is reflective of your druid level. The spirit has the following special actions:</p>\n<ul>\n<li><strong>Flame Seed</strong> - A ranged weapon attack against one target for 1d6 + PB fire damage.</li>\n<li><strong>Fiery Teleportation</strong> - The spirit and one willing creature of your choice within 5 feet of it teleport to an unoccupied space within range. Then each creature within 5 feet of the space that the spirit left must succeed on a Dexterity saving throw against your spell save DC or take 1d6 + PB fire damage.</li>\n</ul>\n<h3>ENHANCED BOND</h3>\n<p>At level 6, whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, you gain a bonus of 1d8 to your damage or healing roll of the spell.</p>\n<h3>CAUTERIZING FLAMES</h3>\n<p>At level 10, you gain the ability to explode a corpse into either fire damage for enemies or healing for allies, equal to 2d10 + your Wisdom modifier. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses after a long rest.</p>\n<h3>BLAZING REVIVAL</h3>\n<p>At level 12, if you are reduced to 0 hit points with your wildfire spirit summoned, you automatically regain half your hit points and immediately rise to your feet. You can use this feature once per long rest.</p>\n<p> </p>\n<hr>\n<p>KNOWN RARE BUG AND HOW TO FIX IT: If your wildfire spirit randomly loses its abilities on the hotbar - first try unsummoning then taking a long rest. If that doesn't work, you need to manually add them back to the hotbar by pressing L on your keyboard, or whatever the controller equivalent is.</p>",
     "date_added": 1744851683,
-    "date_updated": 1779899861,
+    "date_updated": 1785689581,
     "date_live": 1744852059,
     "visible": 1,
     "status": 1,
@@ -107244,15 +107244,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/94a9/33661686/crop_100x100/tepkunseticon.png"
     },
     "modfile": {
-      "id": 6281090,
+      "id": 8048895,
       "mod_id": 4875463,
-      "version": "1.0.0.7",
-      "filename": "circleofwildfire_2d821b14-cc99-0eud.zip",
-      "changelog": null,
-      "date_added": 1744851691,
+      "version": "1.0.0.8",
+      "filename": "circleofwildfire_2d821b14-cc99-cvep.zip",
+      "changelog": "Bug fix for cauterizing flame charges, and added Death Ward at level 7",
+      "date_added": 1785689525,
       "date_updated": 0,
-      "date_scanned": 1744851698,
-      "filesize": 1575042,
+      "date_scanned": 1785689529,
+      "filesize": 1575070,
       "platforms": [
         {
           "platform": "windows",
@@ -107260,15 +107260,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -107308,10 +107308,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6281090
-      },
-      {
         "platform": "mac",
         "modfile_live": 6281090
       },
@@ -107322,6 +107318,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6281090
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8048895
       }
     ]
   },
