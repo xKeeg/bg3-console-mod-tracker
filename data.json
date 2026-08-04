@@ -126236,12 +126236,12 @@
   {
     "id": 5057667,
     "game_id": 6715,
-    "name": "Unyielding Radiance ~READ DESC BEFORE UPDATING~",
+    "name": "Vestments of Unyielding Radiance",
     "name_id": "vestments-of-unyielding-radiance",
     "summary": "Adds a powerful radiant-themed gear set designed for divine warriors. Includes custom armor, weapon, and accessories with unique effects, auras, and synergy built around radiant damage and control.",
     "description": "<h2>Before installing or updating, please read!</h2>\n<p>There are some issues happening with the in-game mod manager that are causing this mod's PAK file to fail to update itself, resulting in a duplicate PAK being added to the mods folder. I believe it was due to some annoying custom virtual texture issues that I have since removed from the mod. This is a pretty simple fix for Windows users, but if you are on console there could be issues (Most reports I'm getting are from Xbox users). Below I will post the steps users should take <strong>PRIOR TO UPGRADING</strong>, a fix for Windows users, as well as uninstall instructions if you're having issues.</p>\n<blockquote>\n<p><strong>PLEASE NOTE: </strong>Uninstalling the mod mid-playthrough should work for Windows users. However, Larian does not allow console mods to be disabled during an active campaign. So I just want to make sure console players are aware that you will not be able to load your save without the mod if you choose to install it.</p>\n</blockquote>\n<p>Special thanks to Ariefel from Ember's Lute (and other amazing music mods) for giving me information to understand what's going on.</p>\n<hr>\n<h3>Do this before updating to avoid issues:</h3>\n<p>I believe just updating without doing it using the steps below causes issues and potential issues loading save files. Once you've done this, though, you shouldn't have to do so again.</p>\n<ol>\n<li>Disable the mod</li>\n<li>Restart the game</li>\n<li>Update the mod</li>\n<li>Restart the game (this one's probably not necessary, but I added it just to be safe)</li>\n<li>Re-enable the mod</li>\n<li>Load your save</li>\n</ol>\n<p>I'm sorry for those who are having issues. I updated the title so hopefully users will see it before clicking the blue arrow to update the mod.</p>\n<hr>\n<h3>If you're a Windows user having issues</h3>\n<ol>\n<li>Complete the steps detailed in the section above.</li>\n<li>If those steps don't work, navigate to C:\\Users\\&lt;your username&gt;\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods</li>\n<li>Look for a duplicate version of the PAK file</li>\n<li>Delete that version (you can delete both if you wish (being logged into mod.io should automatically redownload the correct version when you're back in the game)</li>\n</ol>\n<p>This should fix any issues and it should work from now on.</p>\n<hr>\n<h3>Uninstall Instructions</h3>\n<p><strong>IF YOU ARE ON WINDOWS:</strong></p>\n<p>You should be able to just disable the mod and be fine, however if that gives you issues try this:</p>\n<ol>\n<li>Make sure <a href=\"https://github.com/LaughingLeader/BG3ModManager/releases\">BG3MM</a> (Baldur's Gate 3 Mod Manager) and <a href=\"https://github.com/Norbyte/bg3se\">Script Extender</a> are installed</li>\n<li>Head to nexus and download <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n<li>Drag the Mod Uninstaller (and any requirements or dependencies) into your load order</li>\n<li>Choose \"Save Load Order to File\" followed by \"Export Order to Game\"</li>\n<li>Launch BG3 and load up your save</li>\n<li>Open up Mod Configuration Menu (required to use the uninstaller) and click on Mod Uninstaller in the left sidebar</li>\n<li>Choose my mod in the list and uninstall it.</li>\n<li>Save your game and then exit to main menu</li>\n<li>Go into your in-game mod manager</li>\n<li>Disable my mod, then unsubscribe</li>\n</ol>\n<p><strong>IF YOU ARE ON CONSOLE:</strong></p>\n<p>Unfortunately there is not much you can do. As I mentioned above, even if you could successfully uninstall the mod, you would not be able to load your save.</p>\n<p>I've been doing a lot of research to see if there's a way around it and Jay Dunna has a video that can potentially work for you - <a href=\"https://www.youtube.com/watch?v=q6AUFZMM_Qg\">https://www.youtube.com/watch?v=q6AUFZMM_Qg</a></p>\n<hr>\n<h2>About the Mod</h2>\n<p>This mod adds a full legendary radiant-themed gear set designed for divine warriors, spellcasters, and champions of the light. Every item features powerful radiant synergy, custom passives, and unique abilities — all built to make you feel like a living conduit of divine power.</p>\n<hr>\n<h4>The Story:</h4>\n<blockquote>\n<p>They were more than warriors. She, a brilliant cleric known as <em>Lightpiercer</em>, and he, a steadfast paladin named <em>Dawnwarden</em>. Together, they were radiant — a symbol of love defying the darkness of the Blood War.</p>\n<p>But their bond was shattered by a devil’s deception. Their souls were bound into a sword and shield, their power dormant, their vow unfulfilled.</p>\n<p>An ancient order called the <strong>Bondsworn</strong> took up their cause. They recovered the sword and shield and forged relics of radiant power to protect them, hoping one day to reawaken the light.</p>\n<p>Now that order is gone. But their trail remains.</p>\n<p>Many years later, a trio of adventurers tried and failed to follow that trail, leaving clues on how to continue the quest.</p>\n<p>Will you pick up where they left off?</p>\n</blockquote>\n<p><strong>PLEASE NOTE: </strong>This is not a quest mod. You will not receive objectives. You must find the relics yourself, guided only by the Bondsworn’s notes and your own intuition. For those who enjoy uncovering secrets and piecing together stories buried in the world — this is for you. Also, the scavenger hunt starts when you first get off the nautiloid, so using it on a new playthrough is the best experience (if you want to do the story/scavenger hunt)</p>\n<hr>\n<h3><strong>Recommendations:</strong></h3>\n<ul>\n<li><strong>Want to skip the hunt?</strong> Use a mod like <em>Tutorial Chest Summoning</em> to grab all relics immediately.</li>\n<li><strong>Want a challenge?</strong> This set is powerful. For a more balanced experience, use <em>Combat Extender</em> or another difficulty-scaling mod.</li>\n<li><strong>For the best experience</strong>: explore Act 1 naturally and let the lore guide you. The story was written to reward curiosity and attention to detail.</li>\n</ul>\n<hr>\n<h3>Known Issues:</h3>\n<ul>\n<li>There are upgrade/install issues happening. Read the intro to this post for details.</li>\n<li>There is some super minor clipping issues for BT1, but it is barely noticeable and the alternative pieces lose the look and feel I'm going for. Someday I will learn the 3D modeling aspect and fix this.</li>\n<li>The lighting effect from the sword is working functionally, but the visuals aren't working for me</li>\n<li>The Greatsword does not have a cool glowing sword model like the longsword does. Unfortunately I am too inexperienced currently to figure out how to incorporate that into the model (the model already existed in-game for the longsword), but as I learn I will revisit the mod when I figure it out.</li>\n<li>I know the item set is super unbalanced. I'm trying to think of things that I can make more balanced without taking away from the fun of the set. Open to suggestions :)</li>\n</ul>\n<hr>\n<h3>Special Thanks</h3>\n<ul>\n<li>Members of the BG3 modders community on Discord (JuuM, EvilSnake, XiphiasRex and Rydiak especially for this one)</li>\n</ul>\n<h3>As always, feel fr** to make recommendations or hit me up with bugs you're experiencing! ENJOY!</h3>\n<hr>\n<h3>Item Locations</h3>\n<p>========================================</p>\n<p>Many people are struggling to find items so, by request:</p>\n<p>THIS SECTION WILL TELL YOU WHERE EVERYTHING IS.<br>IF YOU DON'T WANT SPOILERS, DO NOT KEEP SCROLLING!</p>\n<p>Thank You! :)</p>\n<p>========================================</p>\n<ol>\n<li><strong>Longsword </strong>- In some rocks close to where you crash land after the nautiloid</li>\n<li><strong>Crown </strong>- Tollhouse with the Paladins of Tyr</li>\n<li><strong>Boots </strong>- Hidden stash outside owlbear cave</li>\n<li><strong>The Bondsworn Ledger</strong> - Pickpocketable off of auntie ethel while she's still in the grove. If you don't do that, you can loot it off of her. I also added it to her workshop after the fight for all that choose not to kill her for... hairy reasons.</li>\n<li><strong>Gloves </strong>- Corpse hidden near the magic mirror that leads to the Necromancy of Thay</li>\n<li><strong>Ring (Callous Coruscation)</strong> - Myconid Colony reward room (behind the vines)</li>\n<li><strong>Cloak </strong>- Myconid Colony reward room (behind the vines)</li>\n<li><strong>Amulet </strong>- On a dark justiciar body near the area that you can convince the deep rothe to destroy the rocks for you</li>\n<li><strong>Armor </strong>- On a corpse in a cell near the entrance of the creche</li>\n<li><strong>Shield </strong>- Outside of the cell where you find the armor</li>\n<li><strong>Ring (bondsworn)</strong> - In a chest above the stained glass room in Rosymorn monastery</li>\n</ol>",
     "date_added": 1751340578,
-    "date_updated": 1778757521,
+    "date_updated": 1785810616,
     "date_live": 1751341239,
     "visible": 1,
     "status": 1,
@@ -126255,15 +126255,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/b3bd/46121555/crop_100x100/img_6001.jpeg"
     },
     "modfile": {
-      "id": 7661184,
+      "id": 8054949,
       "mod_id": 5057667,
-      "version": "1.0.0.30",
-      "filename": "unyieldingradiance_e4fd9872-e4-5j87.zip",
-      "changelog": "This will likely be the last patch I release for all platforms:\n- Ensured all the proper textures are being used\n- Removed a few stray files from older versions that could cause issues\n- Groomed the equipment data to fix any issues I might've missed in previous versions and/or textures that might not be loading properly.",
-      "date_added": 1776874761,
+      "version": "1.0.0.31",
+      "filename": "unyieldingradiance_e4fd9872-e4-54ll.zip",
+      "changelog": "- Fixed a mistake where the shoulderpads and kneepads were visible on the camp outfit\n- Fixed the chest armor model for female dragonborn",
+      "date_added": 1785810470,
       "date_updated": 0,
-      "date_scanned": 1776875332,
-      "filesize": 28022432,
+      "date_scanned": 1785810554,
+      "filesize": 28023854,
       "platforms": [
         {
           "platform": "windows",
@@ -126271,15 +126271,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -126389,10 +126389,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7661184
-      },
-      {
         "platform": "mac",
         "modfile_live": 7661184
       },
@@ -126403,6 +126399,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7661184
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8054949
       }
     ]
   },
@@ -140929,7 +140929,7 @@
     "summary": "All of my fun things, together! (Makes life easier for console users)",
     "description": "<p>A collection of my more fun, less-invasive mods! Compiled in one package for console users to help with that annoying 100-mod cap.<br><br>Any mods in this pack that have any actual effect on gameplay can be turned off, or must be manually turned on.<br>There are four ways I give you control:<br>- Some require you to drink a potion to activate.<br>- Items such as the Book of Plagues and Bone Sculptor Tome affect you by simply being in your inventory.<br>- Passives that can be toggled on or off.<br>- Functions that appear only in camp (general tab).<br><br>includes:<br>* <a href=\"https://mod.io/g/baldursgate3/m/auto-spawn-items#description\">Gabe's Bag of Holding</a> (a dependency for most of my mods, built into this one)<br>-- Note: Activating the Enemy Leveling function in camp will improve Enemy Loot Randomizer results!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/critical-mockery#description\">Critical Mockery</a> (mock enemies when you score a critical hit)<br>-- Note: This is an interrupt. Disable to turn mockery off. Does not affect the spell.<br>-- To disable: turn off associated interrupt<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/enemy-loot-randomizer#description\">Enemy Loot Randomizer</a> (randomizes enemy loot and vendor stock. Functions can be toggled on/off mid-game)<br>-- Note: Vendor++ is on by default. Amounts and value of loot/stock increase with enemy/player level.<br>-- To disable: turn off associated passives<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-bg3-mystic-forge#description\">The BG3 Mystic Forge</a> (gamble your junk for a chance at something epic!)<br>-- Note: Put 4 items in the pouch. Close pouch. Good luck!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/treasuregoblins#description\">Treasure Goblins</a> (yep, just like diablo)<br>-- To disable: turn off associated passive<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabesmod-combat-ai-and-optional-cooldown-reset#description\">Gabe's Mod</a> (combat AI for companions and summons)<br>-- Note: Use the Default option for AI if you are unsure what to choose.<br>-- To disable: turn off associated passives<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-dragonborn-and-draconic-sorcery#description\">Gabe's Dragonborn</a> (ever wish Draconic Ancestry was available for other classes?)<br>-- Note: If you do not wish to use this, simply select None on the CC screen.<br>-- Compatible with <a href=\"https://mod.io/g/baldursgate3/m/ezuneos-draconic-body-scales#description\">Ezuneo's Draconic Body Scales</a> and <a href=\"https://mod.io/g/baldursgate3/m/gem-draconic-ancestries#description\">Gem Draconic ancestries</a><br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-bone-sculptor#description\">The Bone Sculptor</a> (an undead crafting mod)<br>-- Note: Recipes are <a href=\"https://docs.google.com/document/d/1FFg-wSUT0NTm0EdpKEonDf0WTiytfpY7KiEfsG3RLOo/edit?tab=t.0\">HERE</a> (console users, use your phone/tablet) or may be found by reading the Scrawlings (3 total)<br>-- To disable: drop the tome<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-pets#description\">Gabe's Pets</a> (various pet-type summons I put in a mod. Some cute, some not. Has Pocket dragons!)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-restless-dead#description\">The Restless Dead</a> (the dead may come back to life to attempt to get revenge)<br>-- Note: The Horn of the Dead will awaken the dead and must be activated manually.<br>-- To disable: turn on Let the Dead rest (passive)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/explosives#description\">Explosives!</a> (just what you think it is, a mod specifically about things that explode)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-plague#description\">The Plague</a> (diseases based off of real-world diseases. Utilizes poison damage)<br>-- Notes: the spells for this mod are distributed differently. If the character that drank the potion has the book in their inventory and reads it, the goblin will not return. Spells in this mod are NOT given to you all at once! There is a progressive unlock mechanism, so you only get one to start with. One of the vendors in the Fungus camp in the Underdark sells a purple Noblestalk that unlocks all the spells, if you want to go that route.<br>-- To disable: kill the goblin, loot and read the book, do not use spells.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/anyone-can-be-a-vendor#description\">Any Summon Can be a Vendor</a> (make any summon a vendor)<br>-- To use: Apply to a summon using Vendor Policies and Procedures or summon the Mimic Vendor. Open Merchant Abilities, use the three functions in order.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/dwarf-tossing#description\">Dwarf Tossing!</a> (Dwarves you can throw, and a throwin' kitty)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-darts#description\">Gabe's Darts and Daggers</a><br>-- Note: Requires a vendor from Any Summon Can be a Vendor OR the Mimic vendor from that mod.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/feat-barbaric-brawler#description\">Feat: Barbaric Brawler</a> (a pair of feats that allows Barbarians to fight unarmed at almost Monk-like levels)<br>-- Fun Pack version is NOT tied to Barbarian-only and should work with any class.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/underpants-gnomes#description\">Underpants Gnomes</a> (yep, they exist)<br>-- To disable: turn off associated passive<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/death-penalties#description\">Death Penalties</a><br>-- Note: This has to be activated manually in camp, so is completely optional. Exp loss is available in 5% increments.<br>-- To disable: turn off functions from camp<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/it-follows-weeping-angels#description\">It Follows (Weeping Angels)</a><br>-- This is very important... do not pick up the Strange Gem if you do not want this mod enabled.<br>-- To disable: drop the Strange gem<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/arachnaphobia#description\">Arachnophobia</a><br>-- This is toggled OFF by default and must be turned on after every rest!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/chaos-magic#description\">Chaos Magic!</a><br>-- To use: use the spell<br>-- To avoid using: do not use the spell</p>",
     "date_added": 1761386002,
-    "date_updated": 1785806719,
+    "date_updated": 1785807760,
     "date_live": 1761388652,
     "visible": 1,
     "status": 1,
@@ -140943,15 +140943,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
     },
     "modfile": {
-      "id": 8004214,
+      "id": 8054758,
       "mod_id": 5312062,
-      "version": "1.0.0.494",
-      "filename": "gabesfunpack_fb149320-e537-4d2-edmn.zip",
-      "changelog": "* Minor adjustment to randomizer code, no negative effect on current games",
-      "date_added": 1784784656,
+      "version": "1.0.0.496",
+      "filename": "gabesfunpack_fb149320-e537-4d2-6m0a.zip",
+      "changelog": "* Items deleted by the randomizer should now be limited to the same items that were intended to be added. This means no items that were placed in an inventory should be removed unless I was the one placing them.",
+      "date_added": 1785806485,
       "date_updated": 0,
-      "date_scanned": 1784784941,
-      "filesize": 19435975,
+      "date_scanned": 1785806522,
+      "filesize": 19435982,
       "platforms": [
         {
           "platform": "windows",
@@ -140959,15 +140959,15 @@
         },
         {
           "platform": "mac",
-          "status": 3
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 3
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 3
+          "status": 0
         }
       ]
     },
@@ -141035,7 +141035,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8004214
+        "modfile_live": 8054758
       }
     ]
   },
