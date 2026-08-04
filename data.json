@@ -82827,7 +82827,7 @@
     "summary": "The unofficial community bug fix mod - Over 1600 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1785559649,
+    "date_updated": 1785884595,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -82841,15 +82841,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8043038,
+      "id": 8058319,
       "mod_id": 4561805,
-      "version": "4.6.13.2",
-      "filename": "itembugfix_010e73d5-9342-e528-bmkp.zip",
-      "changelog": "- Amulet of Windrider 'Ride the Winds' no longer incorrectly inherits extra descriptions from Enlarge (Duergar)\n- Mortal Reminder no longer incorrectly triggers on critical hits against non-creatures\n- Circle of Bones 'Animate Dead' no longer incorrectly summons a Newborn Zombie\n- 'Divine Smite On Critical Hit' description and extra description no longer incorrectly displays the added fiend/undead damage\n- Minor tweak to Perform change\n-- Now correctly changes music when switching songs mid-performance\n-- Being threatened by an enemy will again disrupt the performance\n-- Simply being attacked will again not disrupt the performance unless damage is dealt",
-      "date_added": 1785559552,
+      "version": "4.6.14.1",
+      "filename": "itembugfix_010e73d5-9342-e528-c736.zip",
+      "changelog": "- Aura of Courage, Aura of Protection, Branding Smite, Blinding Smite, Compelled Duel, Crusader's Mantle, Divine Favour, Divine Sense, Divine Smite, Eternal Devotion, Soul Branding, Thunderous Smite, Warden of Vitality, and Wrathful Smite will now correctly display a subclass specific root vfx underneath Oath of the Crown paladins when being prepared for use, and will no longer reuse Oath of Devotion's sound effects for smite spells\n- Divine Smite upcast to level 3 no longer incorrectly plays two sound effects at the same time\n- Searing Smite no longer incorrectly plays two sound effects at the same time\n- Skybreaker 'Searing Smite' no longer incorrectly consumes a level 1 spell slot on hit, and will now correctly display a vfx underneath non-paladin characters when being prepared for use\n- Azer 'Searing Smite' no longer incorrectly uses paladin animations\n- Legacy of Avernus: Branding Smite no longer incorrectly uses Paladin class root vfxs\n- Improved Elemental Casting tooltip now correctly links to 'Embrace of the Inferno', the passive now remains visible in the passive list, and the unused increases to Blade of Rime, Fangs of the Fire Snake, and Sphere of Elemental Balance are now implemented\n- Martial Arts: Unarmed Strike condition no longer spams the combat log when gained multiple times in a row, such as when using Embrace of the Inferno\n- Sanctuary no longer reuses the Bless prepare effect, and instead displays the cleric's deity vfx\n- Steel Watcher Titan 'Hellfire Curse' now correctly cannot be used on a target already affected by it\n- Bloodmarrow Skeleton 'Blood Skeleton Slam' now correctly states on its tooltip that it applies 2 turns of Bleeding\n- Additional Brazilian Portuguese localization fixes\n- Code improvements",
+      "date_added": 1785884552,
       "date_updated": 0,
-      "date_scanned": 1785559560,
-      "filesize": 1763558,
+      "date_scanned": 1785884569,
+      "filesize": 1822925,
       "platforms": [
         {
           "platform": "windows",
@@ -82963,7 +82963,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8043038
+        "modfile_live": 8058319
       }
     ]
   },
