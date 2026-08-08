@@ -46365,6 +46365,114 @@
     ]
   },
   {
+    "id": 4375405,
+    "game_id": 6715,
+    "name": "GabesMod (Combat AI and Optional Cooldown Reset)",
+    "name_id": "gabesmod-combat-ai-and-optional-cooldown-reset",
+    "summary": "AI for companions/summons that only activates in combat. Simple, easy to use. Uses the smart version of Larian base game AI.",
+    "description": "<p>This mod is a general mod for my personal additions to the game that have no real place in any of my other mods. The primary function, though, is to automate Companions and Summons for those of us that find micromanagement tedious.<br><br><strong>The AI functionality:</strong><br>* The main Gabes Mod does NOT change NPC AI. The main mod uses Larian AI, or whatever additional AI package you chose to download. <br>- <a href=\"https://mod.io/g/baldursgate3/m/gabes-mod-ai-addon\">Gabes Mod (AI Addon)</a> changes very few AI options and, if used with other AI mods, should be loaded LAST.<br>- The addon does make AI a bit more brutal. I cannot promise perfection, but I have personally observed more NPC coordination and a higher focus on \"soft\" targets.<br><br>* The main Gabes Mod is an <span style=\"color:#ffff00;\">applicator only</span>. This simply adds passives to Companions and Summons that auto-activates when combat begins. This prevents issues with dialogue, equipping or changing gear, etc. It uses Larian AI, though custom AI files (such as my AI Addon or Combat Extender (CX AI file)) will work just fine with my mod.<br><br>* There are multiple AI Archetypes. None of these are custom, or customizable, which means they are stable.<br>- <span style=\"color:#00ff00;\">Melee</span><br>- <span style=\"color:#00ff00;\">Caster</span> (offense, defense, and healing)<br>- <span style=\"color:#00ff00;\">Rogue</span><br>- <span style=\"color:#00ff00;\">Ranged</span> (more Ranger-focused than Caster)<br>- <span style=\"color:#00ff00;\">Monk</span><br>- <span style=\"color:#00ff00;\">Four Elements</span> (Monk, but the AI also considers melee magical abilities as well)<br>- <span style=\"color:#00ff00;\">Default</span> (uses whatever the AI coded into the Companion or Summon file uses, recommended for most cases)<br><br>* It also has a toggled passive that creates a <span style=\"color:#ffff00;\">20m AoE Default AI</span> for any allied summoned creatures. This is VERY useful for those of you using summon-heavy builds or mods. <a href=\"https://mod.io/g/baldursgate3/m/the-bone-sculptor\">Bone Sculptor</a> was designed specifically to take advantage of this functionality.<br><br><strong>Additional functions:</strong><br>* I have added a few other functions to this mod because I personally wanted them. They are all toggled passives:<br>- <span style=\"color:#ffff00;\">Resource Reset</span> <span style=\"color:#00ffff;\">(Default ON)</span>: this resets all base-game resources (and some used by the <a href=\"https://mod.io/g/baldursgate3/m/artificer-for-home-brew-comprehensive-reworks\">Artificer</a> mod) after combat ends. The purpose is to make Long Rests optional for story, etc, and not a mandatory hassle.<br>- <span style=\"color:#ffff00;\">Ability Mirroring</span>: this allows enemies to learn spells cast on them and potentially use those spells against YOU.<br>- <span style=\"color:#ffff00;\">Helldusk Nightmares</span>: this gives any non-boss enemies in a 20M radius a 1% chance to turn into YOU, but with some of the best gear in the game and double their normal health. These CANNOT be looted (no freebie Helldusk, sorry).<br>- <span style=\"color:#ffff00;\">Mimics:</span> This gives any enemies in a 20m radius a 1% chance to become YOU. Your look, your gear, your attitude. These CAN be looted, though you shouldn't be getting duplicates of your armor from these.<br><br>** If using the Random Loot mod, load mine AFTER Random Loot **<br><strong>** I HIGHLY recommend you also download <a href=\"https://mod.io/g/baldursgate3/m/hurrdurr\">Hurr Durr</a> and my <a href=\"https://mod.io/g/baldursgate3/m/gabes-mod-ai-addon\">AI Addon</a> **<br></strong>* Hurr Durr gives you a free Action Point (maximum of 1 per cycle) if your AI gets stuck and fails.<strong><br></strong></p>",
+    "date_added": 1727791667,
+    "date_updated": 1762251294,
+    "date_live": 1727791881,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/gabesmod-combat-ai-and-optional-cooldown-reset",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 6815330,
+      "mod_id": 4375405,
+      "version": "1.0.0.93",
+      "filename": "gabesmod_e5efdc09-6cc4-2b68-7a-cnoy.zip",
+      "changelog": "* Mimics will now copy the name of the character they are mimicking.\n* Resource Reset cannot be use at the same time as the Resource Reset from the Random Spawn Generator (in most cases).",
+      "date_added": 1759314221,
+      "date_updated": 0,
+      "date_scanned": 1759314971,
+      "filesize": 17991104,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/6d60/4375405/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/6d60/4375405/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/6d60/4375405/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/6d60/4375405/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6815330
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6815330
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6815330
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6815330
+      }
+    ]
+  },
+  {
     "id": 4375557,
     "game_id": 6715,
     "name": "Durge's mangled head - Dark Urge Dragonborn CC",
@@ -50692,6 +50800,124 @@
       {
         "platform": "ps5",
         "modfile_live": 5632723
+      }
+    ]
+  },
+  {
+    "id": 4384198,
+    "game_id": 6715,
+    "name": "Random Spawns (Comprehensive Difficulty Boost)(P8)",
+    "name_id": "random-spawn-generator",
+    "summary": "This mod contains multiple options for increasing game difficulty.",
+    "description": "<p style=\"text-align:center;\"><strong>** You can use my <a href=\"https://mod.io/g/baldursgate3/m/gabes-fun-pack#description\">Fun Pack</a> instead of the Bag of Holding as the dependency if you wish. **<br>** PC users: <a href=\"https://mod.io/g/baldursgate3/m/combat-encounters-random-spawns-lite#description\">Combat Encounters</a> is a cleaner, smoother version of Random Spawns with better random events **</strong></p>\n<p><br>destroy the portal to stop the spawns before you are overrun!<br>* Spawns sometimes drop loot!<br>* Spawn rate is <span style=\"color:#00ffff;\">25d20</span> (yes, totally random) so spawns can happen every 2.5-120 minutes or anywhere in between.<br>* Turn on for companions to increase the spawn rate.<br>* Has a dialog protector to prevent spawns when in dialog.<br>* This mod contains the following difficulty increase options:<br><em><strong><span style=\"color:#ffff00;\">-- Random Spawns:</span> </strong>As you play, there is a chance you will encounter enemies arriving via portals or <a href=\"https://bge.wiki/wiki/umbral_tremor\">shadowquakes</a>.<br>** <strong>Preset Encounters</strong> will spawn enemies based on a list of enemies, either level-appropriate or scaled to your level.<br>** <strong>Encountered Enemies</strong> will spawn enemies you have already encountered, which can include NPCs from other mods.<br>-- <strong>From Hell</strong> will give <strong>Encountered Enemies</strong> hellish effects, as if they came from the very Hells themselves.</em><br><em><strong><span style=\"color:#ffff00;\">-- Portal Trigger:</span> </strong>Forcibly spawns a portal so you can fight at your leisure.</em><br><em><strong><span style=\"color:#ffff00;\">-- Combat Mode:</span> </strong>Greatly increases the chance for portals to show up while in combat. (25% chance per turn, 1 at a time)</em><br><em><strong><span style=\"color:#ffff00;\">-- Difficulty Increase:</span> </strong>Scales enemy health and damage based on player level. (Effective at player level 4+)</em><br><em><strong><span style=\"color:#ffff00;\">-- Random Buffs:</span> </strong>Gives enemies 1 to 4 (based on player level) random buffs while in combat.</em><br><em><strong><span style=\"color:#ffff00;\">-- Ability Mirroring:</span> </strong>Enemies can now learn some of the spells you use against them, and use them against YOU!</em><br><em><strong><span style=\"color:#ffff00;\">-- Enemy Duplication:</span> </strong>This causes non-boss enemies to duplicate themselves after combat begins. You can control if they are easy clones, or harder clones.<br><strong><span style=\"color:#ffff00;\">-- Anti-Freeze:</span> </strong>This toggled passive causes ALL enemies to be included in a fight after a portal spawns, preventing them from being frozen.<br></em><em><strong><span style=\"color:#ffff00;\">-- Enemy Classes:</span> </strong>Humanoid NPCs are assigned a random class based on their AI or attack types. These classes generally reflect the player version of the same class, but are not identical. Skeletal enemies receive a class assignment after their first attack. Note: classes receive an AI boost to the Smart version of Larian's AI, but no customization has been done on my end.<br><strong><span style=\"color:#ffff00;\">-- Ally Class Block:</span> </strong>Blocks non-enemies (allies etc) from receiving class assignments.<br><strong><span style=\"color:#ffff00;\">-- Summon Class Block:</span> </strong>Blocks humanoid and skeletal summons from receiving class assignments.</em></p>\n<p style=\"text-align:center;\"><em><br>List of NPC classes in this mod:<br>- Life Domain (Cleric)<br>- War Domain (Cleric)<br>- Great Old One (Warlock)<br>- Wild Magic (Sorcerer)<br>- Storm (Sorcerer)<br>- Demon Summoner (Custom)<br>- Berserker (Barbarian)<br>- Battle Master (Fighter)<br>- Oathbreaker (Paladin)<br>- Puppeteer of the Dead (Custom)<br>- Way of Shadow (Monk)<br>- Drunken Master (Monk)(Humanoid only)<br>- Grenadier (Custom)<br>- Gloom Stalker (Ranger)<br>- Beast Master (Ranger)<br>- Archer (Custom)<br>- Swashbuckler (Rogue)<br>- Arcane Trickster (Rogue)<br>- Plague Doctor (<a href=\"https://mod.io/g/baldursgate3/m/the-plague#description\">from this mod</a>)<br><br></em><strong><span style=\"color:#00ff00;\">- You can use --&gt; <a href=\"https://docs.google.com/document/d/1sFfwT2j9nuJ5dyrEZBqEejeLnabJ8NaAyokuHzdVoiw/edit?usp=sharing\">THIS</a> &lt;-- template to add your custom classes to enemies!</span></strong></p>\n<p><em><br>There is a rare drop called <strong>The Lost Umbral Gem</strong>. This gem, when in your inventory, will change Portals to <a href=\"https://bg3.wiki/wiki/Umbral_Tremor\">Shadowquakes</a>. The spawns from these Shadowquakes are the same as those from Portals, but the Shadowquakes themselves can make encounters more difficult. Since they look like a Black Hole, I went with the theme and once per turn they release Hawking Radiation jets. This has a chance to frighten party members, complicating the fight.</em></p>\n<p>The potion for Arena Mode is located in the bag that auto-spawns in your inventory.<br>-- Is it <strong>HIGHLY RECOMMENDED</strong> you do <strong>NOT</strong> use the scaling version for Enemy Duplication until <strong>AT LEAST</strong> level 6<br><br>I highly recommend combining the Random Spawn Generator with <a href=\"https://mod.io/g/baldursgate3/m/gabes-restless-dead\">The Restless Dead</a> if your goal is to have constant random fights.<br>MODDERS: Add your own loot to the spawn drop table by using the following loot table ID: <strong>grsg_lootchest<br></strong><br>** If using the Random Loot mod, load mine AFTER Random Loot **<br>** <strong>Combat Spawns</strong> notes:<br>- All portals within 20m lose invulnerability when one spawns monsters.<br>- Will NOT spawn if a portal is already active<br><br>Boss spawns may be added to this mod by adding the following optional mods:<br>- <a href=\"https://mod.io/g/baldursgate3/m/doomwatcher\">Doomwatcher</a><br>- <a href=\"https://mod.io/g/baldursgate3/m/vlaakiths-projection-a-random-spawns-boss-addon\">Vlaakith's Projection</a></p>",
+    "date_added": 1728113459,
+    "date_updated": 1764692370,
+    "date_live": 1728113487,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/random-spawn-generator",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 6966972,
+      "mod_id": 4384198,
+      "version": "2.0.0.970",
+      "filename": "randomspawngenerator_7a4b0918-3kzr.zip",
+      "changelog": "* So apparently enemies DO use spell slots. I have now provided them to enemies that receive class assignments",
+      "date_added": 1762784244,
+      "date_updated": 0,
+      "date_scanned": 1762784488,
+      "filesize": 19325591,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/581a/4384198/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/581a/4384198/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/581a/4384198/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/581a/4384198/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Consumables",
+        "name_localized": "Consumables",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6966972
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6966972
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6966972
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6966972
       }
     ]
   },
@@ -55115,6 +55341,134 @@
     ]
   },
   {
+    "id": 4400752,
+    "game_id": 6715,
+    "name": "Underdark Races (Sunlight Sensitivity fix)(P8)",
+    "name_id": "underdark-races",
+    "summary": "* Makes Sup Darkvision more appropriate by giving advantages in darker environments as well as disadvantages in sunlight. This is a replacer and automatically affects the listed races.",
+    "description": "<p><a href=\"https://bg3.wiki/wiki/Superior_Darkvision\">Superior Darkvision</a> on BG3 Wiki<br><br>This mod will cause you to have Disadvantage when attacking creatures in the light, but Advantage when attacking them in the dark.</p>",
+    "date_added": 1728537332,
+    "date_updated": 1762623109,
+    "date_live": 1728537437,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/underdark-races",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 5653446,
+      "mod_id": 4400752,
+      "version": "1.0.0.2",
+      "filename": "underdarkraces_1f19e997-c5e0-2-ex3l.zip",
+      "changelog": null,
+      "date_added": 1728537334,
+      "date_updated": 0,
+      "date_scanned": 1728537339,
+      "filesize": 1792025,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/1507/4400752/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/1507/4400752/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/1507/4400752/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/1507/4400752/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5653446
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5653446
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5653446
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5653446
+      }
+    ]
+  },
+  {
     "id": 4400857,
     "game_id": 6715,
     "name": "Order Domain Cleric Subclass",
@@ -56402,6 +56756,139 @@
       {
         "platform": "windows",
         "modfile_live": 6988285
+      }
+    ]
+  },
+  {
+    "id": 4405090,
+    "game_id": 6715,
+    "name": "Gabe's Bag of Holding",
+    "name_id": "auto-spawn-items",
+    "summary": "* This mod makes spawning items into the game easier for new (or lazy) modders!",
+    "description": "<p><strong>HOW TO USE:</strong> (players)<strong><br></strong>* Load a game, or start a new one. That's it! Any mods that require this mod will automatically spawn their items into your inventory on login in the Bag of Overwhelming chaos.<strong><br>* Items put in the Bag of Overwhelming Chaos will be made weightless.<br></strong>* Enemies will level up when attacking (equal to the player level, up to 20) and when downing a player (up to 20).<br>-- <em><strong>Enemy levels have no bearing on abilities in the base game unless another mod utilizes this function.</strong></em><br>-- This was added to allow for future mods to be made utilizing enemy levels instead of using convoluted code to get around static levels. Currently <a href=\"https://mod.io/g/baldursgate3/m/random-spawn-generator#description\">Random Spawns</a> is utilizing it.<br>-- To activate, go to camp and use the Enemy Leveling function. Using Enemy Leveling in camp while you have Enemy Leveling active will remove it.<strong><br><br>HOW TO USE:</strong> (Modders only)<br>* In your Toolkit project, go to the Status Editor button (up top)<br>* Open that, go to Stats, click the + icon, then click object.<br>* Click the &gt; icon, open the Object file.<br>* Fill in the Name, Parent and RootTemplate fields (mandatory). Fill in any other fields that apply.<br>* Go to TreasureTable, click the + icon, click treasuretable<br>* Click the &gt; icon, open the TreasureTable file.<br>* In the NAME field, create an entry with this EXACT name: <strong>gabe_itembagtt<br></strong>* Set AppendNotOverride to <strong>yes<br></strong>* Set DropCount to <strong>1,1</strong><br>* Set Frequency to the number of these items you wish to spawn<br>* In the Treasure field, put i_namefromobjectentryfile<br>* Make this Auto-Spawn Items mod a dependency by going to Admin on your mod page (Pencil icon, top-right), click Dependencies (left) and find my mod.<br><br>Publish your mod, and now when the game loads, your Object item will spawn in the Bag of Overwhelming Madness this mod provides on login. If a player already has the Bag of Overwhelming Madness in their inventory, this mod might not provide a duplicate.<br><br><strong>** Modders: Additional note**</strong><br>you can use this mod to code your own mods to change based on enemy level, the same as player levels. Enemies will no longer have static levels, which should make coding easier.</p>\n<p>* Since you cannot identify an enemy leveling up using LeveledUp in Osiris, I added a 1-turn status when they level up.<br>- To identify when an enemy leveled up, look for the application or removal of of <em>GAD_LevelUp</em><br>- Use <em>GetLevel(_Enemy,_EnemyLevel)</em> to obtain the level of the enemy (Osiris). This is best used with the above status application<br>- Use <em>CharacterLevelGreaterThan(4)</em> or <em>not CharacterLevelGreaterThan(4)</em> (or other level value) if using passives/statuses<br><br>** It seems the bag will respawn on login if you remove any of the items and those items are not in your inventory or worn by you. This is not a bad thing, so I will not try to fix it, but worth noting for you as users. If you must dispose of an old bag, do so carefully, preferably off a cliff or into a chasm.<br>** The Bag of Overwhelming Chaos, along with it's contents (based on the mods you have installed) should be available at:<br>- Arron (Act 1 - Den)<br>- Harper Quartermaster (Act 2)<br>- Sticky Dondo (Act 3)</p>",
+    "date_added": 1728722503,
+    "date_updated": 1783529950,
+    "date_live": 1728723307,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/auto-spawn-items",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 7824910,
+      "mod_id": 4405090,
+      "version": "1.0.0.102",
+      "filename": "gabesautodepositor_c37d6364-49-2eiu.zip",
+      "changelog": "* Fixed an issue causing beautiful chaos if you invited a camper to your party, they has Enemy Leveling on, but you had it off.",
+      "date_added": 1780879114,
+      "date_updated": 0,
+      "date_scanned": 1780879153,
+      "filesize": 18571323,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "ring_of_djinni_summoning.png",
+      "original": "https://image.modcdn.io/mods/6b51/4405090/ring_of_djinni_summoning.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/6b51/4405090/crop_320x180/ring_of_djinni_summoning.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/6b51/4405090/crop_640x360/ring_of_djinni_summoning.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/6b51/4405090/crop_1280x720/ring_of_djinni_summoning.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Books",
+        "name_localized": "Books",
+        "date_added": 0
+      },
+      {
+        "name": "Consumables",
+        "name_localized": "Consumables",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7824910
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7824910
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7824910
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7824910
       }
     ]
   },
@@ -58758,6 +59245,279 @@
       {
         "platform": "ps5",
         "modfile_live": 5679377
+      }
+    ]
+  },
+  {
+    "id": 4415333,
+    "game_id": 6715,
+    "name": "Transmogs and Spelltheft",
+    "name_id": "ring-of-identity-theft-doppelganger-ring",
+    "summary": "* A full spell theft and transmog system!",
+    "description": "<p style=\"text-align:center;\">Be anyone. Learn any spell. Transmog Items.<br>Over 100+ different character options, and you can choose more as you play!<br><br></p>\n<div style=\"text-align:center;\"><span style=\"color:#ffff00;font-size:large;\">Have you ever seen a really cool NPC and wanted to BE that NPC? <br>Or really, really wanted to go deep in the whole RP scene? <br>Have you ever wanted to play a TRUE Doppelganger, or a thief that can wear faces?<br>Have you ever seen a spell cast by another party member, or NPC, and wished you could cast it? <br><br>Go --&gt; <a href=\"https://docs.google.com/document/d/1dodmId5y0is2RNnrTlpgkoEnoYanei17KAg07kDmya4/\">HERE</a> &lt;-- for instructions!<br><a href=\"https://mod.io/g/baldursgate3/m/alignment-and-species-reactions#description\">NPC Reactions</a> now works with this mod!</span></div>\n<p><br>** With the ability to store forms, as well as ~100 pre-saved forms to choose from!<br>** With a Makeover! ability that allows you to change the visual of NPCs! See my article link above for details **<br>** For those playing non-human characters, I made <a href=\"https://mod.io/g/baldursgate3/m/alignment-and-species-reactions#description\">this mod</a> specifically for you! **<br><br>* This mod allows you to steal your targets entire identity, and also give others the ability to do so<br>- This includes: tags, name, appearance, buffs, and some spells<br>- This also includes spells cast on you (may not include AoE spells)<br>- Works on corpses, so you can murder someone, hide their body, and take their place (should not affect the story, RP purposes only)<br><br>* <span style=\"color:#ffff00;\">TO USE</span>: Put on the ring. Cast the spell. To reclaim your identity, click Reclaim Identity.<br>- To add or remove Identity Theft from a companion/summon that is NOT using the ring, cast Identification Theft Training on it. This spell performs both functions.<br>* You will be able to steal your targets next cast spell for up to TEN turns (60 seconds). The stolen spell is permanent.<br>* Stolen spells retain their requirements, which means any spell requiring special conditions will be unusable.<br>* Toggle on the Mental Fatigue passive to add damage-on-learning.<br>* Use Steal Identity on yourself to reapply your most recent stolen form if you were forcibly removed from it. This ONLY works if the form is available on that map. Does not work for pre-saved forms.<br><br>- The <span style=\"color:#ffff00;\">Orb</span> is meant for those not wanting to use the ring, but still wanting the Spell Thief abilities.<br>- Toggle on the Observe and Learn passive (Orb in inventory or Ring equipped) to be able to automatically learn one spell per fight.<br><br>-- Wildshaping into a creature marks it as a Wildshape for recall purposes. If you save that form (cannot save while Wildshaped), then recall it, it will Wildshape you again.<br>-- To mark a Wildshape form as not-Wildshape, use Wild Shape: Remove on the target. Recalling that form will transform you normally.<br>-- To re-mark a form as Wildshape, simply cast the Wild Shape ability on it again.<strong><br><br></strong>Note: You cannot transform into a child.<strong><br><br>If you prefer <a href=\"https://mod.io/g/baldursgate3/m/true-doppelganger2#description\">race</a> and <a href=\"https://mod.io/g/baldursgate3/m/spell-thief#description\">subclass</a> mods, try these out instead.<br><br>** Additional functions **<br><br></strong><span style=\"color:#ffff00;\">Item transmogs:<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">-- There are two options for use;<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">---- &gt; Equip the item you wish to transmog and cast the appropriate spell on the item you wish it to look like. This will change your equipped item’s look.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">OR<br>---- &gt; Equip the item you wish to transmog and cast the appropriate spell on the character that is wearing the item you wish to copy.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">– You MUST use the Equip Item spell on your xmogged item if you drop it. Xmogging an item makes it impossible to click-equip or right-click equip.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffffff;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">-- To remove a transmog, cast the Remove Xmog spell on the item. This only works on items with the Transmogrified status.<br></span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ff0000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;vertical-align:baseline;\">– THIS IS IMPORTANT!! SAVE and RELOAD your game OR toggle your vanity slot on/off to apply the new visuals</span><br>** Notes: <br>- xmogging armor when the stolen armor would not normally fit a character may cause visual issues, such as Githyanki Plate Mail. If this happens, simply remove the xmog.<br>- the text for xmogged items will turn grey. These items retain their statuses, abilities, and damage. Removing an xmog will return the item to normal.<br>- xmogs do not show in cutscenes for some reason, but do show in Photo Mode.<br><br><span style=\"color:#ffff00;\">Makeover!</span> ability that allows you to turn any NPC into a form you have Recalled onto yourself.<br>-- To cast YOUR form on another NPC, you must have the Makeover Mirror in your inventory. It is available on some vendors (Arron, Harper QMaster and Sticky)<br>-- To cast another form on a NPC, you must first Revert a saved form onto yourself or use one of the Other Forms on yourself, then cast Makeover! on the NPC (without the mirror in your inventory!).<br>-- To return a NPC to normal, recast Makeover! on them.<br><br>- <span style=\"color:#ffff00;\">Summon: Super-Special Spell and Ability Removal Skull</span> and cast the spell you wish to remove.<br>-- Only works for stolen spells, does not work for spells obtained via progression!<br>-- Will kill itself once you cast a stolen spell.<br><br>- <span style=\"color:#ffff00;\">Wheel of Faces</span><br>-- 2 versions: Humanoid and Non-Humanoid<br>-- Summon the Wheel of Faces and spin! It will turn you into a random form based on the wheel you chose from those available in the map you are on or maps you have previously visited.<br><br>MOD LIMITATIONS:<br>- <strong>Due to guidelines involving children and mods, the ability to transform into a child character has been removed.</strong><br>- You cannot learn spells that have containers, such as Command and Bestow Curse.<br>- You cannot use a spell or ability you have learned if that spell or ability requires special statuses or passives, such as some Honor Mode spells.<br>- The item xmog will not show in cutscenes. I believe cutscenes load the base template and ignore any transforms.</p>",
+    "date_added": 1729008224,
+    "date_updated": 1783530053,
+    "date_live": 1729008592,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ring-of-identity-theft-doppelganger-ring",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 7829170,
+      "mod_id": 4415333,
+      "version": "1.0.0.460",
+      "filename": "ringofidentitytheft_99746726-6-4phc.zip",
+      "changelog": "* Druid shapeshifts will now return you to your previous form, base or transformed. Mod shapeshifts will return you to your base form.",
+      "date_added": 1781002467,
+      "date_updated": 0,
+      "date_scanned": 1781002502,
+      "filesize": 18030251,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/587b/4415333/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/587b/4415333/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/587b/4415333/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/587b/4415333/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "Bard",
+        "name_localized": "Bard",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "Druid",
+        "name_localized": "Druid",
+        "date_added": 0
+      },
+      {
+        "name": "Fighter",
+        "name_localized": "Fighter",
+        "date_added": 0
+      },
+      {
+        "name": "Monk",
+        "name_localized": "Monk",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "Ranger",
+        "name_localized": "Ranger",
+        "date_added": 0
+      },
+      {
+        "name": "Rogue",
+        "name_localized": "Rogue",
+        "date_added": 0
+      },
+      {
+        "name": "Sorcerer",
+        "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      },
+      {
+        "name": "Wizard",
+        "name_localized": "Wizard",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7829170
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7829170
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7829170
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7829170
       }
     ]
   },
@@ -140086,6 +140846,124 @@
       {
         "platform": "ps5",
         "modfile_live": 6871696
+      }
+    ]
+  },
+  {
+    "id": 5312062,
+    "game_id": 6715,
+    "name": "Gabe's Fun Pack",
+    "name_id": "gabes-fun-pack",
+    "summary": "All of my fun things, together! (Makes life easier for console users)",
+    "description": "<p>A collection of my more fun, less-invasive mods! Compiled in one package for console users to help with that annoying 100-mod cap.<br><br>Any mods in this pack that have any actual effect on gameplay can be turned off, or must be manually turned on.<br>There are four ways I give you control:<br>- Some require you to drink a potion to activate.<br>- Items such as the Book of Plagues and Bone Sculptor Tome affect you by simply being in your inventory.<br>- Passives that can be toggled on or off.<br>- Functions that appear only in camp (general tab).<br><br>includes:<br>* <a href=\"https://mod.io/g/baldursgate3/m/auto-spawn-items#description\">Gabe's Bag of Holding</a> (a dependency for most of my mods, built into this one)<br>-- Note: Activating the Enemy Leveling function in camp will improve Enemy Loot Randomizer results!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/critical-mockery#description\">Critical Mockery</a> (mock enemies when you score a critical hit)<br>-- Note: This is an interrupt. Disable to turn mockery off. Does not affect the spell.<br>-- To disable: turn off associated interrupt<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/enemy-loot-randomizer#description\">Enemy Loot Randomizer</a> (randomizes enemy loot and vendor stock. Functions can be toggled on/off mid-game)<br>-- Note: Vendor++ is on by default. Amounts and value of loot/stock increase with enemy/player level.<br>-- To disable: turn off associated passives<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-bg3-mystic-forge#description\">The BG3 Mystic Forge</a> (gamble your junk for a chance at something epic!)<br>-- Note: Put 4 items in the pouch. Close pouch. Good luck!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/treasuregoblins#description\">Treasure Goblins</a> (yep, just like diablo)<br>-- To disable: turn off associated passive<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabesmod-combat-ai-and-optional-cooldown-reset#description\">Gabe's Mod</a> (combat AI for companions and summons)<br>-- Note: Use the Default option for AI if you are unsure what to choose.<br>-- To disable: turn off associated passives<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-dragonborn-and-draconic-sorcery#description\">Gabe's Dragonborn</a> (ever wish Draconic Ancestry was available for other classes?)<br>-- Note: If you do not wish to use this, simply select None on the CC screen.<br>-- Compatible with <a href=\"https://mod.io/g/baldursgate3/m/ezuneos-draconic-body-scales#description\">Ezuneo's Draconic Body Scales</a> and <a href=\"https://mod.io/g/baldursgate3/m/gem-draconic-ancestries#description\">Gem Draconic ancestries</a><br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-bone-sculptor#description\">The Bone Sculptor</a> (an undead crafting mod)<br>-- Note: Recipes are <a href=\"https://docs.google.com/document/d/1FFg-wSUT0NTm0EdpKEonDf0WTiytfpY7KiEfsG3RLOo/edit?tab=t.0\">HERE</a> (console users, use your phone/tablet) or may be found by reading the Scrawlings (3 total)<br>-- To disable: drop the tome<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-pets#description\">Gabe's Pets</a> (various pet-type summons I put in a mod. Some cute, some not. Has Pocket dragons!)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-restless-dead#description\">The Restless Dead</a> (the dead may come back to life to attempt to get revenge)<br>-- Note: The Horn of the Dead will awaken the dead and must be activated manually.<br>-- To disable: turn on Let the Dead rest (passive)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/explosives#description\">Explosives!</a> (just what you think it is, a mod specifically about things that explode)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/the-plague#description\">The Plague</a> (diseases based off of real-world diseases. Utilizes poison damage)<br>-- Notes: the spells for this mod are distributed differently. If the character that drank the potion has the book in their inventory and reads it, the goblin will not return. Spells in this mod are NOT given to you all at once! There is a progressive unlock mechanism, so you only get one to start with. One of the vendors in the Fungus camp in the Underdark sells a purple Noblestalk that unlocks all the spells, if you want to go that route.<br>-- To disable: kill the goblin, loot and read the book, do not use spells.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/anyone-can-be-a-vendor#description\">Any Summon Can be a Vendor</a> (make any summon a vendor)<br>-- To use: Apply to a summon using Vendor Policies and Procedures or summon the Mimic Vendor. Open Merchant Abilities, use the three functions in order.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/dwarf-tossing#description\">Dwarf Tossing!</a> (Dwarves you can throw, and a throwin' kitty)<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/gabes-darts#description\">Gabe's Darts and Daggers</a><br>-- Note: Requires a vendor from Any Summon Can be a Vendor OR the Mimic vendor from that mod.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/feat-barbaric-brawler#description\">Feat: Barbaric Brawler</a> (a pair of feats that allows Barbarians to fight unarmed at almost Monk-like levels)<br>-- Fun Pack version is NOT tied to Barbarian-only and should work with any class.<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/underpants-gnomes#description\">Underpants Gnomes</a> (yep, they exist)<br>-- To disable: turn off associated passive<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/death-penalties#description\">Death Penalties</a><br>-- Note: This has to be activated manually in camp, so is completely optional. Exp loss is available in 5% increments.<br>-- To disable: turn off functions from camp<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/it-follows-weeping-angels#description\">It Follows (Weeping Angels)</a><br>-- This is very important... do not pick up the Strange Gem if you do not want this mod enabled.<br>-- To disable: drop the Strange gem<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/arachnaphobia#description\">Arachnophobia</a><br>-- This is toggled OFF by default and must be turned on after every rest!<br><br>* <a href=\"https://mod.io/g/baldursgate3/m/chaos-magic#description\">Chaos Magic!</a><br>-- To use: use the spell<br>-- To avoid using: do not use the spell</p>",
+    "date_added": 1761386002,
+    "date_updated": 1785807760,
+    "date_live": 1761388652,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/gabes-fun-pack",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 8054758,
+      "mod_id": 5312062,
+      "version": "1.0.0.496",
+      "filename": "gabesfunpack_fb149320-e537-4d2-6m0a.zip",
+      "changelog": "* Items deleted by the randomizer should now be limited to the same items that were intended to be added. This means no items that were placed in an inventory should be removed unless I was the one placing them.",
+      "date_added": 1785806485,
+      "date_updated": 0,
+      "date_scanned": 1785806522,
+      "filesize": 19435982,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/d14e/5312062/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d14e/5312062/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d14e/5312062/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d14e/5312062/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 7803858
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7803858
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7803858
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8054758
       }
     ]
   },
