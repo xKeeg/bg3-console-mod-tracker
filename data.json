@@ -154359,10 +154359,10 @@
     "game_id": 6715,
     "name": "White Ghost Set",
     "name_id": "white-ghost-set",
-    "summary": "White ghost armor + weapon set. Includes camp clothing version.",
+    "summary": "White ghost armor/camp clothing + weapon set. Includes Queen version.",
     "description": "<p>Armor/Camp Clothing and Weapon set of the White Ghost<br>fully dyeable<br>Supports BT1</p>\n<p>Commissioned by Kiosta270<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1778929897,
-    "date_updated": 1783953171,
+    "date_updated": 1786318215,
     "date_live": 1778930333,
     "visible": 1,
     "status": 1,
@@ -154376,15 +154376,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 7742052,
+      "id": 8079163,
       "mod_id": 6061936,
-      "version": "1.0.0.3",
-      "filename": "obsdmnotft_cda5884b-8a22-3830-4g6p.zip",
-      "changelog": null,
-      "date_added": 1778929902,
+      "version": "1.0.0.4",
+      "filename": "obsdmnotft_cda5884b-8a22-3830-2lpj.zip",
+      "changelog": "- added Queen Body versions",
+      "date_added": 1786318181,
       "date_updated": 0,
-      "date_scanned": 1778929944,
-      "filesize": 26866479,
+      "date_scanned": 1786318236,
+      "filesize": 27784981,
       "platforms": [
         {
           "platform": "windows",
@@ -154392,15 +154392,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -154430,6 +154430,11 @@
       {
         "name": "Available on Mac and Console",
         "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
         "date_added": 0
       },
       {
@@ -154475,10 +154480,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7742052
-      },
-      {
         "platform": "mac",
         "modfile_live": 7742052
       },
@@ -154489,6 +154490,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7742052
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8079163
       }
     ]
   },
