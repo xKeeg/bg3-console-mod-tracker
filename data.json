@@ -60677,7 +60677,7 @@
       "changelog": null,
       "date_added": 1786351439,
       "date_updated": 0,
-      "date_scanned": 0,
+      "date_scanned": 1786351583,
       "filesize": 80885338,
       "platforms": [
         {
@@ -73829,7 +73829,7 @@
     "summary": "BDO Outfit Inspired - Body 1 Female Only",
     "description": "<h2>Maybe the fabric of the garment is not perfect, I'm still learning how to shape it properly and with each update I promise that I'm trying to improve it to the most perfect possible.<br><br>Opdate 1.6: Various fixes, including the all-black outfit, ambient occlusion issues, and physics.</h2>\n<p> </p>\n<p><span style=\"color:#1e84cc;font-family:Roboto, sans-serif;font-size:x-large;\"><strong><em>Find in the <a href=\"https://www.nexusmods.com/baldursgate3/mods/457\">Tutorial Chest</a> or buy from the following sellers:<br><a href=\"https://bg3.wiki/wiki/Dammon\"><br></a><a title=\"Arron\" href=\"https://bg3.wiki/wiki/Arron\">Arron</a> IN <a href=\"https://bg3.wiki/wiki/Emerald_Grove\">Emerald Grove</a> ATO I <br><a href=\"https://bg3.wiki/wiki/Talli\">Talli</a> IN <a href=\"https://bg3.wiki/wiki/Last_Light_Inn\">Last Light Inn</a> ATO II<br><a href=\"https://bg3.wiki/wiki/Popper\">Popper</a> IN <a href=\"https://bg3.wiki/wiki/Circus_of_the_Last_Days\">Circus</a> ATO III<br><a href=\"https://bg3.wiki/wiki/Gloomy_Fentonson\">Gloomy Fentonson</a> IN <a href=\"https://bg3.wiki/wiki/Stormshore_Armoury\">Stormshore Armoury</a> ATO III</em></strong></span></p>\n<p> </p>\n<p><span style=\"color:#1e84cc;font-family:Roboto, sans-serif;font-size:x-large;\"><strong><em>Fully Dyeable - Body 1</em></strong></span></p>\n<h2><em>Just the clothes, no bonuses for now. (I accept suggestions)</em></h2>\n<p> </p>\n<p> </p>\n<h2><code><strong>If you could leave a \"Like\" to spread my work, I would be very grateful.</strong></code></h2>",
     "date_added": 1731010361,
-    "date_updated": 1783701855,
+    "date_updated": 1786352788,
     "date_live": 1731011920,
     "visible": 1,
     "status": 1,
@@ -73859,15 +73859,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 2
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 2
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 2
         }
       ]
     },
@@ -139366,11 +139366,11 @@
       ]
     },
     "logo": {
-      "filename": "emberswardrobe.1.png",
-      "original": "https://image.modcdn.io/mods/d925/5279335/emberswardrobe.1.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/d925/5279335/crop_320x180/emberswardrobe.1.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/d925/5279335/crop_640x360/emberswardrobe.1.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/d925/5279335/crop_1280x720/emberswardrobe.1.png"
+      "filename": "5.1.png",
+      "original": "https://image.modcdn.io/mods/d925/5279335/5.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d925/5279335/crop_320x180/5.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d925/5279335/crop_640x360/5.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d925/5279335/crop_1280x720/5.1.png"
     },
     "tags": [
       {
