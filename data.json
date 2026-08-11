@@ -53207,6 +53207,119 @@
     ]
   },
   {
+    "id": 4393774,
+    "game_id": 6715,
+    "name": "Gabes Pets (with Pocket Dragons!)(P8)",
+    "name_id": "gabes-pets",
+    "summary": "Adds various pets for your amusement! Now with Shovel!",
+    "description": "<p style=\"text-align:center;\">** Available for consoles in my <a href=\"https://mod.io/g/baldursgate3/m/gabes-fun-pack#description\">Fun Pack</a>! **</p>\n<p>this mod will allow you to summon various pets for your amusement.<br>* Withers is... special. He is not recommended for a balanced run, but can be very handy in a pinch.</p>\n<p>* Withers should now randomly talk to himself while in your group.<br>* Non-mod pets can also scale as you level! Check the new ability in the Pets container (or the passive for the AoE version)</p>\n<p><br>Pets should scale with player level (health tested, damage untested. They use the same code, though, so should both work fine). They should increase damage and health at levels 4, 8 and 12.<br>Contains:<br>- Pet scaler! Scales pet damage and HP based on player level<br>- Withers (with Alfira, Gortash, Dribbles the Clown, and Hairless Cat illusions)<br>- Tressym<br>- Owlbear Cub<br>- Hollyphant/Sceleritas Fel (based on your character)<br>- Ooze<br>- Minotaur<br>- Scrying Eye<br>- Crawling Claw<br>- Dilophosaurus<br>- Were-Squirrel (don't make it angry. You wouldn't like it when it's angry)<br>- Djinni<br>- Dryad<br>- Grym (but smoller)<br>- Pocket Dragons! Skeletal and Red dragons that hide in your pocketses until you need them.<br>- <a href=\"https://bg3.wiki/wiki/Vengeful_Merregon\">Merregon</a><br>- Grim Visage (floating skull)<br>- Dishevelled Chicken (yep, just a chicken)<br>- Phase Spiderlings<br>- Honey Badger<br>- Hairless Cat<br>- Hermit Crab<br>- Bat<br>- Ogre<br>- Shovel<br>- hyena</p>\n<p>** If you also have my <a href=\"https://mod.io/g/baldursgate3/m/ring-of-identity-theft-doppelganger-ring\" target=\"_blank\" rel=\"noopener noreferrer\">Ring of Identity Theft</a> mod installed, Withers will now be able to steal spells just like you can. Do NOT use the Steal Identity spell with him, it bugs out! **</p>",
+    "date_added": 1728289559,
+    "date_updated": 1764692329,
+    "date_live": 1728289707,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/gabes-pets",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 6870366,
+      "mod_id": 4393774,
+      "version": "1.0.0.92",
+      "filename": "gabespets_55f12acf-caf2-3ba5-e-br71.zip",
+      "changelog": "* Updated Wither's Touch",
+      "date_added": 1761223923,
+      "date_updated": 0,
+      "date_scanned": 1761223958,
+      "filesize": 18423057,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "skeletalpocketdragon.1.jpg",
+      "original": "https://image.modcdn.io/mods/5d15/4393774/skeletalpocketdragon.1.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/5d15/4393774/crop_320x180/skeletalpocketdragon.1.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/5d15/4393774/crop_640x360/skeletalpocketdragon.1.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/5d15/4393774/crop_1280x720/skeletalpocketdragon.1.jpg"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6870366
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6870366
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6870366
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6870366
+      }
+    ]
+  },
+  {
     "id": 4393926,
     "game_id": 6715,
     "name": "Dragonborn Extra Tabs - Horns and Hair",
@@ -140180,6 +140293,104 @@
     ]
   },
   {
+    "id": 5301886,
+    "game_id": 6715,
+    "name": "Critical Mockery",
+    "name_id": "critical-mockery",
+    "summary": "* Players can trigger Vicious Mockery comments when landing critical hits.",
+    "description": "<p>TO USE:<br>Step 1): Land critical hits (or critical misses)</p>\n<p>Note: this mod only plays Vicious Mockery voice lines, it does not trigger any other effects, nor does it use reaction points.</p>",
+    "date_added": 1760882125,
+    "date_updated": 1762624702,
+    "date_live": 1760882291,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/critical-mockery",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 6861128,
+      "mod_id": 5301886,
+      "version": "1.0.0.21",
+      "filename": "gabesmockery_bf7afd67-150a-4e6-1h7b.zip",
+      "changelog": "* Initial upload",
+      "date_added": 1760882133,
+      "date_updated": 0,
+      "date_scanned": 1760882169,
+      "filesize": 19228414,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/b657/5301886/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b657/5301886/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b657/5301886/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b657/5301886/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6861128
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6861128
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6861128
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6861128
+      }
+    ]
+  },
+  {
     "id": 5302128,
     "game_id": 6715,
     "name": "Interrupted Music Performance Fixer",
@@ -155455,6 +155666,94 @@
     ]
   },
   {
+    "id": 6148370,
+    "game_id": 6715,
+    "name": "Camp Activities (Fixed)",
+    "name_id": "camp-activities-fixed",
+    "summary": "A streamlined version of Camp Activities, now campers won't wander away.",
+    "description": "<p style=\"text-align:center;\">** Do not use this mod, it is listed only to allow someone else to take it over if they wish to do so. **</p>",
+    "date_added": 1781837294,
+    "date_updated": 1784909396,
+    "date_live": 1781845922,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/camp-activities-fixed",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 7936534,
+      "mod_id": 6148370,
+      "version": "1.0.0.104",
+      "filename": "campactivitiesfixed_82983cc8-c-2ou1.zip",
+      "changelog": "* The passives will now be added to all Players on map load and will not be removed.",
+      "date_added": 1783410261,
+      "date_updated": 0,
+      "date_scanned": 1783410303,
+      "filesize": 22401607,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "witherssinging.1.png",
+      "original": "https://image.modcdn.io/mods/e3ac/6148370/witherssinging.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/e3ac/6148370/crop_320x180/witherssinging.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/e3ac/6148370/crop_640x360/witherssinging.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/e3ac/6148370/crop_1280x720/witherssinging.1.png"
+    },
+    "tags": [
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7936534
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7936534
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7936534
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7936534
+      }
+    ]
+  },
+  {
     "id": 6149105,
     "game_id": 6715,
     "name": "Ravenloft Subclasses 2024",
@@ -155882,9 +156181,9 @@
     "name": "Ancient Mega Pack Plus",
     "name_id": "ancient-mega-pack-plus",
     "summary": "AMP Plus is a patch for Ancient Mega Pack that keeps fixing and improving it after its final release: bug fixes, balance and difficulty tuning, plus a few new ULTRA mini-bosses.",
-    "description": "<h2><strong>Ancient Mega Pack Plus</strong></h2>\n<p>A substantial maintenance, balance and content update for Ancient Mega Pack, carrying the mod forward after its final base release, but <strong>not for long</strong>. It collects the fixes, the difficulty work and several new endgame encounters that kept arriving from player feedback once the base mod was called done.</p>\n<p style=\"color:#c98a4a;\"><strong>This is not a standalone mod. It requires Ancient Mega Pack.</strong> Install it next to <a href=\"https://mod.io/g/baldursgate3/m/ancient-mega-pack-rel#description\">Ancient Mega Pack</a> and let it load after. On its own it does nothing.</p>\n<hr>\n<h3>Changes</h3>\n<ul>\n<li><strong>Fixes</strong> for bugs that turned up after the final AMP build, most of them reported on the Discord.</li>\n<li><strong>Balance and difficulty</strong> passes on HARD and ULTRA mode, the Eclipse mechanic and the Pyre, following player feedback.</li>\n<li><strong>New ULTRA mini-bosses</strong> for the endgame pool, built in the same style as the ones already there.</li>\n</ul>\n<p>If your current AMP run is going fine, you lose nothing by adding it. Existing saves carry over.</p>\n<hr>\n<h2><strong>In This Updates..</strong></h2>\n<h2><strong>Update 1.10</strong></h2>\n<p>A major update covering the polish of the War rings, as well as a full redesign of a whole family of epic Runic Shards.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- The ten penetration Runic Shards are now ten tinkers, each a loss on its own that pays out from what else is set in the weapon or from how the fight stands<br>- War Ring doctrines are now taken one step at a time as you rise, and doctrines of different cultures stack instead of replacing each other<br>- A seventh war doctrine has been added<br>- Some of the war doctrines were rewritten<br>- War Orders now come with the rank of Captain, and every rank above it lets you give them more often<br>- Mutating your ooze is no longer a spell and can no longer be countered (thanks @Bodrick [TAV])<br>- The Runic Shard of Weave Surge now rerolls the cantrip attack roll its text promises (thanks @Uturn)<br>- The Runic Shard of Warding now states the radius its temporary Hit Points reach</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- Everything that puts out the Pyre now works 25% better (thanks @Bish)<br>- A boss now enters the eclipse once in its life (thanks @Vludber)<br>- An eclipsed boss can no longer be made to flee or approach by Command (thanks @Bish)<br>- ULTRA mini-bosses now stay prone when the effect comes from an item, a surface or a status you placed on them<br>- An ULTRA mini-boss that stops acting on its turn now attacks the nearest player. This one is not certain yet<br>- Alpha no longer lands on party members (thanks @Vludber)<br>- Tickhara's light now falls on whoever joins her fight, and breaking off does not put it out (thanks @Vludber)<br>- Valdryn's charged strike now hits a single target, and his aura release can no longer reach a target under Sanctuary (thanks @Vludber, @Bish)<br>- Doomflame no longer pays health for a counterspell, his twin cast is spent on what he throws, and Efreeti's Bulwark now breaks against water he manifests into (thanks @brothero_)</p>\n<h2><strong>LOOT</strong></h2>\n<p>- The Swamp Void Capsule is now Very Rare, and is priced and found as rarely as the ring capsule<br>- Bernard's loot now drops as it should (thanks @wh1te_ghost)</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Percolation now reaches the wearer while an enemy under Moleculation stands within range<br>- Overshadowing now wraps you in Veil for three turns<br>- Master's Cloak of Wonders now counts a High Half-Elf among the elves its last gift is written for (thanks @Vludber)<br>- Duergar Torture Ring now answers to Reverberation from any source (thanks @Air1Fire)<br>- Chaotic Burst now deals the damage its text states (thanks @frivr [xdd])<br>- Spy Captain now hides you again after you act outside combat (thanks @Sir Saint Savage)<br>- Lord of War no longer lists a lower Critical Hit threshold, which the artefact grants on its own from Rare up (thanks @Uturn)<br>- The Booming Blade granted by Kyzr's commissioned armour now shows its proper icon (thanks @Air1Fire)</p>\n<h2><strong>Update 1.10.1</strong></h2>\n<p>A new face joins the ULTRA ranks, and Dark One's Grace no longer leaves its wearer neither dead nor alive.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Quest items and keys taken from a body no longer go to the camp chest (thanks @ldley)</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- A new ULTRA mini-boss has joined the pool: Tesshin, Blade of House Hozana, a swordsman who has spent a very long time trying to die and has not managed it yet (as part of paid commission from @gnomus)<br>- Eclipse now clears more harmful conditions</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Dark One's Grace no longer makes you invulnerable and now stops only weak hits. Players wrote to me about this for a long time: the wearer ended up neither dead nor alive, and the game could lock up<br>- Moleculation has been polished further<br>- Shockfront no longer hits your own party<br>- Smoke Spirit Essence now turns you Invisible once per turn at most, and the chance is lower on every rarity<br>- Master's Cloak of Happy Ending now restores a smaller share of your maximum HP and absorbs its charges once per turn at most<br>- The force orb no longer sets off an endless chain of gravity waves outside combat (thanks @Cacao_Spy)<br>- Tidal Disruption now adds its damage against Slowed enemies, as its text states<br>- Gravity waves from the force artefacts now reach only those already in the fight (thanks @wh1te_ghost)</p>\n<h2><strong>Read the rest of the patchnotes in the file history on mod.io</strong></h2>\n<hr>\n<h2><strong>Credits</strong></h2>\n<p>Ancient Mega Pack and this update by Paramonov &amp; AMP Discord server.</p>",
+    "description": "<h2><strong>Ancient Mega Pack Plus</strong></h2>\n<p>A substantial maintenance, balance and content update for Ancient Mega Pack, carrying the mod forward after its final base release, but <strong>not for long</strong>. It collects the fixes, the difficulty work and several new endgame encounters that kept arriving from player feedback once the base mod was called done.</p>\n<p style=\"color:#c98a4a;\"><strong>This is not a standalone mod. It requires Ancient Mega Pack.</strong> Install it next to <a href=\"https://mod.io/g/baldursgate3/m/ancient-mega-pack-rel#description\">Ancient Mega Pack</a> and let it load after. On its own it does nothing.</p>\n<hr>\n<h3>Changes</h3>\n<ul>\n<li><strong>Fixes</strong> for bugs that turned up after the final AMP build, most of them reported on the Discord.</li>\n<li><strong>Balance and difficulty</strong> passes on HARD and ULTRA mode, the Eclipse mechanic and the Pyre, following player feedback.</li>\n<li><strong>New ULTRA mini-bosses</strong> for the endgame pool, built in the same style as the ones already there.</li>\n</ul>\n<p>If your current AMP run is going fine, you lose nothing by adding it. Existing saves carry over.</p>\n<hr>\n<h2><strong>In This Updates(1.10/1.10.1/1.10.2)..</strong></h2>\n<h2><strong>Update 1.10</strong></h2>\n<p>A major update covering the polish of the War rings, as well as a full redesign of a whole family of epic Runic Shards.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- The ten penetration Runic Shards are now ten tinkers, each a loss on its own that pays out from what else is set in the weapon or from how the fight stands<br>- War Ring doctrines are now taken one step at a time as you rise, and doctrines of different cultures stack instead of replacing each other<br>- A seventh war doctrine has been added<br>- Some of the war doctrines were rewritten<br>- War Orders now come with the rank of Captain, and every rank above it lets you give them more often<br>- Mutating your ooze is no longer a spell and can no longer be countered (thanks @Bodrick [TAV])<br>- The Runic Shard of Weave Surge now rerolls the cantrip attack roll its text promises (thanks @Uturn)<br>- The Runic Shard of Warding now states the radius its temporary Hit Points reach</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- Everything that puts out the Pyre now works 25% better (thanks @Bish)<br>- A boss now enters the eclipse once in its life (thanks @Vludber)<br>- An eclipsed boss can no longer be made to flee or approach by Command (thanks @Bish)<br>- ULTRA mini-bosses now stay prone when the effect comes from an item, a surface or a status you placed on them<br>- An ULTRA mini-boss that stops acting on its turn now attacks the nearest player. This one is not certain yet<br>- Alpha no longer lands on party members (thanks @Vludber)<br>- Tickhara's light now falls on whoever joins her fight, and breaking off does not put it out (thanks @Vludber)<br>- Valdryn's charged strike now hits a single target, and his aura release can no longer reach a target under Sanctuary (thanks @Vludber, @Bish)<br>- Doomflame no longer pays health for a counterspell, his twin cast is spent on what he throws, and Efreeti's Bulwark now breaks against water he manifests into (thanks @brothero_)</p>\n<h2><strong>LOOT</strong></h2>\n<p>- The Swamp Void Capsule is now Very Rare, and is priced and found as rarely as the ring capsule<br>- Bernard's loot now drops as it should (thanks @wh1te_ghost)</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Percolation now reaches the wearer while an enemy under Moleculation stands within range<br>- Overshadowing now wraps you in Veil for three turns<br>- Master's Cloak of Wonders now counts a High Half-Elf among the elves its last gift is written for (thanks @Vludber)<br>- Duergar Torture Ring now answers to Reverberation from any source (thanks @Air1Fire)<br>- Chaotic Burst now deals the damage its text states (thanks @frivr [xdd])<br>- Spy Captain now hides you again after you act outside combat (thanks @Sir Saint Savage)<br>- Lord of War no longer lists a lower Critical Hit threshold, which the artefact grants on its own from Rare up (thanks @Uturn)<br>- The Booming Blade granted by Kyzr's commissioned armour now shows its proper icon (thanks @Air1Fire)</p>\n<h2><strong>Update 1.10.1</strong></h2>\n<p>A new face joins the ULTRA ranks, and Dark One's Grace no longer leaves its wearer neither dead nor alive.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Quest items and keys taken from a body no longer go to the camp chest (thanks @ldley)</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- A new ULTRA mini-boss has joined the pool: Tesshin, Blade of House Hozana, a swordsman who has spent a very long time trying to die and has not managed it yet (as part of paid commission from @gnomus)<br>- Eclipse now clears more harmful conditions</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Dark One's Grace no longer makes you invulnerable and now stops only weak hits. Players wrote to me about this for a long time: the wearer ended up neither dead nor alive, and the game could lock up<br>- Moleculation has been polished further<br>- Shockfront no longer hits your own party<br>- Smoke Spirit Essence now turns you Invisible once per turn at most, and the chance is lower on every rarity<br>- Master's Cloak of Happy Ending now restores a smaller share of your maximum HP and absorbs its charges once per turn at most<br>- The force orb no longer sets off an endless chain of gravity waves outside combat (thanks @Cacao_Spy)<br>- Tidal Disruption now adds its damage against Slowed enemies, as its text states<br>- Gravity waves from the force artefacts now reach only those already in the fight (thanks @wh1te_ghost)</p>\n<h2><strong>Update 1.10.2</strong></h2>\n<p>Some important ULTRA mini-bosses fixes.</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- ULTRA mini-bosses have had their behaviour reworked to run better, and this may also stop them freezing for no reason<br>- Eclipse no longer erupts outside combat, and a boss now actually reaches it only once in its life. The resistances and immunities it grants now name Eclipse as their source<br>- Tesshin can now be killed permanently, and he now drops his reward (thanks @Vludber)<br>- Vael's copy of a Cleric is now more mature and no longer useless</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Potent Magic charges now have a single limit shared by every item that grants them (everyone knows why)<br>- Gravity waves from Moleculation no longer set each other off in a chain, and now reach enemies only<br>- Nucleation now gives one charge of Moleculation per attack, and no longer marks a dying enemy</p>\n<h2><strong>Read the rest of the patchnotes in the file history on mod.io</strong></h2>\n<hr>\n<h2><strong>Credits</strong></h2>\n<p>Ancient Mega Pack and this update by Paramonov &amp; AMP Discord server.</p>",
     "date_added": 1782391536,
-    "date_updated": 1786374049,
+    "date_updated": 1786443631,
     "date_live": 1782391975,
     "visible": 1,
     "status": 1,
@@ -155898,15 +156197,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/6fc3/4705162/crop_100x100/721e75868f230c41a00bb9459420dde.jpg"
     },
     "modfile": {
-      "id": 8081490,
+      "id": 8084782,
       "mod_id": 6163496,
-      "version": "1.10.1.41",
-      "filename": "amp_plus_fcf1d25f-1309-a9f7-ff-ezpv.zip",
-      "changelog": "Update 1.10.1\n\nA new face joins the ULTRA ranks, and Dark One's Grace no longer leaves its wearer neither dead nor alive.\n\nGENERAL CHANGES\n- Quest items and keys taken from a body no longer go to the camp chest (thanks @ldley)\n\nDIFFICULTY\n- A new ULTRA mini-boss has joined the pool: Tesshin, Blade of House Hozana, a swordsman who has spent a very long time trying to die and has not managed it yet (as part of paid commission from @gnomus)\n- Eclipse now clears more harmful conditions\n\nITEM CHANGES\n- Dark One's Grace no longer makes you invulnerable and now stops only weak hits. Players wrote to me about this for a long time: the wearer ended up neither dead nor alive, and the game could lock up\n- Moleculation has been polished further\n- Shockfront no longer hits your own party\n- Smoke Spirit Essence now turns you Invisible once per turn at most, and the chance is lower on every rarity\n- Master's Cloak of Happy Ending now restores a smaller share of your maximum HP and absorbs its charges once per turn at most\n- The force orb no longer sets off an endless chain of gravity waves outside combat (thanks @Cacao_Spy)\n- Tidal Disruption now adds its damage against Slowed enemies, as its text states\n- Gravity waves from the force artefacts now reach only those already in the fight (thanks @wh1te_ghost)",
-      "date_added": 1786373743,
+      "version": "1.10.2.42",
+      "filename": "amp_plus_fcf1d25f-1309-a9f7-ff-8rc9.zip",
+      "changelog": "Update 1.10.2\n\nSome important ULTRA mini-bosses fixes.\n\nDIFFICULTY\n- ULTRA mini-bosses have had their behaviour reworked to run better, and this may also stop them freezing for no reason\n- Eclipse no longer erupts outside combat, and a boss now actually reaches it only once in its life. The resistances and immunities it grants now name Eclipse as their source\n- Tesshin can now be killed permanently, and he now drops his reward (thanks @Vludber)\n- Vael's copy of a Cleric is now more mature and no longer useless\n\nITEM CHANGES\n- Potent Magic charges now have a single limit shared by every item that grants them (everyone knows why)\n- Gravity waves from Moleculation no longer set each other off in a chain, and now reach enemies only\n- Nucleation now gives one charge of Moleculation per attack, and no longer marks a dying enemy",
+      "date_added": 1786442952,
       "date_updated": 0,
-      "date_scanned": 1786373806,
-      "filesize": 29453537,
+      "date_scanned": 1786443012,
+      "filesize": 29472389,
       "platforms": [
         {
           "platform": "windows",
@@ -156000,7 +156299,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8081490
+        "modfile_live": 8084782
       }
     ]
   },
