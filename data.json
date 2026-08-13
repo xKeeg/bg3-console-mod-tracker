@@ -123039,9 +123039,9 @@
     "name": "Skirbie's Comfy Clothie / Underwear",
     "name_id": "skirbies-comfy-clothie-underwear",
     "summary": "A small collection of my comfort clothing",
-    "description": "<p>A small collection of my comfort clothing<br>camp clothing slot<br>compatible with the debug spells from <a href=\"https://mod.io/g/baldursgate3/m/evelyns-default-human-underwear#description\">Evelyn's Default Human Underwear</a>, if you have that mod you may toggle the use of debug spells</p>\n<p>only for bodytype 1, 3 and githyanki; I've included a non-custom BT1 version for unique bt1 like tiefling and jaheira</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe<br> <br>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "description": "<p>A small collection of my comfort clothing<br>camp clothing slot<br>compatible with the debug spells from <a href=\"https://mod.io/g/baldursgate3/m/evelyns-default-human-underwear#description\">Evelyn's Default Human Underwear</a>, if you have that mod you may toggle the use of debug spells</p>\n<p>only for bodytype 1, 3 and githyanki; I've included a non-custom BT1 version for unique bt1 like tiefling and jaheira</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Premium Camisole + Dolphin Shorts model by nobrandburger/fine<br> <br>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1749919410,
-    "date_updated": 1757496361,
+    "date_updated": 1786633227,
     "date_live": 1749920584,
     "visible": 1,
     "status": 1,
@@ -123055,15 +123055,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
     },
     "modfile": {
-      "id": 6464272,
+      "id": 8092518,
       "mod_id": 5014277,
-      "version": "1.0.0.3",
-      "filename": "slgerie_6683385d-365d-dd2c-579-6tzz.zip",
-      "changelog": null,
-      "date_added": 1749919432,
+      "version": "1.0.0.10",
+      "filename": "slgerie_6683385d-365d-dd2c-579-1sah.zip",
+      "changelog": "- added premium camisole + dolphin shorts\n- added primrose lace",
+      "date_added": 1786630135,
       "date_updated": 0,
-      "date_scanned": 1749919471,
-      "filesize": 22879567,
+      "date_scanned": 1786630246,
+      "filesize": 40122285,
       "platforms": [
         {
           "platform": "windows",
@@ -123071,15 +123071,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -123154,10 +123154,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6464272
-      },
-      {
         "platform": "mac",
         "modfile_live": 6464272
       },
@@ -123168,6 +123164,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6464272
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8092518
       }
     ]
   },
@@ -133070,7 +133070,7 @@
     "summary": "Homebrew Leader Class",
     "description": "<p><img src=\"https://i.imgur.com/J51D3cO.png\" alt=\"J51D3cO.png\"><br>A Leader's strength is defined by their unique journey to the forefront. Your command abilities flow from your personality and the trust you forge, but your motivations are entirely your own: a hunger for conquest, a need for radical change, or an unshakable conviction. Your path may be paved by innate charisma, learned strategy, or profound influence. Embrace a spectrum of command, for the only constant is that every true Leader leads their own way.<br><br><strong><u>Base Class Feature:</u></strong><br><br><strong>Hit Points:</strong></p>\n<ul>\n<li>Hit Points at 1st Level: 8</li>\n<li>Hit Points at Higher Levels: Gain +5 per level</li>\n</ul>\n<p><br><strong>Proficiencies:</strong></p>\n<ul>\n<li>Saving Throws: Charisma, and one additional proficiency based on the selected subclass</li>\n<li>Skills: Choose 2 from subclass exclusive lists</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/ViTVSAt.png\" alt=\"ViTVSAt.png\"><br><br><strong>Base Class Features:</strong></p>\n<ul>\n<li>Subclass Selection</li>\n<li>Charismatic Presence: You gain a +2 roll bonus to charisma saving throws and learn the Charm Person spell.</li>\n<li>3 Motivation Charges: Motivation Charges are a new action resource that are used for class and subclass-specific actions, these refresh on a long rest.</li>\n</ul>\n<h2>Select your subclass, check the Articles for more information - <a href=\"https://www.nexusmods.com/baldursgate3/articles/1611\">Warlord</a>, <a href=\"https://www.nexusmods.com/baldursgate3/articles/1612\">Evangelist</a>, <a href=\"https://www.nexusmods.com/baldursgate3/articles/1613\">Puppeteer</a>, <a href=\"https://www.nexusmods.com/baldursgate3/articles/1614\">Broker</a>, and <a href=\"https://www.nexusmods.com/baldursgate3/articles/1615\">Empath</a>.</h2>\n<p><br><img src=\"https://i.imgur.com/ML62QjY.png\" alt=\"ML62QjY.png\"><br><strong><br>Subclass Features:</strong></p>\n<ul>\n<li>Select a passive boon that helps you in combat or you allies.</li>\n<li>Preach, Incite, Influence, Bargain, and Resonate can be changed at each Leader level, All passives scale up based on your characters level at levels 6, 11, and 17.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/R4uURp4.png\" alt=\"R4uURp4.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>Loyal Companion: Expend a Bonus Action + Motivation Charge to form a powerful connection with an enemy, the target is drawn to your side as a devoted companion. This companion lasts until killed or you choose a new companion. Minor Warning: The Loyal Companion will turn hostile if you recruit a new companion. (Loyal Companions are given a teleport to use out of combat to help with traversal if they get stuck.)</li>\n<li>+1 Additional Motivation Charge (4)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/teRa2il.png\" alt=\"teRa2il.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Select a Feat</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/ieUAfwV.png\" alt=\"ieUAfwV.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>+1 Motivation Charge (5)</li>\n<li>Strategic Command: Inspire Action - Expend a Bonus Action + Motivation Charge, allowing you to choose one allied creature within 9m/30ft. That creature gains advantage on its next attack roll before the end of its next turn.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/1uhoXIx.png\" alt=\"1uhoXIx.png\"><br><br><strong>Subclass Features:</strong></p>\n<ul>\n<li>Gain auras based on your Subclass, these auras persist through long rest.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/xDvNHD0.png\" alt=\"xDvNHD0.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>+1 Motivation Charge (6)</li>\n<li>Companion Archetype: Your Loyal Companion develops specialized training. You can choose to grant it one of five archetypes: Vanguard, Skirmisher, Support, Arcanist, or Duelist.</li>\n</ul>\n<ol>\n<li>Vanguard: Your companion becomes a sturdy frontline combatant. It gains a +2 bonus to its AC, and damage taken is reduced by 2.</li>\n<li>Skirmisher: Your companion becomes agile and adept at flanking. It gains a +1 Bonus to its Dexterity score (to a maximum of 20) and its movement speed is increased by 3m/10ft. Additionally, it will not provoke Opportunity Attacks.</li>\n<li>Support: Your companion focuses on aiding you and your allies. It gains a +1 Bonus to its Wisdom score (to a maximum of 20) and it can use the Help action. Additionally, once per short rest, it can cast Cure Wounds at 1st level.</li>\n<li>Arcanist: Your companion becomes a focused spellcaster. It gains the ability to cast the Fire Bolt cantrip, and is able to cast 1st level Magic Missile and Burning Hands once per short rest.</li>\n<li>Duelist: Your companion becomes a swift and precise combatant. It gains the ability to cast Duelist's Riposte and gains the ability to cast Compelled Duel once per combat.</li>\n</ol>\n<p><br><img src=\"https://i.imgur.com/IghtQDo.png\" alt=\"IghtQDo.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Select a Feat</li>\n<li>(Tier 1) Edicts of Command: Edicts of Command are powerful mental abilities that manipulate the morale and perception of both allies and enemies. (You can choose two at level 8, one at level 12, one at level 16, and one at level 20) Each level interval increases the Tier of your Edicts of Command, unlocking spells that have a higher motivation charge cost. (View <a href=\"https://www.nexusmods.com/baldursgate3/articles/1526\">Articles</a> for more information).</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/X6mOZ0V.png\" alt=\"X6mOZ0V.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>+1 Motivation Charge (7)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/fkAehGi.png\" alt=\"fkAehGi.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Rallying Cry: You can expend a Bonus Action + Motivation Charge, allowing you to let out a powerful cry that ends the frightened or charmed condition on allied creatures within 9m/30ft. These creatures are also immune to becoming charmed or frightened for 3 turns and gain temporary HP equal to twice your character level.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/5XQG6Pd.png\" alt=\"5XQG6Pd.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>+1 Motivation Charge (8)</li>\n<li>Foresightful Action: Gain an additional Bonus Action Point.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/Mi4CYBf.png\" alt=\"Mi4CYBf.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>Select a Feat</li>\n<li>(Tier 2) Edicts of Command: Choose 1</li>\n<li>Companion Archetypes Enhanced:</li>\n</ul>\n<ol>\n<li>Vanguard: You gain a +3 bonus to AC, and damage taken is reduced by 2+ its Constitution Modifier.</li>\n<li>Skirmisher: You gain a +1 bonus to your DEX score (to a max of 20), its movement speed is increased by 3m/10ft, and it will not provoke Opportunity Attacks. Additionally, the numbed needed to roll a critical hit is reduced by 2.</li>\n<li>Support: You gain a +1 bonus to your WIS score (to a max of 20), and can use the Help action. Additionally, you can cast Cure Wounds as a 1st and 2nd level spell once per short rest and can cast Sanctuary once per long rest.</li>\n<li>Arcanist: You gain the ability to cast the Fire Bolt cantrip, and Magic Missiles and Burning Hands as a 1st level spell. Additionally, it adds it's Intelligence Modifier to their spell damage roll, and is able to cast Ice Storm as a 3rd level spell once per long rest.</li>\n<li>Duelist: You gain the ability to cast Duelist's Riposte, and Compelled Duel once per combat. Additionally, it adds it's Dexterity Modifier to their melee weapon attack rolls and gains the Sentinel: Vengeance feature.</li>\n</ol>\n<p><br><img src=\"https://i.imgur.com/nOyBmVW.png\" alt=\"nOyBmVW.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>+1 Motivation Charge (9)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/MRmfPc3.png\" alt=\"MRmfPc3.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Indomitable Will: You can expend a Motivation Charge to gain Advantage on your Attack Roll or Saving Throw.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/FBaUJla.png\" alt=\"FBaUJla.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>+1 Motivation Charge (10)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/jeqSkaW.png\" alt=\"jeqSkaW.png\"><br><strong><br>Class Features:</strong></p>\n<ul>\n<li>Select a Feat</li>\n<li>(Tier 3) Edicts of Command: Choose 1</li>\n<li>Restorative Command: As an Action, you can restore your Motivation Charges equal to your Charisma Modifier.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/UOd2tKj.png\" alt=\"UOd2tKj.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>+1 Motivation Charge (11)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/qcm30sg.png\" alt=\"qcm30sg.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>Paragon of Leadership: Your influence becomes truly profound. Allies within 6 meters gain a bonus to all saving throws equal to your charisma modifier, and your Loyal Companion gains this bonus in addition to advantage on all attack rolls.</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/tjOLFky.png\" alt=\"tjOLFky.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>+1 Motivation Charge (12)</li>\n</ul>\n<p><br><img src=\"https://i.imgur.com/iMU66CI.png\" alt=\"iMU66CI.png\"><br><strong><br>Class Feature:</strong></p>\n<ul>\n<li>(Tier 4) Edicts of Command: Choose 1</li>\n<li>Subclass Capstone</li>\n</ul>\n<p><br><br><br></p>\n<div style=\"text-align:center;\"><span style=\"font-size:large;\"><u><strong>Additional Notes</strong></u></span></div>\n<p><br><br>Please note: This class has had very little testing so insight on balance and bugs would be much appreciated.<br><br><span style=\"color:#cc0000;\"><span style=\"font-size:medium;\">WARNINGS:</span></span></p>\n<ul>\n<li>Killing a Loyal Companion/Pawn while it's allied to you, doesn't drop its regular loot.</li>\n<li>Making story NPC a Loyal Companion/Pawn may cause the game to bug out/crash. (Most bosses should be un-targetable).</li>\n<li>When using Loyal Companion/Pawn on large companion, it can cause some pathfinding issues.</li>\n</ul>\n<p><br><br><strong>Credits:</strong><br>This class was a collaborative effort, and I want to give a special thanks to those who helped. The original idea came from <a href=\"https://next.nexusmods.com/profile/Dedewhale?pk_vid=75008c9c5e39b746175397583340e903\">Dedewhale</a>, and we worked together to bring it to life. A big shout-out goes to <a href=\"https://next.nexusmods.com/profile/IncogneatoBurrito\">IncogneatoBurrito</a> for creating the Osiris script for the Loyal Companion and for making all the mod's images. Finally, thank you to <a href=\"https://next.nexusmods.com/profile/SansHelvetica?gameId=3474\">SansHelvetica</a> for their valuable help with the class's progressions.</p>\n<p> </p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>",
     "date_added": 1754026661,
-    "date_updated": 1783953207,
+    "date_updated": 1786629840,
     "date_live": 1754026971,
     "visible": 1,
     "status": 1,
@@ -133084,15 +133084,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7304196,
+      "id": 8092495,
       "mod_id": 5133933,
-      "version": "1.0.0.13",
-      "filename": "leader_homebrew_class_84a40a20-2e0a.zip",
-      "changelog": "•  Change class tags to represent each subclass (Best used with DART).\n• Changed Wrenching Empathy cast animation.\n•  Fixed Shared Empathy status.\n•  A few grammar fixes.\n• Added the remaining spell icons to Broker and Empath. (Thanks to IncogneatoBurrito).",
-      "date_added": 1769123509,
+      "version": "1.0.0.14",
+      "filename": "leader_homebrew_class_84a40a20-6sr1.zip",
+      "changelog": "• Updated Class and Subclass Icons. Provided by Edhelsereg\n• Fixed Martyr's Sacrifice description.",
+      "date_added": 1786629688,
       "date_updated": 0,
-      "date_scanned": 1769123863,
-      "filesize": 32942334,
+      "date_scanned": 1786629750,
+      "filesize": 33413693,
       "platforms": [
         {
           "platform": "windows",
@@ -133100,24 +133100,24 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
     "logo": {
-      "filename": "01-leaderhomebrewclassthumbnail.2.png",
-      "original": "https://image.modcdn.io/mods/3398/5133933/01-leaderhomebrewclassthumbnail.2.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/3398/5133933/crop_320x180/01-leaderhomebrewclassthumbnail.2.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/3398/5133933/crop_640x360/01-leaderhomebrewclassthumbnail.2.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/3398/5133933/crop_1280x720/01-leaderhomebrewclassthumbnail.2.png"
+      "filename": "new-leaderhomebrewclassthumbnai.1.png",
+      "original": "https://image.modcdn.io/mods/3398/5133933/new-leaderhomebrewclassthumbnai.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/3398/5133933/crop_320x180/new-leaderhomebrewclassthumbnai.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/3398/5133933/crop_640x360/new-leaderhomebrewclassthumbnai.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/3398/5133933/crop_1280x720/new-leaderhomebrewclassthumbnai.1.png"
     },
     "tags": [
       {
@@ -133158,10 +133158,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7304196
-      },
-      {
         "platform": "mac",
         "modfile_live": 7304196
       },
@@ -133172,6 +133168,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7304196
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8092495
       }
     ]
   },
@@ -154015,7 +154015,7 @@
       "mod_id": 6040654,
       "version": "2.5.1.83",
       "filename": "edh_familiars_9e296d8e-02fa-84-1kng.zip",
-      "changelog": "- All spawn animation vfx now match casting and death vfx\n- Familiar loot are no longer a Story Items\n- Warlock familiars gain extra attack even if summoned from other sources.\n- New Golden Canary legendary familiar added\n- New Toxic Frog familiar added\n- Warlocks gain new alternate forms for boar, cat, dog, and spider\n- Removed duplicate Find Undead Familiar spell from Arcane Trickster progression\n- Updated portraits for bat and vampire bat\n- Timber now had a bite attack",
+      "changelog": "- All spawn animation vfx now match casting and death vfx\n- Familiar loot are no longer a Story Items\n- Warlock familiars gain extra attack even if summoned from other sources.\n- New Golden Canary legendary familiar added\n- New Toxic Frog familiar added\n- Warlocks gain new alternate forms for boar, cat, dog, and spider\n- Removed duplicate Find Undead Familiar spell from Arcane Trickster progression\n- Updated portraits for bat and vampire bat\n- Timber now has a necrotic bite attack",
       "date_added": 1786596460,
       "date_updated": 0,
       "date_scanned": 1786596820,
@@ -156177,9 +156177,9 @@
     "name": "Ancient Mega Pack Plus",
     "name_id": "ancient-mega-pack-plus",
     "summary": "AMP Plus is a patch for Ancient Mega Pack that keeps fixing and improving it after its final release: bug fixes, balance and difficulty tuning, plus a few new ULTRA mini-bosses.",
-    "description": "<h2><strong>Ancient Mega Pack Plus</strong></h2>\n<p>A substantial maintenance, balance and content update for Ancient Mega Pack, carrying the mod forward after its final base release, but <strong>not for long</strong>. It collects the fixes, the difficulty work and several new endgame encounters that kept arriving from player feedback once the base mod was called done.</p>\n<p style=\"color:#c98a4a;\"><strong>This is not a standalone mod. It requires Ancient Mega Pack.</strong> Install it next to <a href=\"https://mod.io/g/baldursgate3/m/ancient-mega-pack-rel#description\">Ancient Mega Pack</a> and let it load after. On its own it does nothing.</p>\n<hr>\n<h3>Changes</h3>\n<ul>\n<li><strong>Fixes</strong> for bugs that turned up after the final AMP build, most of them reported on the Discord.</li>\n<li><strong>Balance and difficulty</strong> passes on HARD and ULTRA mode, the Eclipse mechanic and the Pyre, following player feedback.</li>\n<li><strong>New ULTRA mini-bosses</strong> for the endgame pool, built in the same style as the ones already there.</li>\n</ul>\n<p>If your current AMP run is going fine, you lose nothing by adding it. Existing saves carry over.</p>\n<hr>\n<h2><strong>In This Updates(1.10/1.10.1/1.10.2)..</strong></h2>\n<h2><strong>Update 1.10</strong></h2>\n<p>A major update covering the polish of the War rings, as well as a full redesign of a whole family of epic Runic Shards.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- The ten penetration Runic Shards are now ten tinkers, each a loss on its own that pays out from what else is set in the weapon or from how the fight stands<br>- War Ring doctrines are now taken one step at a time as you rise, and doctrines of different cultures stack instead of replacing each other<br>- A seventh war doctrine has been added<br>- Some of the war doctrines were rewritten<br>- War Orders now come with the rank of Captain, and every rank above it lets you give them more often<br>- Mutating your ooze is no longer a spell and can no longer be countered (thanks @Bodrick [TAV])<br>- The Runic Shard of Weave Surge now rerolls the cantrip attack roll its text promises (thanks @Uturn)<br>- The Runic Shard of Warding now states the radius its temporary Hit Points reach</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- Everything that puts out the Pyre now works 25% better (thanks @Bish)<br>- A boss now enters the eclipse once in its life (thanks @Vludber)<br>- An eclipsed boss can no longer be made to flee or approach by Command (thanks @Bish)<br>- ULTRA mini-bosses now stay prone when the effect comes from an item, a surface or a status you placed on them<br>- An ULTRA mini-boss that stops acting on its turn now attacks the nearest player. This one is not certain yet<br>- Alpha no longer lands on party members (thanks @Vludber)<br>- Tickhara's light now falls on whoever joins her fight, and breaking off does not put it out (thanks @Vludber)<br>- Valdryn's charged strike now hits a single target, and his aura release can no longer reach a target under Sanctuary (thanks @Vludber, @Bish)<br>- Doomflame no longer pays health for a counterspell, his twin cast is spent on what he throws, and Efreeti's Bulwark now breaks against water he manifests into (thanks @brothero_)</p>\n<h2><strong>LOOT</strong></h2>\n<p>- The Swamp Void Capsule is now Very Rare, and is priced and found as rarely as the ring capsule<br>- Bernard's loot now drops as it should (thanks @wh1te_ghost)</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Percolation now reaches the wearer while an enemy under Moleculation stands within range<br>- Overshadowing now wraps you in Veil for three turns<br>- Master's Cloak of Wonders now counts a High Half-Elf among the elves its last gift is written for (thanks @Vludber)<br>- Duergar Torture Ring now answers to Reverberation from any source (thanks @Air1Fire)<br>- Chaotic Burst now deals the damage its text states (thanks @frivr [xdd])<br>- Spy Captain now hides you again after you act outside combat (thanks @Sir Saint Savage)<br>- Lord of War no longer lists a lower Critical Hit threshold, which the artefact grants on its own from Rare up (thanks @Uturn)<br>- The Booming Blade granted by Kyzr's commissioned armour now shows its proper icon (thanks @Air1Fire)</p>\n<h2><strong>Update 1.10.1</strong></h2>\n<p>A new face joins the ULTRA ranks, and Dark One's Grace no longer leaves its wearer neither dead nor alive.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Quest items and keys taken from a body no longer go to the camp chest (thanks @ldley)</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- A new ULTRA mini-boss has joined the pool: Tesshin, Blade of House Hozana, a swordsman who has spent a very long time trying to die and has not managed it yet (as part of paid commission from @gnomus)<br>- Eclipse now clears more harmful conditions</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Dark One's Grace no longer makes you invulnerable and now stops only weak hits. Players wrote to me about this for a long time: the wearer ended up neither dead nor alive, and the game could lock up<br>- Moleculation has been polished further<br>- Shockfront no longer hits your own party<br>- Smoke Spirit Essence now turns you Invisible once per turn at most, and the chance is lower on every rarity<br>- Master's Cloak of Happy Ending now restores a smaller share of your maximum HP and absorbs its charges once per turn at most<br>- The force orb no longer sets off an endless chain of gravity waves outside combat (thanks @Cacao_Spy)<br>- Tidal Disruption now adds its damage against Slowed enemies, as its text states<br>- Gravity waves from the force artefacts now reach only those already in the fight (thanks @wh1te_ghost)</p>\n<h2><strong>Update 1.10.2</strong></h2>\n<p>Some important ULTRA mini-bosses fixes.</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- ULTRA mini-bosses have had their behaviour reworked to run better, and this may also stop them freezing for no reason<br>- Eclipse no longer erupts outside combat, and a boss now actually reaches it only once in its life. The resistances and immunities it grants now name Eclipse as their source<br>- Tesshin can now be killed permanently, and he now drops his reward (thanks @Vludber)<br>- Vael's copy of a Cleric is now more mature and no longer useless</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Potent Magic charges now have a single limit shared by every item that grants them (everyone knows why)<br>- Gravity waves from Moleculation no longer set each other off in a chain, and now reach enemies only<br>- Nucleation now gives one charge of Moleculation per attack, and no longer marks a dying enemy</p>\n<h2><strong>Read the rest of the patchnotes in the file history on mod.io</strong></h2>\n<hr>\n<h2><strong>Credits</strong></h2>\n<p>Ancient Mega Pack and this update by Paramonov &amp; AMP Discord server.</p>",
+    "description": "<h2><strong>Ancient Mega Pack Plus</strong></h2>\n<p>A substantial maintenance, balance and content update for Ancient Mega Pack, carrying the mod forward after its final base release, but <strong>not for long</strong>. It collects the fixes, the difficulty work and several new endgame encounters that kept arriving from player feedback once the base mod was called done.</p>\n<p style=\"color:#c98a4a;\"><strong>This is not a standalone mod. It requires Ancient Mega Pack.</strong> Install it next to <a href=\"https://mod.io/g/baldursgate3/m/ancient-mega-pack-rel#description\">Ancient Mega Pack</a> and let it load after. On its own it does nothing.</p>\n<hr>\n<h3>Changes</h3>\n<ul>\n<li><strong>Fixes</strong> for bugs that turned up after the final AMP build, most of them reported on the Discord.</li>\n<li><strong>Balance and difficulty</strong> passes on HARD and ULTRA mode, the Eclipse mechanic and the Pyre, following player feedback.</li>\n<li><strong>New ULTRA mini-bosses</strong> for the endgame pool, built in the same style as the ones already there.</li>\n</ul>\n<p>If your current AMP run is going fine, you lose nothing by adding it. Existing saves carry over.</p>\n<hr>\n<h2><strong>In This Updates(1.10/1.10.1/1.10.2/1.10.3)..</strong></h2>\n<h2><strong>Update 1.10</strong></h2>\n<p>A major update covering the polish of the War rings, as well as a full redesign of a whole family of epic Runic Shards.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- The ten penetration Runic Shards are now ten tinkers, each a loss on its own that pays out from what else is set in the weapon or from how the fight stands<br>- War Ring doctrines are now taken one step at a time as you rise, and doctrines of different cultures stack instead of replacing each other<br>- A seventh war doctrine has been added<br>- Some of the war doctrines were rewritten<br>- War Orders now come with the rank of Captain, and every rank above it lets you give them more often<br>- Mutating your ooze is no longer a spell and can no longer be countered (thanks @Bodrick [TAV])<br>- The Runic Shard of Weave Surge now rerolls the cantrip attack roll its text promises (thanks @Uturn)<br>- The Runic Shard of Warding now states the radius its temporary Hit Points reach</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- Everything that puts out the Pyre now works 25% better (thanks @Bish)<br>- A boss now enters the eclipse once in its life (thanks @Vludber)<br>- An eclipsed boss can no longer be made to flee or approach by Command (thanks @Bish)<br>- ULTRA mini-bosses now stay prone when the effect comes from an item, a surface or a status you placed on them<br>- An ULTRA mini-boss that stops acting on its turn now attacks the nearest player. This one is not certain yet<br>- Alpha no longer lands on party members (thanks @Vludber)<br>- Tickhara's light now falls on whoever joins her fight, and breaking off does not put it out (thanks @Vludber)<br>- Valdryn's charged strike now hits a single target, and his aura release can no longer reach a target under Sanctuary (thanks @Vludber, @Bish)<br>- Doomflame no longer pays health for a counterspell, his twin cast is spent on what he throws, and Efreeti's Bulwark now breaks against water he manifests into (thanks @brothero_)</p>\n<h2><strong>LOOT</strong></h2>\n<p>- The Swamp Void Capsule is now Very Rare, and is priced and found as rarely as the ring capsule<br>- Bernard's loot now drops as it should (thanks @wh1te_ghost)</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Percolation now reaches the wearer while an enemy under Moleculation stands within range<br>- Overshadowing now wraps you in Veil for three turns<br>- Master's Cloak of Wonders now counts a High Half-Elf among the elves its last gift is written for (thanks @Vludber)<br>- Duergar Torture Ring now answers to Reverberation from any source (thanks @Air1Fire)<br>- Chaotic Burst now deals the damage its text states (thanks @frivr [xdd])<br>- Spy Captain now hides you again after you act outside combat (thanks @Sir Saint Savage)<br>- Lord of War no longer lists a lower Critical Hit threshold, which the artefact grants on its own from Rare up (thanks @Uturn)<br>- The Booming Blade granted by Kyzr's commissioned armour now shows its proper icon (thanks @Air1Fire)</p>\n<h2><strong>Update 1.10.1</strong></h2>\n<p>A new face joins the ULTRA ranks, and Dark One's Grace no longer leaves its wearer neither dead nor alive.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Quest items and keys taken from a body no longer go to the camp chest (thanks @ldley)</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- A new ULTRA mini-boss has joined the pool: Tesshin, Blade of House Hozana, a swordsman who has spent a very long time trying to die and has not managed it yet (as part of paid commission from @gnomus)<br>- Eclipse now clears more harmful conditions</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Dark One's Grace no longer makes you invulnerable and now stops only weak hits. Players wrote to me about this for a long time: the wearer ended up neither dead nor alive, and the game could lock up<br>- Moleculation has been polished further<br>- Shockfront no longer hits your own party<br>- Smoke Spirit Essence now turns you Invisible once per turn at most, and the chance is lower on every rarity<br>- Master's Cloak of Happy Ending now restores a smaller share of your maximum HP and absorbs its charges once per turn at most<br>- The force orb no longer sets off an endless chain of gravity waves outside combat (thanks @Cacao_Spy)<br>- Tidal Disruption now adds its damage against Slowed enemies, as its text states<br>- Gravity waves from the force artefacts now reach only those already in the fight (thanks @wh1te_ghost)</p>\n<h2><strong>Update 1.10.2</strong></h2>\n<p>Some important ULTRA mini-bosses fixes.</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- ULTRA mini-bosses have had their behaviour reworked to run better, and this may also stop them freezing for no reason<br>- Eclipse no longer erupts outside combat, and a boss now actually reaches it only once in its life. The resistances and immunities it grants now name Eclipse as their source<br>- Tesshin can now be killed permanently, and he now drops his reward (thanks @Vludber)<br>- Vael's copy of a Cleric is now more mature and no longer useless</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Potent Magic charges now have a single limit shared by every item that grants them (everyone knows why)<br>- Gravity waves from Moleculation no longer set each other off in a chain, and now reach enemies only<br>- Nucleation now gives one charge of Moleculation per attack, and no longer marks a dying enemy</p>\n<h2><strong>Update 1.10.3</strong></h2>\n<p>Almost nothing this time. A few small things.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Moleculation has had a few small adjustments<br>- Anvil, Lead, Brick, Dissonance and Forestall shards now actually add the damage their tooltips promise (thanks @alexandr7088, @zeno3285)<br>- Arcane Surge shard now actually gives Arcane Acuity for killing a creature with a spell. It no longer gives Intelligence (thanks @wh1te_ghost)<br>- Drift shard now works the way its text describes<br>- Brick shard now names what its damage waits for (thanks @Air1Fire, @zeno3285)</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- The Reckoning affix is now called Massacre. Its extra damage has been reduced by 66%<br>- Zephra has had small behaviour changes after all the feedback. She leans on her blizzard less<br>- More fixes for ULTRA mini-bosses that freeze<br>- Battle Instinct no longer returns to a boss when you load a save in the middle of a fight<br>- Tesshin no longer leaves the Gaze of the Dark One behind him. He also no longer returns after you have already put him down. He now has more health and uses his reactions more freely. He also has his own toggle on the Training Ring, like every other champion of the pool (thanks @Uturn)<br>- Doomflame's death explosion is now visible (i hope)<br>- Vael no longer copies a party member without their armour (goodbye naked dudes)<br>- Gift of the Black Star now holds against Tickhara's Solar Curse and Eye of Ra (thanks @Vludber)<br>- Tickhara's curses now leave a creature that has stopped being her enemy<br>- Gaze of the Dark One now also marks you while an ambush waits for you to leave camp<br>- Grym no longer pulls you in or calls his drones in Stock mode (thanks @Mordh)</p>\n<h2><strong>LOOT</strong></h2>\n<p>- The Void Capsule no longer breaks down one legendary ring on the odds of a lesser rarity (thanks @ebonyape, @.mrten., @fateo1)<br>- A Void Capsule on a campaign that started before this update no longer hands your coin back instead of a reward. Celestial coins work in every capsule there again (thanks @ebonyape, @.mrten., @fateo1)</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Master's Cloak of the Hydra now calculates its acid toll from your own health (thanks @Inviniatar)<br>- Toxemia now loses a charge no more than once per turn (thanks @Air1Fire, @yjonu., @Inviniatar)<br>- Family Ring now adds its radiant damage to your attacks only. The bonus is slightly stronger (thanks @_.bananas._)<br>- Defender's Flail of Easthaven has been significantly weakened. The buff it got was a mistake<br>- Bulwark of Light now actually burns the one who hits you (thanks @Bodrick [TAV])<br>- Gauntlets of Reflection now build Lightning Charges from foes carrying Reverberation<br>- Rings of Underdark now lay the Darkness Cloud they promise (thanks @unknowngabi)<br>- Orb of Light now marks the one who hits you with a Radiating Orb. Its Daylight names the once per combat limit (thanks @Air1Fire)<br>- Orb of Lightning now states that its Legendary Chain Lightning strikes two targets (thanks @Air1Fire)<br>- Chronomancer's Stride now keeps the Temporal Distortion toggle where you left it (thanks @Bish)<br>- Hat of Eternal Echo now adds the damage its Very Rare version promises (thanks @Air1Fire)<br>- The Spy Captain amulet now brings its invisibility back after you act outside combat (thanks @Sir Saint Savage)<br>- Last Breath now hands its Action Surge at the start of your turn (thanks @Bish)</p>\n<h2><strong>Read the rest of the patchnotes in the file history on mod.io</strong></h2>\n<hr>\n<h2><strong>Credits</strong></h2>\n<p>Ancient Mega Pack and this update by Paramonov &amp; AMP Discord server.</p>",
     "date_added": 1782391536,
-    "date_updated": 1786443631,
+    "date_updated": 1786633217,
     "date_live": 1782391975,
     "visible": 1,
     "status": 1,
@@ -156193,15 +156193,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/6fc3/4705162/crop_100x100/721e75868f230c41a00bb9459420dde.jpg"
     },
     "modfile": {
-      "id": 8084782,
+      "id": 8092594,
       "mod_id": 6163496,
-      "version": "1.10.2.42",
-      "filename": "amp_plus_fcf1d25f-1309-a9f7-ff-8rc9.zip",
-      "changelog": "Update 1.10.2\n\nSome important ULTRA mini-bosses fixes.\n\nDIFFICULTY\n- ULTRA mini-bosses have had their behaviour reworked to run better, and this may also stop them freezing for no reason\n- Eclipse no longer erupts outside combat, and a boss now actually reaches it only once in its life. The resistances and immunities it grants now name Eclipse as their source\n- Tesshin can now be killed permanently, and he now drops his reward (thanks @Vludber)\n- Vael's copy of a Cleric is now more mature and no longer useless\n\nITEM CHANGES\n- Potent Magic charges now have a single limit shared by every item that grants them (everyone knows why)\n- Gravity waves from Moleculation no longer set each other off in a chain, and now reach enemies only\n- Nucleation now gives one charge of Moleculation per attack, and no longer marks a dying enemy",
-      "date_added": 1786442952,
+      "version": "1.10.3.43",
+      "filename": "amp_plus_fcf1d25f-1309-a9f7-ff-1apo.zip",
+      "changelog": "Update 1.10.3\n\nAlmost nothing this time. A few small things.\n\nGENERAL CHANGES\n- Moleculation has had a few small adjustments\n- Anvil, Lead, Brick, Dissonance and Forestall shards now actually add the damage their tooltips promise (thanks @alexandr7088, @zeno3285)\n- Arcane Surge shard now actually gives Arcane Acuity for killing a creature with a spell. It no longer gives Intelligence (thanks @wh1te_ghost)\n- Drift shard now works the way its text describes\n- Brick shard now names what its damage waits for (thanks @Air1Fire, @zeno3285)\n\nDIFFICULTY\n- The Reckoning affix is now called Massacre. Its extra damage has been reduced by 66%\n- Zephra has had small behaviour changes after all the feedback. She leans on her blizzard less\n- More fixes for ULTRA mini-bosses that freeze\n- Battle Instinct no longer returns to a boss when you load a save in the middle of a fight\n- Tesshin no longer leaves the Gaze of the Dark One behind him. He also no longer returns after you have already put him down. He now has more health and uses his reactions more freely. He also has his own toggle on the Training Ring, like every other champion of the pool (thanks @Uturn)\n- Doomflame's death explosion is now visible (i hope)\n- Vael no longer copies a party member without their armour (goodbye naked dudes)\n- Gift of the Black Star now holds against Tickhara's Solar Curse and Eye of Ra (thanks @Vludber)\n- Tickhara's curses now leave a creature that has stopped being her enemy\n- Gaze of the Dark One now also marks you while an ambush waits for you to leave camp\n- Grym no longer pulls you in or calls his drones in Stock mode (thanks @Mordh)\n\nLOOT\n- The Void Capsule no longer breaks down one legendary ring on the odds of a lesser rarity (thanks @ebonyape, @.mrten., @fateo1)\n- A Void Capsule on a campaign that started before this update no longer hands your coin back instead of a reward. Celestial coins work in every capsule there again (thanks @ebonyape, @.mrten., @fateo1)\n\nITEM CHANGES\n- Master's Cloak of the Hydra now calculates its acid toll from your own health (thanks @Inviniatar)\n- Toxemia now loses a charge no more than once per turn (thanks @Air1Fire, @yjonu., @Inviniatar)\n- Family Ring now adds its radiant damage to your attacks only. The bonus is slightly stronger (thanks @_.bananas._)\n- Defender's Flail of Easthaven has been significantly weakened. The buff it got was a mistake\n- Bulwark of Light now actually burns the one who hits you (thanks @Bodrick [TAV])\n- Gauntlets of Reflection now build Lightning Charges from foes carrying Reverberation\n- Rings of Underdark now lay the Darkness Cloud they promise (thanks @unknowngabi)\n- Orb of Light now marks the one who hits you with a Radiating Orb. Its Daylight names the once per combat limit (thanks @Air1Fire)\n- Orb of Lightning now states that its Legendary Chain Lightning strikes two targets (thanks @Air1Fire)\n- Chronomancer's Stride now keeps the Temporal Distortion toggle where you left it (thanks @Bish)\n- Hat of Eternal Echo now adds the damage its Very Rare version promises (thanks @Air1Fire)\n- The Spy Captain amulet now brings its invisibility back after you act outside combat (thanks @Sir Saint Savage)\n- Last Breath now hands its Action Surge at the start of your turn (thanks @Bish)",
+      "date_added": 1786632206,
       "date_updated": 0,
-      "date_scanned": 1786443012,
-      "filesize": 29472389,
+      "date_scanned": 1786632266,
+      "filesize": 29523979,
       "platforms": [
         {
           "platform": "windows",
@@ -156295,7 +156295,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8084782
+        "modfile_live": 8092594
       }
     ]
   },
