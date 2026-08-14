@@ -57440,7 +57440,7 @@
     "summary": "Adds 30 new items for Cleric throughtout the game, 10 Items per Act.",
     "description": "<p>Empower your Cleric to become a beacon of faith and resilience with the Faith and Fortitude mod! Designed to elevate the support capabilities of Clerics and make them even more engaging to play, this mod offers a comprehensive suite of equipment to bolster their role as pillars of support. All items are designed to seamlessly integrate with Larian's existing balance philosophy. Please provide feedback to help improve a balanced experience for all! Share your thoughts and help ensure your Cleric reaches their full potential! </p>\n<p>- Each Act adds 10 items curated for Cleric</p>\n<p>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/9415\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/f8y72rP\">Act 1</a>, <a href=\"https://imgur.com/a/JcC3mYb\">Act 2</a>, <a href=\"https://imgur.com/a/7bApFZY\">Act 3</a></p>\n<p>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1728750705,
-    "date_updated": 1784925590,
+    "date_updated": 1786707506,
     "date_live": 1730475917,
     "visible": 1,
     "status": 1,
@@ -57470,15 +57470,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -57538,19 +57538,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8011346
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7551690
+        "modfile_live": 8011346
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7551690
+        "modfile_live": 8011346
       },
       {
         "platform": "ps5",
-        "modfile_live": 7551690
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8011346
       }
     ]
@@ -60769,7 +60769,7 @@
     "summary": "The most ambitious D&amp;D 5.5e conversion yet: 16 classes, 119 subclasses, 84 feats, 99 new/revised spells, 40 backgrounds, 11 new subraces, and 10 core rule changes — a complete rebuild, still growing with every update.",
     "description": "DnD 5.5e All-in-One BEYOND\n<p><a href=\"https://github.com/Yoonmoonsik/bg3dnd\">DnD 5.5e All-in-One BEYOND</a> is a Baldur's Gate 3 mod that packs a broad set of D&amp;D 5.5e-inspired rules, player options, spells, feats, equipment, and class updates into a single all-in-one mod.</p>\n<p>For deeper gameplay notes, class details, spell behavior, item locations, and community-maintained documentation, see the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a>.</p>\n<p><em>Note: The Wiki is maintained by community contributors and is not officially written or managed by the mod developer. Some information may be incomplete, outdated, or inaccurate.</em></p>\n<h2>Bug Reports and Questions</h2>\n<ul>\n<li><strong>Bug reports:</strong> open a report in <a href=\"https://github.com/Yoonmoonsik/bg3dnd/issues\">Issues</a>.</li>\n<li><strong>Questions, suggestions, requests, and general feedback:</strong> post in <a href=\"https://github.com/Yoonmoonsik/bg3dnd/discussions\">Discussions</a>.</li>\n</ul>\n<h2>YouTube</h2>\n<p>For gameplay examples, build ideas, and practical references, check the playthrough videos on the <a href=\"https://www.youtube.com/@bg3dnd\">YouTube channel</a> and the dedicated <a href=\"https://www.youtube.com/playlist?list=PLOxzTx3j5VdueKEU6lfAmzKL5KQt0rNhi\">playthrough playlist</a>.</p>\n<h2>Rules and Actions</h2>\n<ul>\n<li><strong>Common Actions:</strong> Distract, Dodge, Equipping Weapons, Extra Attack (including War Magic integration), Hide, Jump, Shove, Topple</li>\n<li><strong>Conditions:</strong> Bloodied, Down, Prone</li>\n<li><strong>Rest and Recovery:</strong> Hit Point Dice, Inspiration from Background</li>\n<li><strong>Spellcasting:</strong> One Spell Slot Spell per Turn, Spell Scroll Usage Limitation</li>\n<li><strong>Equipment and Items:</strong> Heavy Armor Strength Requirement, Heavy Weapon Ability Requirement, Weapon Mastery</li>\n</ul>\n<h2>Backgrounds</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Backgrounds\">Backgrounds</a>.</p>\n<p>40 backgrounds are available. Each grants 2 skill proficiencies and an Origin Feat at character creation: Acolyte, Charlatan, Chondathan Freebooter, Criminal, Dead Magic Dweller, Dragon Cultist, Emerald Enclave Caretaker, Entertainer, Experiment, Farmer, Flaming Fist Mercenary, Folk Hero, Genie Touched, Guide, Guild Artisan, Harper, Haunted One, Hermit, Ice Fisher, Knight of the Gauntlet, Lords' Alliance Vassal, Merchant, Moonwell Pilgrim, Mulhorandi Tomb Raider, Mythalkeeper, Noble, Outlander, Purple Dragon Squire, Rashemi Wanderer, Rest Warden, Sage, Sailor, Scribe, Shadowmasters Exile, Soldier, Spellfire Initiate, Urchin, Wayfarer, Wicker Weaver, Zhentarim Mercenary.</p>\n<h2>Classes</h2>\n<p>See the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a> and each class page for detailed level progression and subclass features.</p>\n<ul>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Artificer\">Artificer</a></strong> — Alchemist, Armorer, Artillerist, Battle Smith</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Barbarian\">Barbarian</a></strong> — Berserker, Fractured, Giant, Shadow Gnawer, Wild Magic, Wildheart, World Tree, Zealot</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Bard\">Bard</a></strong> — Choreography, Dance, Glamour, Lore, Moon, Spirits, Swords, Valor</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Cleric\">Cleric</a></strong> — Apocalypse, Astral, Death, Forge, Grave, Nature, Shadow, Tempest, Knowledge, Life, Light, Mind, Trickery, Twilight, War</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Druid\">Druid</a></strong> — Circle of Dragons, Dreams, Stars, Land, Moon, Sea, Spores, Unbroken</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Fighter\">Fighter</a></strong> — Arcane Archer, Banneret, Battle Master, Cavalier, Champion, Eldritch Knight, Psi Warrior, Rune Knight, Viking</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Gunslinger\">Gunslinger</a></strong> — High Roller, Spellslinger, White Hat</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Illrigger\">Illrigger</a></strong> — Architect of Ruin, Hellspeaker, Painkiller, Sanguine Knight, Shadowmaster</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Monk\">Monk</a></strong> — Drunken Master, Elements, Kensei, Mercy, Open Hand, Shadow</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Monster-Hunter\">Monster Hunter</a></strong> — Carver Guild, Devourer Guild, Occultist Guild</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Paladin\">Paladin</a></strong> — Ancients, Conquest, Crown, Devotion, Glory, Noble Genies, Vengeance, Watchers, Oathbreaker</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Ranger\">Ranger</a></strong> — Beast Master, Fey Wanderer, Gloom Stalker, Hollow Warden, Hunter, Swarm Keeper, Winter Walker</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Rogue\">Rogue</a></strong> — Arachnoid Stalker, Arcane Trickster, Assassin, Blade of Radiance, Scion of the Three, Highway Rider, Soulknife, Swashbuckler, Thief</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Sorcerer\">Sorcerer</a></strong> — Aberrant Sorcery, Clockwork Sorcery, Divine Soul, Draconic Sorcery, Frost Sorcery, Heroic Sorcery, Shadow Magic, Spellfire Sorcery, Storm Sorcery, Wild Magic Sorcery</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Warlock\">Warlock</a></strong> — Archfey, Celestial, Fiend, Great Old One, Hexblade, Undead, expanded Invocations</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Wizard\">Wizard</a></strong> — Abjurer, Bladesinger, Conjurer, Diviner, Enchanter, Evoker, Illusionist, Necromancer, Transmuter</li>\n<li><strong>Psion</strong> — Coming soon</li>\n</ul>\n<h2>Feats</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Feats\">Feat</a>.</p>\n<p>Actor, Alert, Altered, Athlete, Charger, Charm Twister, Cold Caster, Crossbow Expert, Crusher, Cult of the Dragon Initiate, Deadly Archery, Death Defier, Defensive Duelist, Dragon Fear, Dragon Hide, Dragonscarred, Dragon-Slayer, Dual Wielder, Dungeon Delver, Durable, Dwarven Fortitude, Eldritch Adept, Elemental Adept, Elven Accuracy, Emerald Enclave Fledgling, Enclave Magic, Fade Away, Fairy Trickster, Fey Touched, Fierce Shot, Fighting Initiate, Flames of Phlegethos, Genie Magic, Gleam of Wrath, Grave Keeper, Great Weapon Master, Harper Agent, Harper Teamwork, Healer, Heavily Armored, Heavy Armor Master, Infernal Constitution, Inspiring Leader, Lightly Armored, Lordly Resolve, Lords' Alliance Agent, Lucky, Mage Slayer, Magic Initiate: Cleric, Magic Initiate: Druid, Magic Initiate: Wizard, Martial Adept, Medium Armor Master, Metamagic Adept, Moderately Armored, Mounted Combatant, Musician, Mythal Touched, Nimbleness, Orcish Fury, Order's Resilience, Piercer, Poisoner, Polearm Master, Purple Dragon Commandant, Purple Dragon Rook, Resilient, Ritual Caster, Rune Shaper, Savage Attacker, Sentinel, Shadow Touched, Sharpshooter, Shield Master, Skill Expert, Skilled, Skulker, Slasher, Speedy, Spellfire Adept, Spellfire Spark, Spell Sniper, Squat Nimbleness, Swift Witchcraft, Tavern Brawler, Tough, Tyro of the Gauntlet, War Caster, Weapon Master, Zhentarim Ruffian, Zhentarim Tactics.</p>\n<h3>Fighting Styles</h3>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Fighting-Styles\">Fighting Styles</a>.</p>\n<p>Archery, Blind Fighting, Defense, Dueling, Great Weapon Fighting, Interception, Protection, Thrown Weapon Fighting, Two-Weapon Fighting, Unarmed Fighting.</p>\n<h2>Races</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Races\">Race</a>.</p>\n<ul>\n<li>Aasimar, Changeling, Goliath, and Kalashtar are available as Human subrace options. Eladrin and Ice Elf are available as Elf subrace options. Dhampir can be taken as a Human, Elf, Tiefling, Dwarf, Halfling, or Gnome subrace.</li>\n<li>Dragonborn, Dwarf, Elf, Githyanki, Gnome, Half Elf, Halfling, Human, Orc, and Tiefling are supported.</li>\n<li>Several species include ancestry or lineage options, including Dragonborn Draconic Ancestry, Elf and Half Elf sub-lineages, Goliath Giant Ancestry, and Tiefling legacy options.</li>\n</ul>\n<h2>Spells</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Spells\">Spell</a>.</p>\n<p>The lists below cover new and revised spells only. The wiki has the complete per-level tables, including spells that are unchanged.</p>\n<h3>Cantrips</h3>\n<p>Acid Splash, Blade Ward, Blood Bolt, Booming Blade, Bursting Sinew, Finger Guns, Frightful Start, Green-Flame Blade, Hellfire, Holy Word, Mind Sliver, Sorcerous Burst, Spare the Dying, Starry Wisp, Sword Burst, Thunderclap, Toll the Dead, True Strike, Vengeful Blade, Word of Radiance.</p>\n<h3>Leveled Spells</h3>\n<ul>\n<li><strong>Level 1:</strong> Absorb Elements, Armor of Agathys, Ballistic Smite, Body Warping of Gorgoroth, Catapult, Chromatic Orb, Cloak of Shadow, Color Spray, Command, Cure Wounds, False Life, Healing Word, Hell's Lash, Hungering Blade, Spectral Slash, Spellfire Flare, Thorn Armor, Thunderous Smite, Tide of Darkness, Umbral Tendril, Wardaway, Witch Bolt, Wrathful Smite.</li>\n<li><strong>Level 2:</strong> Aganazzar's Scorcher, Arcane Vigor, Darkbolt, Dazing Blast, Death Armor, Dragon's Breath, Elminster's Elusion, Find Steed, Fire Rune, Gust of Wind, Lesser Restoration, Mind Spike, Moonbeam, Prayer of Healing, Rime's Binding Ice, Searing Orb, Shadow Blade, Snilloc's Snowball Swarm, Summon Beast, Tasha's Mind Whip, Warding Bond.</li>\n<li><strong>Level 3:</strong> Ashardalon's Stride, Astral Flood, Aura of Vitality, Bestow Curse, Cacophonic Shield, Conjure Barrage, Crusader's Mantle, Elemental Exhalation, Laeral's Silver Lance, Lightning Arrow, Murmurs of Doom, Phantom Steed, Summon Fey, Tidal Wave, Trollblood Infusion, Void Strike.</li>\n<li><strong>Level 4:</strong> Conjure Woodland Beings, Fire Dance, Fount of Moonlight, Murder of Crows, Spellfire Storm, Vitriolic Sphere.</li>\n<li><strong>Level 5:</strong> Awaken, Circle of Power, Cone of Cold, Dawn, Dream, Enervation, Holy Weapon, Steel Wind Strike, Summon Celestial, Synaptic Static.</li>\n<li><strong>Level 6:</strong> Circle of Death, Disintegrate.</li>\n</ul>\n<h2>Items</h2>\n<h3>Equipment</h3>\n<p>Argument Solver, Blazer of Benevolence, Cap of Curing, Chain of Liberation, Charge-Bound Warhammer, Corrosive Flail, Dragon's Grasp, Enforcer Club, Enforcer Helmet, Enforcer Shield, Gloves of Heroism, Hellrider's Pride, Helmet of Smiting, Holy Avenger, Hoppy, Hunting Shortbow, Moon Sickle, Musket, Musket +1, Musket +2, Pistol, Pistol +1, Pistol +2, Rupturing Blade, Spellthief, The Baneful, The Oak Father's Embrace, The Sacred Star, True Name, Voltedge, Whip, Whip +1, Whip +2, Xyanyde.</p>\n<h3>Spell Scrolls</h3>\n<p>Spell scrolls are restricted to specific classes, with cantrip scrolls and Scrolls of Revivify always exempt.</p>\n<h2>Creatures</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Creatures\">Creatures</a>.</p>\n<p>Bugbear, Displacer Beast, Drider, Ettercap, Giant Eagle, Gnoll, Goblin, Harpy, Hobgoblin, Hook Horror, Hyena, Kobold, Kuo-Toa, Raven, Spectator, Spider, Wolf, Worg.</p>\n<h2>Support the Mod</h2>\n<p>This mod is developed and maintained for free, and it always will be. If you would like to support continued development, you can do so here:</p>\n<ul>\n<li><a href=\"https://ko-fi.com/yoonmoonsik\">Ko-fi</a></li>\n<li><a href=\"https://toon.at/donate/yoonmoonsick\">Toonation</a> (for supporters in Korea)</li>\n</ul>\n<p>Contributions go toward purchasing the official D&amp;D rulebooks that this mod is based on, so that new content can be implemented accurately from the source material.</p>\n<p>Support is entirely voluntary and grants no special access, priority requests, or exclusive content. Sharing feedback, reporting bugs, and helping others in Discussions are just as valuable.</p>\n<h2>Credits</h2>\n<p>See the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a> for full attribution.</p>\n<ul>\n<li><strong>Brazilian Portuguese Translation:</strong> <a href=\"https://mod.io/u/shadowahjin\">ShadowAhJin</a> (<a href=\"https://github.com/CaioShin93\">CaioShin93</a>)</li>\n<li><strong>French Translation:</strong> <a href=\"https://github.com/mcz-xiocku\">CyberBoloss</a></li>\n<li><strong>Italian Translation:</strong> Alessandro</li>\n<li><strong>Japanese Translation:</strong> <a href=\"https://www.nexusmods.com/profile/Eolaloe\">Eolaloe</a></li>\n<li><strong>Russian Translation:</strong> <a href=\"https://github.com/ANizamutdinov\">ANizamutdinov</a></li>\n<li><strong>Spanish / Latin Spanish Translation:</strong> <a href=\"https://github.com/incolhermex-droid\">incolhermex-droid</a></li>\n<li><strong>Turkish Translation:</strong> <a href=\"https://github.com/batuhansekban\">batuhansekban</a></li>\n<li><strong>Item Models:</strong> <a href=\"https://mod.io/g/baldursgate3/u/skirbie\">skirbie</a> (<a href=\"https://mod.io/g/baldursgate3/m/viper-carbine-steampunk-rifle-gun\">Viper Carbine Steampunk Rifle Gun</a>, <a href=\"https://mod.io/g/baldursgate3/m/hand-cannon-gunslinger-weapon\">Hand Cannon Gunslinger Weapon</a>)</li>\n</ul>\n<h2>Legal</h2>\n<p>DnD 5.5e All-in-One BEYOND is unofficial Fan Content permitted under the <a href=\"https://company.wizards.com/en/legal/fancontentpolicy\">Fan Content Policy</a>. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>",
     "date_added": 1729165055,
-    "date_updated": 1786686101,
+    "date_updated": 1786703601,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -60783,15 +60783,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 8095195,
+      "id": 8095649,
       "mod_id": 4419649,
-      "version": "4.11.22.19",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-94ji.zip",
+      "version": "4.11.22.20",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-azst.zip",
       "changelog": null,
-      "date_added": 1786686052,
+      "date_added": 1786702887,
       "date_updated": 0,
-      "date_scanned": 1786686193,
-      "filesize": 80896744,
+      "date_scanned": 1786703115,
+      "filesize": 80896760,
       "platforms": [
         {
           "platform": "windows",
@@ -61083,7 +61083,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8095195
+        "modfile_live": 8095649
       }
     ]
   },
@@ -66988,7 +66988,7 @@
     "summary": "Adds 6 new backpacks/containers that, similar to the Camp Supplies Sack, automatically add items of the correspondent type. Scrolls, Potions/Elixirs, Poisons/Coatings, Arrows, Grenades/Explosives and Books are supported.",
     "description": "<p><img src=\"https://image.modcdn.io/mods/8eaf/4439739/smartcontainerslogo3.png\" alt=\"\" width=\"600\" height=\"337\"></p>\n<p>Adds 6 new backpacks/containers that, similar to the Camp Supplies Sack, automatically add items of the correspondent type. Scrolls, Potions/Elixirs, Poisons/Coatings, Arrows, Grenades/Explosives and Books are supported. Check screenshots to see each one.</p>\n<p>The containers are all found inside the Chest of Containers (created so it doesn't clutter inventory and so don't they conflict with other items), which itself is found at various locations:</p>\n<ol>\n<li>One is granted immeadatly upon installing the mod and loading your save, found at your Camp Chest.</li>\n<li>One is inside the Tutorial Chest in the Nautiloid.</li>\n<li>The following NPC vendors sell the Chest too:\n<ol>\n<li>Arron, Emerald Grove, Act 1</li>\n<li>Quartermaster Talli, Last Light Inn, Act 2</li>\n<li>Danthelon, Rivington, Act 3</li>\n</ol>\n</li>\n</ol>\n<p>The chest contains 4 sets of the containers so each party member can have one of each type. Once you get the chest, just take out the containers you want to use and send them to whichever character you wish.</p>\n<p><strong><u>Mod-authors:</u></strong> you can assign the tag <strong>CHIZ_IGNORE_SORTING</strong> to any item you want to never be put into these containers.</p>\n<p><strong><u>Disclaimer</u></strong>: do not sell the sorting containers to vendors. If you want to dispose of them for any reason, just throw them away or put them back into the Chest of Containers and then sell/get rid of the Chest.</p>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
     "date_added": 1729819527,
-    "date_updated": 1784830909,
+    "date_updated": 1786703250,
     "date_live": 1729820204,
     "visible": 1,
     "status": 1,
@@ -67018,15 +67018,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -67081,19 +67081,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8006220
+      },
+      {
         "platform": "mac",
-        "modfile_live": 5835412
+        "modfile_live": 8006220
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 5835412
+        "modfile_live": 8006220
       },
       {
         "platform": "ps5",
-        "modfile_live": 5835412
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8006220
       }
     ]
@@ -68836,7 +68836,7 @@
     "summary": "Summon the wrath of nature with these new spells: Summon Beast (spell level 2) and Conjure Animals (spell level 3). Based on the DnD equivalents, tweaked for BG3 so they feel fair and balanced. A total of 16 new summons between both spells were added",
     "description": "<p>Adds new Spells Summon Beast (spell level 2) and Conjure Animals (spell level 3) for a total of 16 new animals to summon. Based on the DnD equivalents, tweaked for BG3 so they feel fair and balanced. For Druids, Rangers and Bard's Magical Secrets.</p>\n<p><strong>Compatible with level 20 mods! Compatible with 5e Spells! Compatible with anything!<br></strong></p>\n<p>If you are using a mod that already adds Summon Beast or Conjure Animals, don't worry, this mod will not conflict with those, you would just have two spells with a similar name. You can recognize mine by the description and the icons, plus the fact I implemented way more animals than anybody else before!</p>\n<hr>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/sbspell.png\" alt=\"\" width=\"400\" height=\"363\"></p>\n<p>Summon Beast is a Spell Level 2, unlocked at level 3 for Druids, level 5 for Rangers, and is a possible selection for Bard's Magical Secrets feature.</p>\n<p>It is intended to be a simple yet powerful singular creature that grows in power as you upcast it. The creature can take a form of Land or Sky, having 2 options for each:</p>\n<ol>\n<li>Wolf Spirit (Land)</li>\n<li>Black Bear Spirit (Land)</li>\n<li>White Raven Spirit (Sky)</li>\n<li>Eagle Spirit (Sky)</li>\n</ol>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/sbwolf.png\" alt=\"\" width=\"300\" height=\"184\"></p>\n<p> </p>\n<p>The Land creatures have the same stats: Pack Tactics and Maul.</p>\n<p>The Sky creatures have the same stats: Flyby and Maul.</p>\n<p>All of them appear enshrouded in a spiritual aura. This is just a visual effect and if you want the more ''realistic'' look you can disable the effect by toggling off the associated passive on the animal's hotbar.</p>\n<p>Upcasting Summon Beast enhances various abilities of the summoned beast: +5HP per Spell Slot Level, +1AC per Spell Slot Level and +1 Damage per Spell Slot Level. Additionally, for every 2nd spell level beyond Spell Slot Level 2 when upcasting, the creature can make an Extra Attack (at Spell Slot Level 4 it can make 1 Extra Attack, at Spell Slot Level 6 it can make 2 Extra Attacks, and at Spell Slot level 8 it can make 3 Extra Attacks).</p>\n<p>The proficiency bonus of the Summon Beast is the same as the summoner at the time of summoning.</p>\n<p><span style=\"text-decoration:underline;\"><strong>Please check the other screenshots at the top to see the rest of the animals.</strong></span></p>\n<p> </p>\n<hr>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/caspell.png\" alt=\"\" width=\"400\" height=\"441\"></p>\n<p>Conjure Animals is a Spell Level 3, unlocked at level 5 for Druids, level 9 for Rangers, and is a possible selection for Bard's Magical Secrets feature.</p>\n<p>It is intended to overwhelm enemies with numbers or special effects, unlike Summon Beast which is a more basic but resilient creature. Each animal was crafted to have unique abilities to diferentiate it from the others and so each one provides unique tactical options. You have 12 different options in total for Conjure Animals, some types coming in pairs instead of a singular animal:</p>\n<ol>\n<li>Two Brown Bears</li>\n<li>Two Dire Wolves</li>\n<li>Two Deep Rothe</li>\n<li>Two Giant Badgers</li>\n<li>Two Giant Eagles</li>\n<li>Two Giant Hyenas</li>\n<li>Two Giant Spiders</li>\n<li>Two Panthers</li>\n<li>One Dilophosaurus</li>\n<li>One Giant Boar</li>\n<li>One Polar Bear</li>\n<li>One Saber-Toothed Tiger</li>\n</ol>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/cagianteagle.png\" alt=\"\" width=\"400\" height=\"226\"></p>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/mods/5a62/4450789/caspider.png\" alt=\"\" width=\"400\" height=\"224\"></p>\n<p> </p>\n<p>Again, each animal has unique abilities and/or passives. These abilities are set and do not change when you upcast the spell. Instead, when you upcast the spell you conjure a higher quantity of the selected animal/s. Check the screenshots to see some of the abilities the animals have (often they have more than those pictured in the description in the screenshot).</p>\n<p><span style=\"text-decoration:underline;\"><strong>Please check the other screenshots at the top to see the rest of the animals.</strong></span></p>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
     "date_added": 1730159153,
-    "date_updated": 1784383298,
+    "date_updated": 1786703187,
     "date_live": 1730162102,
     "visible": 1,
     "status": 1,
@@ -68866,15 +68866,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -68929,19 +68929,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 7983395
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7147440
+        "modfile_live": 7983395
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7147440
+        "modfile_live": 7983395
       },
       {
         "platform": "ps5",
-        "modfile_live": 7147440
-      },
-      {
-        "platform": "windows",
         "modfile_live": 7983395
       }
     ]
@@ -80368,7 +80368,7 @@
     "summary": "Add 30 new items curated for Bard, 10 items per Act.",
     "description": "<p>Become a true maestro of music and might with \"Song and Steel: Bard Equipment\". This mod introduces a collection of gear specifically crafted to enhance every aspect of your bard's abilities. Discover exquisitely crafted instruments that enhance your spells and songs, elegant attire that boosts your stage presence and defensive abilities, and unique accessories that amplify your bardic versatility. Whether you're a virtuoso performer, a cunning swordsman, or a master of both, \"Song and Steel\" provides the tools to elevate your bard's abilities. All equipment is immersively distributed throughout the game using Fade's Equipment Distribution (FED), allowing you to discover these treasures organically as you journey through the game. Your feedback is invaluable! Share your thoughts and suggestions to help refine \"Song and Steel\" and empower bards everywhere to become true masters of music and might.</p>\n<p> </p>\n<p>Each Act adds 10 items curated for Bard<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14078\">Nexus page</a>, or on Imgur - <a href=\"https://imgur.com/a/song-steel-bard-equipment-act-1-53ZwBwl\">Act 1</a>, <a href=\"https://imgur.com/a/song-steel-bard-equipment-act-2-uS8olUm\">Act 2</a>, <a href=\"https://imgur.com/a/song-steel-bard-equipment-act-3-k4TEnoF\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br>- Requires <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">FED</a> to immersively distribute the items throughout the game - Without <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">FED</a> the items won't spawn in the world</p>\n<p> </p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1733077743,
-    "date_updated": 1784923283,
+    "date_updated": 1786703304,
     "date_live": 1733077743,
     "visible": 1,
     "status": 1,
@@ -80398,15 +80398,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -80456,19 +80456,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8011139
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7551791
+        "modfile_live": 8011139
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7551791
+        "modfile_live": 8011139
       },
       {
         "platform": "ps5",
-        "modfile_live": 7551791
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8011139
       }
     ]
@@ -82138,7 +82138,7 @@
     "summary": "This Mod add more than 40 Feats",
     "description": "<p><strong>1.Close fighter</strong><br><em>Can use reaction to hit anyone who enter your range</em></p>\n<p><strong>2.Spellcaster Expert</strong><br><em>+5 spell save DC</em></p>\n<p><strong>3.Master of Archery</strong><br><em>+5 archery</em></p>\n<p><strong>4.Critical Expert</strong><br><em>-3 roll to CRIT</em></p>\n<p><strong>5.Sword Master</strong><br><em>+5 sword</em></p>\n<p><strong>6.Reactive</strong><br><em>- you can do 3 reactions</em><br><em>+3 initiative</em></p>\n<p><strong>7.Fast hands</strong><br><em>It gives you a passive extra bonus action</em></p>\n<p><strong>8.Extra action</strong><br><em>It gives you a passive extra action</em></p>\n<p><strong>9.Slayer of the weak</strong><br><em>Can use riposte as a reaction if the enemy miss you</em></p>\n<p><strong>10.Not Dead Yet</strong><br><em>Once per battle you die you return with 1 Hit Point</em></p>\n<p><strong>11.Death Essence</strong><br><em>Every time you kill someone you heal </em><br><em>1d12 Hit Points</em></p>\n<p><strong>12.Talking one</strong><br><em>you really enjoy talking with every creature dead or alive</em><br><em>+2 charisma</em><br><em>+5 persuasion</em></p>\n<p><em>+speak with dead</em><br><em>+speak with animals</em></p>\n<p><strong>13. Exceptional Mind </strong></p>\n<p>Can chose one of the effects to your Character</p>\n<ul>\n<li><strong>BurningMind</strong><br>You can deal a 1d4 fire damage + charisma</li>\n<li><strong>Cold Mind</strong><br>You can deal a 1d4 ice damage + intelligence</li>\n<li><strong>Eletric Mind</strong><br>You can deal a 1d4 lightning damage + dexterity</li>\n<li><strong>Dark Mind</strong><br>You can deal a 1d4 necrotic damage +con</li>\n<li><strong>Strong Mind</strong><br>You can deal a 1d4 force damage +strengh</li>\n<li><strong>DivineMind</strong><br>You deal a 1d4 radiant damage + wisdom</li>\n</ul>\n<p><strong>14.Body Guard</strong><br><em>+2 Ac class</em></p>\n<p><strong>15.What a joke</strong><br><em>Every time you misses an enemy within melee range it gets hideous laughter</em></p>\n<p><strong>16.Dumb luck</strong><br><em>You are just very lucky for no reason</em></p>\n<p><em>It gain a d4 on checks</em></p>\n<p><strong>17.Battlemage</strong><br><em>Every time you hit an enemy you get +2 arcane acuity</em></p>\n<p><strong>18.Hit and Run</strong><br><em>On CRIT you cause prone to the target, and also gain +3 momentum</em></p>\n<p><strong>19.Assassins Frenzy</strong><br><em>Once per turn you kill a target you get 1 extra action</em></p>\n<p><strong>20.Eagle vision</strong><br><em>+20 perception</em><br><em>+20 survival</em></p>\n<p><strong>21.Erudite scholar</strong><br><em>+10 religion +10 history +10 arcane +10 Medicine</em></p>\n<p>Can make double potions</p>\n<p><strong>22. Drinking Problem</strong><br><em>Deal a passive D4 fire Damage</em><br><em>Deal one more D4 fire and thunder damage while drunk.</em></p>\n<p><strong>23. NoOne</strong></p>\n<p><em>While Shapeshifting, you gain +5 Deception +5 Persuasion +5 performance.</em></p>\n<p><strong>24. Mind Reader</strong><br><em>Enemies have disadvantages against you, and you gain 1d4 on attack Rolls</em><br><em>Can always cast Detect Thoughts </em></p>\n<p><strong>25. Combat Agility</strong><br><em>Can dash, Sneak and disengage with a bonus action </em></p>\n<p><strong>26. Defensive Parry</strong><br>Can reduce the damage you receive by 1d12, it costs a reaction point</p>\n<p><strong>27. Pride of the guild</strong><br><em>+10 Stealth</em><br><em>+10 Sleight of hand</em></p>\n<p><strong>28. Magic Restoration </strong><br><em>You can always restore empty spell slots</em><br><em>(only spells that you have consumed)</em></p>\n<p><strong>29. Ki restoration</strong><br><em>You can always restore your kit points</em><br><em>(only ki points that you have consumed)</em></p>\n<p><strong>30. Animage</strong></p>\n<p><em>Can chose one of the creatures to always transform into</em></p>\n<ul>\n<li><strong>Cat, </strong><strong>Spider, </strong><strong>Raven, </strong><strong>Wolf, Dilofosaurus, Panther, SaberTooth, Bear, OwlBear and others</strong></li>\n</ul>\n<p><strong>31.Flying Ability</strong></p>\n<ul>\n<li>Angelic ascension</li>\n<li>Devilish Descent<br><br></li>\n</ul>\n<p><strong>32.The Hidden One</strong><br>can always become invisible with a bonus action</p>\n<p><strong>32.Dimensional Traveler</strong></p>\n<ul>\n<li>You can always teleport as bonus action</li>\n<li>You can always cast a dimensional door using an action and a bonus action</li>\n<li>you can always hide himself in other plane</li>\n</ul>\n<p><strong>33.Multiple Targets</strong><br>Your arrows now hit three enemies at a time.</p>\n<p> </p>\n<p><strong>And more... A lot more... xD</strong></p>\n<p> </p>\n<p>(PS.) So... I still can add more feats, but not every feat that you guys suggest will get in the game... Enjoy what we already created together. =D<br><br>(PS2) I also made some changes to the base game feats because some people keep saying that my feats made the base game feats look kinda boring, so... that's it.</p>\n<p>(PS3) Good news!!! I'm making a new mod; it is not ready yet... but I'll post it soon... I'll edit those trash items that everybody knows are only useful for Gale to eat it... and make it fun to use... (sorry, Gale). xD</p>\n<p> </p>",
     "date_added": 1733664975,
-    "date_updated": 1786469428,
+    "date_updated": 1786703280,
     "date_live": 1733664975,
     "visible": 1,
     "status": 1,
@@ -82167,12 +82167,16 @@
           "status": 1
         },
         {
+          "platform": "mac",
+          "status": 1
+        },
+        {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -82232,19 +82236,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8085829
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7866722
+        "modfile_live": 8085829
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7866722
+        "modfile_live": 8085829
       },
       {
         "platform": "ps5",
-        "modfile_live": 7866722
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8085829
       }
     ]
@@ -83595,7 +83599,7 @@
     "summary": "Add 30 new items curated for Warlock, 10 items per Act.",
     "description": "<p>Embrace the forbidden power granted by your patron with <em>Pact and Power: Warlock Equipment</em>. This mod introduces a collection of unique and powerful items specifically designed to enhance every aspect of the warlock class. Discover artifacts that amplify your spellcasting, strengthen your pact boons, and deepen your connection with your patron, the source of your power.. <em>Pact and Power</em> offers a diverse array of equipment to complement any warlock build. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. All feedback is invaluable! Share your thoughts and suggestions to help refine <em>Pact and Power</em>.</p>\n<p> </p>\n<ul>\n<li>Each Act adds 10 items curated for Warlock</li>\n<li>View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14327\">Nexus page</a>, or on Imgur - <a href=\"https://imgur.com/a/pact-power-warlock-equipment-act-1-Fd4y5fe\">Act 1</a>, <a href=\"https://imgur.com/a/pact-power-warlock-equipment-act-2-mCKQ2tu\">Act 2</a>, <a href=\"https://imgur.com/a/pact-power-warlock-equipment-act-3-Op8Vvx4\">Act 3</a></li>\n<li>These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"</li>\n<li>Required <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">FED</a> to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</li>\n</ul>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).<br><br></p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1734405050,
-    "date_updated": 1784923909,
+    "date_updated": 1786703427,
     "date_live": 1734405050,
     "visible": 1,
     "status": 1,
@@ -83625,15 +83629,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -83683,19 +83687,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8011196
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7276458
+        "modfile_live": 8011196
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7276458
+        "modfile_live": 8011196
       },
       {
         "platform": "ps5",
-        "modfile_live": 7276458
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8011196
       }
     ]
@@ -86046,7 +86050,7 @@
     "summary": "Add 30 new items curated for Rogue, 10 items per Act.",
     "description": "<p>Become a true whisper in the shadows with an arsenal of gear crafted to empower every aspect of your rogue's abilities.  Improve your ability to melt into the darkness, evade detection, and strike with precision. Whether you prefer to eliminate targets with deadly efficiency, manipulate situations from the shadows, or acquire treasures through cunning and guile, this collection offers the tools to enhance your preferred playstyle. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial!  Share your thoughts and help refine this <em>Veil and Venom</em>.</p>\n<p> </p>\n<ul>\n<li>Each Act adds 10 items curated for Rogue</li>\n<li>View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14586\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-1-ZxIhOHB\">Act 1</a>, <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-2-NEBn4Yq\">Act 2</a>, <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-3-y5rfLs7\">Act 3</a></li>\n<li>These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </li>\n<li>Required <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">FED</a> to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</li>\n</ul>\n<p> </p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1735786928,
-    "date_updated": 1786296578,
+    "date_updated": 1786707556,
     "date_live": 1735786928,
     "visible": 1,
     "status": 1,
@@ -86076,15 +86080,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -86134,19 +86138,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8077604
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7405677
+        "modfile_live": 8077604
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7405677
+        "modfile_live": 8077604
       },
       {
         "platform": "ps5",
-        "modfile_live": 7405677
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8077604
       }
     ]
@@ -89987,7 +89991,7 @@
     "summary": "Add 30 new items curated for Barbarian, 10 items per Act.",
     "description": "<p>Unleash your inner fury with Rage and Resilience: Barbarian Equipment. This mod introduces a collection of powerful items designed to enhance every aspect of the barbarian class. Discover artifacts that amplify your rage, bolster your resilience, and unleash your primal might. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial! Share your thoughts and help refine this <em>Rage and Resilience</em>.</p>\n<p>- Each Act adds 10 items curated for Barbarian<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14744/\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/rage-resilience-barbarian-equipment-act-1-XqndUaZ\">Act 1</a>, <a href=\"https://imgur.com/a/rage-resilience-barbarian-equipment-act-2-wsoZLRU\">Act 2</a>, <a href=\"https://imgur.com/a/rage-resilience-barbarian-equipment-act-3-zNfB0DP\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1737134227,
-    "date_updated": 1786296489,
+    "date_updated": 1786707476,
     "date_live": 1737134227,
     "visible": 1,
     "status": 1,
@@ -90017,15 +90021,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -90075,19 +90079,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8077596
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7157683
+        "modfile_live": 8077596
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7157683
+        "modfile_live": 8077596
       },
       {
         "platform": "ps5",
-        "modfile_live": 7157683
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8077596
       }
     ]
@@ -92154,7 +92158,7 @@
     "summary": "Adds 30 new items curated for Fighter, 10 items per Act.",
     "description": "<p>Control the flow of combat with Might and Metal: Fighter Equipment. This mod provides your fighter with the tools to gain a decisive tactical advantage. Increase your survivability and that of your allies by enhancing your armor and weakening enemy defenses. Whether you prefer to hold the line, protect your companions, or carve a path through your enemies, this collection offers the means to shape the battlefield to your will. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial! Share your thoughts and help refine Might and Metal.</p>\n<p>- Each Act adds 10 items curated for Fighter<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14894\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-1-Qv2fZYv\">Act 1</a>, <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-2-XWkZK8f\">Act 2</a>, <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-3-jZzKEoC\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1738298279,
-    "date_updated": 1786296750,
+    "date_updated": 1786703332,
     "date_live": 1738298279,
     "visible": 1,
     "status": 1,
@@ -92184,15 +92188,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -92242,19 +92246,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8077614
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7728669
+        "modfile_live": 8077614
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7728669
+        "modfile_live": 8077614
       },
       {
         "platform": "ps5",
-        "modfile_live": 7728669
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8077614
       }
     ]
@@ -95731,7 +95735,7 @@
     "summary": "Add 30 new items curated for Sorcerer, 10 items per Act.",
     "description": "<p>Master the delicate balance between chaos and control with Chaos and Control: Sorcerer Equipment. This mod provides a diverse collection of magical gear, empowering your sorcerer to command both the raw, unpredictable energies of chaos and the focused precision of controlled spells. Whether you seek to unleash devastating torrents of wild magic, manipulate the elements with finesse, or enhance your metamagic abilities, this collection offers the tools you need. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll discover these treasures organically as you adventure. I am actively seeking feedback from the community to ensure a balanced and engaging experience for all players. Share your thoughts and help balance <em>Chaos and Control</em>.</p>\n<p>- Each Act adds 10 items curated for Sorcerer<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/15116\">Nexus page</a> or on Imgur <a href=\"https://imgur.com/a/chaos-control-sorcerer-equipment-act-1-0KOSCPk\">Act 1</a>, <a href=\"https://imgur.com/a/chaos-control-sorcerer-equipment-act-2-q8TuxM8\">Act 2</a>, <a href=\"https://imgur.com/a/chaos-control-sorcerer-equipment-act-3-iKRgdVL\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p><strong>Compatibility Issues</strong> - Mods that change the base game Metamagic abilities are 'not compatible' and will break the following items: Pouch of Sorcerous Sand and Amulet of the Infinite Wellspring. - More Information on the Homepage.</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1740553244,
-    "date_updated": 1784925804,
+    "date_updated": 1786707529,
     "date_live": 1740553549,
     "visible": 1,
     "status": 1,
@@ -95761,15 +95765,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -95819,19 +95823,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8011373
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7551724
+        "modfile_live": 8011373
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7551724
+        "modfile_live": 8011373
       },
       {
         "platform": "ps5",
-        "modfile_live": 7551724
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8011373
       }
     ]
@@ -96803,7 +96807,7 @@
     "summary": "Add 30 new items curated for Paladin, 10 items per Act.",
     "description": "<p>Become an indomitable force for justice with Oath and Order: Paladin Equipment. This mod provides a selection of divinely-inspired gear, enhancing your paladin's martial capabilities and strengthening your connection to your oath. Bolster your defenses, empower your allies, and unleash radiant power upon your enemies. Answer the call of your sacred duty and become a true paragon of virtue. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\" rel=\"nofollow\">Fade's Equipment Distribution (FED)</a>, ensuring you'll discover these treasures organically as you adventure. I am actively seeking feedback from the community to ensure a balanced and engaging experience for all players. Share your thoughts and help balance <em>Oath and Order</em>.</p>\n<p>- Each Act adds 10 items curated for Paladin<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/15236\">Nexus page</a> or on Imgur <a href=\"https://imgur.com/a/oath-order-paladin-equipment-act-1-Wm7Msp8\">Act 1</a>, <a href=\"https://imgur.com/a/oath-order-paladin-equipment-act-2-6NXfBMr\">Act 2</a>, <a href=\"https://imgur.com/a/oath-order-paladin-equipment-act-3-hkA59zW\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" <br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p><strong>Q: Can I install the mod in the middle of the playthrough?</strong><br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1741380349,
-    "date_updated": 1784923689,
+    "date_updated": 1786703355,
     "date_live": 1741380532,
     "visible": 1,
     "status": 1,
@@ -96833,15 +96837,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -96891,19 +96895,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8011170
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7728672
+        "modfile_live": 8011170
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7728672
+        "modfile_live": 8011170
       },
       {
         "platform": "ps5",
-        "modfile_live": 7728672
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8011170
       }
     ]
@@ -153598,7 +153602,7 @@
     "summary": "Goblin Hunter Armor + Weapon set.",
     "description": "<p>Armor/Camp Clothing and Weapon set of the Goblin Hunter<br>Fully Dyeable<br>Supports BT1/2</p>\n<p>Commissioned by Orcbolg</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Credits:<br><a href=\"https://www.cgtrader.com/3d-models/character/fantasy-character/goblin-slayer-4ce4cd80-6ff2-4c95-9b09-d4bc77c06e47\">Armor</a> by grandeyo<br><a href=\"https://skfb.ly/pGCQv\">Steel Sword</a> by Björn<br><a href=\"https://skfb.ly/onVn8\">Silver Sword</a> by Aren Boada<br><a href=\"https://skfb.ly/oPWFu\">Scabbard</a> by mefq<br><a href=\"https://skfb.ly/oTOt6\">Pommel</a> by Aid<br><a href=\"https://skfb.ly/6WNn9\">Shortsword and Shield</a> by G.Salmon<br><a href=\"https://skfb.ly/oStFT\">Dagger</a> by Dasamura<br>Meshes and Textures has been modified<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Bugs and feedbacks are much appreciated as always<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1777086211,
-    "date_updated": 1784824162,
+    "date_updated": 1786703227,
     "date_live": 1777086848,
     "visible": 1,
     "status": 1,
@@ -153628,15 +153632,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -153726,19 +153730,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8005806
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7749577
+        "modfile_live": 8005806
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7749577
+        "modfile_live": 8005806
       },
       {
         "platform": "ps5",
-        "modfile_live": 7749577
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8005806
       }
     ]
