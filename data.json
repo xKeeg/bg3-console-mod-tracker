@@ -138892,7 +138892,7 @@
     "summary": "Aurora head. She has both normal and cat eyes, plus long and normal lashes. For ALL body type. For ALL races.",
     "description": "<h2>Aurora Head Mod - Final Update.</h2>\n<p style=\"font-size:0.95rem;\"><em>“Her eyes hold the quiet light of the northern sky.”</em></p>\n<hr>\n<p><strong>About</strong></p>\n<p>This is <strong>Aurora</strong>. This head has support for <strong>all races</strong> and <strong>all body types</strong>.</p>\n<ul>\n<li>Most heads include both <strong>regular</strong> and <strong>cat-eye</strong> versions.</li>\n<li>Features the option for longer lashes and normal lashes.</li>\n</ul>\n<p>I wanted Aurora’s look to capture the quiet strength and beauty of <em>Michelle Pfeiffer in Ladyhawke</em> — maybe I should have named her <em>Isabeau d'Anjou</em>.</p>\n<p>My plan is to expand Aurora to include all races and strong body types over time; this will take a while.</p>\n<p>If you like this head, please consider sharing screenshots of your Tavs — I love seeing what others create.</p>\n<hr>",
     "date_added": 1758427389,
-    "date_updated": 1786849552,
+    "date_updated": 1786849692,
     "date_live": 1758427593,
     "visible": 1,
     "status": 1,
@@ -138906,15 +138906,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/a259/34781963/crop_100x100/tabbledabble_none_53800eb7-5615.png"
     },
     "modfile": {
-      "id": 7940831,
+      "id": 8102443,
       "mod_id": 5248434,
-      "version": "1.0.0.25",
-      "filename": "aurorahead_2c2f44a9-6990-9c9e-3o9s.zip",
-      "changelog": "FINAL UPDATE\nUpdated the Icons.\nUpdated one of the Githyanki heads. Caution if updating during playthrough - it should be fine though.\nAdded S3 Body support for all races that needed it.",
-      "date_added": 1783505568,
+      "version": "1.0.0.28",
+      "filename": "aurorahead_2c2f44a9-6990-9c9e-jjxw.zip",
+      "changelog": "Fixed Jawline on Elf, Drow heads in the regular elf eared variants.\nAdded a fanged version of cat eye variant for Half-Elf, Drow, and Elf.",
+      "date_added": 1786849546,
       "date_updated": 0,
-      "date_scanned": 1783505917,
-      "filesize": 137055075,
+      "date_scanned": 1786849793,
+      "filesize": 138995675,
       "platforms": [
         {
           "platform": "windows",
@@ -138922,15 +138922,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -139030,10 +139030,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7940831
-      },
-      {
         "platform": "mac",
         "modfile_live": 7940831
       },
@@ -139044,6 +139040,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7940831
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8102443
       }
     ]
   },
