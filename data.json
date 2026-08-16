@@ -139050,7 +139050,7 @@
   {
     "id": 5253892,
     "game_id": 6715,
-    "name": "The Shadows Reaper Class",
+    "name": "The Shadow Reaper Class",
     "name_id": "the-shadows-reaper-class",
     "summary": "Will you control the weapon, or will it control you? This is a mod to add a new class and some unique spell based around Kayn from League of Legends to the game. Supports Level 20",
     "description": "<p>My first time ever making a mod for any game. A new class based around taking out crowds of enemies, plus allowing you to specialize into either the quick Shadow Assassin, or the Savage Darkin Slayer.</p>\n<p>I have a feeling that this class may be over tuned a bit, and i know that the level 13+ stuff is more than likely busted, please feel free to offer suggestions.</p>\n<p>I was inspired to make this mod thanks to <a href=\"https://mod.io/g/baldursgate3/u/eclip5ex\">Eclip5e_'s</a> <a href=\"https://mod.io/g/baldursgate3/m/iron-revenant-class#description\">Iron Revenant Class</a>. Go check it out.</p>\n<p> </p>\n<p>New Spells:</p>\n<p>LvL 1 - Reaping Slash<br>(Charge in and slash enemies in an area)</p>\n<p>LvL 3 - Subclasses - Darkin Slayer and Shadow Assassin.<br>Shadow Step (Reskined Misty Step) <br>Shadows Binding (Darkin Binding variant for Shadow Assassin, Uses Dex for weapon scaling)</p>\n<p>LvL 5 - Blade's Reach + Extra attack<br>(Cleave forward striking all enemies in its path, slowing them)</p>\n<p>LvL 6 - Umbral Trespass<br>(Target an enemy, teleporting to them and dealing big damage)</p>\n<p>LvL 7 - Upgraded Blades Reach<br>(Gives you an upgraded Blade's Reach based on what form you took. Darkin causes enemies to go prone, Shadow Assassin turns into a bonus action and gains range)</p>\n<p>LvL 8 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow assassin gains a mix of bonus move speed or actions)</p>\n<p>LvL 9 - Upgrade Reaping Slash<br>(Reaping Slash does more damage. Shadow Assassin's hits a larger area, Darkin Slayer's heals on hit)</p>\n<p>LvL 10 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassin gains a mix of bonus move speed or actions)</p>\n<p>LvL 11 - Upgrade Umbral Trespass<br>(Shadow Assassin's Umbral Trespass has increased target range and doesn't cost anything to use. Darkin Slayer's heals for a high amount of health)</p>\n<p>LvL 12 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassins gains a mix of bonus move speed or actions)</p>\n<p> </p>\n<p>LvL 15 - Shadow Assassin's Shadow Strike<br>(Modified Sneak Attack, deals big damage but only usable while invisible)</p>\n<p>LvL 18 - Soul Reaper<br>(A difficult and taxing skill, hitting it will make an enemy who lives wish they died,)</p>\n<p>LvL 20 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassins gains a mix of bonus move speed or actions)<br><br></p>\n<p> </p>",
@@ -139113,6 +139113,11 @@
       {
         "name": "For Fun",
         "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
         "date_added": 0
       },
       {
