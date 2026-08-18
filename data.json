@@ -83732,7 +83732,7 @@
     "summary": "The unofficial community bug fix mod - Over 1600 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1786783015,
+    "date_updated": 1787092512,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -83746,15 +83746,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8099254,
+      "id": 8113568,
       "mod_id": 4561805,
-      "version": "4.6.17.1",
-      "filename": "itembugfix_010e73d5-9342-e528-1frd.zip",
-      "changelog": "- Divine Smite on Critical Hit reaction now states the correct doubled damage in the tooltip, and now uses the correct icon\n- Divine Strike reactions now have an extra description as to when they will trigger, and Divine Strike on Critical reactions now state the correct doubled damage in their tooltips\n- Craterflesh Gloves 'Craterous Wounds' now once again deals 2d6 Force damage on a critical hit, and states the correct doubled damage in the tooltip\n- All spell scrolls now have the correct rarity and gold cost for their spell level (14 changed)\n- Corvid Token 'Boon of the Raven Queen' no longer incorrectly doubles its jump distance increase when using a Starry Form\n- Woe 'Arcane Vampirism' now correctly only triggers on spells that involve a failed saving throw, and heals more than once if multiple creatures fail a saving throw\n- Circlet of Mental Anguish 'Psychic Leech' now heals more than once if multiple creatures fail a saving throw\n- Studded Leather Armour +2, Bhaalist Armour, and Elegant Studded Leather now correctly display sleeves for male dwarves\n- Code improvements",
-      "date_added": 1786783003,
+      "version": "4.6.18.1",
+      "filename": "itembugfix_010e73d5-9342-e528-7bao.zip",
+      "changelog": "- Circle of the Moon Druids multiclassed into Bladesinging Wizard no longer receive a permanent 'Bladesong Impeded' condition when shapeshifting into Air/Water Myrmidon (special thanks again to Bert for the code)\n- Code improvement/fixes",
+      "date_added": 1787092483,
       "date_updated": 0,
-      "date_scanned": 1786783011,
-      "filesize": 1833108,
+      "date_scanned": 1787092491,
+      "filesize": 1834262,
       "platforms": [
         {
           "platform": "windows",
@@ -83868,7 +83868,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8099254
+        "modfile_live": 8113568
       }
     ]
   },
