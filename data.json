@@ -154029,7 +154029,7 @@
     "summary": "Expand your Find Familiar spell with 50+ summon options from across the Dungeons and Dragons multiverse.",
     "description": "<p>Familiars are summons that add flavor and utility to any adventure. This mod adds 50+ lore-friendly balanced familiar options.</p>\n<p>All familiars come from official Dungeons &amp; Dragons sources using published stat blocks and abilities where possible. Familiars based on creatures with a challenge rating above 1 have been scaled down to maintain balance. All new familiars have original tooltip artwork, functioning animations, and class specific casting VFX.</p>\n<hr>\n<h2><em><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/spell_conjuration_findfamiliar_.png\" alt=\"\" width=\"48\" height=\"48\"></em><em>Find Familiar</em></h2>\n<h4>1st Level Conjuration Spell</h4>\n<p>A favorite spell among wizards, warlocks, and rangers – Summon a spirit companion that takes the form of a diminutive animal of your choice, now including:</p>\n<ul>\n<li>Almiraj</li>\n<li>Badger</li>\n<li>Bat</li>\n<li>Bluejay</li>\n<li>Boar</li>\n<li>Dog</li>\n<li>Eagle</li>\n<li>Hyena</li>\n<li>Tressym</li>\n</ul>\n<h2><em><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/spell_necromancy_findfamiliar.png\" alt=\"\" width=\"48\" height=\"48\"></em><em>Find Undead Familiar </em></h2>\n<h4>1st level Necromancy Spell</h4>\n<p>A grim counterpart of the Find Familiar spell. Allows the caster to summon tormented spirits to their side. Find Undead Familiar can be learned by any class that can learn Find Familiar † and grants the following undead forms:</p>\n<ul>\n<li>Crawling Claw</li>\n<li>Floating Skull</li>\n<li>Phantom Hound</li>\n<li>Grim Bird</li>\n<li>Skeleton ‡</li>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;\">Wraith Cat</span></li>\n</ul>\n<p>† Rangers can learn the Find Undead Familiar spell by choosing a new Natural Explorer option called Spirit Caller.</p>\n<p>‡ The skeleton familiar gains weapon and armor proficiency with either the Pact of the Chain or Undead Thralls passive features.</p>\n<h2><em><span style=\"font-size:large;\"><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/action_warlock_pactofthechain_c.png\" alt=\"\" width=\"48\" height=\"48\"></span></em><em>Pact of the Chain </em></h2>\n<h4>3rd Level Warlock Boon</h4>\n<p>Warlocks with the Pact of the Chain feature gain more powerful and exotic familiar forms. Choosing this feature grants both the Find Familiar and Find Undead Familiar spells along with the following additional forms:</p>\n<ul>\n<li>Blink Dog</li>\n<li>Cranium Rat</li>\n<li>Flumph</li>\n<li>Gremishka</li>\n<li>Meenlock</li>\n<li>Skeletal Mage</li>\n<li>Slaad Tadpole</li>\n<li>Sphinx of Wonder</li>\n</ul>\n<h2><span style=\"font-size:large;\"><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/spell_conjuration_findfamiliar_.1.png\" alt=\"\" width=\"48\" height=\"48\"></span><em>Unique Familiars </em></h2>\n<p>Some familiar spirits are summoned not with spells, but with rare magical items. Keep an eye out for shiny bobbles and strange skulls.</p>\n<p><strong>Disclaimer: Items may not appear in areas that have been explored or plundered prior to installation.</strong></p>\n<h2><span style=\"font-size:large;\"><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/spell_necromancy_findfamiliar_f.png\" alt=\"\" width=\"48\" height=\"48\"></span><em>Variant Familiars </em></h2>\n<p>Some specific character choices, including class, subclass, or origin may unlock familiar form variants. Variants can have different appearances, abilities, or become completely different types. For example, warlocks with Pact of the Chain and rangers with the Beats Tamer feature both summon a hermit crab familiars instead of regular crabs. Warlocks have many variants based on their patron; When a great old one patron warlock summons a floating skull, a brain in a jar will appear, instead of a floating humanoid skull, while warlocks with the fiend patron will summon a flameskull. There are dozens of variants like these to discover.</p>\n<p><strong>※ A comprehensive list of all available familiars and how to obtain them is available on <a title=\"Find Familiar Form List\" href=\"https://www.nexusmods.com/baldursgate3/articles/1892\" target=\"_blank\" rel=\"noopener noreferrer\">Nexus</a>.</strong></p>\n<hr>\n<h3><span style=\"font-size:large;\">Implementation</span></h3>\n<p>This mod edits the following entries:</p>\n<p><code>Target_FindFamiliar</code> <code>Target_FindFamiliar_Ritual</code> <code>PactOfTheChain</code> <code>Target_FindFamiliar_Cat</code> <code>Target_FindFamiliar_Crab</code> <code>Target_FindFamiliar_Frog</code> <code>Target_FindFamiliar_Rat</code> <code>Target_FindFamiliar_Raven</code> <code>Target_FindFamiliar_Spider</code> <code>Target_PactOfTheChain_Imp</code> <code>Target_FindFamiliar_Cat_Ritual</code> <code>Target_FindFamiliar_Crab_Ritual</code> <code>Target_FindFamiliar_Frog_Ritual</code> <code>Target_FindFamiliar_Rat_Ritual</code> <code>Target_FindFamiliar_Raven_Ritual</code> <code>Target_FindFamiliar_Spider_Ritual</code></p>\n<h3>Recognitions </h3>\n<p>Thank you to <a href=\"https://mod.io/u/maxstrengthrizzard\" target=\"_blank\" rel=\"noopener noreferrer\">@MaxStrengthWizard</a> for scripting assistance and <a href=\"https://mod.io/u/snk777/\" target=\"_blank\" rel=\"noopener noreferrer\">@SNK777</a> for extensive bug testing and Russian localization</p>\n<p>If you like what I'm doing and want to support the creation of more mods like this one, please consider donating. All proceed go directly to the creator, and it helps me to continue making cool stuff.</p>\n<p><a href=\"https://ko-fi.com/edhelsereg\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/aec0/49157408/profile/support_me_on_kofi_blue.png\" alt=\"\" width=\"247\" height=\"50\"></a></p>",
     "date_added": 1778107785,
-    "date_updated": 1786656441,
+    "date_updated": 1787085030,
     "date_live": 1778215997,
     "visible": 1,
     "status": 1,
@@ -154043,15 +154043,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/aec0/49157408/crop_100x100/konahvector6_500.png"
     },
     "modfile": {
-      "id": 8093876,
+      "id": 8113205,
       "mod_id": 6040654,
-      "version": "2.6.0.84",
-      "filename": "edh_familiars_9e296d8e-02fa-84-4ckv.zip",
-      "changelog": "- backend adjustments for increased compatibility.",
-      "date_added": 1786656349,
+      "version": "3.0.0.90",
+      "filename": "edh_familiars_9e296d8e-02fa-84-c1ep.zip",
+      "changelog": "- Balanced hit point pools and damage for many of the outlying 5.5e familiars to be on par with BG3\n- Added Pseudodragon as a pact of the chain summon\n- Added Brown Eagle and Blood Hawk as eagle variants\n- Added Fathomless Crab as a crab variant\n- Added fey-touched Almiraj appearance as pact of the chain variant\n- Added a new item available at the Devil’s Fee which can turn any familiar into gold plated\n- Almiraj - refreshed model and increased Almiraj’s visual and mechanic size. \n- Reworked Flameskull eye vfx to be more lore accurate\n- Refreshed various familiar portraits",
+      "date_added": 1787084846,
       "date_updated": 0,
-      "date_scanned": 1786656715,
-      "filesize": 213546707,
+      "date_scanned": 0,
+      "filesize": 206060632,
       "platforms": [
         {
           "platform": "windows",
@@ -154130,7 +154130,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8093876
+        "modfile_live": 8113205
       }
     ]
   },
