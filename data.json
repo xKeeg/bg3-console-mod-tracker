@@ -139198,8 +139198,8 @@
     "summary": "For the faithful of Bane, Bhaal, Myrkul, Asmodeus, Auppenser, Corellon, Cyric, Eilistraee, Ilmater, Kelemvor, Lathander, Loviatar, Milil, Mystra, Oghma, the Raven Queen, Selune, Shar, Silvanus, Sune, Talona, Talos, Tymora, Umberlee, and Waukeen.",
     "description": "<div style=\"text-align:center;\"> </div>\n<div style=\"text-align:center;\"><img src=\"https://i.imgur.com/69QhG4Y.png\" alt=\"69QhG4Y.png\"></div>\n<div style=\"text-align:center;\"> </div>\n<div style=\"text-align:center;\"><span style=\"font-size:large;\">400+ armours, robes, and accessories for followers of Bane, Bhaal, Myrkul, Asmodeus, Auppenser, Cegilune, Chauntea, Corellon, Cyric, Eilistraee, Eldath, Ghaunadaur, Gruumsh, Ilmater, Kelemvor, Kiaransalee, Lathander, Loviatar, Milil, Mystra, Oghma, the Raven Queen, Selûne, Shar, Silvanus, Sune, Talona, Talos, Tymora, Umberlee, and Waukeen<br></span></div>\n<div style=\"text-align:center;\"> </div>\n<p style=\"text-align:center;\">Please note that all the items in this mod use Baldur's Gate 3's \"vanilla\" assets--<em>i.e.</em>, these are <em>unaltered </em>models from the game itself. While minor issues like unrendered textures have been corrected, major bugs such as model clipping and missing cloth physics may be present until Larian Studios makes alterations in a future patch. Furthermore, most of the items in this mod were created by the developers for use by NPCs in the game and were not intended for player use, so visuals for a particular item might not be available for every body type.</p>\n<p style=\"text-align:center;\">For a complete description of the mod, please visit <a href=\"https://www.nexusmods.com/baldursgate3/mods/4718\">https://www.nexusmods.com/baldursgate3/mods/4718</a>.</p>\n<p> </p>\n<p><strong>Acquisition:</strong> </p>\n<ul>\n<li>the Tutorial Chest on the nautiloid</li>\n<li>Arron, the Emerald Grove (Act 1)</li>\n<li>Roah Moonglow, Goblin Camp (Act 1) and Moonrise Towers (Act 2)</li>\n<li>Quartermater Talli, Last Light Inn (Act 2)</li>\n<li>Entharl Danthelon, Danthelon's Dancing Axe (Act 3)</li>\n</ul>\n<p> </p>\n<p style=\"text-align:center;\">Please visit my other BG3 mod</p>\n<p style=\"text-align:center;\"><span style=\"font-size:large;\"><strong><a href=\"https://mod.io/g/baldursgate3/m/armouries-of-the-allegiant\" target=\"_blank\" rel=\"noopener noreferrer\">Armouries of the Allegiant</a></strong></span></p>\n<div style=\"text-align:center;\"><a href=\"https://mod.io/g/baldursgate3/m/armouries-of-the-allegiant\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nR8r9Az.png\" alt=\"nR8r9Az.png\"></a></div>\n<div> </div>\n<div> </div>\n<p><strong>Changelog:</strong></p>\n<div><strong>5.7.1.3</strong> - </div>\n<div>\n<ul>\n<li>New Clergy: The Church of Gruumsh (Human/Tiefling/Elf BT4, Dragonborn BT2, Half-orc BT2 only)</li>\n</ul>\n</div>\n<div><strong>5.6.2.5</strong> - </div>\n<div>\n<ul>\n<li>Fixed bug that caused all items to be removed from the mod itself.</li>\n</ul>\n</div>\n<div><strong>5.6.2.4</strong> - </div>\n<div>\n<ul>\n<li>Ilmater: Replaced all instances of \"Ilmateri\" with \"Ilmatari\", and added Broken Ones and Golden Cup to the lorebook.</li>\n<li>Ilmater: Added Skullcap/Headband of the Broken.</li>\n<li>Ilmater: Revised the Roughspun Robe of the Burdened. It no longer provides a +1 bonus to AC, Constitution bonus moved from 8th level to 5th level, and added Endurance of Ilmater spell at 8th level.</li>\n<li>Ilmater: Added the Golden Cup Panoply.</li>\n<li>Shar: Introduced minor abilities to the Shadow Weave Mantle and added a new variant with visuals for all body types.</li>\n<li>Shar: Added the Shield of Loss.</li>\n</ul>\n</div>\n<div><strong>5.6.1.7</strong> - </div>\n<div>\n<ul>\n<li>Eilistraee: Replaced missing and broken textures of the Secret Moondancer Drow Chain.</li>\n<li>Umberlee: Replaced missing and broken textures of the Riverine Scale Hauberk and Sea Elven Scale Mail.</li>\n</ul>\n</div>\n<div><strong>5.6.1.4</strong> - </div>\n<div>\n<ul>\n<li>New Clergy: the Covens of Cegilune</li>\n<li>Leira: The Advantage to Sleight of Hand checks of the Gloves of Legerdemain is now granted correctly at 5th level instead of 8th.</li>\n<li>Silvanus: Removed the Magic Resistance inadvertently granted by Bestial Regeneration.</li>\n<li>Silvanus: Removed the Immunity to Poison inadvertently granted by the Bracers of the Spiteful Serpent.</li>\n<li>Sune: Replaced animation of Lips of Rapture with that of Haarlep's Draining Kiss.</li>\n</ul>\n</div>\n<div><strong>5.5.1.2</strong> - </div>\n<div>\n<ul>\n<li>New Clergies: The Cults of Ghaunadaur and Kiaransalee.</li>\n<li>Chauntea: Added 2 more variants of the Cape of Floronic Transformation.</li>\n<li>Lathander: Corrected the visuals of the Ferronnière of Spring Growth for tieflings, githyanki, and dragonborn.</li>\n<li>Loviatar: The Gag Order ability of the Paingiver's Studded Gloves now imposes Muted instead of Silenced.</li>\n<li>Selune: Added the Floating ability to the Mooncloak.</li>\n<li>Talos: Added the missing Thunderous Conversion ability to the Divine Stormlord Gauntlets.</li>\n<li>Tymora: The Accursed Spirits spell of the Contemptuous Gloves of the Jinx can now be only cast once per long rest.</li>\n<li>Umberlee: The Voice Stealer spell of the Sea Witch Talisman now imposes the Muted condition instead of Silenced.</li>\n<li>Umberlee: The Insulated armor property now also grants Resistance to Thunder damage at 5th level.</li>\n<li>Umberlee: The Wild Shape: Water Elemental ability now costs a bonus action instead of an action.</li>\n</ul>\n</div>\n<div><strong>5.4.1.5</strong> - </div>\n<div>\n<ul>\n<li>New Clergies: The Churches of Chauntea and Eldath.</li>\n<li>Myrkul: Deathbringer's Pauldrons now have the same properties as the Deathbringer's Armours (most do not stack).</li>\n<li>Oghma: Reduced the temporary HP granted by the Chant of Life from \"Wisdom modifier x Level\" to \"Wisdom modifier + Level\"</li>\n<li>Selûne: Renamed Shard's Pauldrons to Shard's Celestial Pauldrons, assigned it properties similar to Shard's Celestial Armour (most do not stack).</li>\n<li>Silvanus: Upgraded the basic shoulder leaf decor to Druidic Foliage Adornments and added a second variant.</li>\n<li>Silvanus: Added a second variant of the Headdress of the Horned Hunter.</li>\n<li>Talona: The Blightlord’s Overgrown Armour now grants 2 Wild Shape charges (as stated in the description) instead of just 1.</li>\n<li>Talona: Removed Resistance to Bludgeoning/Piercing/Slashing damage from shadowcursed shambling mound wild shape, replaced it with Necrotic Resistance.</li>\n</ul>\n</div>\n<div><strong>5.3.1.9</strong> - </div>\n<div>\n<ul>\n<li>Global: Added a book/scroll of lore to each of the reliquaries.</li>\n</ul>\n</div>\n<div><strong>5.3.0.8</strong> - </div>\n<div>\n<ul>\n<li>New clergies: Added gear for followers of Cyric and Auppenser.</li>\n<li>Lathander: Added new variants of Boots of Athleticism and Robe of Spring Renewal.</li>\n<li>Leira: Added the Astounding Illusionist's Top Hat and the Gloves of Legerdemain.</li>\n<li>Leira: Revised the 5th level and 8th level abilities of the Gambeson of the Scoundrel so it won't overlap with other Leiran items' abilities.</li>\n<li>Oghma: Changed Loremaster Secrets I and II from \"once every long rest\" to \"once every short rest.\"</li>\n</ul>\n</div>\n<div><strong>5.1.0.6</strong> - [never went live but can be accessed through the archive]</div>\n<div>\n<ul>\n<li>Equipment for the faithful of Bane, Bhaal, Myrkul, Asmodeus, Corellon, Eilistraee, Ilmater, Kelemvor, Lathander, Loviatar, Milil, Mystra, Oghma, the Raven Queen, Selûne, Shar, Silvanus, Sune, Talona, Talos, Tymora, Umberlee, and Waukeen.</li>\n</ul>\n</div>\n<div> </div>\n<div> </div>\n<div>\n<p><strong>Frequently Asked Questions:</strong></p>\n<p> </p>\n<blockquote>\n<p>I'm a modder, can I use this mod's assets / make this mod a requirement for my own mod?</p>\n</blockquote>\n<p>Feel free to unpack this mod's pak files and copy what you need, no need to ask permission from me. Everything here is vanilla and therefore owned by Larian. You can also DM me in Nexus or in Discord (same username) if you have any questions. Happy modding!</p>\n<p> </p>\n<blockquote>\n<p>Do you take commissions?</p>\n</blockquote>\n<p>No, but I will take suggestions for items or sets that fit the theme of this mod. The <a href=\"https://discord.gg/8xYpau9p\">Down by the River</a> Discord server has a channel for commissions, or just reach out to your favorite modders directly if their commissions are open so you don't get scammed.</p>\n<p> </p>\n<blockquote>\n<p>Can you make a certain item available for a certain body type? / Can you fix the clipping issue for this item? / Can you extract the clothing from an NPC belonging to a non-playable race?</p>\n</blockquote>\n<p>These require knowledge of 3D editing software, something that is beyond my modding skill. So, no. </p>\n<p> </p>\n<blockquote>\n<p>Would you consider distributing the items to the game world as drops or random treasure?</p>\n</blockquote>\n<p>Vestments of the Faithful was created as more like a roleplayer's dress-up mod rather than a loot mod. That is, if you conceptualized your Tav as a follower of a certain god, it will help them look the part and give them thematic abilities, as well. For now, this mod will remain as a collection of fixed equipment sets. </p>\n<p> </p>\n<blockquote>\n<p>Can you make a set for my favorite Forgotten Realms deity?</p>\n</blockquote>\n<p>My goal for this mod is to promote FR lore (or \"Realmslore\") to BG3 players who may be new to the setting, and deities are a great way to do that. If I find a certain piece of armor or clothing asset in the files that could potentially be used to represent a follower of a certain god, then I would surely try to make a set. That said, we don't have a lot of assets to work with and after 2 years of working on this mod I've pretty much combed through all of them. There might still be a few items in there but it's like scraping the bottom of the barrel at this point.</p>\n<p> </p>\n<p><span style=\"text-decoration:underline;\">Most requested deities:</span></p>\n<ul>\n<li>Eilistraee - The Sword Dancer is an iconic Realms archetype. It's difficult to put together a costume that both reflects Eilistraee's values (beauty, art, friendship) and made for dancing half-naked under the moonlight. Something like a diaphanous dancer's robe or bejeweled body chain would do but I don't think I can pull one off with just BG3's assets. And no, I don't want to make a Sword Dancer garb that's just glorified lingerie. But check out <a href=\"https://mod.io/g/baldursgate3/m/cl-drownedinmoonlight\">Drowned in Moonlight</a> by copperleaves.</li>\n<li>Tyr, Torm, Helm, Bahamut - The clergy for these gods wear knightly gear, your stereotypical \"knight in shining armor.\" Consider the Order of the Gauntlet set from my other mod <a href=\"https://mod.io/g/baldursgate3/m/armouries-of-the-allegiant\">Armouries of the Allegiant</a>.</li>\n<li>Gruumsh - The chief orc deity and his wife Luthic are top of mind for me (and the rest of the orcish pantheon to a certain extent). A wild, shamanic look could conceivably be assembled using vanilla hide armors and barbarian gear but it's going to be a challenge.</li>\n<li>Lolth - No plans.</li>\n<li>Vlaakith - 2 sets of githyanki gear are in Armouries of the Allegiant.</li>\n<li>Mielikki - under development.</li>\n<li>Kossuth - Nobody asked for this set but it's under active development.</li>\n</ul>\n</div>\n<div> </div>\n<div> </div>\n<div> </div>\n<div style=\"text-align:center;\"><img src=\"https://i.imgur.com/dv3tnRF.jpg\" alt=\"dv3tnRF.jpg\"></div>",
     "date_added": 1758683927,
-    "date_updated": 1785500360,
-    "date_live": 1758683927,
+    "date_updated": 1787108295,
+    "date_live": 1787108295,
     "visible": 1,
     "status": 1,
     "dependencies": false,
@@ -139212,15 +139212,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f96c/38976091/crop_100x100/anupreviewimage.jpg"
     },
     "modfile": {
-      "id": 7870899,
+      "id": 8114110,
       "mod_id": 5254488,
-      "version": "5.7.1.3",
-      "filename": "vestmentsofthefaithful_4176096-0qrj.zip",
-      "changelog": "New Clergy: The Church of Gruumsh (Human/Tiefling/Elf BT4, Dragonborn BT2, Half-orc BT2 only)",
-      "date_added": 1781970832,
+      "version": "6.0.0.2",
+      "filename": "vestmentsofthefaithful_4176096-09vf.zip",
+      "changelog": "New Clergy Items: The Church of Kossuth.\nCorellon: Reduced the 11th-level Spell Save DC bonus of the Bladesong Weaver Diadem from +2 to +1.\nEldath: The Hydroponic Combatant ability of the Hamadryad Branchweave Dress now applies any time that the wearer is standing on a water surface, not just at the start of their turn.\nGruumsh: Added the Belt of Colossal Strength and Caesti of Colossal Power.\nMilil: The Spiteful Taunt spell of the Merrymaker's Cap n' Bells now have the voiced lines from Vicious Mockery.\nTalos: Spell slots are now consumed when casting the spells granted by the Primal Stormlord Gloves.\nTymora: Fixed the cooldown bug of the Unflinching Protection ability of the Gloves of Timely Assistance from 1/long rest to 1/short rest.",
+      "date_added": 1787108222,
       "date_updated": 0,
-      "date_scanned": 1781970924,
-      "filesize": 51442964,
+      "date_scanned": 1787108355,
+      "filesize": 71653745,
       "platforms": [
         {
           "platform": "windows",
@@ -139228,15 +139228,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -139321,10 +139321,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7870899
-      },
-      {
         "platform": "mac",
         "modfile_live": 7870899
       },
@@ -139335,6 +139331,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7870899
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8114110
       }
     ]
   },
