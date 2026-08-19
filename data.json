@@ -120433,7 +120433,7 @@
     "summary": "BG3 - Chocolate Edition is a massive rebalance mod touching almost every aspect of character building. Spells, feats, classes, subclasses, initiative, and more have all seen changes to make the game a different flavor of fun for a new run.",
     "description": "<h2>Welcome to Chocolate Edition v4!</h2>\n<p>(v4 does not appear to need a fresh save to work just fine. New items will appear on vendors when their inventory refreshes, new items placed in the world will just be there, and I am not totally sure about loot from enemies you have already killed)</p>\n<p>IF YOU UPDATE MID GAME from 3.0.0.107 (or earlier) to 3.0.0.108 (or higher) AND ARE PLAYING A RANGER - YOU MUST RESPEC. If you are experiencing crashing while trying to level up a ranger, you must respec. I had to fix a bug I caused who knows when which required a UUID fix to Ranger spell lists and their progression table. If you do not respec, you are likely to get a repeatable crash.</p>\n<h2>For full mod details, check out the website! <a href=\"https://bg3chocolate.carrd.co\" target=\"_blank\" rel=\"noopener noreferrer\">bg3chocolate.carrd.co</a></h2>\n<p>(If having issues accessing the website, check if you have a VPN on)</p>\n<h2>This is a homebrew, chocolate coating on the excellent Vanilla core BG3 experience with changes to almost every aspect of character building including:</h2>\n<ul>\n<li>\n<h3>Initiative Changes</h3>\n</li>\n<li>\n<h3>Weapon Cantrip Rule Changes</h3>\n</li>\n<li>\n<h3>Major Class Changes</h3>\n</li>\n<li>\n<h3>Minor Class Changes</h3>\n</li>\n<li>\n<h3>Extra Feats at level 2</h3>\n</li>\n<li>\n<h3>New Origin Classes</h3>\n</li>\n<li>\n<h3>New \"minor classes\" for non-Origin companions and Durge</h3>\n</li>\n<li>\n<h3>Cantrip - Level 6 Spell changes</h3>\n</li>\n<li>\n<h3>Feat Changes</h3>\n</li>\n<li>\n<h3>16 New Feats</h3>\n</li>\n<li>\n<h3>40+ Vanilla Item Buffs</h3>\n</li>\n<li>\n<h3>20 New Weapons</h3>\n</li>\n<li>\n<h3>11 New Armors and Jewelry</h3>\n</li>\n<li>\n<h3>10 Pocket Charms (items with passives useable from your inventory!)</h3>\n</li>\n</ul>\n<h3>This is intended to be a one stop shop to a fresh BG3 experience without relying on other mods to be kept updated, and without bloating your load order on console. Why use lot mod when one mod do trick?</h3>\n<h3><a href=\"https://mod.io/g/baldursgate3/c/chocolate-edition-expansion-official#mods\">If you want even more that I haven't done, check out the official Chocolate Edition mod list for what I love playing alongside this!</a></h3>\n<p>Remember! Before submitting bugs, check the PDF for anything relevant in case what you think is a bug is just a feature! Once you've done that, feel free to comment or report bugs through the official feature, or to <a href=\"https://discord.gg/CP36VuDYHu\">join my discord to chat about what's going on.</a></p>\n<p>Feel free to use new class mods alongside this, but I would HIGHLY recommend not using any mods that modify vanilla classes listed anywhere in the patch notes (subclass mods are usually fine). I cannot offer support for bugs caused by mod conflicts very often. I would also advise against using spell rebalance mods, though spell addition mods like Mystra's Spells should be fine (excluding the balancing differences between Mystra's Spells and this mod).</p>\n<h2><span style=\"text-decoration:underline;\">Conflicts</span></h2>\n<ul>\n<li>Any mod that alters the \"Origin\" entries in the toolkit including mods that allow origin characters to use the Magic Mirror - the conflict is only that you will have to respec your origin companions into their origin classes if you wish to use them. And Shadowheart won't start with a dagger as I have modified her to.</li>\n<li>Spell rebalance mods</li>\n<li>Mods that alter subclasses or classes</li>\n<li>Mods that alter or rebalance feats</li>\n<li>Mods that alter or rebalance elixirs</li>\n<li>Mods that *add* subclasses should use progression merges for best practices, but conflicts with Wizard, Ranger, Warlock, Druid, and Paladin subclasses from previous versions have been resolved on the Chocolate Edition side as of the most recent version available on PC. Console awaits an update still.</li>\n</ul>\n<p>Note about conflicts: Mod conflicts are not inherently a bad thing. You just need to make sure the mod you want to \"win\" the conflict is loaded later in your load order. To do this on consoles or through the in game mod manager, supposedly you can de-activate all mods in your list and then reactivate them in the order that you choose. This will tell the game what order to load the mods in.</p>\n<h2>Updated for the July 2026 Modathon!</h2>\n<p><img src=\"https://image.modcdn.io/members/2890/34817058/profile/bg3modathon.png\" alt=\"\" width=\"800\" height=\"420\"></p>",
     "date_added": 1748866806,
-    "date_updated": 1787103524,
+    "date_updated": 1787155827,
     "date_live": 1748868463,
     "visible": 1,
     "status": 1,
@@ -120447,15 +120447,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2890/34817058/crop_100x100/fe72795fb0c88912cc6ec75f1c125df.jpg"
     },
     "modfile": {
-      "id": 8113941,
+      "id": 8115716,
       "mod_id": 4985426,
-      "version": "4.0.0.132",
-      "filename": "vanillaplus_d932c3e8-991e-ef52-1scb.zip",
-      "changelog": "- Adamantine Chain stats should be correct now\n\t- Sorcerers should once again have Shadowblade, and they should have Acid Arrow as an option at spell levels 2-6\n    - Light Weapon Fighting works correctly now",
-      "date_added": 1787103493,
+      "version": "4.0.0.134",
+      "filename": "vanillaplus_d932c3e8-991e-ef52-b6tp.zip",
+      "changelog": "-- Moved Spider's Bite to Driderman's loot table instead of his equipment to prevent a couple of bugs. Apparently he doesnt have bow animations!\n-- The Skilled feat no longer gives any damage reduction",
+      "date_added": 1787155777,
       "date_updated": 0,
-      "date_scanned": 1787103537,
-      "filesize": 23131120,
+      "date_scanned": 1787155824,
+      "filesize": 23131213,
       "platforms": [
         {
           "platform": "windows",
@@ -120549,7 +120549,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8113941
+        "modfile_live": 8115716
       }
     ]
   },
@@ -157348,12 +157348,12 @@
   {
     "id": 6194005,
     "game_id": 6715,
-    "name": "Flicker Hair Pack",
+    "name": "[M30] Flicker Hair Pack",
     "name_id": "m30-flicker-hair-pack",
-    "summary": "11 hairs in various cybergoth/punk styles and textures, for all races and body types.",
-    "description": "<div style=\"text-align:center;\"> </div>\n<p> </p>\n<div style=\"text-align:center;\">╔════════════════════════════════════════*.·:·.☽✧   ✦   ✧☾.·:·.*════════════════════════════════════════╗</div>\n<blockquote><br>\n<div style=\"text-align:center;\"><em>The weakest of your kind<br>You're crippled and so blind<br>Flickering, then dying<br>I am not there </em></div>\n<div> </div>\n</blockquote>\n<div style=\"text-align:center;\">I am so happy to finally share this mod with everyone. I had so much fun making these, and I hope that you enjoy them as well!<br><br>This mod is a 300-member gift over on my <a href=\"https://www.patreon.com/cw/mouch30\">patreon</a> (free, as always)<br><br></div>\n<div style=\"text-align:center;\">⛧°｡⋆༺♱༻⋆｡°⛧ <br><br>introducing <strong>Flicker</strong> - 11 cybergoth/punk hairs in various styles and textures<br><br>!! PINK DRESS + FLICKER is an <a href=\"https://www.cgtrader.com/3d-models/character/clothing/two-buns-dreads\">asset</a> i purchased from <a href=\"https://www.cgtrader.com/designers/ellieiv\">EllieIv</a> !!<br>everything else is from bg3!<br><br>&gt;&gt; the small horns in FLICKER and LOVELY DAY are colored by Horn Tip! &lt;&lt;<br><br></div>\n<div style=\"text-align:center;\"><strong><u>Included in this mod:</u></strong><br><br>⋆˙⟡ 11 Hairs ⋆˙⟡<br><br>⟢ IT'S BEEN FUN</div>\n<div style=\"text-align:center;\">⟢ COUNTERBLOW</div>\n<div style=\"text-align:center;\">⟢ SELLING REBELLION</div>\n<div style=\"text-align:center;\">⟢ MY REVENGE ON THE WORLD</div>\n<div style=\"text-align:center;\">⟢ PINK DRESS</div>\n<div style=\"text-align:center;\">⟢ ST. EDITH</div>\n<div style=\"text-align:center;\">⟢ INFILTRATING MY WAY THROUGH THE SYSTEM</div>\n<div style=\"text-align:center;\">⟢ BE ME</div>\n<div style=\"text-align:center;\">⟢ CUTTING</div>\n<div style=\"text-align:center;\">⟢ FLICKER</div>\n<div style=\"text-align:center;\">⟢ LOVELY DAY</div>\n<p> </p>\n<div style=\"text-align:center;\"><u><strong>Credits</strong></u></div>\n<div> </div>\n<div style=\"text-align:center;\">programs used: Blender, Photoshop, BG3 Toolkit<br><br>thank you to our lovely screenarchers for taking such gorgeous photos!</div>\n<div style=\"text-align:center;\">✦  <a href=\"https://www.nexusmods.com/profile/VespertilioArt\">VespertilioArt</a>  ✦</div>\n<div style=\"text-align:center;\">✦  <a href=\"https://www.nexusmods.com/profile/Haarlepspup\">haarlepspup [roach</a>] ✦</div>\n<div style=\"text-align:center;\">✦ <a href=\"https://noirebelle.carrd.co/\">noi</a> ✦ <br><br>SEE ARTICLE FOR MODS USED</div>\n<div style=\"text-align:center;\"> </div>",
+    "summary": "A collection of hairs inspired by one of my favorite albums - 'Flicker' by Ayria + celebrating 300 members on Patreon. Thank you for your support!",
+    "description": "<p> </p>\n<div style=\"text-align:center;\">╔════════════════════════════════════════*.·:·.☽✧   ✦   ✧☾.·:·.*════════════════════════════════════════╗</div>\n<blockquote><br>\n<div style=\"text-align:center;\"><em>The weakest of your kind<br>You're crippled and so blind<br>Flickering, then dying<br>I am not there </em></div>\n<div> </div>\n</blockquote>\n<div style=\"text-align:center;\">I am so happy to finally share this mod with everyone. I had so much fun making these, and I hope that you enjoy them as well!<br><br>This mod is a 300-member gift over on my <a href=\"https://www.patreon.com/cw/mouch30\">patreon</a> (free, as always)<br><br></div>\n<div style=\"text-align:center;\">⛧°｡⋆༺♱༻⋆｡°⛧ <br><br>introducing <strong>Flicker</strong> - 13 cybergoth/punk hairs in various styles and textures<br><br>!! PINK DRESS + FLICKER is an <a href=\"https://www.cgtrader.com/3d-models/character/clothing/two-buns-dreads\">asset</a> i purchased from <a href=\"https://www.cgtrader.com/designers/ellieiv\">EllieIv</a> !!<br>everything else is from bg3!<br><br>&gt;&gt; the small horns in FLICKER and LOVELY DAY are colored by Horn Tip! &lt;&lt;<br>&gt;&gt; all metallic rings + spikes are colored by Horn Color! &lt;&lt; <br><br><br></div>\n<div style=\"text-align:center;\"><strong><u>Included in this mod:</u></strong><br><br>⋆˙⟡ 13 Hairs ⋆˙⟡<br><br>⟢ IT'S BEEN FUN</div>\n<div style=\"text-align:center;\">⟢ COUNTERBLOW</div>\n<div style=\"text-align:center;\">⟢ SELLING REBELLION</div>\n<div style=\"text-align:center;\">⟢ MY REVENGE ON THE WORLD</div>\n<div style=\"text-align:center;\">⟢ PINK DRESS</div>\n<div style=\"text-align:center;\">⟢ ST. EDITH</div>\n<div style=\"text-align:center;\">⟢ INFILTRATING MY WAY THROUGH THE SYSTEM</div>\n<div style=\"text-align:center;\">⟢ BE ME<br><br><strong>⟢ POST APOCALYPTIC GIRL [NEW]</strong></div>\n<div style=\"text-align:center;\">⟢ CUTTING<br><br></div>\n<div style=\"text-align:center;\"><strong>⟢ MY DEVICE [NEW]</strong></div>\n<div style=\"text-align:center;\">⟢ FLICKER</div>\n<div style=\"text-align:center;\">⟢ LOVELY DAY</div>\n<p> </p>\n<div style=\"text-align:center;\"><u><strong>Credits</strong></u></div>\n<div> </div>\n<div style=\"text-align:center;\">programs used: Blender, Photoshop, BG3 Toolkit<br><br>thank you to our lovely screenarchers for taking such gorgeous photos!</div>\n<div style=\"text-align:center;\">✦  <a href=\"https://www.nexusmods.com/profile/VespertilioArt\">VespertilioArt</a>  ✦</div>\n<div style=\"text-align:center;\">✦  <a href=\"https://www.nexusmods.com/profile/Haarlepspup\">haarlepspup [roach</a>] ✦</div>\n<div style=\"text-align:center;\">✦ <a href=\"https://noirebelle.carrd.co/\">noi</a> ✦ <br><br>SEE NEXUS PAGE FOR MODS USED</div>\n<div style=\"text-align:center;\"> </div>",
     "date_added": 1783273826,
-    "date_updated": 1784748404,
+    "date_updated": 1787154247,
     "date_live": 1783276809,
     "visible": 1,
     "status": 1,
@@ -157367,15 +157367,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/b9c0/41896918/crop_100x100/asdf.jpg"
     },
     "modfile": {
-      "id": 7929946,
+      "id": 8115635,
       "mod_id": 6194005,
-      "version": "1.0.0.7",
-      "filename": "m30_flicker_hair_9a00f688-6a08-4qwa.zip",
-      "changelog": "- Initial Release",
-      "date_added": 1783273855,
+      "version": "1.0.0.14",
+      "filename": "m30_flicker_hair_9a00f688-6a08-0gqk.zip",
+      "changelog": "added two new hairs, 'Post Apocalyptic Girl' and 'My Device'\nmetallic rings and spikes are now dyeable with Horn color",
+      "date_added": 1787154157,
       "date_updated": 0,
-      "date_scanned": 1783273925,
-      "filesize": 39055333,
+      "date_scanned": 1787154238,
+      "filesize": 45509431,
       "platforms": [
         {
           "platform": "windows",
@@ -157383,15 +157383,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -157461,10 +157461,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7929946
-      },
-      {
         "platform": "mac",
         "modfile_live": 7929946
       },
@@ -157475,6 +157471,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7929946
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8115635
       }
     ]
   },
