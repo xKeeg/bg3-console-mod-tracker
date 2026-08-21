@@ -72637,7 +72637,7 @@
     "summary": "Consolidation of all Barbarian subclasses from the 5th Edition DnD official source material and Critical Role. Includes RAW Reckless Attack mechanics.",
     "description": "<p>Subclasses: Ancestral Guardian, Battlerager, Beast, Juggernaut (Tal'Dorei Reborn), Storm Herald, Zealot. Everything has been implemented faithful to the source material and close to 100% Rules as Written.</p>\n<p>Any Script Extender functionality that was used in the Nexus versions has been removed and will cause some abilities to work differently, noted below.</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/sumradagnoth\" rel=\"nofollow\"><img src=\"https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true\" alt=\"\"></a></p>\n<p><img style=\"color:#f1f1f1;font-family:Roboto, sans-serif;font-size:medium;\" src=\"https://i.imgur.com/ZcxF62r.png\" alt=\"ZcxF62r.png\"><br><br></p>\n<h3>Path of the Ancestral Guardian</h3>\n<p><em>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.</em></p>\n<h3><strong><a title=\"Ancestral Guardian Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1316\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p> </p>\n<h3>Path of the Battlerager</h3>\n<p><em>Known as Kuldjargh (literally \"axe idiot\") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Battlerager Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1317\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p> </p>\n<h3>Path of the Beast</h3>\n<p><em>Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Beast Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1318\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></strong></h3>\n<p> </p>\n<h3>Path of the Juggernaut</h3>\n<p><em>Barbarians who follow the Path of the Juggernaut stand so resolutely that none can deter them, and they swing their weapons with such force that all who stand against them are flung aside. In might and in spirit, juggernauts are immovable object and unstoppable force all at once.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Juggernaut Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1319\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p> </p>\n<h3>Path of the Storm Herald</h3>\n<p><em>Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Storm Herald Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1320\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a><br></strong></h3>\n<p> </p>\n<h3>Path of the Zealot</h3>\n<p><em>Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots – warriors who channel their rage into powerful displays of divine power. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good</em></p>\n<h3><strong><a style=\"color:#e1b894;\" title=\"Zealot Mod Details\" href=\"https://www.nexusmods.com/baldursgate3/articles/1321\" target=\"_blank\" rel=\"noopener noreferrer\">Full Implementation Details and Mechanics</a></strong></h3>\n<p><strong><br><em><a style=\"background-color:transparent;font-weight:500;\" href=\"https://mod.io/u/sumradagnoth/\"><img src=\"https://i.imgur.com/VeEiEB1.png\" alt=\"VeEiEB1.png\"></a></em></strong></p>",
     "date_added": 1730812475,
-    "date_updated": 1768478262,
+    "date_updated": 1787351004,
     "date_live": 1730815687,
     "visible": 1,
     "status": 1,
@@ -72651,15 +72651,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/d521/37839979/crop_100x100/51lvrxohppl_ac_uf8941000_ql80.jpg"
     },
     "modfile": {
-      "id": 7074399,
+      "id": 8123695,
       "mod_id": 4466191,
-      "version": "1.1.5.85",
-      "filename": "barbariansubclasses5ecombined_-3wet.zip",
-      "changelog": "Adjust Action Resource descriptions\nAdded sight compatibility with Expansion's Epic Boons\nBeast - Beast form opportunity attacks will account for the Sentinel feat\nBeast - Beast form attacks scale with Monk damage dice if you multiclass\nBeast - Fix Tail opportunity attack not triggering sometimes",
-      "date_added": 1764343654,
+      "version": "1.1.5.86",
+      "filename": "barbariansubclasses5ecombined_-a1gz.zip",
+      "changelog": "* Fix some local typos\n* Remove some old code",
+      "date_added": 1787350976,
       "date_updated": 0,
-      "date_scanned": 1764343683,
-      "filesize": 15712515,
+      "date_scanned": 1787351149,
+      "filesize": 15712542,
       "platforms": [
         {
           "platform": "windows",
@@ -72667,15 +72667,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -72720,10 +72720,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7074399
-      },
-      {
         "platform": "mac",
         "modfile_live": 7074399
       },
@@ -72734,6 +72730,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7074399
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8123695
       }
     ]
   },
@@ -83720,7 +83720,7 @@
     "summary": "The unofficial community bug fix mod - Over 1600 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1787092512,
+    "date_updated": 1787350926,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -83734,15 +83734,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8113568,
+      "id": 8123685,
       "mod_id": 4561805,
-      "version": "4.6.18.1",
-      "filename": "itembugfix_010e73d5-9342-e528-7bao.zip",
-      "changelog": "- Circle of the Moon Druids multiclassed into Bladesinging Wizard no longer receive a permanent 'Bladesong Impeded' condition when shapeshifting into Air/Water Myrmidon (special thanks again to Bert for the code)\n- Code improvement/fixes",
-      "date_added": 1787092483,
+      "version": "4.6.19.1",
+      "filename": "itembugfix_010e73d5-9342-e528-4cwk.zip",
+      "changelog": "- Vicious Mockery is also now correctly considered a hostile act by creatures who succeed a saving throw against it\n- Broken Promises now correctly has SG_Cursed on the negative effect\n- Lover's Avarice is now correctly permanent\n- Code improvements",
+      "date_added": 1787350914,
       "date_updated": 0,
-      "date_scanned": 1787092491,
-      "filesize": 1834262,
+      "date_scanned": 1787350924,
+      "filesize": 1834462,
       "platforms": [
         {
           "platform": "windows",
@@ -83856,7 +83856,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8113568
+        "modfile_live": 8123685
       }
     ]
   },
