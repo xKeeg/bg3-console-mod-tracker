@@ -57440,7 +57440,7 @@
     "summary": "Adds 30 new items for Cleric throughtout the game, 10 Items per Act.",
     "description": "<p>Empower your Cleric to become a beacon of faith and resilience with the Faith and Fortitude mod! Designed to elevate the support capabilities of Clerics and make them even more engaging to play, this mod offers a comprehensive suite of equipment to bolster their role as pillars of support. All items are designed to seamlessly integrate with Larian's existing balance philosophy. Please provide feedback to help improve a balanced experience for all! Share your thoughts and help ensure your Cleric reaches their full potential! </p>\n<p>- Each Act adds 10 items curated for Cleric</p>\n<p>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/9415\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/f8y72rP\">Act 1</a>, <a href=\"https://imgur.com/a/JcC3mYb\">Act 2</a>, <a href=\"https://imgur.com/a/7bApFZY\">Act 3</a></p>\n<p>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"</p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1728750705,
-    "date_updated": 1786707506,
+    "date_updated": 1787579026,
     "date_live": 1730475917,
     "visible": 1,
     "status": 1,
@@ -57454,15 +57454,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8011346,
+      "id": 8133717,
       "mod_id": 4406280,
-      "version": "1.0.0.22",
-      "filename": "ff_cleric_equipment_b72a4134-b-ca3d.zip",
-      "changelog": "• Significantly reduced flavor text on all items\n• Increase Celestial Tears stats up to a max of 18 (was 16).\n• Ring of the Guiding Star - Star Aura damage reduction change to half wisdom modifier instead of full.\n• Flail of Terror - Wisdom Saving Throw now scales with Spell Save DC instead of being a static 15 and Deals 1d4 necrotic damage.\n• Lifespark Chainmail - Slightly buffed healing. 1d8 self healing changed to 2d6, and 1d4 ally healing changed to 1d6.\n• Shield of the Zealous - Added +2 Spell Save DC.",
-      "date_added": 1784925478,
+      "version": "1.0.0.23",
+      "filename": "ff_cleric_equipment_b72a4134-b-4vlf.zip",
+      "changelog": "• Gloves changed from Medium Armor to Light Armor\n• Added Athletics bonus back to boots.\n• Added Constitution bonus back to helmets.",
+      "date_added": 1787578953,
       "date_updated": 0,
-      "date_scanned": 1784925488,
-      "filesize": 2649890,
+      "date_scanned": 1787578961,
+      "filesize": 2649950,
       "platforms": [
         {
           "platform": "windows",
@@ -57470,15 +57470,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -57538,10 +57538,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 8011346
-      },
-      {
         "platform": "mac",
         "modfile_live": 8011346
       },
@@ -57552,6 +57548,10 @@
       {
         "platform": "ps5",
         "modfile_live": 8011346
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8133717
       }
     ]
   },
@@ -60646,7 +60646,7 @@
     "summary": "Adds 30 new items designed for Druid throught the game, 10 items per act.",
     "description": "<p>Embrace the power of nature with Grove and Growl, a comprehensive equipment mod designed specifically for Druids. This carefully curated collection empowers you to channel the untamed wilderness and strengthen your connection to the primal forces. Grove and Growl is designed to make your Druid playthrough more engaging and rewarding. Whether you prefer to unleash primal wrath in combat or serve as a protector of the wild, this mod provides the tools you need to thrive throughout the game. I am actively seeking feedback from the community to ensure a balanced and engaging experience for all players. Share your thoughts and suggestions to help improve Grove and Growl!</p>\n<p>Each Act adds 10 items curated for Druid<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/10304\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/nKg1v7Q\">Act 1</a>, <a href=\"https://imgur.com/a/HywOHAR\">Act 2</a>, <a href=\"https://imgur.com/a/DdWVuBU\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.<br><br>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1729126150,
-    "date_updated": 1787312644,
+    "date_updated": 1787578635,
     "date_live": 1729126901,
     "visible": 1,
     "status": 1,
@@ -60660,15 +60660,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8077626,
+      "id": 8133695,
       "mod_id": 4418987,
-      "version": "1.0.0.18",
-      "filename": "gg_druid_equipment_fdd8955f-00-2iqn.zip",
-      "changelog": "• Reworked all Wildshape items so they should now work properly and allow the player to switch between Wildshape forms without loosing the buffs.\n• Minor grammar fix.",
-      "date_added": 1786296826,
+      "version": "1.0.0.19",
+      "filename": "gg_druid_equipment_fdd8955f-00-kmpj.zip",
+      "changelog": "Re-added the unique flag to armor, it was accidentally removed in the previous update.",
+      "date_added": 1787578564,
       "date_updated": 0,
-      "date_scanned": 1786296878,
-      "filesize": 26585572,
+      "date_scanned": 1787578616,
+      "filesize": 26585592,
       "platforms": [
         {
           "platform": "windows",
@@ -60676,15 +60676,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -60744,10 +60744,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 8077626
-      },
-      {
         "platform": "mac",
         "modfile_live": 8077626
       },
@@ -60758,6 +60754,10 @@
       {
         "platform": "ps5",
         "modfile_live": 8077626
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8133695
       }
     ]
   },
@@ -92178,8 +92178,8 @@
     "summary": "Adds 30 new items curated for Fighter, 10 items per Act.",
     "description": "<p>Control the flow of combat with Might and Metal: Fighter Equipment. This mod provides your fighter with the tools to gain a decisive tactical advantage. Increase your survivability and that of your allies by enhancing your armor and weakening enemy defenses. Whether you prefer to hold the line, protect your companions, or carve a path through your enemies, this collection offers the means to shape the battlefield to your will. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial! Share your thoughts and help refine Might and Metal.</p>\n<p>- Each Act adds 10 items curated for Fighter<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14894\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-1-Qv2fZYv\">Act 1</a>, <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-2-XWkZK8f\">Act 2</a>, <a href=\"https://imgur.com/a/might-metal-fighter-equipment-act-3-jZzKEoC\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1738298279,
-    "date_updated": 1786703332,
-    "date_live": 1738298279,
+    "date_updated": 1787579200,
+    "date_live": 1787579200,
     "visible": 1,
     "status": 1,
     "dependencies": false,
@@ -92192,15 +92192,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8077614,
+      "id": 8133721,
       "mod_id": 4693529,
-      "version": "1.0.0.14",
-      "filename": "mm_fighter_equipment_e146fb3b-3jjz.zip",
-      "changelog": "• Added Disadvantage on Stealth checks to chest armor.\n• Minor grammar fix.",
-      "date_added": 1786296665,
+      "version": "1.0.0.15",
+      "filename": "mm_fighter_equipment_e146fb3b-403n.zip",
+      "changelog": "• Fixed attack animations for Shadow-Cursed Battleaxe.\n• Added missing icons to Rusting and Weakened Defenses.",
+      "date_added": 1787579106,
       "date_updated": 0,
-      "date_scanned": 1786296678,
-      "filesize": 4499263,
+      "date_scanned": 1787579167,
+      "filesize": 4499564,
       "platforms": [
         {
           "platform": "windows",
@@ -92208,15 +92208,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -92266,10 +92266,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 8077614
-      },
-      {
         "platform": "mac",
         "modfile_live": 8077614
       },
@@ -92280,6 +92276,10 @@
       {
         "platform": "ps5",
         "modfile_live": 8077614
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8133721
       }
     ]
   },
@@ -95760,7 +95760,7 @@
     "summary": "Add 30 new items curated for Sorcerer, 10 items per Act.",
     "description": "<p>Master the delicate balance between chaos and control with Chaos and Control: Sorcerer Equipment. This mod provides a diverse collection of magical gear, empowering your sorcerer to command both the raw, unpredictable energies of chaos and the focused precision of controlled spells. Whether you seek to unleash devastating torrents of wild magic, manipulate the elements with finesse, or enhance your metamagic abilities, this collection offers the tools you need. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll discover these treasures organically as you adventure. I am actively seeking feedback from the community to ensure a balanced and engaging experience for all players. Share your thoughts and help balance <em>Chaos and Control</em>.</p>\n<p>- Each Act adds 10 items curated for Sorcerer<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/15116\">Nexus page</a> or on Imgur <a href=\"https://imgur.com/a/chaos-control-sorcerer-equipment-act-1-0KOSCPk\">Act 1</a>, <a href=\"https://imgur.com/a/chaos-control-sorcerer-equipment-act-2-q8TuxM8\">Act 2</a>, <a href=\"https://imgur.com/a/chaos-control-sorcerer-equipment-act-3-iKRgdVL\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).</p>\n<p><strong>Compatibility Issues</strong> - Mods that change the base game Metamagic abilities are 'not compatible' and will break the following items: Pouch of Sorcerous Sand and Amulet of the Infinite Wellspring. - More Information on the Homepage.</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1740553244,
-    "date_updated": 1786707529,
+    "date_updated": 1787578864,
     "date_live": 1740553549,
     "visible": 1,
     "status": 1,
@@ -95774,15 +95774,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8011373,
+      "id": 8133707,
       "mod_id": 4758900,
-      "version": "1.0.0.15",
-      "filename": "cc_sorcerer_equipment_8ead7f8f-3wqc.zip",
-      "changelog": "• Significantly reduced flavor text on all items\n• Pendant of Arcane Augmentation - Reduced AC bonus to +3 max, was +5. And now equal to half charisma modifier (rounded down) instead of full.\n• Fluctuating Ward Cape - Now requires 4 sorcery points instead of 2.\n• Infinite Wellspring Amulet - now limited to once per combat instead of once per turn and has a +2 bonus to spell save DC and spell attack rolls. \n• Hat of Font Surge - Reduce Sorcery Points granted to half sorcerer level +1 instead of full sorcerer level.\n• Sphere of Controlled Chaos - Chaos Ball - Cooldown increase to Short Rest. - Was per combat.\n• Gloves of Sorcerous Might - Remove Charisma Modifier damage bonus and minimum roll is now 18 instead of 20.",
-      "date_added": 1784925719,
+      "version": "1.0.0.16",
+      "filename": "cc_sorcerer_equipment_8ead7f8f-0goq.zip",
+      "changelog": "Further balanced Gloves of Sorcerous Might - Damage roll won't roll lower than a 10 (Example: If you roll a d12 damage die, you can't roll lower than a 10).",
+      "date_added": 1787578755,
       "date_updated": 0,
-      "date_scanned": 1784925734,
-      "filesize": 5395688,
+      "date_scanned": 1787578768,
+      "filesize": 5395655,
       "platforms": [
         {
           "platform": "windows",
@@ -95790,15 +95790,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -95848,10 +95848,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 8011373
-      },
-      {
         "platform": "mac",
         "modfile_live": 8011373
       },
@@ -95862,6 +95858,10 @@
       {
         "platform": "ps5",
         "modfile_live": 8011373
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8133707
       }
     ]
   },
@@ -113800,7 +113800,7 @@
     "summary": "A combination of Fade's Equipment Distribution and all the Class Equipment Packs.",
     "description": "<p>Experience all of Fade's Equipment mods in one convenient package! This combined mod includes Fade's Equipment Distribution and all class-specific equipment mods (excluding Gifts of the Absolute). In version 1.0.0.18, the Distribution system was re-written and is now compatible with any mod that edits RootTemplates. Additionally, a Togglable Randomizer was added in 1.0.0.18. This will only randomize items added from this mod (Randomizing may cause you to get duplicate items).<br>Enjoy translated versions in Chinese, Korean, Brazilian Portuguese, Russian, French, Japanese, and Spanish. </p>\n<p><strong>Translation Credits:</strong> <br>Chinese Translations by <a href=\"https://next.nexusmods.com/profile/yangyangmeiiii?gameId=3474\">yangyangmei</a><br>Russian Translations by <a href=\"https://next.nexusmods.com/profile/dxo1a\">dxo1a</a> and <a href=\"https://next.nexusmods.com/profile/venomuspool\">venomuspool</a> <br>Korean Translations by <a href=\"https://www.nexusmods.com/profile/Eolaloe?gameId=3474\">Eolaloe</a><br>Brazilian Portuguese by <a href=\"https://next.nexusmods.com/profile/kaironn2\">kaironn2</a><br>Spanish Translations by <a href=\"https://next.nexusmods.com/profile/Sokrof2\">Sokrof2</a><br>French Translations by <a href=\"https://www.nexusmods.com/profile/Tojii1\">Tojii1</a> <br>Japanese Translations by <a href=\"https://www.nexusmods.com/profile/hawchangJA\">hawchangJA</a></p>\n<p> </p>\n<p><strong>List of all item locations with images - <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vThKpJZeUVZIp_mBGlPRUV9blJFcpNH7hJnDh82T46-R7YAM892mmtvKRh9HaqLzClPP3FtTezsLV9u/pubhtml\">Link</a></strong></p>\n<p><br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br></p>\n<ul>\n<li>This mod includes: Fade's Equipment Distribution, Unarmed and Upgraded, Faith and Fortitude, Grove and Growl, Beast and Bow, Wands and Weave, Song and Steel, Pact and Power, Veil and Venom, Rage and Resilience, Might and Metal, Oath and Order, and Chaos and Control.</li>\n<li><u><strong>If you download this mod, do <span style=\"color:#ff0000;\">NOT</span> have the other mods that are included in the mod enabled.</strong></u> - If this mod is being disabled its because you have the individual FED mod installed...</li>\n<li>If you switch Fade's Equipment Distribution for Fade's Equipment Distribution AIO in the middle of a playthrough, it will duplicate items for the Act you are in.</li>\n</ul>\n<p> </p>\n<p><strong>Compatibility:</strong></p>\n<ul>\n<li>Mods that change the base game stats such as DnD 5.5e All-in-One BEYOND, and BG3 - Chocolate Edition may cause some items to function incorrectly.</li>\n<li>No other known compatibility conflicts as of version 1.0.0.18. <br><br>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a><br>Buy me a coffee 💜</p>\n<div style=\"text-align:center;\"><a href=\"https://ko-fi.com/graphicfade/donate\"><img src=\"https://i.imgur.com/mnuuR3n.png\" alt=\"mnuuR3n.png\"></a><br><br><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"btn_donate_LG.gif\"></a></div>\n<p> </p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a></p>\n<p> </p>\nSpells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a><br><br>Visuals ---<br><a href=\"https://mod.io/g/baldursgate3/m/shadow-cursed-nimbus#description\">Shadow-Cursed Nimbus (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/nimbus-recolored#description\">Nimbus Recolored (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/scratch-recolored-husky#description\">Scratch Recolored: Husky</a><br><br>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest#description\">Fade's Camp Chest</a><br><a href=\"https://mod.io/g/baldursgate3/m/simply-more-gold-2x#description\">Simply More Gold (2x)</a><br><br>Gameplay ---<br><a href=\"https://mod.io/g/baldursgate3/m/early-access-illithid-powers-restored#description\">Early Access Illithid Powers Restored</a><br><a href=\"https://mod.io/g/baldursgate3/m/leader-homebrew-class#description\">Leader Homebrew Class</a><br><a href=\"https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul#description\">Sorcerer Subclass - Conflagrant Soul</a></li>\n</ul>",
     "date_added": 1746390180,
-    "date_updated": 1787564533,
+    "date_updated": 1787579519,
     "date_live": 1746391440,
     "visible": 1,
     "status": 1,
@@ -113814,15 +113814,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8077636,
+      "id": 8133731,
       "mod_id": 4918115,
-      "version": "1.0.0.21",
-      "filename": "xfed_aio_af330e86-7335-b20c-ce-ankb.zip",
-      "changelog": "General:\n• Updated Korean loca provided by Eolalao.\n• Basic Quiver from FATE should now be distributed correctly.\n• Items spawned via console command will no longer get randomized when the randomizer is toggled on.\n\nGrove and Growl:\n• Reworked all Wildshape items so they should now work properly and allow the player to switch between Wildshape forms without loosing the buffs.\n• Minor grammar fix.\n\nMight and Metal:\n• Added Disadvantage on Stealth checks to chest armor.\n• Minor grammar fix.\n\nVeil and Venom:\n• Minor grammar fix.\n\nRage and Resilience:\n• Warhammer of Thunder: Thunderstruck should no longer apply to all attacks.",
-      "date_added": 1786296989,
+      "version": "1.0.0.22",
+      "filename": "xfed_aio_af330e86-7335-b20c-ce-6ggf.zip",
+      "changelog": "General:\n• Improved Randomizer code.\n• Heartseeker's Vest, Visage of the Inner Demon, Stripping Talon Charm, and Amulet of the Mastermind should now be distributed correctly.\n• Improved distribution code\n\nChaos and Control:\n• Further balanced Gloves of Sorcerous Might - Damage roll won't roll lower than a 10 (Example: If you roll a d12 damage die, you can't roll lower than a 10).\n\nFaith and Fortitude:\n• Gloves changed from Medium Armor to Light Armor\n• Added Athletics bonus back to boots.\n• Added Constitution bonus back to helmets.\n\nMight and Metal:\n• Fixed attack animations for Shadow-Cursed Battleaxe.\n• Added missing icons to Rusting and Weakened Defenses.",
+      "date_added": 1787579325,
       "date_updated": 0,
-      "date_scanned": 1786297118,
-      "filesize": 74499073,
+      "date_scanned": 1787579471,
+      "filesize": 74497507,
       "platforms": [
         {
           "platform": "windows",
@@ -113830,15 +113830,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -113988,10 +113988,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 8077636
-      },
-      {
         "platform": "mac",
         "modfile_live": 8077636
       },
@@ -114002,6 +113998,10 @@
       {
         "platform": "ps5",
         "modfile_live": 8077636
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8133731
       }
     ]
   },
@@ -156246,9 +156246,9 @@
     "name": "Ancient Mega Pack Plus",
     "name_id": "ancient-mega-pack-plus",
     "summary": "AMP Plus is a patch for Ancient Mega Pack that keeps fixing and improving it after its final release: bug fixes, balance and difficulty tuning, plus a few new ULTRA mini-bosses.",
-    "description": "<h2><strong>Ancient Mega Pack Plus</strong></h2>\n<p>A substantial maintenance, balance and content update for Ancient Mega Pack, carrying the mod forward after its final base release, but <strong>not for long</strong>. It collects the fixes, the difficulty work and several new endgame encounters that kept arriving from player feedback once the base mod was called done.</p>\n<p style=\"color:#c98a4a;\"><strong>This is not a standalone mod. It requires Ancient Mega Pack.</strong> Install it next to <a href=\"https://mod.io/g/baldursgate3/m/ancient-mega-pack-rel#description\">Ancient Mega Pack</a> and let it load after. On its own it does nothing.</p>\n<hr>\n<h3>Changes</h3>\n<ul>\n<li><strong>Fixes</strong> for bugs that turned up after the final AMP build, most of them reported on the Discord.</li>\n<li><strong>Balance and difficulty</strong> passes on HARD and ULTRA mode, the Eclipse mechanic and the Pyre, following player feedback.</li>\n<li><strong>New ULTRA mini-bosses</strong> for the endgame pool, built in the same style as the ones already there.</li>\n</ul>\n<p>If your current AMP run is going fine, you lose nothing by adding it. Existing saves carry over.</p>\n<hr>\n<h2><strong>In This Updates(1.11/1.11.1(Big One))..</strong></h2>\n<h2><strong>Update 1.11</strong></h2>\n<p>A big round of critical fixes, including crashes that came from applying some AMP statuses.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Fixed a crash from effects that roll a saving throw after the creature that applied them is gone (thanks @CheeseFairy, @Yoko)<br>- Fixed a crash from bonus damage that grows with stacks on unarmed attacks (thanks @Lakil, @CheeseFairy)<br>- Several problems with the Pledge Runic Shards have been fixed (thanks @Air1Fire)<br>- The Runic Shard of Extended Reach now works with every kind of melee attack, including some spells (thanks @Air1Fire, @Nomit)<br>- The Runic Shard of Indomitable now triggers once per fight (thanks @wh1te_ghost)<br>- The Runic Shard of Reflection now says what happens when something tries to kill you outright (thanks @Inviniatar, @heatray, @Vludber)<br>- The Runic Shard of Finisher now adds a fixed amount of damage on a critical hit<br>- The Runic Shard of Fist now describes its damage more clearly (thanks @Zeno)<br>- Weapons designed for summoned creatures now work only in their own hands. The earlier fixes have been reverted<br>- Toxemia now comes off the creature it paralyses</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- ULTRA mini-bosses now show which conditions cannot touch them<br>- Kavir and U'kra now have status immunities of their own<br>- Tickhara and Vludber can finally no longer be put to sleep<br>- Valdryn's aura should now show its Wisdom saving throw in the combat log (thanks @Bish)<br>- Ansur should now get his Eclipse correctly (I still have no solution for his two phases) (thanks @Inviniatar)</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Many fixes for the new mechanic of the War Rings (thanks @Air1Fire, @Uturn, @Vludber)<br>- Dagger of Fate now keeps the souls it has taken when you unequip it or its wielder dies. A long rest still empties it (thanks @Inviniatar)<br>- Chronomancer's Stride now answers to Moleculation. Its legendary passive that never worked has been removed (thanks @Uturn, @Bish)<br>- Venom Surge no longer adds its poison three times to a single spell<br>- Venomous Siphon now adds its poison only to damage that is not an attack or a spell<br>- Void-Touched Circlet now hands out Void Capsules far less often (thanks @Zheaniv)<br>- Answered Prayer now also waives the Bonus Action when another item has moved the prayer onto one (thanks @Bodrick [TAV])<br>- Vampiric Gloves now hand over their second touch as a Bonus Action, like the first (thanks @Air1Fire)<br>- Othismos now actually makes its free strike once per turn (thanks @Inviniatar)<br>- The Son of Legion shield wall now covers a neighbour once per turn<br>- Dagger of Storm Wind now triggers once per turn<br>- Orb of the Underdark now hands the wearer sight of their own when they kill a creature inside a Darkness cloud (thanks @Bish)<br>- Arcane Infusion from the Weavebender Greaves now actually spends its charge on a single weapon attack (thanks @wh1te_ghost)<br>- Gauntlets of Precision now give their attack bonus and their reroll to off-hand attacks as well (thanks @Air1Fire)<br>- Heir's Poise now brings its reroll to off-hand attacks as well<br>- The Prayer of Ilmater's artefacts now opens for paladins of Ilmater and for a faith added by another mod (thanks @Air1Fire)<br>- Gear that rewards worship of Lathander or Talos now counts paladins of those gods among its worshippers<br>- The legendary Royal Messenger's Ring now states the Armour Class its own charges give, so it no longer reads the same as the Very Rare one (thanks @Bish)<br>- Gnoll Three-Finger Concentrate has had small wording changes (thanks @Undine)</p>\n<h2><strong>LOCALIZATION</strong></h2>\n<p>- Fixed the wrong version numbers on localisation strings that made every language fall back to English</p>\n<h2><strong>Update 1.11.1</strong></h2>\n<p><strong>Big changes to the Pyre</strong>, important work on crit damage dice, and a couple of fixes from kind people on Discord.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Crit damage dice have been reworked across the collection: some branches changed a lot, so that power is shared fairly between synergies in the endgame<br>- The Fist shards (big family across all rarities) now work for a caster as well<br>- Mutacid's mutation picks now sit among the temporary hotbar tab and no longer hold your concentration. Some mistakes in their descriptions are fixed as well<br>- The Mind Shackle shard now Silences its wearer for taking damage without Concentration, considering how easy protection from paralysis was to get<br>- Kroneth's Vow of Silence is now broken only by a spell, so a fight carried by weapons keeps it (thanks @squesque)<br>- Reclamation now returns a Runic Shard set into a weapon after you have loaded a save<br>- Effects that skip Booming Blade now also skip the blade an item grants for free<br>- The Brutality shard is now Legendary, as part of the general toning down of crit damage dice<br>- The Precision shard now correctly counts as Very Rare in the Trials of Tav Shop<br>- The Gamble shard now states that damage dice added by other effects keep the weapon's original die (thanks @hatul91)</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- The Pyre has been fully redesigned and rebuilt around a lot of feedback. It now really gives boss fights a rich escalation and a difficulty that moves with you, custom bosses included. The former Pyre is still available as its own affix, considering how radically the whole mechanic changed. The main complaint from the loudest critics on Discord was how unevenly the Pyre landed on, say, the fight with Gut against the one with Dror Ragzlin, where a larger crowd of enemies changed the picture completely and made boss fights either very easy or very hard. The new Pyre is meant to be a smarter rubber band for difficulty, one that takes into account how differently story boss fights are filled. And of course, further reforms can be expected<br>- ULTRA reinforcements now come once per fight, however many times the boss gets back up (thanks @frivr)<br>- ULTRA mini-bosses now read difficult terrain each in their own way, going by what they are good at (thanks @Bish)<br>- Small changes to how the reward at the end of a LEGITIMATE run works</p>\n<h2><strong>LOOT</strong></h2>\n<p>- The capsule reward window now offers three Different capsules (thanks @balistafreak)<br>- Void Capsules on a campaign older than their settings now read those settings again, so charges, rerolls and salvage work as they should (thanks @Tøken)<br>- An empty reward cube no longer stays in your pack once the capsule has handed the reward over<br>- The ceremonial weapons from Rosymorn Monastery no longer go into the junk bag</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- The second touch from the Vampiric Gloves now actually costs a Bonus Action, like the first (thanks @Air1Fire)<br>- Liquid Resonance now lays its Reverberation only in combat (thanks @daz96050)<br>- The Cultist's Shield has been slightly reworked, considering the known problem with Saving Throws</p>\n<h2><strong>LOCALIZATION</strong></h2>\n<p>- German now names the Wizard class Magier, the way the game does (thanks german friends @lukaria. and @Sir Saint Savage)</p>\n<h2><strong>VISUALS</strong></h2>\n<p>- The ULTRA spawn intensity button on the training ring now carries the settings icon instead of another ULTRA one<br>- The Item Move Cost affix button got an icon of its own instead of the shared settings one</p>\n<h2><strong>Read the rest of the patchnotes in the file history on mod.io</strong></h2>\n<hr>\n<h2><strong>Credits</strong></h2>\n<p>Ancient Mega Pack and this update by Paramonov &amp; AMP Discord server.</p>",
+    "description": "<h2><strong>Ancient Mega Pack Plus</strong></h2>\n<p>A substantial maintenance, balance and content update for Ancient Mega Pack, carrying the mod forward after its final base release, but <strong>not for long</strong>. It collects the fixes, the difficulty work and several new endgame encounters that kept arriving from player feedback once the base mod was called done.</p>\n<p style=\"color:#c98a4a;\"><strong>This is not a standalone mod. It requires Ancient Mega Pack.</strong> Install it next to <a href=\"https://mod.io/g/baldursgate3/m/ancient-mega-pack-rel#description\">Ancient Mega Pack</a> and let it load after. On its own it does nothing.</p>\n<hr>\n<h3>Changes</h3>\n<ul>\n<li><strong>Fixes</strong> for bugs that turned up after the final AMP build, most of them reported on the Discord.</li>\n<li><strong>Balance and difficulty</strong> passes on HARD and ULTRA mode, the Eclipse mechanic and the Pyre, following player feedback.</li>\n<li><strong>New ULTRA mini-bosses</strong> for the endgame pool, built in the same style as the ones already there.</li>\n</ul>\n<p>If your current AMP run is going fine, you lose nothing by adding it. Existing saves carry over.</p>\n<hr>\n<h2><strong>In This Updates(1.11/1.11.1(Big One)/1.11.2)..</strong></h2>\n<h2><strong>Update 1.11</strong></h2>\n<p>A big round of critical fixes, including crashes that came from applying some AMP statuses.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Fixed a crash from effects that roll a saving throw after the creature that applied them is gone (thanks @CheeseFairy, @Yoko)<br>- Fixed a crash from bonus damage that grows with stacks on unarmed attacks (thanks @Lakil, @CheeseFairy)<br>- Several problems with the Pledge Runic Shards have been fixed (thanks @Air1Fire)<br>- The Runic Shard of Extended Reach now works with every kind of melee attack, including some spells (thanks @Air1Fire, @Nomit)<br>- The Runic Shard of Indomitable now triggers once per fight (thanks @wh1te_ghost)<br>- The Runic Shard of Reflection now says what happens when something tries to kill you outright (thanks @Inviniatar, @heatray, @Vludber)<br>- The Runic Shard of Finisher now adds a fixed amount of damage on a critical hit<br>- The Runic Shard of Fist now describes its damage more clearly (thanks @Zeno)<br>- Weapons designed for summoned creatures now work only in their own hands. The earlier fixes have been reverted<br>- Toxemia now comes off the creature it paralyses</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- ULTRA mini-bosses now show which conditions cannot touch them<br>- Kavir and U'kra now have status immunities of their own<br>- Tickhara and Vludber can finally no longer be put to sleep<br>- Valdryn's aura should now show its Wisdom saving throw in the combat log (thanks @Bish)<br>- Ansur should now get his Eclipse correctly (I still have no solution for his two phases) (thanks @Inviniatar)</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Many fixes for the new mechanic of the War Rings (thanks @Air1Fire, @Uturn, @Vludber)<br>- Dagger of Fate now keeps the souls it has taken when you unequip it or its wielder dies. A long rest still empties it (thanks @Inviniatar)<br>- Chronomancer's Stride now answers to Moleculation. Its legendary passive that never worked has been removed (thanks @Uturn, @Bish)<br>- Venom Surge no longer adds its poison three times to a single spell<br>- Venomous Siphon now adds its poison only to damage that is not an attack or a spell<br>- Void-Touched Circlet now hands out Void Capsules far less often (thanks @Zheaniv)<br>- Answered Prayer now also waives the Bonus Action when another item has moved the prayer onto one (thanks @Bodrick [TAV])<br>- Vampiric Gloves now hand over their second touch as a Bonus Action, like the first (thanks @Air1Fire)<br>- Othismos now actually makes its free strike once per turn (thanks @Inviniatar)<br>- The Son of Legion shield wall now covers a neighbour once per turn<br>- Dagger of Storm Wind now triggers once per turn<br>- Orb of the Underdark now hands the wearer sight of their own when they kill a creature inside a Darkness cloud (thanks @Bish)<br>- Arcane Infusion from the Weavebender Greaves now actually spends its charge on a single weapon attack (thanks @wh1te_ghost)<br>- Gauntlets of Precision now give their attack bonus and their reroll to off-hand attacks as well (thanks @Air1Fire)<br>- Heir's Poise now brings its reroll to off-hand attacks as well<br>- The Prayer of Ilmater's artefacts now opens for paladins of Ilmater and for a faith added by another mod (thanks @Air1Fire)<br>- Gear that rewards worship of Lathander or Talos now counts paladins of those gods among its worshippers<br>- The legendary Royal Messenger's Ring now states the Armour Class its own charges give, so it no longer reads the same as the Very Rare one (thanks @Bish)<br>- Gnoll Three-Finger Concentrate has had small wording changes (thanks @Undine)</p>\n<h2><strong>LOCALIZATION</strong></h2>\n<p>- Fixed the wrong version numbers on localisation strings that made every language fall back to English</p>\n<h2><strong>Update 1.11.1</strong></h2>\n<p><strong>Big changes to the Pyre</strong>, important work on crit damage dice, and a couple of fixes from kind people on Discord.</p>\n<h2><strong>GENERAL CHANGES</strong></h2>\n<p>- Crit damage dice have been reworked across the collection: some branches changed a lot, so that power is shared fairly between synergies in the endgame<br>- The Fist shards (big family across all rarities) now work for a caster as well<br>- Mutacid's mutation picks now sit among the temporary hotbar tab and no longer hold your concentration. Some mistakes in their descriptions are fixed as well<br>- The Mind Shackle shard now Silences its wearer for taking damage without Concentration, considering how easy protection from paralysis was to get<br>- Kroneth's Vow of Silence is now broken only by a spell, so a fight carried by weapons keeps it (thanks @squesque)<br>- Reclamation now returns a Runic Shard set into a weapon after you have loaded a save<br>- Effects that skip Booming Blade now also skip the blade an item grants for free<br>- The Brutality shard is now Legendary, as part of the general toning down of crit damage dice<br>- The Precision shard now correctly counts as Very Rare in the Trials of Tav Shop<br>- The Gamble shard now states that damage dice added by other effects keep the weapon's original die (thanks @hatul91)</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- The Pyre has been fully redesigned and rebuilt around a lot of feedback. It now really gives boss fights a rich escalation and a difficulty that moves with you, custom bosses included. The former Pyre is still available as its own affix, considering how radically the whole mechanic changed. The main complaint from the loudest critics on Discord was how unevenly the Pyre landed on, say, the fight with Gut against the one with Dror Ragzlin, where a larger crowd of enemies changed the picture completely and made boss fights either very easy or very hard. The new Pyre is meant to be a smarter rubber band for difficulty, one that takes into account how differently story boss fights are filled. And of course, further reforms can be expected<br>- ULTRA reinforcements now come once per fight, however many times the boss gets back up (thanks @frivr)<br>- ULTRA mini-bosses now read difficult terrain each in their own way, going by what they are good at (thanks @Bish)<br>- Small changes to how the reward at the end of a LEGITIMATE run works</p>\n<h2><strong>LOOT</strong></h2>\n<p>- The capsule reward window now offers three Different capsules (thanks @balistafreak)<br>- Void Capsules on a campaign older than their settings now read those settings again, so charges, rerolls and salvage work as they should (thanks @Tøken)<br>- An empty reward cube no longer stays in your pack once the capsule has handed the reward over<br>- The ceremonial weapons from Rosymorn Monastery no longer go into the junk bag</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- The second touch from the Vampiric Gloves now actually costs a Bonus Action, like the first (thanks @Air1Fire)<br>- Liquid Resonance now lays its Reverberation only in combat (thanks @daz96050)<br>- The Cultist's Shield has been slightly reworked, considering the known problem with Saving Throws</p>\n<h2><strong>LOCALIZATION</strong></h2>\n<p>- German now names the Wizard class Magier, the way the game does (thanks german friends @lukaria. and @Sir Saint Savage)</p>\n<h2><strong>VISUALS</strong></h2>\n<p>- The ULTRA spawn intensity button on the training ring now carries the settings icon instead of another ULTRA one<br>- The Item Move Cost affix button got an icon of its own instead of the shared settings one</p>\n<h2><strong>Update 1.11.2</strong></h2>\n<p>The new Pyre gets its first round of repairs, plus a few small fixes.</p>\n<h2><strong>DIFFICULTY</strong></h2>\n<p>- Otherworldly Scorch no longer makes its bearer roll a fear save against their own actions. It now blocks healing only from its eighth stage (thanks @Bish)<br>- Douse the Pyre now pulls down the level its target settles at<br>- Subdue the Pyre now actually gives back the Bonus Action when you pass its Strength Saving Throw<br>- The Pyre now ignores damage resistances only on its highest steps<br>- Enemies no longer lose the Pyre status above their heads when its level changes<br>- The Pyre now actually grows every round in a fight it joined after the fighting began<br>- Saving Throws forced by the Pyre now name their source in the combat log<br>- Pyre step tooltips no longer leave blanks where a number should be (a Divinity Engine limit, unfortunately, so no pretty text today)<br>- Pyre Equilibrium now shows one icon on every step<br>- Eclipse now blocks every harmful condition, not only the ones its tooltip named</p>\n<h2><strong>LOOT</strong></h2>\n<p>- Fist Runic Shards now take one place in the drop pools as a single family. Very Rare and Legendary rolls no longer fill up with the ring shards that only an unarmed character can use<br>- Void Capsules now reach merchant stock more reliably</p>\n<h2><strong>ITEM CHANGES</strong></h2>\n<p>- Halo of Hope now names the spell it grants and who else in the party receives it (thanks @Vludber)<br>- The Still Mantle now blocks Critical Hits while its own Blade Ward is on the wearer, not on the attacker<br>- Time Lock now states its duration correctly<br>- Frozen Instant now links Attack Rolls in its description</p>\n<h2><strong>LOCALIZATION</strong></h2>\n<p>- Brazilian-Portuguese localization brought up to date across the whole mod (by @Renan from Brasília)</p>\n<h2><strong>Read the rest of the patchnotes in the file history on mod.io</strong></h2>\n<hr>\n<h2><strong>Credits</strong></h2>\n<p>Ancient Mega Pack and this update by Paramonov &amp; AMP Discord server.</p>",
     "date_added": 1782391536,
-    "date_updated": 1787409637,
+    "date_updated": 1787581344,
     "date_live": 1782391975,
     "visible": 1,
     "status": 1,
@@ -156262,15 +156262,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/6fc3/4705162/crop_100x100/721e75868f230c41a00bb9459420dde.jpg"
     },
     "modfile": {
-      "id": 8125963,
+      "id": 8133805,
       "mod_id": 6163496,
-      "version": "1.11.1.50",
-      "filename": "amp_plus_fcf1d25f-1309-a9f7-ff-9txi.zip",
-      "changelog": "Some Pyre fixes (thanks @Joseph)",
-      "date_added": 1787409540,
+      "version": "1.11.2.51",
+      "filename": "amp_plus_fcf1d25f-1309-a9f7-ff-5o2j.zip",
+      "changelog": "Update 1.11.2\n\nThe new Pyre gets its first round of repairs, plus a few small fixes.\n\nDIFFICULTY\n- Otherworldly Scorch no longer makes its bearer roll a fear save against their own actions. It now blocks healing only from its eighth stage (thanks @Bish)\n- Douse the Pyre now pulls down the level its target settles at\n- Subdue the Pyre now actually gives back the Bonus Action when you pass its Strength Saving Throw\n- The Pyre now ignores damage resistances only on its highest steps\n- Enemies no longer lose the Pyre status above their heads when its level changes\n- The Pyre now actually grows every round in a fight it joined after the fighting began\n- Saving Throws forced by the Pyre now name their source in the combat log\n- Pyre step tooltips no longer leave blanks where a number should be (a Divinity Engine limit, unfortunately, so no pretty text today)\n- Pyre Equilibrium now shows one icon on every step\n- Eclipse now blocks every harmful condition, not only the ones its tooltip named\n\nLOOT\n- Fist Runic Shards now take one place in the drop pools as a single family. Very Rare and Legendary rolls no longer fill up with the ring shards that only an unarmed character can use\n- Void Capsules now reach merchant stock more reliably\n\nITEM CHANGES\n- Halo of Hope now names the spell it grants and who else in the party receives it (thanks @Vludber)\n- The Still Mantle now blocks Critical Hits while its own Blade Ward is on the wearer, not on the attacker\n- Time Lock now states its duration correctly\n- Frozen Instant now links Attack Rolls in its description\n\nLOCALIZATION\n- Brazilian-Portuguese localization brought up to date across the whole mod (by @Renan from Brasília)",
+      "date_added": 1787580808,
       "date_updated": 0,
-      "date_scanned": 1787409603,
-      "filesize": 32304567,
+      "date_scanned": 1787580869,
+      "filesize": 32862657,
       "platforms": [
         {
           "platform": "windows",
@@ -156409,7 +156409,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8125963
+        "modfile_live": 8133805
       }
     ]
   },
