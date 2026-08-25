@@ -149420,11 +149420,11 @@
     "game_id": 6715,
     "name": "B.A.L.L. Character Capture",
     "name_id": "ball-character-capture",
-    "summary": "Capture non-player characters inside a B.A.L.L. (Binding Arcane Lattice Lock) and free them later (or don't). Use at your own risk, kidnapping certain characters can break the story. Moving chars between Acts is not recommended. Gotta catch em all!",
+    "summary": "Capture non-player characters inside a B.A.L.L. (Binding Arcane Lattice Lock) and free them later (or don't). Use at your own risk, kidnapping certain characters can break the story. Moving chars between Acts is not recommended. Gotta catch them all!",
     "description": "<h2><span style=\"text-decoration:underline;\">B.A.L.L. - Binding Arcane Lattice Lock</span></h2>\n<h3>Capture non-player characters inside a B.A.L.L. and free them later (or don't). </h3>\n<h3>Either use the Gotta Catch Em All spell your character receives by having an empty B.A.L.L. in inventory, or just Throw a B.A.L.L. to capture a character.*<br>*neutral NPCs sometimes take offense to being hit in the head with a B.A.L.L., so maybe use the spell on those</h3>\n<h3>The \"filled\" B.A.L.L. you received with a character in it can be \"Identified\" by using it. This will put a message on screen telling you the name of the character inside that B.A.L.L.</h3>\n<h3>Use at your own risk, kidnapping certain characters can break the story.</h3>\n<h3>Moving chars between Acts is not recommended.</h3>\n<h3>I did NOT put safety rails on this mod, meaning you CAN break things if you do something obviously against the story (like trying to keep Dammon in your pocket the whole game while attempting Karlach's questline)</h3>\n<h3>Have fun! Gotta catch em all!</h3>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/07b4/48531518/profile/screenshot2026-01-24182525.png\" alt=\"\" width=\"650\" height=\"560\"></p>\n<p> </p>\n<h3><strong>Questions/Comments/Feedback/Mod Requests? Visit my Discord!: https://discord.gg/AgsPzTwfjR</strong></h3>",
     "date_added": 1769428188,
-    "date_updated": 1771518073,
-    "date_live": 1769428188,
+    "date_updated": 1787621322,
+    "date_live": 1787621322,
     "visible": 1,
     "status": 1,
     "dependencies": false,
@@ -149437,15 +149437,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/07b4/48531518/crop_100x100/kiradiscord.png"
     },
     "modfile": {
-      "id": 7321404,
+      "id": 8135656,
       "mod_id": 5731369,
-      "version": "1.0.0.22",
-      "filename": "balls_bc20b69a-cb9c-c07b-34ca-pp7h.zip",
-      "changelog": null,
-      "date_added": 1769428213,
+      "version": "1.0.0.24",
+      "filename": "balls_bc20b69a-cb9c-c07b-34ca-4jtk.zip",
+      "changelog": "When throwing a filled BALL, you now receive an unfilled one back to your inventory in return.\nRemove the popup on game start saying you are using the BALL Character Capture mod; it seemed excessive.\nFilled BALLS are now renamed to B.A.L.L. - (name of character) so you don't have to Inspect them to see what they are in inventory.",
+      "date_added": 1787620579,
       "date_updated": 0,
-      "date_scanned": 1769428304,
-      "filesize": 57770121,
+      "date_scanned": 1787620690,
+      "filesize": 57770862,
       "platforms": [
         {
           "platform": "windows",
@@ -149453,15 +149453,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -149511,10 +149511,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7321404
-      },
-      {
         "platform": "mac",
         "modfile_live": 7321404
       },
@@ -149525,6 +149521,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7321404
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8135656
       }
     ]
   },
