@@ -83732,7 +83732,7 @@
     "summary": "The unofficial community bug fix mod - Over 1600 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1787401583,
+    "date_updated": 1787700241,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -83746,15 +83746,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8125594,
+      "id": 8138770,
       "mod_id": 4561805,
-      "version": "4.6.19.4",
-      "filename": "itembugfix_010e73d5-9342-e528-8jkv.zip",
-      "changelog": "- Vicious Mockery is also now correctly considered a hostile act by creatures who succeed a saving throw against it\n- Broken Promises now correctly has SG_Cursed on the negative effect\n- Lover's Avarice is now correctly permanent\n- Sneak Attack and Divine Strike attacks now consume their hidden charges on Hit, consistent with their reaction versions\n- Cassivora Dophir 'Scar of Mirages' now correctly only triggers on attacks against enemies, and shows a saving throw in the combat log\n- Godfrey Mordels 'Scar of Dark Thirst' now correctly only triggers on attacks against enemies, and shows a saving throw in the combat log\n- Ulma 'Scar of the Sirocco' now correctly shows a saving throw in the combat log\n- Ulma 'Scar of the Sand Eclipse' can now correctly critically hit, and will no longer function if Ulma is disarmed while already below 20% HP\n- Ch'r'ai Tska'an 'Form of Dread' now correctly only triggers on attacks against enemies\n- Code improvements",
-      "date_added": 1787401547,
+      "version": "4.6.20.1",
+      "filename": "itembugfix_010e73d5-9342-e528-6gtn.zip",
+      "changelog": "- Werewolf 'Lycanthropic Fury' now correctly triggers when the werewolf is damaged and below 30% HP, and no longer incorrectly references barbarians and Rage ending early\n- Code improvements",
+      "date_added": 1787700227,
       "date_updated": 0,
-      "date_scanned": 1787401552,
-      "filesize": 1834753,
+      "date_scanned": 1787700233,
+      "filesize": 1834783,
       "platforms": [
         {
           "platform": "windows",
@@ -83868,7 +83868,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8125594
+        "modfile_live": 8138770
       }
     ]
   },
@@ -149435,7 +149435,7 @@
     "summary": "Capture non-player characters inside a B.A.L.L. (Binding Arcane Lattice Lock) and free them later (or don't). Use at your own risk, kidnapping certain characters can break the story. Moving chars between Acts is not recommended. Gotta catch them all!",
     "description": "<h2><span style=\"text-decoration:underline;\">B.A.L.L. - Binding Arcane Lattice Lock</span></h2>\n<h3>Capture non-player characters inside a B.A.L.L. and free them later (or don't). </h3>\n<h3>Either use the Gotta Catch Em All spell your character receives by having an empty B.A.L.L. in inventory, or just Throw a B.A.L.L. to capture a character.*<br>*neutral NPCs sometimes take offense to being hit in the head with a B.A.L.L., so maybe use the spell on those</h3>\n<h3>The \"filled\" B.A.L.L. you received with a character in it can be \"Identified\" by using it. This will put a message on screen telling you the name of the character inside that B.A.L.L.</h3>\n<h3>Use at your own risk, kidnapping certain characters can break the story.</h3>\n<h3>Moving chars between Acts is not recommended.</h3>\n<h3>I did NOT put safety rails on this mod, meaning you CAN break things if you do something obviously against the story (like trying to keep Dammon in your pocket the whole game while attempting Karlach's questline)</h3>\n<h3>Have fun! Gotta catch em all!</h3>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/07b4/48531518/profile/screenshot2026-01-24182525.png\" alt=\"\" width=\"650\" height=\"560\"></p>\n<p> </p>\n<h3><strong>Questions/Comments/Feedback/Mod Requests? Visit my Discord!: https://discord.gg/AgsPzTwfjR</strong></h3>",
     "date_added": 1769428188,
-    "date_updated": 1787621322,
+    "date_updated": 1787698931,
     "date_live": 1787621322,
     "visible": 1,
     "status": 1,
