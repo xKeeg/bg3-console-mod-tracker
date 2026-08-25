@@ -116827,10 +116827,10 @@
     "game_id": 6715,
     "name": "Alt Makeup",
     "name_id": "alt-makeup",
-    "summary": "Oldschool gothrock smudges meets illithid tadpole infection. Or maybe just tired.",
-    "description": "<h3>This is solely replacer makeup, meaning it will override vanilla makeup, as that's the only way I can attempt to get it on console.</h3>\n<h3>If you're on PC I recommend checking out the <a href=\"https://www.nexusmods.com/baldursgate3/mods/6674\" rel=\"nofollow\"><span style=\"color:#ee82ee;\">Nexus version</span></a> as it is unique to the player character and has more slots for customization!</h3>\n<p> </p>\n<p>Makeup replacer includes 15 smokey/tired/edgelordy/parasite-infected eye makeup. Also added lightly edited Dribbles + Lae'zel makeup.</p>",
+    "summary": "Oldschool gothrock smudges meets illithid tadpole infection. Or maybe just tired. Plus some cyberware because why not.",
+    "description": "<blockquote>\n<h3>Update 25.08.2026:</h3>\n<h3>Swapped around some makeup options so that hopefully the companions won't be equipped with the crazier options by default anymore. Obviously, the nature of replacer makeups means that this can't be 100% avoided for all NPCs in the game - but it should be an improvement for the main ones at least.</h3>\n</blockquote>\n<p> </p>\n<h2>‼️ This is solely replacer makeup, meaning it will override vanilla makeup, as that's the only way I can attempt to get it on console ‼️</h2>\n<p>If you're on PC I recommend checking out the <a href=\"https://www.nexusmods.com/baldursgate3/mods/6674\" rel=\"nofollow\"><span style=\"color:#ee82ee;\">Nexus version</span></a> as it is unique to the player character and has more slots for customization! You can still use it with the in game mod manager, but you will have to download and install it manually first (just drag and drop into the Mods folder).</p>\n<p> </p>\n<p>Makeup replacer includes 15 smokey/tired/edgelordy/parasite-infected eye makeup. And some cyberware because why not.</p>",
     "date_added": 1747405563,
-    "date_updated": 1764337374,
+    "date_updated": 1787650170,
     "date_live": 1747406256,
     "visible": 1,
     "status": 1,
@@ -116844,15 +116844,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/9d1a/32522086/crop_100x100/frog.png"
     },
     "modfile": {
-      "id": 6370715,
+      "id": 8136590,
       "mod_id": 4941733,
-      "version": "1.0.0.2",
-      "filename": "jerinski_alt-makeup_db1c3b19-2-cfsm.zip",
-      "changelog": "initial upload",
-      "date_added": 1747405582,
+      "version": "1.0.1.3",
+      "filename": "jerinski_alt-makeup_db1c3b19-2-6vdw.zip",
+      "changelog": "Swapped around some makeup options so that hopefully the companions won't be equipped with the crazier options by default anymore. Obviously the nature of replacer makeups mean that can't be 100% avoided for all NPCs in the game but it should be an improvement for the main ones at least.",
+      "date_added": 1787649912,
       "date_updated": 0,
-      "date_scanned": 1747405946,
-      "filesize": 15102141,
+      "date_scanned": 1787649943,
+      "filesize": 14995562,
       "platforms": [
         {
           "platform": "windows",
@@ -116860,15 +116860,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -116903,10 +116903,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6370715
-      },
-      {
         "platform": "mac",
         "modfile_live": 6370715
       },
@@ -116917,6 +116913,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6370715
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8136590
       }
     ]
   },
