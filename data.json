@@ -149435,7 +149435,7 @@
     "summary": "Capture non-player characters inside a B.A.L.L. (Binding Arcane Lattice Lock) and free them later (or don't). Use at your own risk, kidnapping certain characters can break the story. Moving chars between Acts is not recommended. Gotta catch them all!",
     "description": "<h2><span style=\"text-decoration:underline;\">B.A.L.L. - Binding Arcane Lattice Lock</span></h2>\n<h3>Capture non-player characters inside a B.A.L.L. and free them later (or don't). </h3>\n<h3>Either use the Gotta Catch Em All spell your character receives by having an empty B.A.L.L. in inventory, or just Throw a B.A.L.L. to capture a character.*<br>*neutral NPCs sometimes take offense to being hit in the head with a B.A.L.L., so maybe use the spell on those</h3>\n<h3>The \"filled\" B.A.L.L. you received with a character in it can be \"Identified\" by using it. This will put a message on screen telling you the name of the character inside that B.A.L.L.</h3>\n<h3>Use at your own risk, kidnapping certain characters can break the story.</h3>\n<h3>Moving chars between Acts is not recommended.</h3>\n<h3>I did NOT put safety rails on this mod, meaning you CAN break things if you do something obviously against the story (like trying to keep Dammon in your pocket the whole game while attempting Karlach's questline)</h3>\n<h3>Have fun! Gotta catch em all!</h3>\n<p> </p>\n<p><img src=\"https://image.modcdn.io/members/07b4/48531518/profile/screenshot2026-01-24182525.png\" alt=\"\" width=\"650\" height=\"560\"></p>\n<p> </p>\n<h3><strong>Questions/Comments/Feedback/Mod Requests? Visit my Discord!: https://discord.gg/AgsPzTwfjR</strong></h3>",
     "date_added": 1769428188,
-    "date_updated": 1787698931,
+    "date_updated": 1787701456,
     "date_live": 1787621322,
     "visible": 1,
     "status": 1,
@@ -149449,15 +149449,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/07b4/48531518/crop_100x100/kiradiscord.png"
     },
     "modfile": {
-      "id": 8135656,
+      "id": 8138824,
       "mod_id": 5731369,
-      "version": "1.0.0.24",
-      "filename": "balls_bc20b69a-cb9c-c07b-34ca-4jtk.zip",
-      "changelog": "When throwing a filled BALL, you now receive an unfilled one back to your inventory in return.\nRemove the popup on game start saying you are using the BALL Character Capture mod; it seemed excessive.\nFilled BALLS are now renamed to B.A.L.L. - (name of character) so you don't have to Inspect them to see what they are in inventory.",
-      "date_added": 1787620579,
+      "version": "1.0.0.28",
+      "filename": "balls_bc20b69a-cb9c-c07b-34ca-cbpz.zip",
+      "changelog": "Filled BALLS can now be right-click used to set their Mood, where you can pacify a character that was an enemy when you captured them.",
+      "date_added": 1787701347,
       "date_updated": 0,
-      "date_scanned": 1787620690,
-      "filesize": 57770862,
+      "date_scanned": 1787701450,
+      "filesize": 57772474,
       "platforms": [
         {
           "platform": "windows",
@@ -149536,7 +149536,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8135656
+        "modfile_live": 8138824
       }
     ]
   },
