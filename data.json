@@ -60970,7 +60970,7 @@
     "summary": "The most ambitious D&amp;D 5.5e conversion yet: 16 classes, 121 subclasses, 98 feats, 107 new/revised spells, 41 backgrounds, 15 new subraces, and 17 core rule changes — a complete rebuild, still growing with every update.",
     "description": "DnD 5.5e All-in-One BEYOND\n<p><a href=\"https://github.com/Yoonmoonsik/bg3dnd\">DnD 5.5e All-in-One BEYOND</a> is a Baldur's Gate 3 mod that packs a broad set of D&amp;D 5.5e-inspired rules, player options, spells, feats, equipment, and class updates into a single all-in-one mod.</p>\n<p>For deeper gameplay notes, class details, spell behavior, item locations, and community-maintained documentation, see the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a>.</p>\n<p><em>Note: The Wiki is maintained by community contributors and is not officially written or managed by the mod developer. Some information may be incomplete, outdated, or inaccurate.</em></p>\n<h2>Bug Reports and Questions</h2>\n<ul>\n<li><strong>Bug reports:</strong> open a report in <a href=\"https://github.com/Yoonmoonsik/bg3dnd/issues\">Issues</a>.</li>\n<li><strong>Questions, suggestions, requests, and general feedback:</strong> post in <a href=\"https://github.com/Yoonmoonsik/bg3dnd/discussions\">Discussions</a>.</li>\n</ul>\n<h2>YouTube</h2>\n<p>For gameplay examples, build ideas, and practical references, check the playthrough videos on the <a href=\"https://www.youtube.com/@bg3dnd\">YouTube channel</a> and the dedicated <a href=\"https://www.youtube.com/playlist?list=PLOxzTx3j5VdueKEU6lfAmzKL5KQt0rNhi\">playthrough playlist</a>.</p>\n<h2>Rules and Actions</h2>\n<ul>\n<li><strong>Common Actions:</strong> Distract, Dodge, Equipping Weapons, Extra Attack (including War Magic integration), Hide, Jump, Shove, Topple</li>\n<li><strong>Conditions:</strong> Bloodied, Down, Prone</li>\n<li><strong>Rest and Recovery:</strong> Hit Point Dice, Inspiration from Background</li>\n<li><strong>Spellcasting:</strong> One Spell Slot Spell per Turn, Spell Scroll Usage Limitation</li>\n<li><strong>Equipment and Items:</strong> Heavy Armor Strength Requirement, Heavy Weapon Ability Requirement, Weapon Mastery</li>\n</ul>\n<h2>Backgrounds</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Backgrounds\">Backgrounds</a>.</p>\n<p>41 backgrounds are available. Each grants 2 skill proficiencies and an Origin Feat at character creation: Acolyte, Charlatan, Chondathan Freebooter, Criminal, Dead Magic Dweller, Dragon Cultist, Emerald Enclave Caretaker, Entertainer, Experiment, Farmer, Flaming Fist Mercenary, Folk Hero, Genie Touched, Giant Foundling, Guide, Guild Artisan, Harper, Haunted One, Hermit, Ice Fisher, Knight of the Gauntlet, Lords' Alliance Vassal, Merchant, Moonwell Pilgrim, Mulhorandi Tomb Raider, Mythalkeeper, Noble, Outlander, Purple Dragon Squire, Rashemi Wanderer, Rest Warden, Sage, Sailor, Scribe, Shadowmasters Exile, Soldier, Spellfire Initiate, Urchin, Wayfarer, Wicker Weaver, Zhentarim Mercenary.</p>\n<h2>Classes</h2>\n<p>See the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a> and each class page for detailed level progression and subclass features.</p>\n<ul>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Artificer\">Artificer</a></strong> — Alchemist, Armorer, Artillerist, Battle Smith</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Barbarian\">Barbarian</a></strong> — Berserker, Fractured, Giant, Shadow Gnawer, Wild Magic, Wildheart, World Tree, Zealot</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Bard\">Bard</a></strong> — Choreography, Dance, Glamour, Lore, Moon, Spirits, Swords, Valor</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Cleric\">Cleric</a></strong> — Apocalypse, Astral, Death, Forge, Grave, Nature, Shadow, Tempest, Knowledge, Life, Light, Mind, Trickery, Twilight, War</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Druid\">Druid</a></strong> — Circle of Dragons, Dreams, Stars, Land, Moon, Sea, Spores, Unbroken</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Fighter\">Fighter</a></strong> — Arcane Archer, Banneret, Battle Master, Cavalier, Champion, Eldritch Knight, Psi Warrior, Rune Knight, Viking</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Gunslinger\">Gunslinger</a></strong> — High Roller, Spellslinger, White Hat</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Illrigger\">Illrigger</a></strong> — Architect of Ruin, Hellspeaker, Painkiller, Sanguine Knight, Shadowmaster</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Monk\">Monk</a></strong> — Drunken Master, Elements, Kensei, Mercy, Open Hand, Shadow, Sun Soul</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Monster-Hunter\">Monster Hunter</a></strong> — Carver Guild, Devourer Guild, Occultist Guild</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Paladin\">Paladin</a></strong> — Ancients, Conquest, Crown, Devotion, Glory, Noble Genies, Vengeance, Watchers, Oathbreaker</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Ranger\">Ranger</a></strong> — Beast Master, Fey Wanderer, Gloom Stalker, Hollow Warden, Hunter, Swarm Keeper, Winter Walker</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Rogue\">Rogue</a></strong> — Arachnoid Stalker, Arcane Trickster, Assassin, Blade of Radiance, Scion of the Three, Highway Rider, Soulknife, Swashbuckler, Thief</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Sorcerer\">Sorcerer</a></strong> — Aberrant Sorcery, Clockwork Sorcery, Divine Soul, Draconic Sorcery, Frost Sorcery, Heroic Sorcery, Shadow Magic, Spellfire Sorcery, Storm Sorcery, Wild Magic Sorcery</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Warlock\">Warlock</a></strong> — Archfey, Celestial, Fiend, Great Old One, Hexblade, Undead, expanded Invocations</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Wizard\">Wizard</a></strong> — Abjurer, Bladesinger, Conjurer, Diviner, Enchanter, Evoker, Illusionist, Necromancer, Transmuter</li>\n<li><strong>Psion</strong> — Coming soon</li>\n</ul>\n<h2>Feats</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Feats\">Feat</a>.</p>\n<p>Actor, Alert, Altered, Athlete, Charger, Charm Twister, Cold Caster, Crossbow Expert, Crusher, Cult of the Dragon Initiate, Deadly Archery, Death Defier, Defensive Duelist, Dragon Fear, Dragon Hide, Dragonscarred, Dragon-Slayer, Dual Wielder, Dungeon Delver, Durable, Dwarven Fortitude, Eldritch Adept, Elemental Adept, Elven Accuracy, Emerald Enclave Fledgling, Enclave Magic, Fade Away, Fairy Trickster, Fey Touched, Fierce Shot, Fighting Initiate, Flames of Phlegethos, Genie Magic, Gleam of Wrath, Grave Keeper, Great Weapon Master, Harper Agent, Harper Teamwork, Healer, Heavily Armored, Heavy Armor Master, Infernal Constitution, Inspiring Leader, Keenness of the Stone Giant, Lightly Armored, Lordly Resolve, Lords' Alliance Agent, Lucky, Mage Slayer, Magic Initiate: Cleric, Magic Initiate: Druid, Magic Initiate: Wizard, Martial Adept, Medium Armor Master, Metamagic Adept, Moderately Armored, Mounted Combatant, Musician, Mythal Touched, Nimbleness, Orcish Fury, Order's Resilience, Piercer, Poisoner, Polearm Master, Purple Dragon Commandant, Purple Dragon Rook, Resilient, Ritual Caster, Rune Shaper, Savage Attacker, Sentinel, Shadow Touched, Sharpshooter, Shield Master, Skill Expert, Skilled, Skulker, Slasher, Soul of the Storm Giant, Speedy, Spellfire Adept, Spellfire Spark, Spell Sniper, Squat Nimbleness, Swift Witchcraft, Tavern Brawler, Tough, Tyro of the Gauntlet, War Caster, Weapon Master, Zhentarim Ruffian, Zhentarim Tactics.</p>\n<h3>Fighting Styles</h3>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Fighting-Styles\">Fighting Styles</a>.</p>\n<p>Archery, Blind Fighting, Defense, Dueling, Great Weapon Fighting, Interception, Protection, Thrown Weapon Fighting, Two-Weapon Fighting, Unarmed Fighting.</p>\n<h2>Races</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Races\">Race</a>.</p>\n<ul>\n<li>Aasimar, Changeling, Goliath, and Kalashtar are available as Human subrace options. Eladrin and Ice Elf are available as Elf subrace options. Dhampir can be taken as a Human, Elf, Drow, Tiefling, Dwarf, Halfling, Gnome, or Orc subrace.</li>\n<li>Dragonborn, Dwarf, Elf, Githyanki, Gnome, Half Elf, Halfling, Human, Orc, and Tiefling are supported.</li>\n<li>Several species include ancestry or lineage options, including Dragonborn Draconic Ancestry, Elf and Half Elf sub-lineages, Goliath Giant Ancestry, and Tiefling legacy options.</li>\n</ul>\n<h2>Spells</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Spells\">Spell</a>.</p>\n<p>The lists below cover new and revised spells only. The wiki has the complete per-level tables, including spells that are unchanged.</p>\n<h3>Cantrips</h3>\n<p>Acid Splash, Blade Ward, Blood Bolt, Booming Blade, Bursting Sinew, Finger Guns, Frightful Start, Green-Flame Blade, Hellfire, Holy Word, Mind Sliver, Sorcerous Burst, Spare the Dying, Starry Wisp, Sword Burst, Thunderclap, Toll the Dead, True Strike, Vengeful Blade, Word of Radiance.</p>\n<h3>Leveled Spells</h3>\n<ul>\n<li><strong>Level 1:</strong> Absorb Elements, Armor of Agathys, Ballistic Smite, Body Warping of Gorgoroth, Catapult, Chromatic Orb, Cloak of Shadow, Color Spray, Command, Cure Wounds, Dissonant Whispers, False Life, Healing Word, Hell's Lash, Hungering Blade, Spectral Slash, Spellfire Flare, Thorn Armor, Thunderous Smite, Tide of Darkness, Umbral Tendril, Wardaway, Witch Bolt, Wrathful Smite.</li>\n<li><strong>Level 2:</strong> Aganazzar's Scorcher, Arcane Vigor, Darkbolt, Dazing Blast, Death Armor, Dragon's Breath, Elminster's Elusion, Find Steed, Fire Rune, Gust of Wind, Lesser Restoration, Mind Spike, Moonbeam, Prayer of Healing, Rime's Binding Ice, Searing Orb, Shadow Blade, Snilloc's Snowball Swarm, Summon Beast, Tasha's Mind Whip, Warding Bond.</li>\n<li><strong>Level 3:</strong> Ashardalon's Stride, Astral Flood, Aura of Vitality, Bestow Curse, Cacophonic Shield, Conjure Barrage, Crusader's Mantle, Elemental Exhalation, Laeral's Silver Lance, Lightning Arrow, Murmurs of Doom, Phantom Steed, Summon Fey, Tidal Wave, Trollblood Infusion, Void Strike.</li>\n<li><strong>Level 4:</strong> Conjure Woodland Beings, Fire Dance, Fount of Moonlight, Murder of Crows, Spellfire Storm, Vitriolic Sphere.</li>\n<li><strong>Level 5:</strong> Awaken, Circle of Power, Cone of Cold, Dawn, Dream, Enervation, Holy Weapon, Steel Wind Strike, Summon Celestial, Summon Dragon, Synaptic Static.</li>\n<li><strong>Level 6:</strong> Circle of Death, Disintegrate, Planar Ally.</li>\n</ul>\n<h2>Items</h2>\n<h3>Equipment</h3>\n<p>Argument Solver, Blazer of Benevolence, Cap of Curing, Chain of Liberation, Charge-Bound Warhammer, Corrosive Flail, Dragon's Grasp, Enforcer Club, Enforcer Helmet, Enforcer Shield, Gloves of Heroism, Hellrider's Pride, Helmet of Smiting, Holy Avenger, Hoppy, Hunting Shortbow, Moon Sickle, Musket, Musket +1, Musket +2, Pistol, Pistol +1, Pistol +2, Rupturing Blade, Spellthief, The Baneful, The Oak Father's Embrace, The Sacred Star, True Name, Voltedge, Whip, Whip +1, Whip +2, Xyanyde.</p>\n<h3>Spell Scrolls</h3>\n<p>Spell scrolls are restricted to specific classes, with cantrip scrolls and Scrolls of Revivify always exempt.</p>\n<h2>Support the Mod</h2>\n<p>This mod is developed and maintained for free, and it always will be. If you would like to support continued development, you can do so here:</p>\n<ul>\n<li><a href=\"https://ko-fi.com/yoonmoonsik\">Ko-fi</a></li>\n<li><a href=\"https://toon.at/donate/yoonmoonsick\">Toonation</a> (for supporters in Korea)</li>\n</ul>\n<p>Contributions go toward purchasing the official D&amp;D rulebooks that this mod is based on, so that new content can be implemented accurately from the source material.</p>\n<p>Support is entirely voluntary and grants no special access, priority requests, or exclusive content. Sharing feedback, reporting bugs, and helping others in Discussions are just as valuable.</p>\n<h2>Credits</h2>\n<p>See the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a> for full attribution.</p>\n<ul>\n<li><strong>Brazilian Portuguese Translation:</strong> <a href=\"https://mod.io/u/shadowahjin\">ShadowAhJin</a> (<a href=\"https://github.com/CaioShin93\">CaioShin93</a>)</li>\n<li><strong>French Translation:</strong> <a href=\"https://github.com/mcz-xiocku\">CyberBoloss</a></li>\n<li><strong>Italian Translation:</strong> Alessandro</li>\n<li><strong>Japanese Translation:</strong> <a href=\"https://www.nexusmods.com/profile/Eolaloe\">Eolaloe</a></li>\n<li><strong>Polish Translation:</strong> <a href=\"https://discord.gg/VxSvMqQ6sS\">TableTop BRAMA community</a></li>\n<li><strong>Russian Translation:</strong> <a href=\"https://github.com/ANizamutdinov\">ANizamutdinov</a></li>\n<li><strong>Spanish / Latin Spanish Translation:</strong> <a href=\"https://github.com/incolhermex-droid\">incolhermex-droid</a></li>\n<li><strong>Turkish Translation:</strong> <a href=\"https://github.com/batuhansekban\">batuhansekban</a></li>\n<li><strong>Ukrainian Translation:</strong> <a href=\"https://discord.gg/VxSvMqQ6sS\">TableTop BRAMA community</a></li>\n<li><strong>Item Models:</strong> <a href=\"https://mod.io/g/baldursgate3/u/skirbie\">skirbie</a> (<a href=\"https://mod.io/g/baldursgate3/m/viper-carbine-steampunk-rifle-gun\">Viper Carbine Steampunk Rifle Gun</a>, <a href=\"https://mod.io/g/baldursgate3/m/hand-cannon-gunslinger-weapon\">Hand Cannon Gunslinger Weapon</a>)</li>\n</ul>\n<h2>Legal</h2>\n<p>DnD 5.5e All-in-One BEYOND is unofficial Fan Content permitted under the <a href=\"https://company.wizards.com/en/legal/fancontentpolicy\">Fan Content Policy</a>. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>",
     "date_added": 1729165055,
-    "date_updated": 1788189526,
+    "date_updated": 1788207797,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -60984,15 +60984,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 8161018,
+      "id": 8162026,
       "mod_id": 4419649,
-      "version": "4.12.10.2",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-9ywy.zip",
+      "version": "4.12.10.3",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-2ut3.zip",
       "changelog": null,
-      "date_added": 1788189501,
+      "date_added": 1788207783,
       "date_updated": 0,
-      "date_scanned": 1788189646,
-      "filesize": 83292132,
+      "date_scanned": 1788207955,
+      "filesize": 83292309,
       "platforms": [
         {
           "platform": "windows",
@@ -61294,7 +61294,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8161018
+        "modfile_live": 8162026
       }
     ]
   },
@@ -76652,7 +76652,7 @@
     "name": "Astarion's Glasses",
     "name_id": "astarions-glasses",
     "summary": "Adds dyeable glasses for Astarion and Tav to the camp chest. Includes: Two pairs of glasses tailored to Astarion, Two pairs of glasses for Tav (except Dragonborns). Update adds new CC options for the glasses under the \"Horns\" tab.",
-    "description": "<p style=\"text-align:center;\"><em><strong>Astarion's Glasses are now console approved!</strong></em></p>\n<p> </p>\n<p style=\"text-align:center;\"><strong><em>*please see bug fixes and updates </em></strong><strong><em>below*</em></strong></p>\n<p>adds dyeable glasses for Astarion and Tav to the camp chest. Includes: Two pairs of glasses tailored to Astarion and Two pairs of glasses for Tav (except Dragonborns).</p>\n<p>New CC options have been added under the \"Horns\" slot. These glasses can be recolored using the primary horn color options. You must have the Origin Mirror mod installed to be able to apply these to Astarion in the character creator.</p>\n<p>1.0.0.13: Update changes the base material used in order to properly remove .bshd shader files and make the mod console compatible.</p>\n<p style=\"text-align:center;\"><strong>Addressing Bug Reports</strong></p>\n<ul>\n<li>If you are having issues with this mod, please be thorough in your explanation of the issue and what console you are on. Unfortunately, I cannot diagnose any issues based on \"(Anonymous)\" and a one sentence description. That being said, I'm more than happy to help with any problem to the best of my ability!</li>\n<li>If you cannot install the updated mod via BG3's in game mod manager, disable (<em>not uninstall)</em> your entire mod list, restart the game, and then attempt to update (or unsubscribe). If this does not work (and you are on PC), the updated files can be installed using a third party method like BG3MM. All original and updated files can be found on this Mod.io page. The mod refusing to install/update is not a fault of the mod itself. </li>\n<li>A new mod file has been published to remove all BSHD files to make Astarion's Glasses console compatible.</li>\n</ul>",
+    "description": "<p style=\"text-align:center;\"><em><strong>Astarion's Glasses are now console approved!</strong></em></p>\n<p> </p>\n<p style=\"text-align:center;\"><strong><em>*please see bug fixes and updates </em></strong><strong><em>below*</em></strong></p>\n<p>adds dyeable glasses for Astarion and Tav to the camp chest. Includes: Two pairs of glasses tailored to Astarion and Two pairs of glasses for Tav (except Dragonborns).</p>\n<p>New CC options have been added under the \"Horns\" slot. These glasses can be recolored using the primary horn color options. You must have the Origin Mirror mod installed to be able to apply these to Astarion in the character creator.</p>\n<p>1.0.0.13: Update changes the base material used in order to properly remove .bshd shader files and make the mod console compatible.</p>\n<p style=\"text-align:center;\"><strong>Addressing Bug Reports</strong></p>\n<ul>\n<li>If you are having issues with this mod, please be thorough in your explanation of the issue and what console you are on. Unfortunately, I cannot diagnose any issues based on \"(Anonymous)\" and a one sentence description. That being said, I'm more than happy to help with any problem to the best of my ability!</li>\n<li>If you cannot install the updated mod via BG3's in game mod manager, disable (<em>not uninstall)</em> your entire mod list, restart the game, and then attempt to update (or unsubscribe). If this does not work (and you are on PC), the updated files can be installed using a third party method like BG3MM. All original and updated files can be found on this Mod.io page. <em><strong>The mod refusing to install/update is not a fault of the mod itself</strong></em>. </li>\n<li>A new mod file has been published to remove all BSHD files to make Astarion's Glasses console compatible.</li>\n</ul>",
     "date_added": 1731489601,
     "date_updated": 1786109465,
     "date_live": 1731490569,
@@ -126747,134 +126747,6 @@
     ]
   },
   {
-    "id": 5054204,
-    "game_id": 6715,
-    "name": "CHAR's Erin Head",
-    "name_id": "erin-head-mod",
-    "summary": "A Standalone Head Mod for BT1 Elves, Half Elves, Drows and Humans",
-    "description": "<p><span style=\"font-size:x-large;\">✦ Mods Used In Screenshots ✦<br></span><a href=\"https://next.nexusmods.com/profile/Obscen1ty?gameId=3474\"><br></a>Blood Countess Armor by <a href=\"https://next.nexusmods.com/profile/Obscen1ty?gameId=3474\">Obscen1ty<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/9923\">Tasha's Cauldron of Outfits</a> by <a href=\"https://next.nexusmods.com/profile/tashaweeds?gameId=3474\">tashaweeds</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/7274\">Tasha's Cauldron of Hairstyles Pack 2</a> by <a href=\"https://next.nexusmods.com/profile/tashaweeds?gameId=3474\">tashaweeds</a><a href=\"https://www.nexusmods.com/baldursgate3/mods/16198\">Myky's Hairstyles</a> by <a href=\"https://next.nexusmods.com/profile/myky24?gameId=3474\">myky24<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/6674\">Jerinski's Alt Makeup</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/14040560\">jerinski</a></p>\n<p><span style=\"font-size:x-large;\">✦ Other Credits &amp; Special Thanks ✦<br><br></span>A HUGE thank you to everyone in the Faerun Fashionistas Discord for cheering me on and helping me out.<br><a href=\"https://www.patreon.com/c/kanut/home\">KaNut</a> for their demo video for sculpting heads &amp; exporting.<br><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4310\">Volno's Texture Toolbox (BG3 Shaders and Texture Editing Tools for Blender)</a> by <a href=\"https://next.nexusmods.com/profile/Volno?gameId=3474\">Volno</a><a href=\"https://next.nexusmods.com/profile/weeviljester?gameId=3474\"><br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/14364\">Lighty Lights and Photo Mode stuff</a> by <a href=\"https://next.nexusmods.com/profile/rakor1?gameId=3474\">rakor1</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/16242\">Poses of Plenty Vol. 1 - Poses for Photo Mode</a> by <a href=\"https://next.nexusmods.com/profile/lumad11?gameId=3474\">lumad11</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14474\">Pretty Particles</a> by <a href=\"https://next.nexusmods.com/profile/scarstarion?gameId=3474\">scarstarion<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/464\">BG3 Armature Tools for Blender</a> by <a href=\"https://next.nexusmods.com/profile/Aloija?gameId=3474\">Aloija</a></p>",
-    "date_added": 1751240480,
-    "date_updated": 1764338578,
-    "date_live": 1751241676,
-    "visible": 1,
-    "status": 1,
-    "dependencies": false,
-    "profile_url": "https://mod.io/g/baldursgate3/m/erin-head-mod",
-    "submitted_by": {
-      "id": 48057776,
-      "name_id": "charmods",
-      "username": "charmods",
-      "profile_url": "https://mod.io/u/charmods",
-      "profile_img_100x100_url": "https://thumb.modcdn.io/members/03d4/48057776/crop_100x100/bg3_dx112025-12-1402-02-33_591.png"
-    },
-    "modfile": {
-      "id": 6518381,
-      "mod_id": 5054204,
-      "version": "1.0.0.7",
-      "filename": "chxr_erin_f2640eb0-b25d-f07d-0-eb8x.zip",
-      "changelog": null,
-      "date_added": 1751240926,
-      "date_updated": 0,
-      "date_scanned": 1751240994,
-      "filesize": 39442539,
-      "platforms": [
-        {
-          "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
-          "status": 1
-        }
-      ]
-    },
-    "logo": {
-      "filename": "erin1.png",
-      "original": "https://image.modcdn.io/mods/bd5d/5054204/erin1.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/bd5d/5054204/crop_320x180/erin1.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/bd5d/5054204/crop_640x360/erin1.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/bd5d/5054204/crop_1280x720/erin1.png"
-    },
-    "tags": [
-      {
-        "name": "Customisation",
-        "name_localized": "Customisation",
-        "date_added": 0
-      },
-      {
-        "name": "Patch 8 Tested",
-        "name_localized": "Patch 8 Tested",
-        "date_added": 0
-      },
-      {
-        "name": "Available on Mac and Console",
-        "name_localized": "Available on Mac and Console",
-        "date_added": 0
-      },
-      {
-        "name": "Heads",
-        "name_localized": "Heads",
-        "date_added": 0
-      },
-      {
-        "name": "Drow",
-        "name_localized": "Drow",
-        "date_added": 0
-      },
-      {
-        "name": "Elf",
-        "name_localized": "Elf",
-        "date_added": 0
-      },
-      {
-        "name": "Human",
-        "name_localized": "Human",
-        "date_added": 0
-      },
-      {
-        "name": "Half-Elf",
-        "name_localized": "Half-Elf",
-        "date_added": 0
-      },
-      {
-        "name": "English",
-        "name_localized": "English",
-        "date_added": 0
-      },
-      {
-        "name": "BG3 ModJam 2025",
-        "name_localized": "BG3 ModJam 2025",
-        "date_added": 0
-      }
-    ],
-    "platforms": [
-      {
-        "platform": "windows",
-        "modfile_live": 6518381
-      },
-      {
-        "platform": "mac",
-        "modfile_live": 6518381
-      },
-      {
-        "platform": "xboxseriesx",
-        "modfile_live": 6518381
-      },
-      {
-        "platform": "ps5",
-        "modfile_live": 6518381
-      }
-    ]
-  },
-  {
     "id": 5055508,
     "game_id": 6715,
     "name": "ASE - Tall and Small (Visual)",
@@ -138633,164 +138505,6 @@
     ]
   },
   {
-    "id": 5229221,
-    "game_id": 6715,
-    "name": "CHAR's Split Dye Hair (and Horns) - Vol 1",
-    "name_id": "splitdye",
-    "summary": "Adds 12 Variants of Orin's hair + 2 Vanilla hairs + 1 Pair of Horns. Letting you add Split-Dye via the Highlight option, Horns via Tip Colour.",
-    "description": "<p><span style=\"font-size:large;\"><strong>ʚ Please consider endorsing if you like this mod! ɞ<br><br></strong></span><strong><span style=\"font-size:x-large;\">✦ 1.2 Update ✦</span></strong><br><strong><span style=\"font-size:medium;\">- Hair looks a little thicker now, the hair thinning is <em>less </em>noticeable. This is still not perfect and I am working on a proper fix,<br>but Orin likes to be the bane of my existence, it seems :)<br>- 6 Gold accessory variants added - All Accessories, Head Gear Only, and No Head Gear - In both \"neat\" and \"messy\" variants.<br>- Unfortunately while I have tried my hardest to get icons to work, the toolkit is (once again), not being my friend. I will continue to try.<br><br></span></strong><u><strong>For new updates, hit \"track\" and you'll receive a notification when I update again! </strong></u><br><br><span style=\"font-size:x-large;\">✦ Installation ✦</span><br>Download the .zip file and drop into BG3MM<br>Place as close to the <strong>bottom </strong>of your load order as possible - This <em>should </em>fix the mod not showing up.<br><br><span style=\"font-size:x-large;\">✦ Info✦<br></span>Adds 14 Variants of Orin's hair + 2 Vanilla hairs + 1 Pair of Horns. Letting you add Split-Dye via the Highlight option, Horns via Tip Colour.<br>I plan to add more vanilla hair variants in future, along with additional horn options.<br>Hair <em>should </em>be compatible with all body types, excluding Dragonborn and Half-Orcs.<br><br>NOTE: Horns appear to only work with <strong>BT1 </strong>- Without spoiling anything, this is mainly because it was made for a specific BT1 character,<br>and was never used on other body types/characters. I aim to update in the<br>future, once I can figure out how to make it accessible to all, along with some new horn variants.<a href=\"https://www.nexusmods.com/baldursgate3/mods/MODLINK/\" rel=\"nofollow\"><br><br></a><strong>KNOWN ISSUES: Potential conflicts with other Orin hair mods. If you find a conflict, please do let me know!<br>I am working to find the exact culprits and to try and provide a fix so nobody has to pick between one mod or the other.<br></strong><u>Update 03/09/2025</u>: If you've put to the bottom of your load order, and this still doesn't show, there is a chance you may<br>have a conflict with the following hair mod: <a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\" rel=\"nofollow\">hijimare hairs</a> - I don't know why at this current moment, but I will try to figure out why and fix.<br><br><span style=\"font-size:x-large;\">✦ Mods Used In Screenshots ✦<br></span><br>Crystal Dress by <a href=\"https://www.patreon.com/c/pseudokociara/home\" rel=\"nofollow\">PseudoKociara</a> - <u>This is a server exclusive for the Faerun Fashionistas discord</u><br><a href=\"https://www.patreon.com/posts/tidegowns-of-135995336\" rel=\"nofollow\">Tidegowns of Coralspire</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/34854850\" rel=\"nofollow\">arideyya</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17330\" rel=\"nofollow\">Erin Head</a> by me<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4587\" rel=\"nofollow\">Angel Wings And Halos ____ By Ren</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/93648828\" rel=\"nofollow\">DarthRen</a><br><br><span style=\"font-size:x-large;\">✦ Other Credits ✦</span><br><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4310\" rel=\"nofollow\">Volno's Texture Toolbox (BG3 Shaders and Texture Editing Tools for Blender)</a> by <a href=\"https://next.nexusmods.com/profile/Volno?gameId=3474\" rel=\"nofollow\">Volno</a><a href=\"https://next.nexusmods.com/profile/weeviljester?gameId=3474\" rel=\"nofollow\"><br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/238?tab=posts&amp;BH=1\" rel=\"nofollow\">Custom Backdrops for Character Creation and Level Up (Full Version Mod)</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/100288838\" rel=\"nofollow\">AnteMaxx</a></p>\n<p><span style=\"font-size:x-large;\">✦ Special Thanks ✦<br></span><br><span style=\"font-size:small;\">A very massive thank you to everyone in the Faerun Fashionistas Discord for helping, giving tips, providing moral support, or simply bullying me into finishing this.<br>Thank you to Mango for unintentionally giving me this idea<br></span>An even bigger thank you to <a href=\"https://www.nexusmods.com/baldursgate3/users/228396921\" rel=\"nofollow\">MeganW2395</a> for guiding me though the process! &lt;3<br><br><span style=\"font-size:x-large;\">✦ Patreon✦<br></span><br>While I don't have much to offer currently, I have recently opened a Patreon where I will post my WIP's, and possibly testing files/early access.<br>Completely free - <a href=\"https://www.patreon.com/c/chxrlqtte/posts\" rel=\"nofollow\">here</a>.<br><br>If I have forgotten any credits or any links etc are incorrect, please drop a comment so I can update accordingly, thank you!</p>",
-    "date_added": 1757638656,
-    "date_updated": 1768924396,
-    "date_live": 1757638656,
-    "visible": 1,
-    "status": 1,
-    "dependencies": false,
-    "profile_url": "https://mod.io/g/baldursgate3/m/splitdye",
-    "submitted_by": {
-      "id": 48057776,
-      "name_id": "charmods",
-      "username": "charmods",
-      "profile_url": "https://mod.io/u/charmods",
-      "profile_img_100x100_url": "https://thumb.modcdn.io/members/03d4/48057776/crop_100x100/bg3_dx112025-12-1402-02-33_591.png"
-    },
-    "modfile": {
-      "id": 6763250,
-      "mod_id": 5229221,
-      "version": "1.0.0.28",
-      "filename": "splitdye_608a068e-1f1b-c289-14-5gam.zip",
-      "changelog": null,
-      "date_added": 1757638697,
-      "date_updated": 0,
-      "date_scanned": 1757638818,
-      "filesize": 74068319,
-      "platforms": [
-        {
-          "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
-          "status": 1
-        }
-      ]
-    },
-    "logo": {
-      "filename": "1.png",
-      "original": "https://image.modcdn.io/mods/8a89/5229221/1.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/8a89/5229221/crop_320x180/1.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/8a89/5229221/crop_640x360/1.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/8a89/5229221/crop_1280x720/1.png"
-    },
-    "tags": [
-      {
-        "name": "Customisation",
-        "name_localized": "Customisation",
-        "date_added": 0
-      },
-      {
-        "name": "Available on Mac and Console",
-        "name_localized": "Available on Mac and Console",
-        "date_added": 0
-      },
-      {
-        "name": "Hairstyles",
-        "name_localized": "Hairstyles",
-        "date_added": 0
-      },
-      {
-        "name": "All Classes",
-        "name_localized": "All Classes",
-        "date_added": 0
-      },
-      {
-        "name": "Drow",
-        "name_localized": "Drow",
-        "date_added": 0
-      },
-      {
-        "name": "Dwarf",
-        "name_localized": "Dwarf",
-        "date_added": 0
-      },
-      {
-        "name": "Elf",
-        "name_localized": "Elf",
-        "date_added": 0
-      },
-      {
-        "name": "Githyanki",
-        "name_localized": "Githyanki",
-        "date_added": 0
-      },
-      {
-        "name": "Gnome",
-        "name_localized": "Gnome",
-        "date_added": 0
-      },
-      {
-        "name": "Halfling",
-        "name_localized": "Halfling",
-        "date_added": 0
-      },
-      {
-        "name": "Human",
-        "name_localized": "Human",
-        "date_added": 0
-      },
-      {
-        "name": "Half-Elf",
-        "name_localized": "Half-Elf",
-        "date_added": 0
-      },
-      {
-        "name": "Half-Orc",
-        "name_localized": "Half-Orc",
-        "date_added": 0
-      },
-      {
-        "name": "Tiefling",
-        "name_localized": "Tiefling",
-        "date_added": 0
-      },
-      {
-        "name": "Other Races",
-        "name_localized": "Other Races",
-        "date_added": 0
-      },
-      {
-        "name": "English",
-        "name_localized": "English",
-        "date_added": 0
-      }
-    ],
-    "platforms": [
-      {
-        "platform": "windows",
-        "modfile_live": 6763250
-      },
-      {
-        "platform": "mac",
-        "modfile_live": 6763250
-      },
-      {
-        "platform": "xboxseriesx",
-        "modfile_live": 6763250
-      },
-      {
-        "platform": "ps5",
-        "modfile_live": 6763250
-      }
-    ]
-  },
-  {
     "id": 5229589,
     "game_id": 6715,
     "name": "Squire Evolved",
@@ -146544,7 +146258,7 @@
       "name_id": "charmods",
       "username": "charmods",
       "profile_url": "https://mod.io/u/charmods",
-      "profile_img_100x100_url": "https://thumb.modcdn.io/members/03d4/48057776/crop_100x100/bg3_dx112025-12-1402-02-33_591.png"
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/03d4/48057776/crop_100x100/bg3_dx112026-08-2500-28-36_224.png"
     },
     "modfile": {
       "id": 7305687,
@@ -153188,7 +152902,7 @@
       "name_id": "charmods",
       "username": "charmods",
       "profile_url": "https://mod.io/u/charmods",
-      "profile_img_100x100_url": "https://thumb.modcdn.io/members/03d4/48057776/crop_100x100/bg3_dx112025-12-1402-02-33_591.png"
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/03d4/48057776/crop_100x100/bg3_dx112026-08-2500-28-36_224.png"
     },
     "modfile": {
       "id": 7569207,
