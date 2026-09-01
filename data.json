@@ -138505,6 +138505,164 @@
     ]
   },
   {
+    "id": 5229221,
+    "game_id": 6715,
+    "name": "CHAR's Split Dye Hair (and Horns) - Vol 1",
+    "name_id": "splitdye",
+    "summary": "Adds 12 Variants of Orin's hair + 2 Vanilla hairs + 1 Pair of Horns. Letting you add Split-Dye via the Highlight option, Horns via Tip Colour.",
+    "description": "<p><span style=\"font-size:large;\"><strong>ʚ Please consider endorsing if you like this mod! ɞ<br><br></strong></span><strong><span style=\"font-size:x-large;\">✦ 1.2 Update ✦</span></strong><br><strong><span style=\"font-size:medium;\">- Hair looks a little thicker now, the hair thinning is <em>less </em>noticeable. This is still not perfect and I am working on a proper fix,<br>but Orin likes to be the bane of my existence, it seems :)<br>- 6 Gold accessory variants added - All Accessories, Head Gear Only, and No Head Gear - In both \"neat\" and \"messy\" variants.<br>- Unfortunately while I have tried my hardest to get icons to work, the toolkit is (once again), not being my friend. I will continue to try.<br><br></span></strong><u><strong>For new updates, hit \"track\" and you'll receive a notification when I update again! </strong></u><br><br><span style=\"font-size:x-large;\">✦ Installation ✦</span><br>Download the .zip file and drop into BG3MM<br>Place as close to the <strong>bottom </strong>of your load order as possible - This <em>should </em>fix the mod not showing up.<br><br><span style=\"font-size:x-large;\">✦ Info✦<br></span>Adds 14 Variants of Orin's hair + 2 Vanilla hairs + 1 Pair of Horns. Letting you add Split-Dye via the Highlight option, Horns via Tip Colour.<br>I plan to add more vanilla hair variants in future, along with additional horn options.<br>Hair <em>should </em>be compatible with all body types, excluding Dragonborn and Half-Orcs.<br><br>NOTE: Horns appear to only work with <strong>BT1 </strong>- Without spoiling anything, this is mainly because it was made for a specific BT1 character,<br>and was never used on other body types/characters. I aim to update in the<br>future, once I can figure out how to make it accessible to all, along with some new horn variants.<a href=\"https://www.nexusmods.com/baldursgate3/mods/MODLINK/\" rel=\"nofollow\"><br><br></a><strong>KNOWN ISSUES: Potential conflicts with other Orin hair mods. If you find a conflict, please do let me know!<br>I am working to find the exact culprits and to try and provide a fix so nobody has to pick between one mod or the other.<br></strong><u>Update 03/09/2025</u>: If you've put to the bottom of your load order, and this still doesn't show, there is a chance you may<br>have a conflict with the following hair mod: <a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\" rel=\"nofollow\">hijimare hairs</a> - I don't know why at this current moment, but I will try to figure out why and fix.<br><br><span style=\"font-size:x-large;\">✦ Mods Used In Screenshots ✦<br></span><br>Crystal Dress by <a href=\"https://www.patreon.com/c/pseudokociara/home\" rel=\"nofollow\">PseudoKociara</a> - <u>This is a server exclusive for the Faerun Fashionistas discord</u><br><a href=\"https://www.patreon.com/posts/tidegowns-of-135995336\" rel=\"nofollow\">Tidegowns of Coralspire</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/34854850\" rel=\"nofollow\">arideyya</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17330\" rel=\"nofollow\">Erin Head</a> by me<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4587\" rel=\"nofollow\">Angel Wings And Halos ____ By Ren</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/93648828\" rel=\"nofollow\">DarthRen</a><br><br><span style=\"font-size:x-large;\">✦ Other Credits ✦</span><br><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4310\" rel=\"nofollow\">Volno's Texture Toolbox (BG3 Shaders and Texture Editing Tools for Blender)</a> by <a href=\"https://next.nexusmods.com/profile/Volno?gameId=3474\" rel=\"nofollow\">Volno</a><a href=\"https://next.nexusmods.com/profile/weeviljester?gameId=3474\" rel=\"nofollow\"><br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/238?tab=posts&amp;BH=1\" rel=\"nofollow\">Custom Backdrops for Character Creation and Level Up (Full Version Mod)</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/100288838\" rel=\"nofollow\">AnteMaxx</a></p>\n<p><span style=\"font-size:x-large;\">✦ Special Thanks ✦<br></span><br><span style=\"font-size:small;\">A very massive thank you to everyone in the Faerun Fashionistas Discord for helping, giving tips, providing moral support, or simply bullying me into finishing this.<br>Thank you to Mango for unintentionally giving me this idea<br></span>An even bigger thank you to <a href=\"https://www.nexusmods.com/baldursgate3/users/228396921\" rel=\"nofollow\">MeganW2395</a> for guiding me though the process! &lt;3<br><br><span style=\"font-size:x-large;\">✦ Patreon✦<br></span><br>While I don't have much to offer currently, I have recently opened a Patreon where I will post my WIP's, and possibly testing files/early access.<br>Completely free - <a href=\"https://www.patreon.com/c/chxrlqtte/posts\" rel=\"nofollow\">here</a>.<br><br>If I have forgotten any credits or any links etc are incorrect, please drop a comment so I can update accordingly, thank you!</p>",
+    "date_added": 1757638656,
+    "date_updated": 1768924396,
+    "date_live": 1788294884,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/splitdye",
+    "submitted_by": {
+      "id": 48057776,
+      "name_id": "charmods",
+      "username": "charmods",
+      "profile_url": "https://mod.io/u/charmods",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/03d4/48057776/crop_100x100/bg3_dx112026-08-2500-28-36_224.png"
+    },
+    "modfile": {
+      "id": 6763250,
+      "mod_id": 5229221,
+      "version": "1.0.0.28",
+      "filename": "splitdye_608a068e-1f1b-c289-14-5gam.zip",
+      "changelog": null,
+      "date_added": 1757638697,
+      "date_updated": 0,
+      "date_scanned": 1757638818,
+      "filesize": 74068319,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "1.png",
+      "original": "https://image.modcdn.io/mods/8a89/5229221/1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/8a89/5229221/crop_320x180/1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/8a89/5229221/crop_640x360/1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/8a89/5229221/crop_1280x720/1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6763250
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6763250
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6763250
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6763250
+      }
+    ]
+  },
+  {
     "id": 5229589,
     "game_id": 6715,
     "name": "Squire Evolved",
