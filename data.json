@@ -84054,10 +84054,10 @@
     "game_id": 6715,
     "name": "Item and Spell Bug Fixes",
     "name_id": "item-and-spell-bug-fixes",
-    "summary": "The unofficial community bug fix mod - Over 1600 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
-    "description": "<p>The unofficial community bug fix mod - <strong>Over 1600 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
+    "summary": "The unofficial community bug fix mod - Over 1800 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
+    "description": "<p>The unofficial community bug fix mod - <strong>Over 1800 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1788554423,
+    "date_updated": 1788591832,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -84071,15 +84071,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8175348,
+      "id": 8177231,
       "mod_id": 4561805,
-      "version": "4.6.23.1",
-      "filename": "itembugfix_010e73d5-9342-e528-jcm8.zip",
-      "changelog": "- 'Call of the Dark Lady' condition now correctly states the damage received each turn and when attacked by a Justiciar in Umbral Form\n- Justiciar 'Subsume Shadow' now correctly states it applies Umbral Form until long rest\n- Glomp the Looter now has correct capitalization in his name\n- Preserve Life description now has correct punctuation\n- Wyll's 'The Blade of Frontiers' passive is no longer hidden on his character sheet, and now mentions proficiency with rapiers\n- 'Elemental Weapon: Fire' and 'Burning Age' spells now use the correct sound loop when being prepared\n- Code improvements",
-      "date_added": 1788554404,
+      "version": "4.6.23.2",
+      "filename": "itembugfix_010e73d5-9342-e528-c5sz.zip",
+      "changelog": "- 'Call of the Dark Lady' condition now correctly states the damage received each turn and when attacked by a Justiciar in Umbral Form\n- Justiciar 'Subsume Shadow' now correctly states it applies Umbral Form until long rest\n- Glomp the Looter now has correct capitalization in his name\n- Preserve Life description now has correct punctuation\n- Wyll's 'The Blade of Frontiers' passive is no longer hidden on his character sheet, and now mentions proficiency with rapiers\n- 'Elemental Weapon: Fire' and 'Burning Age' spells now use the correct sound loop when being prepared\n- Owlbear Mate 'Vengeful Father' no longer incorrectly triggers when ANY nearby entity is killed/destroyed\n- Code improvements",
+      "date_added": 1788591817,
       "date_updated": 0,
-      "date_scanned": 1788554413,
-      "filesize": 1839850,
+      "date_scanned": 1788591826,
+      "filesize": 1839901,
       "platforms": [
         {
           "platform": "windows",
@@ -84193,7 +84193,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8175348
+        "modfile_live": 8177231
       }
     ]
   },
@@ -118911,8 +118911,8 @@
     "game_id": 6715,
     "name": "BooksCollector",
     "name_id": "bookscollector",
-    "summary": "Creates a 24-foot aura that automatically collects all kind of books except Alchemy books  placing them in your inventory. You receive a Book of the Collector, which holds the aura bound to it.",
-    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/bookscollector_icon.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<h4>Book Collector<br><em>by SwissFred</em></h4>\n<p style=\"color:#ffff00;\">The party leader gains an aura that automatically collects all types of <strong>books, Notes</strong> (except alchemy books) found in the world as you walk, within a <strong>24-foot radius.</strong><br>Collected books go into your inventory.<br>You can toggle the aura on or off with the passive ability.<br>You get a <strong>Book of the Collector.</strong><br>Whoever carries it in their inventory will gain its aura.<br>The book is inventory-bound to the carrier but can be transferred to another party member.<br>Choose the character who is best suited to benefit from the aura.</p>\n<h4>Installation:</h4>\n<p style=\"color:#ffff00;\">Install the mod. The aura is enabled by default.</p>\n<h4>Uninstallation:</h4>\n<p style=\"color:#ffff00;\">To remove the mod, use the book (right-click on it and choose \"Remove\"). The mod will then be prepared for removal.</p>",
+    "summary": "Creates a 24-foot aura that automatically collects all kind of books except Alchemy books placing them in your inventory. You receive a Book of the Collector, which holds the aura bound to it.",
+    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/bookscollector_icon.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<h4>Book Collector<br><em>by SwissFred</em></h4>\n<p style=\"color:#ffff00;\">The party leader gains an aura that automatically collects all types of <strong>books, Notes</strong> (except alchemy books) found in the world as you walk, within a <strong>24-foot radius.</strong><br>Collected books go into your inventory.<br>You can toggle the aura on or off with the passive ability.<br>You get a <strong>Book of the Collector.</strong><br>Whoever carries it in their inventory will gain its aura.<br>The book is inventory-bound to the carrier but can be transferred to another party member.<br>Choose the character who is best suited to benefit from the aura.</p>\n<h4>Installation:</h4>\n<p style=\"color:#ffff00;\">Install the mod. The aura is enabled by default.</p>\n<h4>Uninstallation:</h4>\n<p style=\"color:#ffff00;\">To remove the mod, use the book (right-click on it and choose \"Remove\"). The mod will then be prepared for removal.</p>\n<p><strong>Chinese (Simplified) translations</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
     "date_added": 1748092257,
     "date_updated": 1762251282,
     "date_live": 1748093103,
@@ -118982,6 +118982,11 @@
       {
         "name": "English",
         "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "name_localized": "Chinese (Simplified)",
         "date_added": 0
       }
     ],
@@ -133231,7 +133236,7 @@
     "summary": "Eyes that I made for my own personal game that I decided to share. I am open to requests. I hope you like them as much as I do. There is a variety of different colors and styles.",
     "description": "<h3><strong>Eyes Mod.</strong></h3><br><h3>I created this eyes mod for my own personal game but decided to share it.<br>I hope you like it too. I am also open to eye color requests.<br><br>I recommend downloading <a href=\"https://mod.io/g/baldursgate3/m/roxs-everyone-can-glow#description\">Rox's Everyone can glow mod</a>. If you want the eyes to glow.<br>Other glow enabled mods also will work if you have a personal favorite. </h3>",
     "date_added": 1753768329,
-    "date_updated": 1786119790,
+    "date_updated": 1788589258,
     "date_live": 1753778547,
     "visible": 1,
     "status": 1,
@@ -133245,15 +133250,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/a259/34781963/crop_100x100/tabbledabble_none_53800eb7-5615.png"
     },
     "modfile": {
-      "id": 7973661,
+      "id": 8177129,
       "mod_id": 5127105,
-      "version": "1.0.0.60",
-      "filename": "tabatha_eyes_e1fffc3d-ee33-7cd-gyir.zip",
-      "changelog": "Added: Tranquil Pools (kind of like Stone Blind)\nAdded more black sclera with different colored glowing pupils: Shattered, Russet, Scarlet, Princess, Azure, Weave.\nAdded two more red sclera eyes that are orange with red glow: Fever and Sunburned",
-      "date_added": 1784174478,
+      "version": "1.0.0.63",
+      "filename": "tabatha_eyes_e1fffc3d-ee33-7cd-3ty6.zip",
+      "changelog": "Added Blackout/Flame versions of Maelstrom and Lagoon\nAdded Darkened/Flame versions of Maelstrom and Lagoon\nAdded a new set series called Blooded with eyes named Grim and Do Tell",
+      "date_added": 1788589115,
       "date_updated": 0,
-      "date_scanned": 1784174595,
-      "filesize": 1725719,
+      "date_scanned": 1788589121,
+      "filesize": 1730662,
       "platforms": [
         {
           "platform": "windows",
@@ -133261,15 +133266,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -133309,10 +133314,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7973661
-      },
-      {
         "platform": "mac",
         "modfile_live": 7973661
       },
@@ -133323,6 +133324,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7973661
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8177129
       }
     ]
   },
