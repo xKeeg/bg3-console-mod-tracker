@@ -84057,7 +84057,7 @@
     "summary": "The unofficial community bug fix mod - Over 1800 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1800 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1788591832,
+    "date_updated": 1788657575,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -84071,15 +84071,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8177231,
+      "id": 8181165,
       "mod_id": 4561805,
-      "version": "4.6.23.2",
-      "filename": "itembugfix_010e73d5-9342-e528-c5sz.zip",
-      "changelog": "- 'Call of the Dark Lady' condition now correctly states the damage received each turn and when attacked by a Justiciar in Umbral Form\n- Justiciar 'Subsume Shadow' now correctly states it applies Umbral Form until long rest\n- Glomp the Looter now has correct capitalization in his name\n- Preserve Life description now has correct punctuation\n- Wyll's 'The Blade of Frontiers' passive is no longer hidden on his character sheet, and now mentions proficiency with rapiers\n- 'Elemental Weapon: Fire' and 'Burning Age' spells now use the correct sound loop when being prepared\n- Owlbear Mate 'Vengeful Father' no longer incorrectly triggers when ANY nearby entity is killed/destroyed\n- Code improvements",
-      "date_added": 1788591817,
+      "version": "4.6.24.1",
+      "filename": "itembugfix_010e73d5-9342-e528-aokp.zip",
+      "changelog": "- Corpsegrinder 'Grand Slam' now correctly adds fall damage after knocking a target off a ledge\n- Cull the Weak should no longer kill a creature that was banished by Banishing Smite, causing the creature to return from banishment \"alive\" with 0 HP",
+      "date_added": 1788657544,
       "date_updated": 0,
-      "date_scanned": 1788591826,
-      "filesize": 1839901,
+      "date_scanned": 1788657551,
+      "filesize": 1840206,
       "platforms": [
         {
           "platform": "windows",
@@ -84087,15 +84087,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 3
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 3
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 3
         }
       ]
     },
@@ -84193,7 +84193,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8177231
+        "modfile_live": 8181165
       }
     ]
   },
@@ -121107,7 +121107,7 @@
     "summary": "BG3 - Chocolate Edition is a massive rebalance mod touching almost every aspect of character building. Spells, feats, classes, subclasses, initiative, and more have all seen changes to make the game a different flavor of fun for a new run.",
     "description": "<h2>Welcome to Chocolate Edition v4!</h2>\n<p>(v4 does not appear to need a fresh save to work just fine. New items will appear on vendors when their inventory refreshes, new items placed in the world will just be there, and I am not totally sure about loot from enemies you have already killed)</p>\n<p>IF YOU UPDATE MID GAME from 3.0.0.107 (or earlier) to 3.0.0.108 (or higher) AND ARE PLAYING A RANGER - YOU MUST RESPEC. If you are experiencing crashing while trying to level up a ranger, you must respec. I had to fix a bug I caused who knows when which required a UUID fix to Ranger spell lists and their progression table. If you do not respec, you are likely to get a repeatable crash.</p>\n<h2>For full mod details, check out the website! <a href=\"https://bg3chocolate.carrd.co\" target=\"_blank\" rel=\"noopener noreferrer\">bg3chocolate.carrd.co</a></h2>\n<p>(If having issues accessing the website, check if you have a VPN on)</p>\n<h2>This is a homebrew, chocolate coating on the excellent Vanilla core BG3 experience with changes to almost every aspect of character building including:</h2>\n<ul>\n<li>\n<h3>Initiative Changes</h3>\n</li>\n<li>\n<h3>Weapon Cantrip Rule Changes</h3>\n</li>\n<li>\n<h3>Major Class Changes</h3>\n</li>\n<li>\n<h3>Minor Class Changes</h3>\n</li>\n<li>\n<h3>Extra Feats at level 2</h3>\n</li>\n<li>\n<h3>New Origin Classes</h3>\n</li>\n<li>\n<h3>New \"minor classes\" for non-Origin companions and Durge</h3>\n</li>\n<li>\n<h3>Cantrip - Level 6 Spell changes</h3>\n</li>\n<li>\n<h3>Feat Changes</h3>\n</li>\n<li>\n<h3>16 New Feats</h3>\n</li>\n<li>\n<h3>40+ Vanilla Item Buffs</h3>\n</li>\n<li>\n<h3>20 New Weapons</h3>\n</li>\n<li>\n<h3>11 New Armors and Jewelry</h3>\n</li>\n<li>\n<h3>10 Pocket Charms (items with passives useable from your inventory!)</h3>\n</li>\n</ul>\n<h3>This is intended to be a one stop shop to a fresh BG3 experience without relying on other mods to be kept updated, and without bloating your load order on console. Why use lot mod when one mod do trick?</h3>\n<h3><a href=\"https://mod.io/g/baldursgate3/c/chocolate-edition-expansion-official#mods\">If you want even more that I haven't done, check out the official Chocolate Edition mod list for what I love playing alongside this!</a></h3>\n<p>Remember! Before submitting bugs, check the PDF for anything relevant in case what you think is a bug is just a feature! Once you've done that, feel free to comment or report bugs through the official feature, or to <a href=\"https://discord.gg/CP36VuDYHu\">join my discord to chat about what's going on.</a></p>\n<p>Feel free to use new class mods alongside this, but I would HIGHLY recommend not using any mods that modify vanilla classes listed anywhere in the patch notes (subclass mods are usually fine). I cannot offer support for bugs caused by mod conflicts very often. I would also advise against using spell rebalance mods, though spell addition mods like Mystra's Spells should be fine (excluding the balancing differences between Mystra's Spells and this mod).</p>\n<h2><span style=\"text-decoration:underline;\">Conflicts</span></h2>\n<ul>\n<li>Any mod that alters the \"Origin\" entries in the toolkit including mods that allow origin characters to use the Magic Mirror - the conflict is only that you will have to respec your origin companions into their origin classes if you wish to use them. And Shadowheart won't start with a dagger as I have modified her to.</li>\n<li>Spell rebalance mods</li>\n<li>Mods that alter subclasses or classes</li>\n<li>Mods that alter or rebalance feats</li>\n<li>Mods that alter or rebalance elixirs</li>\n<li>Mods that *add* subclasses should use progression merges for best practices, but conflicts with Wizard, Ranger, Warlock, Druid, and Paladin subclasses from previous versions have been resolved on the Chocolate Edition side as of the most recent version available on PC. Console awaits an update still.</li>\n</ul>\n<p>Note about conflicts: Mod conflicts are not inherently a bad thing. You just need to make sure the mod you want to \"win\" the conflict is loaded later in your load order. To do this on consoles or through the in game mod manager, supposedly you can de-activate all mods in your list and then reactivate them in the order that you choose. This will tell the game what order to load the mods in.</p>\n<h2>Updated for the July 2026 Modathon!</h2>\n<p><img src=\"https://image.modcdn.io/members/2890/34817058/profile/bg3modathon.png\" alt=\"\" width=\"800\" height=\"420\"></p>\n<p> </p>\n<p>AI Use Disclosure:</p>\n<ul>\n<li>AI was used <em>only</em> to write khonsu condition scripts (essentially LUA scripts). I knew what checks I needed, I just didn't know how to write them.</li>\n<li>AI was not used to generate any art.</li>\n<li>AI was not used to write any tooltips.</li>\n<li>AI was not used to generate any ideas or balance changes.</li>\n</ul>",
     "date_added": 1748866806,
-    "date_updated": 1788486516,
+    "date_updated": 1788665498,
     "date_live": 1748868463,
     "visible": 1,
     "status": 1,
@@ -121121,15 +121121,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2890/34817058/crop_100x100/fe72795fb0c88912cc6ec75f1c125df.jpg"
     },
     "modfile": {
-      "id": 8172955,
+      "id": 8181586,
       "mod_id": 4985426,
-      "version": "4.0.0.138",
-      "filename": "vanillaplus_d932c3e8-991e-ef52-1lcb.zip",
-      "changelog": "- Blizzard Blitz now properly benefits from Spell Sniper and has been added to the list of available cantrips. Thundering String is not able to benefit from the range increase and so will not be added.\n- Adjust some feat descriptions to add missing information",
-      "date_added": 1788486453,
+      "version": "4.0.0.139",
+      "filename": "vanillaplus_d932c3e8-991e-ef52-8lzc.zip",
+      "changelog": "-- Unfinished Ringmail and variants now has the up to +4 bonus to Armor Class based on your constitution modifier.",
+      "date_added": 1788665446,
       "date_updated": 0,
-      "date_scanned": 1788486498,
-      "filesize": 23131613,
+      "date_scanned": 1788665498,
+      "filesize": 23131598,
       "platforms": [
         {
           "platform": "windows",
@@ -121223,7 +121223,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8172955
+        "modfile_live": 8181586
       }
     ]
   },
