@@ -62380,8 +62380,8 @@
     "summary": "The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 as close to their 5th edition versions as they can elegantly be, with improvements made to Booming Blade.",
     "description": "<p>The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 from their 5th edition versions:<br>Green-Flame Blade<br>Lightning Lure<br>Sword Burst</p>\n<p>Additionally, Booming Blade is greatly enhanced including better functionality (such as level 10 scaling), bug fixes, VFX, and sound.</p>\n<p>All spells have their own visual effects and icons, with Green-Flame Blade notably being green!</p>\n<p>The 'War Caster' feat also includes Booming Blade as a reaction choice.<br><br>Looking for a way to expand the usage of these blade cantrips?  Try <a title=\"Feat - Spell Blade\" href=\"https://mod.io/g/baldursgate3/m/feat-spell-blade\">Feat - Spell Blade</a></p>",
     "date_added": 1729286972,
-    "date_updated": 1780328326,
-    "date_live": 1729286972,
+    "date_updated": 1788802649,
+    "date_live": 1788802649,
     "visible": 1,
     "status": 1,
     "dependencies": false,
@@ -62394,15 +62394,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 7731576,
+      "id": 8188513,
       "mod_id": 4423191,
-      "version": "2.3.2.3",
-      "filename": "5e_blade_cantrips_14943f09-f25-3bwa.zip",
-      "changelog": "- 'Booming Blade Damage' condition no longer clutters the combat log",
-      "date_added": 1778626671,
+      "version": "2.3.3.1",
+      "filename": "5e_blade_cantrips_14943f09-f25-gxfg.zip",
+      "changelog": "- Code improvements",
+      "date_added": 1788802637,
       "date_updated": 0,
-      "date_scanned": 1778627073,
-      "filesize": 574396,
+      "date_scanned": 1788802646,
+      "filesize": 574301,
       "platforms": [
         {
           "platform": "windows",
@@ -62410,15 +62410,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -62533,10 +62533,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7731576
-      },
-      {
         "platform": "mac",
         "modfile_live": 7731576
       },
@@ -62547,6 +62543,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7731576
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8188513
       }
     ]
   },
@@ -83462,11 +83462,11 @@
       ]
     },
     "logo": {
-      "filename": "gemini_generated_image_turpc3tu.png",
-      "original": "https://image.modcdn.io/mods/88db/4555162/gemini_generated_image_turpc3tu.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/88db/4555162/crop_320x180/gemini_generated_image_turpc3tu.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/88db/4555162/crop_640x360/gemini_generated_image_turpc3tu.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/88db/4555162/crop_1280x720/gemini_generated_image_turpc3tu.png"
+      "filename": "screenshot2024-12-141914231.png",
+      "original": "https://image.modcdn.io/mods/88db/4555162/screenshot2024-12-141914231.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/88db/4555162/crop_320x180/screenshot2024-12-141914231.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/88db/4555162/crop_640x360/screenshot2024-12-141914231.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/88db/4555162/crop_1280x720/screenshot2024-12-141914231.png"
     },
     "tags": [
       {
