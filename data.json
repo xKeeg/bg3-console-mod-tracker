@@ -84057,7 +84057,7 @@
     "summary": "The unofficial community bug fix mod - Over 1800 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1800 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1788911847,
+    "date_updated": 1788916529,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -84071,15 +84071,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8193462,
+      "id": 8193659,
       "mod_id": 4561805,
-      "version": "4.7.1.2",
-      "filename": "itembugfix_010e73d5-9342-e528-1jqc.zip",
-      "changelog": "- Soul Coin 'Infernal Fury' now activates as intended in all situations\n- Daylight now continuously dispels Darkness within a 15m radius, not just on initial cast\n-- Daylight: Enchant Item consistently lasts for 20 turns\n- Sentinel: Snare now correctly functions with War Caster: Opportunity Spell\n- Branding Smite spell containers now correctly list the melee and ranged variants in the correct order\n- Banishing Smite spell container now correctly displays the melee variant icon\n- Previous functionality changes to Flesh to Stone and Flesh to Gold reverted\n-- Flesh to Stone retains targeting fix\n-- Flesh to Gold retains tooltip description and icon fix, targeting fix, and does not require concentration only for the initial condition application\n- 'Elixir of Viciousness' condition now correctly shares the same icon as the item\n- 'Elixir of Barkskin' condition now uses the correct icon\n- Elixir of See Invisibility granted condition now correctly named 'Elixir of See Invisibility' instead of 'See Invisibility'\n- 'Elixir of Battlemage's Power' condition now correctly shares the same icon as the item\n- 'Elixir of Vigilance' condition now correctly shares the same icon as the item\n- Potion of Flying now correctly grants 'Flight' instead of 'Potion of Flight' condition\n- Potion of Glorious Vaulting now correctly grants 'Jump' instead of 'Potion of Glorious Vaulting' condition\n- Potion of Speed 'Hastened' condition now uses the correct icon\n- Elixir of Universal Resistance 'Invulnerability' condition now correctly shares the same icon as the item and applies its condition when thrown\n- Potion of Universal Resistance now functions like Elixir of Universal Resistance instead of granting just poison resistance",
-      "date_added": 1788911825,
+      "version": "4.7.1.3",
+      "filename": "itembugfix_010e73d5-9342-e528-3vxg.zip",
+      "changelog": "- Soul Coin 'Infernal Fury' now activates as intended in all situations\n- Daylight now continuously dispels Darkness within a 15m radius, not just on initial cast\n-- Daylight: Enchant Item consistently lasts for 20 turns\n- Branding Smite spell containers now list the melee and ranged variants in the correct order\n- Banishing Smite spell container now correctly displays the melee variant icon\n- Previous functionality changes to Flesh to Stone and Flesh to Gold reverted\n-- Flesh to Stone retains targeting fix\n-- Flesh to Gold retains tooltip description and icon fix, targeting fix, and does not require concentration only for the initial condition application\n- 'Elixir of Viciousness' condition now correctly shares the same icon as the item\n- 'Elixir of Barkskin' condition now uses the correct icon\n- Elixir of See Invisibility granted condition now correctly named 'Elixir of See Invisibility' instead of 'See Invisibility'\n- 'Elixir of Battlemage's Power' condition now correctly shares the same icon as the item\n- 'Elixir of Vigilance' condition now correctly shares the same icon as the item\n- Potion of Flying now correctly grants 'Flight' instead of 'Potion of Flight' condition\n- Potion of Glorious Vaulting now correctly grants 'Jump' instead of 'Potion of Glorious Vaulting' condition\n- Potion of Speed 'Hastened' condition now uses the correct icon\n- Elixir of Universal Resistance 'Invulnerability' condition now correctly shares the same icon as the item and applies its condition when thrown\n- Potion of Universal Resistance now functions like Elixir of Universal Resistance instead of granting just poison resistance\n- Elixir of Silvanus 'Curative Antidote' now actually provides advantage on saving throws against poison for 10 turns",
+      "date_added": 1788916378,
       "date_updated": 0,
-      "date_scanned": 1788911832,
-      "filesize": 1841039,
+      "date_scanned": 1788916385,
+      "filesize": 1841058,
       "platforms": [
         {
           "platform": "windows",
@@ -84087,15 +84087,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 3
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 3
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 3
         }
       ]
     },
@@ -84193,7 +84193,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8193462
+        "modfile_live": 8193659
       }
     ]
   },
