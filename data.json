@@ -109555,10 +109555,10 @@
     "game_id": 6715,
     "name": "Provisions Collector",
     "name_id": "provisions-collector",
-    "summary": "Provisions Collector Creates a 24-foot aura that automatically collects Provisions, food and camp packs placing them in the camp chest. you get a Pot of the Collector that has the Aura bounded to it.",
-    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/provisionscollectorbase.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<div style=\"color:#39ff14;\">\n<h4>Provisions Collector<br><em>by SwissFred</em></h4>\n</div>\n<div style=\"color:#39ff14;\">\n<p>The party leader gains an aura that automatically collects Provisions, food and Supplies found in the world as you walk, within a 36-foot radius.<br>Collected Provisions go into the Camp Sack in your inventory, if available.<br>You can toggle the aura on or off with the passive ability.<br>you get a <strong>Pot of the collector</strong><br>Whoever carries it in their inventory will gain its Aura.<br>The Pot is inventory-bound to the carrier but can be transferred to another party member.<br>Choose the character who is best suited to benefit from the Aura.<br>only <strong>not Owned</strong> Items will be collected <strong>no Red Items.</strong></p>\n</div>\n<div style=\"color:#39ff14;\">\n<h4>Installation:</h4>\n</div>\n<p>Install the mod. The aura is enabled by default.</p>\n<div style=\"color:#39ff14;\">\n<h4>Uninstallation:</h4>\n</div>\n<p>To remove the mod, Use the Pot ( right click on it and choose remove ). The mod will then be prepared for removal.</p>\n<p><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
+    "summary": "Provisions Collector creates a 24-foot aura that automatically collects provisions, food, and camp packs, placing them directly into the pot carrier's Camp Supply Sack. You receive a Pot of the Collector, which has the aura bound to it.",
+    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/provisionscollectorbase.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<h4><span style=\"color:#7cfc00;\">Provisions Collector<br><em>by SwissFred</em></span></h4>\n<p style=\"color:#7cfc00;\">The party leader gains an aura that automatically collects Provisions, food and Supplies found in the world as you walk, within a 24-foot radius.<br>Collected Provisions go into the Camp Sack in your inventory, if available.<br>You can toggle the aura on or off with the passive ability.<br>you get a <strong>Pot of the collector</strong><br>Whoever carries it in their inventory will gain its Aura.<br>The Pot is inventory-bound to the carrier but can be transferred to another party member.<br>Choose the character who is best suited to benefit from the Aura.<br>only <strong>not Owned</strong> Items will be collected <strong>no Red Items.</strong></p>\n<h4><span style=\"color:#7cfc00;\">Installation:</span></h4>\n<p style=\"color:#7cfc00;\">Install the mod. The aura is enabled by default.</p>\n<h4><span style=\"color:#7cfc00;\">Uninstallation:</span></h4>\n<p style=\"color:#7cfc00;\">To remove the mod, Use the Pot ( right click on it and choose remove ). The mod will then be prepared for removal.</p>\n<p style=\"color:#7cfc00;\"><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
     "date_added": 1745095493,
-    "date_updated": 1768924367,
+    "date_updated": 1789021190,
     "date_live": 1745096159,
     "visible": 1,
     "status": 1,
@@ -109572,15 +109572,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 6822326,
+      "id": 8197176,
       "mod_id": 4883325,
-      "version": "2.0.8.50",
-      "filename": "provisionscollector_7c20ef8b-d-6dzp.zip",
-      "changelog": "no Story Items will be collected",
-      "date_added": 1759561598,
+      "version": "2.1.8.0",
+      "filename": "provisionscollector_7c20ef8b-d-azxd.zip",
+      "changelog": "Provisions now route to the carrier's Camp Supply Sack instead of the camp chest.\ncups and plates are not collected.",
+      "date_added": 1789020585,
       "date_updated": 0,
-      "date_scanned": 1759561633,
-      "filesize": 17555106,
+      "date_scanned": 1789020620,
+      "filesize": 17554862,
       "platforms": [
         {
           "platform": "windows",
@@ -109588,15 +109588,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 3
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 3
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 3
         }
       ]
     },
@@ -109636,10 +109636,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6822326
-      },
-      {
         "platform": "mac",
         "modfile_live": 6822326
       },
@@ -109650,6 +109646,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6822326
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8197176
       }
     ]
   },
@@ -118912,9 +118912,9 @@
     "name": "BooksCollector",
     "name_id": "bookscollector",
     "summary": "Creates a 24-foot aura that automatically collects all kind of books except Alchemy books placing them in your inventory. You receive a Book of the Collector, which holds the aura bound to it.",
-    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/bookscollector_icon.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<h4>Book Collector<br><em>by SwissFred</em></h4>\n<p style=\"color:#ffff00;\">The party leader gains an aura that automatically collects all types of <strong>books, Notes</strong> (except alchemy books) found in the world as you walk, within a <strong>24-foot radius.</strong><br>Collected books go into your inventory.<br>You can toggle the aura on or off with the passive ability.<br>You get a <strong>Book of the Collector.</strong><br>Whoever carries it in their inventory will gain its aura.<br>The book is inventory-bound to the carrier but can be transferred to another party member.<br>Choose the character who is best suited to benefit from the aura.</p>\n<h4>Installation:</h4>\n<p style=\"color:#ffff00;\">Install the mod. The aura is enabled by default.</p>\n<h4>Uninstallation:</h4>\n<p style=\"color:#ffff00;\">To remove the mod, use the book (right-click on it and choose \"Remove\"). The mod will then be prepared for removal.</p>\n<p><strong>Chinese (Simplified) translations</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
+    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/bookscollector_icon.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<h4><span style=\"color:#ffff00;\">Book Collector<br><em>by SwissFred</em></span></h4>\n<p style=\"color:#ffff00;\">The party leader gains an aura that automatically collects all types of <strong>books, Notes</strong> (except alchemy books) found in the world as you walk, within a <strong>24-foot radius.</strong><br>Collected books go into your inventory.<br>You can toggle the aura on or off with the passive ability.<br>You get a <strong>Book of the Collector.</strong><br>Whoever carries it in their inventory will gain its aura.<br>The book is inventory-bound to the carrier but can be transferred to another party member.<br>Choose the character who is best suited to benefit from the aura.</p>\n<h4><span style=\"color:#ffff00;\">Installation:</span></h4>\n<p style=\"color:#ffff00;\">Install the mod. The aura is enabled by default.</p>\n<h4><span style=\"color:#ffff00;\">Uninstallation:</span></h4>\n<p style=\"color:#ffff00;\">To remove the mod, use the book (right-click on it and choose \"Remove\"). The mod will then be prepared for removal.</p>\n<p><strong>Chinese (Simplified) translations</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
     "date_added": 1748092257,
-    "date_updated": 1762251282,
+    "date_updated": 1789024788,
     "date_live": 1748093103,
     "visible": 1,
     "status": 1,
@@ -118928,15 +118928,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 6822565,
+      "id": 8197247,
       "mod_id": 4960084,
-      "version": "2.0.8.6",
-      "filename": "bookscollector_e4561613-0a44-7-1mh5.zip",
-      "changelog": "do not collect story items and owned items",
-      "date_added": 1759568697,
+      "version": "2.0.8.8",
+      "filename": "bookscollector_e4561613-0a44-7-8ghh.zip",
+      "changelog": "Already collected books will not be collected again if dropped or thrown.",
+      "date_added": 1789024594,
       "date_updated": 0,
-      "date_scanned": 1759568732,
-      "filesize": 17579862,
+      "date_scanned": 1789024670,
+      "filesize": 17580723,
       "platforms": [
         {
           "platform": "windows",
@@ -118944,15 +118944,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -118992,10 +118992,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6822565
-      },
-      {
         "platform": "mac",
         "modfile_live": 6822565
       },
@@ -119006,6 +119002,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6822565
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8197247
       }
     ]
   },
