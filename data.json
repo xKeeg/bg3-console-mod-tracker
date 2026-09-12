@@ -128297,7 +128297,7 @@
     "summary": "Way of the Forge monks hone their discipline hammering away a steel's impurities. Unleash the furnace's blistering fire on your enemies, hone the steel of your allies, and put your sweltering muscles to good use. Based on homebrew by somanyrobots.",
     "description": "<p style=\"text-align:center;\"><strong>Part of the July 2025 Modathon</strong></p>\n<p>This is an adaptation of somanyrobots' <a href=\"https://static1.squarespace.com/static/647aa413e7a634268b1a8c41/t/6760efbac4362f7658249464/1734406089716/Monk+-+Way+of+the+Forge.pdf\">Way of the Forge</a>, a warhammer-using Monk who mixes bludgeoning damage with a dab of metallic magic and pyromancy. Working in the forge all day, you'll want to focus Strength over Dexterity on this muscular Monk. You know, for reasons other than Tavern Brawler being busted. Pour on the heat to your enemies, and use what limited Forge Magic you have to bolster your allies' weapons and defences.</p>\n<p>This was an interesting one to work on while dealing with a heatwave, let me tell you. But still, I like the flavour: an odd little spin on the oft-desired Strength Monk.</p>\n<p><strong>Heads up</strong>: this upload of the mod uses Larian's default merging system. But there's currently a bug with Larian's merging where, when you multiclass into Monk, modded subclasses can override each other. Something to be aware of. Otherwise, if you like any of my mods and want to show some extra support, I've set up a tip jar here:</p>\n<div><a href=\"https://ko-fi.com/TheWailingBard\"><img src=\"https://i.ibb.co/x7g0DNb/coffee.png\" alt=\"coffee.png\"></a></div>\n<p> </p>\n<h3><strong>Features by level</strong></h3>\n<p>Way of the Forge Monks learn the following spells:</p>\n<ul>\n<li><strong>Level 3</strong>: Keen Weapon</li>\n<li><strong>Level 5</strong>: Heat Metal</li>\n<li><strong>Level 9</strong>: Aura of Iron</li>\n</ul>\n<p>They can cast each of these once for free per Long Rest. After that, they cost 1 + the spell's level in Ki. Alternatively, they may be cast using spell slots if the Monk has picked some up from another source, such as multiclassing.</p>\n<p>They learn the following features:</p>\n<ul>\n<li><strong>Level 3</strong>: \n<ul>\n<li>You are proficient with Flails, Warhammers and Morningstars, and can use them as Monk weapons.</li>\n<li>You can use your Strength in place of Dexterity for your Unarmoured Defence feature. (This Unarmoured Defence works with armoured gloves, headgear and footwear, if you have the proficiency from elsewhere.)</li>\n<li>Once per turn when you deal Bludgeoning damage, you can spend 1 Ki Point to deal additional Fire damage equal to one roll of your Martial Arts die + your Wisdom modifier.<br><br></li>\n</ul>\n</li>\n<li><strong>Level 6</strong>: When you use Unbearable Heat, you force the target to make a Strength saving throw (DC based on Wisdom), falling Prone on a failure. If you use Unbearable Heat against an already Prone creature, its damage is increased by one additional roll of your Martial Arts die.<br><br></li>\n<li><strong>Level 11</strong>: You can use your action to radiate heat. All creatures within 4.5m of you must make a Constitution saving throw, taking 4d8 fire damage on failure or half as much damage on a success. For the next 10 rounds, any creature that starts its turn within 2m of you takes 1d4 fire damage. You can do this once for free each Long Rest; after that, it costs 4 Ki Points.<br><br></li>\n<li><strong>Level 17</strong>:\n<ul>\n<li>You add your Wisdom modifier to any Strength and Constitution saving throws you make.</li>\n<li>When you activate Extra Attack, you can spend 1 Ki Point to replace your second attack with casting a Forge Magic spell or using your level 11 ability.</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<h3><strong>New spells</strong></h3>\n<ul>\n<li><strong>Keen Weapon</strong> (1st level, Concentration, Transmutation): Point at a metal weapon and magically enhance its sharpness or hardness. For up to 10 turns, the weapon deals an extra 1d6 damage of its damage type when it hits.<br><br></li>\n<li><strong>Aura of Iron</strong> (3rd level, Concentration, Transmutation): Radiate a field of metallic magic, layering a thin layer of iron over non-hostiles within 9m of you for up to 10 turns. Each creature, including yourself, takes half damage from the next instance of non-magical Bludgeoning, Piercing, or Slashing damage it takes. Additionally, the next time it deals Piercing or Slashing damage, it adds a d6 to the damage roll. Once a creature has used one of these effects, they cannot use it again until the start of your next turn.</li>\n</ul>\n<p> </p>\n<h3><strong>Credits</strong></h3>\n<p>This is an adaptation of somanyrobots' Way of the Forge, which can be found here: <a href=\"https://static1.squarespace.com/static/647aa413e7a634268b1a8c41/t/6760efbac4362f7658249464/1734406089716/Monk+-+Way+of+the+Forge.pdf\">https://static1.squarespace.com/static/647aa413e7a634268b1a8c41/t/6760efbac4362f7658249464/1734406089716/Monk+-+Way+of+the+Forge.pdf</a></p>\n<p>I sent somanyrobots a DM talking about if he'd be open to me porting his free content, and got a 'yes' back. If you're reading this, thanks. You can check out more of their content on <a href=\"https://www.somanyrobots.com/\">their website</a>. Otherwise, the class icon is just an old public domain illustration by <a href=\"https://en.wikipedia.org/wiki/Alexander_Anderson_(illustrator)\">Alexander Anderson</a>, taken from <a href=\"https://digitalcollections.nypl.org/items/7ee688f0-c5d6-012f-6d87-58d385a7bc34#/?uuid=510d47dc-6b61-a3d9-e040-e00a18064a99\">The New York Public Library's Digital Collections</a>.</p>\n<p style=\"text-align:center;\"><a href=\"https://mod.io/g/baldursgate3?tags-in=Modathon\"><img src=\"https://image.modcdn.io/members/04bc/34885127/profilemodathon/modathonweek1.png\" alt=\"Modathon 2025 Week 1: Fire &amp; Noir\" width=\"500\" height=\"263\"></a></p>",
     "date_added": 1751645950,
-    "date_updated": 1789239753,
+    "date_updated": 1789240716,
     "date_live": 1751650318,
     "visible": 1,
     "status": 1,
@@ -128311,30 +128311,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/04bc/34885127/crop_100x100/20thanniversaryhat.png"
     },
     "modfile": {
-      "id": 6853636,
+      "id": 8206468,
       "mod_id": 5066818,
-      "version": "1.0.0.10",
-      "filename": "somanyrobotswayoftheforge_29d4-baj8.zip",
-      "changelog": "- You can now wear helmets and benefit from Unarmoured Defense when using Dexterity to calculate your AC.\n- Your Forge Magic tooltips now have little SoftWarning images, like some similar tooltips.\n- Limit your Aura of Iron to only apply to creatures, not to every item you stumble by.\n- Remove some Osiris scripting that should be able to just be handled in Stats.\n- Remove manual CF in favour of allowing Forge Monk to be picked up automatically.",
-      "date_added": 1760640976,
+      "version": "1.0.0.12",
+      "filename": "somanyrobotswayoftheforge_29d4-ay2r.zip",
+      "changelog": "- Ensure all auras have the 'IgnoreItems' flag, preventing needless checks on items. This shouldn't change anything mechanically, but it should be slightly better for performance.\n- Move some of Aura of Iron's Description to ExtraDescription.",
+      "date_added": 1789240436,
       "date_updated": 0,
-      "date_scanned": 1760640988,
-      "filesize": 3167748,
+      "date_scanned": 1789240447,
+      "filesize": 3167829,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -128380,10 +128368,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6853636
-      },
-      {
         "platform": "mac",
         "modfile_live": 6853636
       },
@@ -128394,6 +128378,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6853636
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8206468
       }
     ]
   },
@@ -152898,7 +152886,7 @@
     "summary": "This is an add-on file for the Gunslinger class mod. Simply adding an extra feat every two levels for the Gunslinger class.",
     "description": "<h2>The Gunslinger Class Extra Feats Every 2 Levels</h2>\n<p> </p>\n<p><strong>Introduction</strong></p>\n<p>This mod is an add-on file for the <strong><a href=\"https://mod.io/g/baldursgate3/m/the-gunslinger-class-eng-kor#description\" target=\"_blank\" rel=\"noopener noreferrer\">gunslinger class</a></strong> mod. <strong>It adds an extra feat every two levels for the Gunslinger class.</strong></p>\n<p><strong>Be sure to install the Gunslinger class mod first and place this mod below it.</strong></p>\n<p> </p>\n<p>이 모드는 <strong><a href=\"https://mod.io/g/baldursgate3/m/the-gunslinger-class-eng-kor#description\" target=\"_blank\" rel=\"noopener noreferrer\">Gunslinger class 모드</a></strong>의 애드온 파일입니다. <strong>건슬링어 클래스에 2레벨마다 특성을 부여합니다.</strong></p>\n<p><strong>반드시 Gunslinger class를 먼저 설치하시고 이 모드를 하단에 배치하세요.</strong></p>",
     "date_added": 1772958945,
-    "date_updated": 1787836815,
+    "date_updated": 1789242329,
     "date_live": 1772959139,
     "visible": 1,
     "status": 1,
@@ -152912,15 +152900,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 7554021,
+      "id": 8206617,
       "mod_id": 5850792,
-      "version": "1.0.2.3",
-      "filename": "thegunslinge_extrafeats2levels-bhms.zip",
-      "changelog": "I have modified it to be compatible with the original version 1.0.2.19.\n원본 버전 1.0.2.19에 맞춰서 호환되게 수정했습니다.",
-      "date_added": 1774498640,
+      "version": "3.0.0.1",
+      "filename": "thegunslinge_extrafeats2levels-aehn.zip",
+      "changelog": "Fixed: Fixed an issue where certain classes would disappear when installing this add-on mod with version 3.0 or higher of the original mod.\n수정: 원본 모드 3.0 버전 이상부터 이 애드온 모드 설치 시 몇몇 클래스가 사라지던 문제를 수정했습니다.",
+      "date_added": 1789242214,
       "date_updated": 0,
-      "date_scanned": 1774498652,
-      "filesize": 4199052,
+      "date_scanned": 1789242225,
+      "filesize": 4199153,
       "platforms": [
         {
           "platform": "windows",
@@ -152928,15 +152916,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -152971,10 +152959,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7554021
-      },
-      {
         "platform": "mac",
         "modfile_live": 7554021
       },
@@ -152985,6 +152969,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7554021
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8206617
       }
     ]
   },
