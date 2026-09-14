@@ -1140,7 +1140,7 @@
     "summary": "This mod adds some more draconic bloodline scale colours to the CC for both non dragonborn and dragonborn. The icon in CC defines the main colour for the dragonborn, and what colour it will be for non dragonborn.",
     "description": "<h2><strong>What is this mod?</strong></h2>\n<p>It adds more Draconic Ancestry colours for Sorcerers</p>\n<p>The icon in CC defines the main colour for the dragonborn, and what colour it will be for non dragonborn.</p>\n<p>Dragonborn have two colours, and non dragonborn only use one for their scales. So there are two versions where for dragonborn the colours are flipped, and so non dragonborn get both colour options as well.</p>\n<p>Based on the accent colours I give my dragonborn skin colours from this mod <a title=\"P4 Dragonborn Scale Colours\" href=\"https://mod.io/g/baldursgate3/m/p4-dragonborn-scale-colours\" target=\"_blank\" rel=\"noopener noreferrer\">P4 Dragonborn Scale Colours</a></p>",
     "date_added": 1720792404,
-    "date_updated": 1786471597,
+    "date_updated": 1789377957,
     "date_live": 1720792574,
     "visible": 1,
     "status": 1,
@@ -1170,15 +1170,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -1273,19 +1273,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8085929
+      },
+      {
         "platform": "mac",
-        "modfile_live": 5339749
+        "modfile_live": 8085929
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 5339749
+        "modfile_live": 8085929
       },
       {
         "platform": "ps5",
-        "modfile_live": 5339749
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8085929
       }
     ]
@@ -16763,7 +16763,7 @@
     "summary": "Infuse more magic into your Eldritch Knight fantasy while still keeping it fair and balanced! New Passives, rebalanced spell leveling progression, removed spell list restrictions and more. Check mod's page on mod.io for details, too little space here",
     "description": "<p>These Eldritch Knight changes will improve its player expression, enhance its subclass fantasy, and rebalance to bring it up to par with other classes taking it into account Baldur's Gate 3's particular context and game-balance (abundance of scrolls, physics, very strong magical items, etc.).</p>\n<h2><strong>List of Features:</strong></h2>\n<p>List of changes from vanilla (keep in mind <a href=\"https://bg3.wiki/wiki/Eldritch_Knight#Level_3\">vanilla unlocks</a> ARE STILL there, I'm just not mentioning them so you know exactly what the mod gives you IN ADDITTION):</p>\n<ul>\n<li>Removed stringent spell list restrictions when choosing new or replacing old spells at all levels. Now you can pick spells from any Wizard School instead of being restricted to pick only from Abjuration or Evocation school. This restriction doesn't make sense in the context of Baldur's Gate 3's gameplay and balance.</li>\n<li>Level 3: +1 Cantrip Known</li>\n<li>Level 4: No further changes</li>\n<li>Level 5: +1 Spell Known, New Passive: BATTLEMAGE CASTING (read details below)</li>\n<li>Level 6: +1 Spell Slot level 1; +1 Cantrip Known</li>\n<li>Level 7: No further changes, but the vanilla +1 Spell Slot level 1 was moved to level 6</li>\n<li>Level 8: New Passive: EMPOWERED CANTRIPS (read details below)</li>\n<li>Level 9: +1 Spell Known; +1 Spell Slot Level 2</li>\n<li>Level 10: No further changes, but the vanilla +1 spell slot level 2 was moved to level 9</li>\n<li>Level 11: Unlock Spells Level 3: +1 Spell Slot Level 3, +2 Spells Known (replaces vanilla +1 spell known)</li>\n<li>Level 12: +1 Spell Slot Level 3, +1 Spell Known</li>\n</ul>\n<p><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/11807/11807-1724879460-1352738953.jpeg\" alt=\"\" width=\"400\" height=\"226\"></p>\n<p><em>Now you can reach (at level 11) the level 3 spells like Lightning Bolt!</em></p>\n<h3>About the new passives:</h3>\n<p><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/11807/11807-1725168731-817600345.jpeg\" alt=\"\" width=\"300\" height=\"160\"></p>\n<p>Battlemage Casting: Your Ranged Spell attacks can be cast as Melee Spell Attacks when threatened. This feature can be toggled off. Unlocks at level 5 and automatically added to your hotbar (find it in your spellbook if you don't have it on your hotbar automatically).</p>\n<p><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/11807/11807-1725168731-2073063448.jpeg\" alt=\"\" width=\"300\" height=\"198\"></p>\n<p>Empowered Cantrips: You attune to your bound weapon to use it as a magical catalyst to channel your physical strength into your cantrip casting, empowering them. Your cantrips deal 1 additional damage plus half your Strength or Dexterity Modifier (whichever is highest). Unlocked at level 8.</p>\n<h2>My other recommended mods:</h2>\n<h3><a href=\"https://mod.io/g/baldursgate3/m/eldritch-knight-war-magic-enhanced\" target=\"_blank\" rel=\"noopener noreferrer\">Eldritch Knight - War Magic Enhanced</a>: adjust War Magic of Eldritch Knight so you can cast Cantrips as Bonus Action.</h3>\n<p><a href=\"https://mod.io/g/baldursgate3/m/eldritch-knight-spellcasting-modifier-ui-bugfix\" target=\"_blank\" rel=\"noopener noreferrer\">Eldritch Knight - Spellcasting Modifier UI BUGFIX</a>: fixes annoying visual bug on base Baldur's Gate 3 that makes it so when the game's user interface displays Difficulty Class and Spell Attack Roll Bonus of Spells of an Eldritch Knight character specifically on the Spellbook and Level-Up windows it shows None or another wrong number.</p>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<h3><strong>Fundamentation of Changes (the why's, skip if you are not interested):</strong></h3>\n<p><br>This mod rebalances Eldritch Knight by modifying the leveling progression of spell slots, spell known, cantrips known, along with adding new passives that enhance the fantasy of Eldritch Knight's unique playstyle while still remaining fair and balanced (considering the enemies' stats in the higher difficulties and the fact there is an abundance of scrolls that can be easily acquired, even for free via pickpocket). The idea is to revamp Eldritch Knight's progression while also adding some tweaks to make it worth investing everything into it and not multi-class considering the opportunity cost present in the game's current multiclass implementation. Don't feel anymore like multi-classing is a must because the vanilla class is too weak, but without going overboard and making it OP.<br><br>While the new spell level progression may look a bit similar to half-caster progression, THIS IS NOT A ''HALF-CASTER'' MOD. A closer look will show that <strong><u>it's actually a new balanced tailor-made spell level progression for Baldur's Gate 3</u></strong>. <br>The reason I didn't just copy the half-caster progression and put it into Eldritch Knight is <strong>because that would make Eldritch Knight way too strong too fast</strong> and I'm doing an effort to keep it balanced while still trying to not get that further away from Eldritch Knight's original third-caster progression. <br><br>That's why the need to buff Eldritch Knight but in a more ''surgical'' way. Among other things, I kept in mind at which point of the Act 1/2/3 would the player be when reaching each level and try to tailor the power-boosts to keep it interesting but still overall balanced <strong>within the context of Baldur's Gate 3's maximum difficulty </strong>(in Honour Mode; if you play lower difficulties it will be even more balanced because of the other classes' relative strengths). <br><br>The aim is for every level of Eldritch Knight to have something interesting, avoiding the boring level ups where you can only choose if you want to replace a spell and nothing else. <br><br>Additionally I ''fixed'' the fact that at level 7, the level at which you learn to cast spells level 2, your replacement spell options were for some reason locked to spells level 1; now you can actually pick a spell level 2 replacement (and from the wizard spell list!). In the newest versions of this mod this change has been extended to all levels: the above mentioned stringent spell list restrictions are no more since they made absolutely no sense in the context and game-balance of Baldur's Gate 3 (ex. because of ample access to scrolls, super strong magical items that let you cast spells, etc.); it just was a copy-paste restriction from DnD tabletop to BG3's system that didn't make sens and only reduced player expression and fun without really affecting difficulty or ''fairness''.<br><br>The few levels with no changes are because they already have other things unlocked at them so you still get something at that level. As I said, the idea is to add or very slightly accelerate some unlocks to avoid ''empty'' levels while keeping it fair and balanced, and to make Eldritch Knight feel ''worth'' to take to max level. That's why on top of having a slightly more spells known (and an extra cantrip known), you also get access to spells level 3 at level 11.<br><br>I feel like the the capstone of investing so much of your levels in Eldritch Knight and not multi-classing should be accesing Spells Level 3 and that's why I added it at level 11 although with only 1 spell slot to keep it balanced (only at level 12 you get a second slot). In the context of Baldur's Gate 3's gameplay and mechanics on the highest difficulties I don't consider it unbalanced because you could have just multi-classed with Wizard for even better results in the casting department plus the ability to learn ANY SCROLL. The opportunity cost of NOT multi-classing here is real and very high and I feel this helps make it worth it to the player to invest completely and exclusively all their levels into Eldritch Knight. And, at the end of the day, this ''boost'' is really only equivalent to 1 level as in DnD 5e Eldritch Knight literally unlocks level 3 spells at level 13. Given it's considered one of the weakest pure classes in Baldur's Gate 3's game-balance, this small boost is not really an issue balance-wise.</p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></p>",
     "date_added": 1725647639,
-    "date_updated": 1786956541,
+    "date_updated": 1789378049,
     "date_live": 1725650552,
     "visible": 1,
     "status": 1,
@@ -16793,15 +16793,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -16846,19 +16846,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8107418
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6362181
+        "modfile_live": 8107418
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6362181
+        "modfile_live": 8107418
       },
       {
         "platform": "ps5",
-        "modfile_live": 6362181
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8107418
       }
     ]
@@ -62960,7 +62960,7 @@
     "summary": "All resources, including spells granted by magic items, projectiles, teleport spells, and Wild Shape forms, will be replenished. The 'Illithid Wisdom check' can be used infinitely, in or out of combat, with no short or long rest needed.",
     "description": "<h2><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/sfr_infinitespellcasting1.1.png\" alt=\"Infinite Spell Casting Icon\" width=\"200\" height=\"200\">  <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/sfr_infinitespellcasting-intro1.png\" alt=\"Infinite Spell Casting Intro\" width=\"512\" height=\"292\"></h2>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;\"><strong>Infinite Spell Casting for mod.io</strong><br><br>This passive ability, when toggled on, grants the following effects:</p>\n<ul style=\"font-family:Roboto, sans-serif;color:#00ff00;\">\n<li><strong>Illithid Wisdom Check</strong> can be used infinitely.</li>\n<li><strong>Illithid Powers</strong> are fully replenished.</li>\n<li>All <strong>resources</strong> and <strong>spells</strong> — including those granted by magic items, projectiles, teleportation spells, and <strong>Wild Shape</strong> forms — are replenished.</li>\n<li>All <strong>melee</strong> and <strong>ranged weapon attacks</strong> can be used without limitation.</li>\n<li>No <strong>Short Rest</strong> or <strong>Long Rest</strong> is required.</li>\n<li>These effects apply both <strong>in and out of combat</strong>.</li>\n</ul>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;\">The passive is automatically granted when loading a save or when a character joins the party.<br>By default, it is toggled <strong>ON</strong>.<br>Characters leaving the party will remember their toggle state.<br>When they rejoin, the passive toggle will be <strong>restored</strong> accordingly.</p>\n<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/sfr_infinitespell_clean.png\" alt=\"Clean Passive Icon\" width=\"100\" height=\"100\"></p>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;\">You also get:<br><strong>Passive: Replenishes Cleanness</strong> (default OFF)<br>If toggled on, the character will be <strong>washed</strong> and cleared of <strong>blood</strong> and <strong>grime</strong> after combat or healing.</p>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;\"><strong>Replenished Resources:</strong><br><strong>All Vanilla Resources</strong><br>Resources from the following <strong>modded Classes</strong>: <em>The Elder</em>, <em>Dread Overlord – Necromancer</em>, <em>Blood Mage</em>, <em>Mystic</em>.<br><br><strong>Examples include:</strong><br>Spell Slots, Bardic Inspiration, Channel Divinity, Superiority Dice, Weapon Action Points, Arcane Recovery, Natural Recovery, Ritual Points, Lay on Hands, Channel Oath, Polymorph, Telekinesis, Wild Shape, Warlock Spell Slots, Sorcery Points, Ki Points, Psi Points, Shadow Spell Slots, Astral Plane Points, Hit Dice, Rage, Luck Points, Illithid Wisdom Check, Arcane Shot<br><br><strong>Remove Mod:</strong><br>A <strong>Scroll of Mod Removal</strong> can now be found in the <strong>Camp Chest</strong>. Using it will prepare this mod for removal.<br><br><a href=\"https://mod.io/g/baldursgate3/m/primordialsorcerer\">The Elder for Baldur's Gate 3 - mod.io</a><br><a href=\"https://mod.io/g/baldursgate3/m/blood-mage\">Blood Mage for Baldur's Gate 3 - mod.io</a><br><a href=\"https://mod.io/g/baldursgate3/m/dread-overlord-console-version\">Dread Overlord - Necromancer V9.11 (IGMM) for Baldur's Gate 3 - mod.io</a><br><a href=\"https://mod.io/g/baldursgate3/m/mystic-class1\">Mystic Class for Baldur's Gate 3 - mod.io</a></p>\n<p><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p><strong>Addon Available:</strong></p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/infinitespellcasting-double-ap-usage#description\">InfiniteSpellCasting Double AP Usage for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>\n<hr>\n<h3><em><strong><span style=\"color:#00ff00;\">Instructions on Adding Resources from Modded Classes</span></strong></em><br><em><strong><span style=\"color:#ffff00;\">Requires knowledge of unpacking and repacking mods</span></strong></em></h3>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;\"><strong>Important Notice:</strong> Changing or modifying this mod is only for <strong>personal use</strong>. <br>You are <strong>not allowed</strong> to distribute it or make it available for download.</p>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;\"><strong>Unpack the mod</strong> using <a href=\"https://gitlab.com/ShinyHobo/bg3-modders-multitool\">ShinyHobo / bg3-modders-multitool · GitLab</a> and <a href=\"https://github.com/Norbyte/lslib\">GitHub - Norbyte/lslib</a></p>\n<ol style=\"font-family:Roboto, sans-serif;color:#00ff00;\">\n<li><strong>Navigate to the correct folder:</strong><br><code>InfiniteSpellCasting_5639dc7b-caf1-f6f9-81da-5d4a90846db4<br>└── Public<br>└── InfiniteSpellCasting_5639dc7b-caf1-f6f9-81da-5d4a90846db4<br>└── Stats<br>└── Generated<br>└── Data</code></li>\n<li><strong>Open Passive.txt</strong> with a text editor (recommended: <strong>Notepad++</strong>).</li>\n<li><strong>Locate the entry:</strong><br><code>data \"StatsFunctors\" \"IF(not HasStatus('PERFORM_POSITIVE',context.Source) and HasStatus('INFINITE_CAST',context.Source)):</code></li>\n<li><strong>Add your resources after this line</strong><br>Example:<br><code>data \"StatsFunctors\" \"IF(not HasStatus('PERFORM_POSITIVE',context.Source) and HasStatus('INFINITE_CAST',context.Source)):<br>RestoreResource(CustomResource,100%,0);</code></li>\n<li><strong>Add the same resources to the ToggleOnFunctors entry:</strong><br><code>data \"ToggleOnFunctors\" \"IF(not HasStatus('INFINITE_CAST',context.Source)):<br>ApplyStatus(INFINITE_CAST,100,-1);<br>RestoreResource(CustomResource,100%,0);</code></li>\n<li><strong>Save the file</strong>, then repak the mod.</li>\n</ol>\n<p style=\"font-family:Roboto, sans-serif;color:#00ff00;\"><strong>Examples:</strong><br><code>data \"StatsFunctors\" \"IF(not HasStatus('PERFORM_POSITIVE',context.Source) and HasStatus('INFINITE_CAST',context.Source)):<br>RestoreResource(BloodBulwarkCharge,100%,0);<br>RestoreResource(DreadOverlord_WrathOfTheDracolich_Charge,100%,0);<br><br>data \"ToggleOnFunctors\" \"IF(not HasStatus('INFINITE_CAST',context.Source)):<br>ApplyStatus(INFINITE_CAST,100,-1);<br>RestoreResource(BloodBulwarkCharge,100%,0);<br>RestoreResource(DreadOverlord_WrathOfTheDracolich_Charge,100%,0);</code></p>\n<p><strong><span style=\"color:#ffff00;\">original file</span> as reference</strong> <a href=\"https://drive.google.com/file/d/1HHFVmZsErrVKA6ncruYFhpCT3OpJ7zt9/view?usp=drive_link\">Passive.txt </a> you may use it and modify and add it to the unpacked mod.</p>\n<p> </p>",
     "date_added": 1729344552,
-    "date_updated": 1786965605,
+    "date_updated": 1789378064,
     "date_live": 1729347013,
     "visible": 1,
     "status": 1,
@@ -62990,15 +62990,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -63038,19 +63038,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8107657
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7244459
+        "modfile_live": 8107657
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7244459
+        "modfile_live": 8107657
       },
       {
         "platform": "ps5",
-        "modfile_live": 7244459
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8107657
       }
     ]
@@ -84061,7 +84061,7 @@
     "summary": "The unofficial community bug fix mod - Over 1800 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 1800 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1789230938,
+    "date_updated": 1789377055,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -84185,15 +84185,15 @@
     "platforms": [
       {
         "platform": "mac",
-        "modfile_live": 8058319
+        "modfile_live": 8181165
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 8058319
+        "modfile_live": 8181165
       },
       {
         "platform": "ps5",
-        "modfile_live": 8058319
+        "modfile_live": 8181165
       },
       {
         "platform": "windows",
@@ -91967,7 +91967,7 @@
     "summary": "Brings a Frost Domain Cleric Subclass to Baldur's Gate 3, complete with its own arsenal of thematic subclass features, visual effects, and Channel Divinity abilities to allow you to freeze and destroy your enemies.",
     "description": "<h2><a href=\"https://mod.io/g/baldursgate3/m/icebard#description\">College of Winter's Wail</a> is now LIVE!</h2>\n<p> </p>\n<h2><strong><span style=\"font-size:xx-large;\">UPDATE 2.0.0.38 - Level 20 Support!</span></strong></h2>\n<ul>\n<li>New subclass feature, reworked VFX, etc. Details below :)</li>\n<li>Note:  A level 20 mod is required to level past level 12 such as <a href=\"https://mod.io/g/baldursgate3/m/unlocklevelcurve#description\">Unlock Level Curve</a></li>\n</ul>\n<p>Huge thank you to <a href=\"https://www.tumblr.com/baelthi-vp?source=share\">Baelthi</a>, Lemon cake, and satanfish for taking the time to capture the incredible photos here!!!</p>\n<hr>\n<h2><strong>Proficiencies</strong></h2>\n<ul>\n<li>Martial Weapons</li>\n<li>Heavy Armor</li>\n</ul>\n<h2>Domain Spells</h2>\n<ol>\n<li>Armour of Agathys, Ice Knife</li>\n<li>Misty Step, Chilling Gust</li>\n<li>Sleet Storm, Slow</li>\n<li>Fire Shield: Chill, Ice Storm</li>\n<li>Cone of Cold, Hold Monster</li>\n</ol>\n<h2>Subclass Features</h2>\n<h3>Level 1 Subclass Features</h3>\n<h4>Winter's Embrace</h4>\n<p>You learn two cold cantrips of your choice.  These count as Cleric cantrips for you and do not count against the number of cantrips you can learn.  In addition, at level 11 Otiluke's Freezing Sphere and  Wall of Ice are added to your list of available spells.</p>\n<h4>Glacial Ward</h4>\n<p>When an enemy attacks you or an ally within 9m you can use your reaction to summon a divine-empowered barrier of freezing energy.  The ward absorbs incoming damage up to Level + Wisdom Modifier and then immediately dissipates.</p>\n<h3>Level 2</h3>\n<h4>Channel Divinity: Freezing Smite</h4>\n<p>Channel your divine power to unleash a chilling strike.  Targets must succeed a Constitution Saving Throw or be instantly Frozen in place.  Uses your Wisdom Modifier for attack rolls.</p>\n<h3>Level 6 Subclass Feature</h3>\n<h4>Heart of the Everfrost</h4>\n<p>Your mastery of the cold grants you enhanced abilities. Your cold spells and abilities overcome Resistance to cold damage, and you cannot fall Prone while traversing icy terrain.</p>\n<h4>Channel Divinity: Arctic Tempest</h4>\n<p>With a surge of divine power you unleash a blinding storm of snow and ice, Chilling enemies and hindering their movement. Deals 3d8 + Wisdom Modifier Cold damage per turn.</p>\n<h3>Level 8 Subclass Feature</h3>\n<h4>Blessed Strikes</h4>\n<p>You can select one of the following:</p>\n<ul>\n<li>Divine Strike: Cold</li>\n<li>Potent Spellcasting</li>\n</ul>\n<h3>Level 17 Subclass Feature</h3>\n<h4>Wrath of the Glaciers</h4>\n<p>Channel the inexorable force of the glaciers into your magic: when you cast a Frost Domain cold spell, you may expend <strong>Glacial Fragments</strong> equal to the spell's level to empower it.  Empowered spells always deal full damage regardless of saving throws.</p>\n<p><strong>Glacial Fragments - </strong>Shards of divine ice crystalize within you, fueling your most devastating magic. You have a number of Glacial Fragments equal to your Wisdom modifier per short rest.</p>\n<hr>\n<p><span style=\"font-size:x-large;\"><strong><span style=\"font-family:Verdana;\">Credits and Thanks</span></strong><br></span><span style=\"font-size:large;\"><strong>I can’t thank everyone enough who helped me with everything from icons to capturing incredible photos for me to share to helping me solve issues with various features!! </strong><br></span><br><span style=\"font-size:large;\"><strong>In-Game Photos</strong></span><br>Thank you to everyone from the <a href=\"https://discord.gg/gumE6CUVnc\">Faerun Fashionistas</a> Discord who captured the ABSOLUTELY STUNNING photos you see above:<br><br><strong><a href=\"https://www.tumblr.com/baelthi-vp?source=share\">Baelthi</a> - Photos with BT4 Tiefling Male</strong></p>\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/3483\">Extra Gear</a> by pooteeweet</li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/frostpaladin#description\">Oath of the Frozen Wilds</a> by GIGeorge</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/8681\">Kylin's Horns</a> by Kylin3</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2067\">Trip's Accessory Collection</a> by Trips</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/2002\">Astralities' Hair Color Supplement</a> by Astralities</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/12868\">Crazy Color Pack</a></li>\n</ul>\n<p><strong><br>satanfish </strong>-<strong> Photos with female Elf/Half-Elf</strong></p>\n<ul>\n<li><a href=\"https://www.patreon.com/posts/pk-salon-wip-139355462\">PK's Hair Salon</a> by PseudoKociara</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/7812\">Baldurian Beauty</a> by Sithembile</li>\n<li><a href=\"https://www.patreon.com/posts/sindel-female-1-138315616\">Sindel</a> and <a href=\"https://www.nexusmods.com/baldursgate3/mods/15393\">Extra Shields</a> by Badwitch69</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/17679\">Myky's Accessories</a> by Myky24</li>\n<li><a href=\"https://www.patreon.com/posts/update-gear-mod-138312783\">Etheirys Armoury</a> by Luminiari</li>\n</ul>\n<p><strong><br>Lemon cake</strong> - <strong>Photos with BT2 female Tiefling:</strong></p>\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\">Hijimare Hairs</a> by Hijimare</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/1226\">Horns of Thedas</a> by Ereshes</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/205\">New CC Presets</a> by Toarie</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/8534\">Sublime Skin Tones</a> &amp; <a href=\"https://www.nexusmods.com/baldursgate3/mods/2002\">Hair Colour Mixer</a> by Astralities</li>\n<li><a href=\"https://www.patreon.com/posts/dragon-dress-112305215\">Dragon Dress</a> by Tepkunset</li>\n<li><a href=\"https://www.patreon.com/posts/royal-knight-set-112663684\">Royal Knight Set</a> &amp; Piercings/Earrings by Badwitch69</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/87\">Basket Full of Equipment</a> by AnteMaxx</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/226\">Selune Staff</a> by Toarie</li>\n</ul>\n<p><br><span style=\"font-size:large;\"><strong>Icons and Inspiration</strong><br></span>Huge thanks to <a href=\"https://next.nexusmods.com/profile/TheCeruleanWitch\">TheCeruleanWitch</a> for the awesome subclass icon!<br><br>Also thank you to everyone's homebrew materials and mods that inspired me, especially <a href=\"https://www.reddit.com/r/DnDHomebrew/comments/u8m2t7/champions_of_the_frozen_north_a_compendium_on_the/\">Champions of the Frozen North.</a></p>\n<h2>Subclass Design</h2>\n<p>Huge thanks to <a href=\"https://mod.io/g/baldursgate3/u/xiphiasrex\">XiphiasRex</a> for helping me understand and fix the animation issues.</p>",
     "date_added": 1738047056,
-    "date_updated": 1786913193,
+    "date_updated": 1789378031,
     "date_live": 1738073789,
     "visible": 1,
     "status": 1,
@@ -91997,15 +91997,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -92060,19 +92060,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8105447
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7629298
+        "modfile_live": 8105447
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7629298
+        "modfile_live": 8105447
       },
       {
         "platform": "ps5",
-        "modfile_live": 7629298
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8105447
       }
     ]
@@ -105546,7 +105546,7 @@
     "summary": "Shadowheart's parents will wash up and change their clothes if she rejects Shar and spares them.",
     "description": "<p><span style=\"font-size:small;\"><a href=\"https://bg3.wiki/wiki/Arnell_Hallowleaf\">Arnell</a> and <a href=\"https://bg3.wiki/wiki/Emmeline_Hallowleaf\">Emmeline Hallowleaf</a> will wash up and change their clothes if Shadowheart rejects Shar and spares them.<br><strong>What's Changed: </strong>Shadowheart’s parents have slightly different outfits for their imprisoned appearance, and entirely new and clean outfits for after they have been freed.</span></p>\n<p><span style=\"font-size:small;\"><em>If Shadowheart becomes a Dark Justiciar but chooses to spare her parents at the last minute, then her parents' appearance will remain the same. They'll be too depressed to wash or change their clothes.</em></span><strong><span style=\"font-size:medium;\"><em><span style=\"font-size:small;\"><br></span></em></span></strong></p>",
     "date_added": 1744577599,
-    "date_updated": 1786140356,
+    "date_updated": 1789377482,
     "date_live": 1744578345,
     "visible": 1,
     "status": 1,
@@ -105576,15 +105576,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -105614,19 +105614,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8070468
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6318099
+        "modfile_live": 8070468
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6318099
+        "modfile_live": 8070468
       },
       {
         "platform": "ps5",
-        "modfile_live": 6318099
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8070468
       }
     ]
@@ -111091,7 +111091,7 @@
     "summary": "Add monk and patch 8 subclass spell animations to base player body types",
     "description": "<h2>Note this is for other modders to use additional animations in their mods</h2>\n<h4>Background</h4>\n<p>The monk class and many of the patch 8 sub-classes use animations that are unmapped in the base player body types.  The game uses Dynamic Animation Tags (DAT) to add animation sets for particular classes.  You can create a passive/status to apply the DAT, but in my testing that does not work for spells only base animations.  In patch 7 you could kinda get things working using a NPC monk DAT, but I don't think that worked for all body types.  With patch 8 there was a whole batch of new animations, so the issue only grew.</p>\n<h4>My Approach</h4>\n<p>I added the missing animations to the fewest base animation sets I could that would provide fallback animations for all base game player body types.  Where possible I avoided overriding already mapped animations, but there were some cases that the base animation sets appeared to have incorrect mappings that likely never caused issues due to the DAT overriding it.</p>\n<h4>What this means</h4>\n<p>If you include this mod as a dependency, it should allow use of all monk/patch 8 subclass ability animations for any base game player body type without needing a custom DAT or having levels in the specific class.  There are some extra animations listed below that are also mapped in addition to the monk/patch subclasses.  I tried to touch as few animation sets as possible, but it is still an override.  If other mods override the same animation sets, it will conflict.</p>\n<h4>How you can help</h4>\n<p>There were a few thousand animations added across body types and equipment set, and while I tested many many things, I could have missed something.  If you see an animation not playing or playing incorrectly, let me know so I can fix it.</p>\n<p> </p>\n<h3>Additional animations</h3>\n<ul>\n<li>\n<h4>Vampire Bite</h4>\n<ul>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Antic</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Cancel</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Dash</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Loop</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Prepare</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_VampireBite_01_Recover</code></p>\n</li>\n</ul>\n</li>\n<li>\n<h4>Vampire unarmed swipe attack</h4>\n<ul>\n<li>\n<p><code>CMBT_Skill_Claw_01_Antic</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Dash</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Loop</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Prepare</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Cancel</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Claw_01_Recover</code></p>\n</li>\n</ul>\n</li>\n<li>\n<h4>Vampire unarmed multi-attack</h4>\n<ul>\n<li>\n<p><code>CMBT_Skill_MultiAttack_01_Antic</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_MultiAttack_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_MultiAttack_01_Dash</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_MultiAttack_01_Loop</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_MultiAttack_01_Prepare</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_MultiAttack_01_Cancel</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_MultiAttack_01_Recover</code></p>\n</li>\n</ul>\n</li>\n<li>\n<h4>Gale God Spells</h4>\n<ul>\n<li>\n<p><code>SPL_GOD_01_Prepare</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_01_Loop</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_01_Cancel</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_Evaporate_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_Evaporate_01_Recover</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_Tressymize_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_Tressymize_01_Recover</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_PartyTime_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GOD_PartyTime_01_Recover</code></p>\n</li>\n</ul>\n</li>\n<li>\n<h4>Deathbringer Assault (Orin and Sarevok)</h4>\n<ul>\n<li>\n<p><code>CMBT_Skill_Orin_DeathbringerAssault_01_Antic</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Orin_DeathbringerAssault_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Orin_DeathbringerAssault_01_Recover</code></p>\n</li>\n<li>Note there is only 1 shortname for both Orin and Sarevok's versions</li>\n<li>The animation that plays is based on equipped weapons, basically dual wielding will use Orin's version, <em>everything</em> else will use Sarevok's</li>\n<li>Orin's animation has 7 cast events in it and Sarevok's has 4</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>\n<h4>Githyanki Specific Animations</h4>\n<ul>\n<li>\n<p><code>SPL_Psionic_Buff_01_Prepare</code></p>\n</li>\n<li>\n<p><code>SPL_GTY_AstralKnowledge_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GTY_AstralKnowledge_01_Recover</code></p>\n</li>\n<li>\n<p><code>SPL_Psionic_Buff_01_Loop</code></p>\n</li>\n<li>\n<p><code>SPL_Psionic_Buff_01_Cancel</code></p>\n</li>\n<li>\n<p><code>SPL_GTY_FormOfDread_01_Cast</code></p>\n</li>\n<li>\n<p><code>SPL_GTY_FormOfDread_01_Recover</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Prepare</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Attack</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Recover</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Loop</code></p>\n</li>\n<li>\n<p><code>CMBT_Skill_Mindsteal_Tempest_01_Dash</code></p>\n</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<h3>Updates</h3>\n<p>4/28/25 - v1.0.0.2: Added mappings for Boot of the Giants and Elemental Cleaver<br>5/19/25 - v1.0.1.0: Correcting mappings for swashbuckler animations for various weapon sets<br>5/25/25 - v1.0.1.1: Added fall-backs for animation subsets<br>5/31/25 - v1.0.2.0: Added more subset fall-backs and vampire animations<br>6/4/25 - v1.0.3.0: Matching standard smite animations to paladin set<br>10/26/25 - v1.0.4.1: Added Gale God and Deathbringer Assault animations<br>12/11/25 - v1.0.5.2: Added Githyanki Astral Knowledge animations<br>12/15/25 - v1.0.5.3: Added Githyanki Mindsteal Tempest and Form of Dread animations<br>12/20/25 - v1.0.5.4: Added pole arm sneak attack animations for dancing breeze<br>8/6/26 - v1.0.5.5: Added vampire multi-attack</p>",
     "date_added": 1745466162,
-    "date_updated": 1786060854,
+    "date_updated": 1789377455,
     "date_live": 1745467345,
     "visible": 1,
     "status": 1,
@@ -111121,15 +111121,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -111209,19 +111209,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8066823
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7164537
+        "modfile_live": 8066823
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7164537
+        "modfile_live": 8066823
       },
       {
         "platform": "ps5",
-        "modfile_live": 7164537
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8066823
       }
     ]
@@ -121942,8 +121942,8 @@
     "summary": "Sword Dancers of Eilistraee",
     "description": "<div><code><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/sdoe.png\" alt=\"\" width=\"600\" height=\"600\"></code></div>\n<p> </p>\n<div> </div>\n<h2><strong>Sword Dancer of Eilistraee</strong></h2>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/1.1.png\" alt=\"\" width=\"300\" height=\"300\"></p>\n<div>\n<div>\n<div>The Sword Dancers of Eilistraee are sacred performers, warriors, and spellcasters devoted to the Dark Maiden. Guided by music, moonlight, and divine grace, they wield enchanted blades and inspire allies with their magical songs. Combining bardic spellcraft with ritualistic swordplay, Sword Dancers invoke Eilistraees Moonfire, charm foes with haunting melodies, and defend the innocent through motion and harmony. Whether dancing in silence beneath starlit skies or leading the charge with a shining blade, Sword Dancers are emissaries of beauty, mercy, and retribution</div>\n<div> </div>\n<h2><strong>College of Moonsong</strong></h2>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/4.png\" alt=\"\" width=\"300\" height=\"300\"></p>\n<div>\n<div>Bards of the College of Silver follow an ancient tradition born from the Sword Dancers of Eilistraee. To them, swordplay, song, and dance are not separate arts, but expressions of the same sacred rhythm. Through graceful bladework and bardic magic, they weave steel and spell together in a flowing dance of battle</div>\n<div> </div>\n<div><iframe src=\"https://www.youtube.com/embed/9JmCiugZaZc\" width=\"560\" height=\"314\"></iframe></div>\n</div>\n</div>\n</div>\n<p> </p>\n<h2><strong>Silver Bladedancer</strong></h2>\n<p><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/3.1.png\" alt=\"\" width=\"300\" height=\"300\"></p>\n<p>Blessed by Eilistraee, Silver Bladedancers turn combat into sacred performance, each step deliberate, each strike radiant. Their blades shimmer like moonlight on steel, weaving through enemies in elegant arcs of divine fury. In later levels, their dance quickens into a relentless flurry, allowing up to four strikes in a single motion. Though each successive attack grows fainter and less precise, landing every blow channels the Dark Maiden’s favor, surging divine energy through their form. Swift, graceful, and unyielding, the Silver Bladedancer is both sword and song, a radiant echo of Eilistraee’s wrath in battle.</p>\n<p> </p>\n<p><iframe src=\"https://www.youtube.com/embed/cvbSYXGRLEA\" width=\"560\" height=\"314\"></iframe></p>\n<p> </p>\n<h2><strong>Sword Dancer</strong></h2>\n<div><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/1.1.png\" alt=\"\" width=\"300\" height=\"300\"><br>\n<div><br>\n<div>The Sword Dancers of Eilistraee are divine performers who channel the Dark Maidens grace through blade and song. Blending elegant swordplay with lunar magic, they dance across the battlefield, radiant with purpose. As full spellcasters, they draw from the Bard spell list and invoke Channel Divinity to heal, protect, or smite in Eilistraees name. Through spellsinging, a sacred form of vocal magic, they charm foes and enchant allies, turning every battle into a rite of light and sound. Both liturgists and agile duelists, Sword Dancers strike with silvery blades and voices blessed by moonlight, bringing hope to the innocent and ruin to the wicked.</div>\n<div> </div>\n<div> </div>\n<div> </div>\n<div>\n<h2><strong>Darksong Knight</strong></h2>\n</div>\n</div>\n</div>\n<div><img src=\"https://image.modcdn.io/members/e51d/33530167/profile/2.1.png\" alt=\"\" width=\"300\" height=\"300\"></div>\n<div> </div>\n<div>\n<div>Darksong Knights are the paladin order of the Sword Dancers of Eilistraee, warrior devotees who embody the Dark Maidens will through divine swordplay and sacred song. Blending blade mastery with spellsinging, they channel Eilistraees moonlit wrath to smite evil, protect the innocent, and uplift allies. Their strikes shimmer with radiant conviction, each battle a vow, each blow a hymn to the goddess enduring grace. Where the Sword Dancer Spellsings from afar, the Darksong Knight charges into the fray, a blade guided by rhythm and purpose.</div>\n<div> </div>\n<div> </div>\n<hr>\n<div>\n<div>\n<h2><strong>College of Moonsong Progression</strong></h2>\n<br>\n<div>Moonsong Bards have the full Bard spell list, Cleric Cantrips, are a full spellcaster and are an amazing support class. They are a mix of Sword Dancer and Bard, leaning heavily into Bard that utilize expending their Bardic Inspiration to buff themselves via Moonsong Inspirations of Judgement, Grace, Resolve and buff their allies via Moonsong Chorus using reactions, also when inspiring their allies they grow stronger in combat and can use Moonsong Blade. They also gain access to a few Spellsongs and an expanded list of spells from base Sword Dancer and Darksong Knight.</div>\n<br>\n<ul>\n<li>Proficiency in Charisma / Dexterity and Charisma spellcasting</li>\n<li>Musical Instrument Proficiency</li>\n<li>Light Armor</li>\n<li>Longswords, Shortswords, Rapiers, Scimitars</li>\n<li>Tagged as both Cleric of Eilistraee and Bard</li>\n<li>Full Spell Caster and follows identical spell progression as Sword Dancer subclass unless specified otherwise below</li>\n</ul>\n<br>\n<div>Level 1</div>\n<ul>\n<li>Select 1 Expanded Spell</li>\n<li>Select 1 Cleric cantrip</li>\n<li>Select 1 Bard cantrip</li>\n<li>Bardic Inspiration</li>\n<li>Eilistraee's Moonfire</li>\n</ul>\n<br>\n<div>Level 2</div>\n<ul>\n<li>Song of Rest</li>\n<li>Jack of All Trades</li>\n<li>Moonlit Grace</li>\n<li>Wardancer</li>\n</ul>\n<br>\n<div>Level 3</div>\n<ul>\n<li>Select Fighting Style</li>\n<li>Moonsong Inspiration</li>\n<li>Moonsong Blade</li>\n<li>Select 1 Expanded Spell</li>\n</ul>\n<br>\n<div>Level 4</div>\n<ul>\n<li>Select 1 Cleric cantrip</li>\n<li>Eilistraee's Dance</li>\n<li>Dark Maiden’s Mark</li>\n</ul>\n<br>\n<div>Level 5</div>\n<ul>\n<li>Font of Inspiration</li>\n<li>Improved Bardic Inspiration</li>\n</ul>\n<br>\n<div>Level 6</div>\n<ul>\n<li>Moonsong Judgement</li>\n<li>Moonsong Grace</li>\n<li>Moonsong Resolve</li>\n<li>Countercharm</li>\n<li>Select 1 Expanded Spell</li>\n</ul>\n<br>\n<div>Level 8</div>\n<div>\n<ul>\n<li>Select 1 Spellsong</li>\n</ul>\n</div>\n<br>\n<div>Level 9</div>\n<div>\n<ul>\n<li>Select 1 Expanded Spell</li>\n</ul>\n</div>\n<br>\n<div>Level 10</div>\n<ul>\n<li>Moonsong Chorus: Judgement</li>\n<li>Moonsong Chorus: Grace</li>\n<li>Moonsong Chorus: Resolve</li>\n<li>Improved Bardic Inspiration</li>\n<li>Magical Secrets</li>\n</ul>\n<br>\n<div>Level 11</div>\n<div>\n<ul>\n<li>Select 1 Expanded Spell</li>\n</ul>\n</div>\n<br>\n<div>Level 12</div>\n<div>\n<ul>\n<li>Select 1 Spellsong</li>\n</ul>\n</div>\n<br>\n<div>Level 14</div>\n<ul>\n<li>Moonsong Symphony</li>\n<li>Eternal Dance</li>\n</ul>\n<div> </div>\n<div><hr></div>\n</div>\n<h2><strong>Silver Bladedancer Progression</strong></h2>\n<div>This is stricly a dual-wielding class, nothing will work unless you are dual-wielding and using Bladedancer profficient weapons and armor. The main mechanic when you Bladedance has negative effects which reduce your damage and attack rolls the longer you Bladedance but over time will improve as you find better weapons.</div>\n<div> </div>\n<div>You can choose to be reckless and use Encore of Pain removing the attack roll debuff on Bladedance but the cost is dealing damage to yourself with abilities needed to gain Tempo. Note that if you summon Silvered Blades, add damage riding items like Causting Band and others (Basically any adding additional weapon/character damage) it will deal the damage to the target but also to you so it provides high risk/reward. This is required as the class can attack upwards of 5 times in a single round at Level 5.</div>\n<div> </div>\n<div>This is an initial release and I will need to do a full playthrough on Tactician/Honor in order to fully balance it as well as add more Level 13-20 progression. Feedback is welcome ONLY and I mean ONLY if you are playing without difficulty mods and up to Level 12 for now. Thanks and enjoy.</div>\n<h2> </h2>\n<ul>\n<li>Proficiency in Charisma / Dexterity and Charisma spellcasting</li>\n<li>Musical Instrument Proficiency</li>\n<li>Light Armor</li>\n<li>Longswords, Shortswords, Rapiers, Scimitars</li>\n<li>Tagged as both Cleric of Eilistraee and Bard</li>\n<li>One-Third Spell Caster</li>\n</ul>\n<div>Level 1</div>\n<ul>\n<li>Select Musical Instrument</li>\n<li>Eilistraee's Moonfire</li>\n</ul>\n<div>Level 2</div>\n<ul>\n<li>Select Fighting Style</li>\n<li>Bladedancer</li>\n<li>Eilistraee's Dance</li>\n<li>Channel Divinity charge</li>\n</ul>\n<div>Level 3</div>\n<ul>\n<li>Unlock 1st Level Spells</li>\n<li>Gain 2 Tempo</li>\n<li>Bladedance: Radiant Prelude and Bladedance: Radiant Beat</li>\n<li>Select 2 Bladedance abilities</li>\n<li>Tempo Resurge</li>\n<li>Select 1 spell from Sword Dancer Domain</li>\n</ul>\n<div>Level 4</div>\n<ul>\n<li>Feat</li>\n<li>Vendetta</li>\n<li>Bladedance: Ascending Echo and Bladedance: Psionic Refrain</li>\n</ul>\n<div>Level 5</div>\n<ul>\n<li>Bladedance: Silver Crescendo and Bladedance: Silver Finale</li>\n<li>Select 1 Bladedance ability</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 6</div>\n<div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n</ul>\n</div>\n<div>Level 7</div>\n<ul>\n<li>Unlock 2nd Level Spells</li>\n<li>Select 1 Bladedance ability</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 8</div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n<li>Select 1 spell from Sword Dancer Domain</li>\n</ul>\n<div>Level 9</div>\n<div>\n<ul>\n<li>Gain 1 Tempo</li>\n</ul>\n</div>\n<div>Level 10</div>\n<div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n</ul>\n</div>\n<div>Level 11</div>\n<div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n</ul>\n</div>\n<div>Level 12</div>\n<div>\n<ul>\n<li>Select 1 Bladedance ability</li>\n</ul>\n</div>\n<div>Level 13</div>\n<ul>\n<li>Unlock 3rd Level Spells</li>\n<li>Enhanced Tempo (allows gaining 2 Tempo on damage)</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 14</div>\n<div>\n<ul>\n<li>Select 1 spell from Sword Dancer Domain</li>\n</ul>\n</div>\n<div>Level 16</div>\n<ul>\n<li>Feat</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 19</div>\n<ul>\n<li>Unlock 4th Level Spells</li>\n<li>Gain 1 Tempo</li>\n</ul>\n<div>Level 20</div>\n<div>\n<ul>\n<li>Select 1 spell from Sword Dancer Domain</li>\n</ul>\n<p> </p>\n<hr></div>\n<h2><strong>Sword Dancer Progression</strong></h2>\n<br>\n<div>Sword Dancer has the full Bard spell list, Cleric Cantrips and gains Channel Divinity charges. It will benefit from Mods like Mystras spells and 5th Edition spells or anything that modifies Bard spell list or Cleric cantrips. Spells will be cast using a Musical Instrument if you have one equipped just like a Bard would. It gains Sword Dancer Domain Spells during progression including Spellsong which is powerful enchancements of existing spells or brand new ones like Spellsong: Song of Rapture</div>\n<br><br>\n<ul>\n<li>Proficiency in Charisma / Dexterity and Charisma spellcasting</li>\n<li>Musical Instrument Proficiency</li>\n<li>Light Armor</li>\n<li>Longswords, Shortswords, Rapiers, Scimitars</li>\n<li>Tagged as both Cleric of Eilistraee and Bard</li>\n<li>Full Spell Caster</li>\n</ul>\n<br><strong>Level 1</strong>\n<ul>\n<li>Unlock 1st Level Spells</li>\n<li>Select Musical Instrument</li>\n<li>Select 4 Spells</li>\n<li>Select 1 Cleric cantrip</li>\n<li>Eilistraee's Moonfire</li>\n<li>Lunar Bolt</li>\n<li>Moonlight Shards</li>\n</ul>\n<div><strong>Level 2</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Select 1 Bard cantrip</li>\n<li>Select Fighting Style</li>\n<li>Eilistraee's Dance</li>\n<li>Channel Divinity charge</li>\n</ul>\n<div><strong>Level 3</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Unlock 2nd Level Spells</li>\n<li>Eilistraee’s Moonlight</li>\n<li>Wardancer</li>\n</ul>\n<div><strong>Level 4</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Cleric cantrip</li>\n<li>Dark Maiden’s Mark</li>\n</ul>\n<div><strong>Level 5</strong></div>\n<ul>\n<li>Unlock 3rd Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Destroy Undead</li>\n<li>Moonlight Sanctuary</li>\n<li>Beacon of Hope</li>\n</ul>\n<div><strong>Level 6</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Moonfire Rhythm</li>\n<li>Channel Divinity charge</li>\n</ul>\n<div><strong>Level 7</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Unlock 4th Level Spells</li>\n<li>Select 1 Spellsong</li>\n<li>Freedom of Movement</li>\n</ul>\n<div><strong>Level 8</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 9</strong></div>\n<ul>\n<li>Unlock 5th Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Spellsong</li>\n</ul>\n<div><strong>Level 10</strong></div>\n<ul>\n<li>Select 1 Spell</li>\n<li>Select 1 Bard cantrip</li>\n</ul>\n<div><strong>Level 11</strong></div>\n<ul>\n<li>Unlock 6th Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Spellsong</li>\n</ul>\n<div><strong>Level 12</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 13</strong></div>\n<ul>\n<li>Unlock 7th Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Spellsong</li>\n</ul>\n<div><strong>Level 14</strong></div>\n<ul>\n<li>Unlock 7th Level Spells</li>\n<li>Eternal Dance</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 15</strong></div>\n<ul>\n<li>Unlock 8th Level Spells</li>\n<li>Select 1 Spell</li>\n<li>Select 1 Spellsong</li>\n</ul>\n<div><strong>Level 16</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 17</strong></div>\n<ul>\n<li>Unlock 9th Level Spells</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 18</strong></div>\n<div>\n<ul>\n<li>Select 1 Spell</li>\n</ul>\n</div>\n<div><strong>Level 19</strong></div>\n<ul>\n<li>Feat</li>\n<li>Select 1 Spell</li>\n</ul>\n<div><strong>Level 20</strong></div>\n<div>\n<ul>\n<li>Select 1 Spell</li>\n</ul>\n<p> </p>\n<hr></div>\n<h2> </h2>\n<h2><strong>Darksong Knight Progression</strong></h2>\n<br>\n<div>Darksong Knight is a Paladin of Eilistraee, it cannot wear Heavy Armor or wield Greatswords as it's a Sword Dancer of Eilistraee but due to this gets a Cantrip and Darksong Oath Spells like Eilistraee’s Moonlight and others which provide good AE and ranged damage typical Paladin's lack. Lunar Smite, Improved Lunar Smite are feature wise direct replacements of Divine Smite/Improved Divine Smite and can be used with Extra Attack as well as Reactions.</div>\n<br>\n<ul>\n<li>Proficiency in Charisma / Dexterity and Charisma spellcasting</li>\n<li>Musical Instrument Proficiency</li>\n<li>Light Armor, Medium Armor</li>\n<li>Longswords, Shortswords, Rapiers, Scimitars</li>\n<li>Tagged as both Paladin of Eilistraee and Bard</li>\n<li>Half Caster</li>\n</ul>\n<br>\n<div><strong>Level 1</strong></div>\n<ul>\n<li>Select Musical Instrument</li>\n<li>Lay on Hands</li>\n<li>Eilistraee's Moonfire</li>\n</ul>\n<div><strong>Level 2</strong></div>\n<ul>\n<li>Unlock 1st Level Spells</li>\n<li>Select Fighting Style</li>\n<li>Lunar Smite, Lunar Smite: Reaction, Lunar Smite Critical: Reaction</li>\n</ul>\n<div><strong>Level 3</strong></div>\n<ul>\n<li>Wardancer</li>\n<li>Divine Health</li>\n<li>Channel Oath charge</li>\n<li>Eilistraee’s Dance</li>\n<li>Moonveil Strike</li>\n<li>Demonbane</li>\n</ul>\n<div><strong>Level 4</strong></div>\n<ul>\n<li>Feat</li>\n<li>Lay on Hands charge</li>\n<li>Dark Maiden’s Mark</li>\n<li>Select 1 Bard cantrip</li>\n</ul>\n<div><strong>Level 5</strong></div>\n<ul>\n<li>Unlock 2nd Level Spells</li>\n<li>Extra Attack</li>\n<li>Eilistraee’s Moonlight</li>\n<li>Lunar Shift</li>\n</ul>\n<div><strong>Level 6</strong></div>\n<div>\n<ul>\n<li>Aura of Protection</li>\n</ul>\n</div>\n<div><strong>Level 7</strong></div>\n<div>\n<ul>\n<li>Aura of Truth</li>\n</ul>\n</div>\n<div><strong>Level 8</strong></div>\n<div>\n<ul>\n<li>Feat</li>\n</ul>\n</div>\n<div><strong>Level 9</strong></div>\n<ul>\n<li>Unlock 3rd Level Spells</li>\n<li>Beacon of Hope</li>\n</ul>\n<div><strong>Level 10</strong></div>\n<ul>\n<li>Lay on Hands charge</li>\n<li>Aura of Courage</li>\n</ul>\n<div><strong>Level 11</strong></div>\n<div>\n<ul>\n<li>Improved Lunar Smite</li>\n</ul>\n</div>\n<div><strong>Level 12</strong></div>\n<div>\n<ul>\n<li>Feat</li>\n</ul>\n</div>\n<div><strong>Level 13</strong></div>\n<ul>\n<li>Unlock 4th Level Spells</li>\n<li>Aura of Purity</li>\n<li>Banish</li>\n</ul>\n<div><strong>Level 16</strong></div>\n<div>\n<ul>\n<li>Feat</li>\n</ul>\n</div>\n<div><strong>Level 17</strong></div>\n<ul>\n<li>Unlock 5th Level Spells</li>\n<li>Bladesong Waltz</li>\n</ul>\n<div><strong>Level 19</strong></div>\n<div>\n<ul>\n<li>Feat</li>\n</ul>\n<p> </p>\n<p>I used the source material located here for inspiration when creating this. Changed some things and re-themed a lot of others: <a title=\"The Dark Maiden beckons: On the Drow goddess Eilistraee and her Faith\" href=\"https://www.dmsguild.com/product/176361\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.dmsguild.com/product/176361</a></p>\n<p> </p>\n<p>Addons:</p>\n<ul>\n<li><a title=\"Feat Every 2 Levels\" href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee-feat-every-2-levels\" target=\"_blank\" rel=\"noopener noreferrer\">Feat Every 2 Levels</a></li>\n<li><a title=\"Extra Feat at Level 2\" href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee-extra-feat-level-2\" target=\"_blank\" rel=\"noopener noreferrer\">Extra Feat at Level 2</a></li>\n<li><a title=\"Wisdom variant\" href=\"https://mod.io/g/baldursgate3/m/sword-dancers-of-eilistraee-wisdom\" target=\"_blank\" rel=\"noopener noreferrer\">Wisdom variant</a></li>\n</ul>\n<p> </p>\n</div>\n</div>\n</div>",
     "date_added": 1748947653,
-    "date_updated": 1786015500,
-    "date_live": 1748947653,
+    "date_updated": 1789377433,
+    "date_live": 1789377427,
     "visible": 1,
     "status": 1,
     "dependencies": true,
@@ -121972,15 +121972,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -122030,19 +122030,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8064431
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7920855
+        "modfile_live": 8064431
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7920855
+        "modfile_live": 8064431
       },
       {
         "platform": "ps5",
-        "modfile_live": 7920855
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8064431
       }
     ]
@@ -123821,7 +123821,7 @@
     "summary": "A small collection of my comfort clothing",
     "description": "<p>A small collection of my comfort clothing<br>camp clothing slot<br>compatible with the debug spells from <a href=\"https://mod.io/g/baldursgate3/m/evelyns-default-human-underwear#description\">Evelyn's Default Human Underwear</a>, if you have that mod you may toggle the use of debug spells</p>\n<p>only for bodytype 1, 3 and githyanki; I've included a non-custom BT1 version for unique bt1 like tiefling and jaheira</p>\n<p>No external shaders/extended scripts are used to ensure consoles compatibility.<br>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Premium Camisole + Dolphin Shorts model by nobrandburger/fine<br> <br>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me at the link below</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/1bmac.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1749919410,
-    "date_updated": 1786633227,
+    "date_updated": 1789377979,
     "date_live": 1749920584,
     "visible": 1,
     "status": 1,
@@ -123851,15 +123851,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -123934,19 +123934,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8092518
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6464272
+        "modfile_live": 8092518
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6464272
+        "modfile_live": 8092518
       },
       {
         "platform": "ps5",
-        "modfile_live": 6464272
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8092518
       }
     ]
@@ -124195,7 +124195,7 @@
     "summary": "A magic/fighter hybrid, based on Wisdom, that can uses Elementary powers to destroy his enemies",
     "description": "<p>Be careful : before playing with this mod, you have to know that it's not balanced with vanilla game. This class mod was designed for difficulty mods, like Tactician Enhanced or Goldmembers. But if you want to play it with a simple Honor run, you'll feel all the power of the Elder!!!</p>\n<p> </p>\n<p>Mod approved for Mac and Consoles! Enjoy!!!</p>\n<p> </p>\n<p> </p>\n<p>Compatible with Unlock Level Curve mod, Expansion mod and a lot of spell mods.</p>\n<p>When i make an update, don't forget to respec before download the update to avoid bugs and save crashes.</p>\n<p>If you're tempted, try my other class, The Conjurer, based on intelligence!</p>\n<p>Enjoy your reading!</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p style=\"text-align:center;\"><strong>THE ELDER</strong></p>\n<p>                                                                                                                 </p>\n<p style=\"text-align:center;\">       <img src=\"https://image.modcdn.io/members/1900/35977242/profile/primordialsorcerer.png\" alt=\"\" width=\"200\" height=\"200\"></p>\n<p>The Elder is a Spellcaster class from the Old Times, when Elves and Orcs ruled Faerûn and Humans were not yet among them. Before the existence of Sorcerers, Wizards, Clerics, Bards, Warlocks and Druids, only the Elders dominated the world of magic.</p>\n<p>Mastering the elements that surround every living being on the planet, the first Elders were not as versatile as today's spellcasters but were frighteningly effective with their hyper specialization. But nowadays, they can use their Primal spells with all possibilities offered by modern magic.</p>\n<p>As a manipulator of the Elements, the Elder has two magical resources at his disposal. He uses the classic spell slots like any Faerûn spellcaster, but he also possesses a unique resource, the <strong>Elder Power</strong>. You'll gain 2 Elder Powers at level 2, then 1 each level until level 12. After, you'll gain 1 more Elder Power at level 13, 15, 17 and 19, for a total of 16 at level 20.</p>\n<p>Spellcasting ability : Wisdom</p>\n<p>Proficiency Saving Throws : Wisdom, Constitution.</p>\n<p>Weapons : Simple Weapons, Short Swords, Long Swords, Rapiers, Scimitars.</p>\n<p>Armors : Light Armor, Medium Armor, Shields.</p>\n<p>Skill Proficiencies : choose 3 between Acrobatics, Athletics, Insight, Medicine, Nature, Perception, Persuasion, Religion and Survival.</p>\n<p>Level 20 : Yes.</p>\n<p>Spell level : until 9<sup>th</sup> Spell Level.</p>\n<p>Multiclassing : Yes.</p>\n<p>Learning Scrolls : Yes.</p>\n<p>Must prepare classic and other spell mods. Own spells are always prepared.</p>\n<p>Gameplay : Gish or pure Spellcaster.</p>\n<p> </p>\n<p>Lvl 1 :</p>\n<p>4 Cantrips to choose. Spells from Wizard, Cleric, Bard, Druid and Warlock cantrips lists.</p>\n<p>6 1st spell level classic spells to choose (then 2 spells to choose each level until level 12, then 2 at level 13, 15 and 17).</p>\n<p>1 Subclass to choose from among 13 : the Wind Walker, the Naturalist, the Mind Force Commander, the Terrestrial, the Tempestuous, the Eternal, the Sun Herald, the Aquamancian, the Dark Faith, the Life Guardian, the Arcanic Weaver, the Ungodly and the Chromaticist.</p>\n<p>Lvl 2 :</p>\n<p>1 spell added, <strong>Elder Power Recovery</strong> : Replenish spell slots by using 1 Elder Power per spell power level.</p>\n<p>1 toggleable passive added, <strong>Ancestral Power Source</strong> : When you roll Spell damage, you can use your reaction to deal maximum damage instead. Cost : 2 Elder Powers.</p>\n<p>Lvl 3 :</p>\n<p>1 subclass Feature.</p>\n<p>1 Fighting Style to choose between Defense, Dueling, Protection, Two Weapon Fighting, Great Weapon Fighting, Arcanist (homebrew fighting style, +1 to spell save DC and spell attack rolls) or Spell Blade (homebrew fighting style, 1d4 additionnal damage with your next weapon attack when you hit a target with a spell or a cantrip).</p>\n<p>1 unique Class Action, <strong>Elder Stance</strong> : Choose a Stance between Pure Spell Caster or War Mage.</p>\n<p>Lvl 4 :</p>\n<p>1 Feat.</p>\n<p>2 passives to choose in the passive list named <strong>Elder Boost</strong> :</p>\n<p><strong>Second Bonus Action</strong> : Gain an additional bonus action.</p>\n<p><strong>Elder Vision</strong> : You can see normally in darkness, both magical and non-magical, to a distance of 24m.</p>\n<p><strong>Second Reaction</strong> : Gain an additional reaction.</p>\n<p><strong>Enhanced Cantrips</strong> : The range of your cantrips increases by half.</p>\n<p><strong>Improved Charisma</strong> : Despite your status as an Elder, you are courteous and mischievous in your dealings with other people. You gain Proficiency Bonus in Persuasion Checks.</p>\n<p><strong>Improved Intelligence</strong> : Despite your Elder status, you are intelligent and have lived long enough to know the world around you. You gain Proficiency Bonus in History Checks.</p>\n<p>Lvl 5 :</p>\n<p>1 Cantrip.</p>\n<p>3 new passives and you must choose one of them :</p>\n<p><strong>Cast and Strike</strong> : After casting a spell or a cantrip, you can make a weapon attack using a bonus action.</p>\n<p><strong>Double Cast</strong> : After casting a spell, you can cast a Cantrip using a bonus action.</p>\n<p><strong>Extra Attack</strong> (you know this, no need to explain).</p>\n<p>Lvl 6 :</p>\n<p>1 subclass Feature.</p>\n<p>Choose 1 of the two passives available in the <strong>Elder's Abilities</strong> :</p>\n<p><strong>Multi Slash</strong> : When activate this passive, you can target two creatures standing close to each other. Attack the first creature and get a free shot at the second. Cost : 2 Elder Powers.</p>\n<p><strong>Gran Spellcaster</strong> : Spells that cost an action cost a bonus action instead. Cost : 2 Elder Powers.</p>\n<p>Lvl 7 :</p>\n<p>2 passives to choose in the passive list named Elder Boost :</p>\n<p><strong>Fast Attack</strong> : If a creature attacks you, you can use your reaction to make a melee attack.</p>\n<p><strong>Magic Resilience</strong> : Has Advantage on Saving Throws against spells and other magical effects.</p>\n<p><strong>Elder Slayer</strong> : Once per turn, your melee weapon attack deals an extra 1d8 damage if the target is below its hit point maximum.</p>\n<p><strong>Elder Strike</strong> : When you hit a creature with a weapon attack, it has Disadvantage on its next  Saving Throw against a spell you cast before the end of your next turn.</p>\n<p><strong>Elder's Force Conduit</strong> : Gain the status Force Conduit when taking Slashing, Piercing, or Bludgeoning damage.</p>\n<p><strong>Elder's Arcane Synergy</strong> : When you deal damage with a cantrip or a Spell, you gain Arcane Synergy for 2 turns.</p>\n<p><strong>Elder's Arcane Acuity</strong> : Whenever you deal damage with your melee weapon, you gain Arcane Acuity for 2 turns.</p>\n<p><strong>Spell Infusion</strong> : Each time you damage a target with a weapon attack, you gain Arcane Charge for 2 turns.</p>\n<p><strong>Spellmight </strong>: When casting a spell that requires an Attack Roll, you can take a -5 penalty to the roll to deal an additional 1d8 damage.</p>\n<p>Second Bonus Action, Elder Vision, Second Reaction, Enhanced Cantrips, Improved Charisma, Improved Intelligence.</p>\n<p>Lvl 8 :</p>\n<p>1 subclass Feature.</p>\n<p>1 Feat.</p>\n<p>Lvl 9 :</p>\n<p>Choose 1 of the two passives available in the Elder's Abilities :</p>\n<p><strong>Bis Repetita</strong> : Spells and Cantrips that only target 1 creature or an area can target an additional creature or an additional area.Costs 2 Elder Powers.</p>\n<p><strong>Chromatic Strike</strong> : When activate this passive, you can infuse your weapon with the Element of your choice, using 2 Elder Powers. With this infusion, you'll gain a +1 bonus to Attack Rolls and an additional 1d6 of elemental damage to its strikes depending on the element embodied.</p>\n<p>Lvl 10 :</p>\n<p>1 Cantrip.</p>\n<p>Lvl 11 :</p>\n<p>2 passives to choose in the passive list named Elder Boost :</p>\n<p><strong>Wise Spells</strong> : When you cast a spell, add in the form of Psychic damage your Wisdom Modifier to the damage it deals.</p>\n<p><strong>Wise Strikes</strong> : When you use a melee weapon attack, add in the form of Force damage your Wisdom Modifier to the damage it deals.</p>\n<p><strong>Brutal Elder</strong> : When you land a Critical Hit with a melee weapon attack, you deal an extra dice of weapon damage and the number you need to roll a Critical Hit while attacking is reduced by 1.</p>\n<p><strong>Better Elder Style</strong> : You gain a +1 bonus to Spell Save DC and Spell Attack Rolls.</p>\n<p><strong>Close-Range Magic Attack</strong> : Your Ranged Spell Attacks can be made as melee spell attacks.</p>\n<p>Fast Attack, Magic Resilience, Elder Slayer, Elder Strike, Elder’s Force Conduit, Elder’s Arcane Synergy, Elder’s Arcane Acuity, Second Bonus Action, Elder Vision, Second Reaction, Enhanced Cantrips, Improved Charisma, Improved Intelligence.</p>\n<p>Lvl 12 :</p>\n<p>1 subclass Feature.</p>\n<p>1 Feat.</p>\n<p>1 new passive, <strong>Thirsty Spellcaster</strong> : You've finally discovered the possibility of using magic efficiently. For the cost of 3 Elder Powers, you can use any Spell without spending a spell slot.</p>\n<p>Lvl 14 :</p>\n<p>1 Elder Boost.</p>\n<p>Lvl 15 :</p>\n<p>1 Cantrip.</p>\n<p>New passive, <strong>Beneficial Death</strong> : After killing a target with a melee weapon attack and once per long rest, you can restore half of you max Elder Power points.</p>\n<p>Lvl 16 :</p>\n<p>1 Feat.</p>\n<p>Lvl 17 :</p>\n<p>New toggleable passive for each subclasses with different VFX and effects, <strong>Hidden Power</strong> : You've reached the full potential of your magic. While your hidden power is activated, you become immune to your predominant element(s), your melee weapon attacks deal additional 1d4 damage and you gain a +1 bonus to Element Spell Save DC and a +1 bonus to your Element spell Attack Rolls.</p>\n<p>New Class Action for each subclass, using 3 Elder Power points.</p>\n<p>Lvl 18 :</p>\n<p>1 Elder Boost.</p>\n<p>Lvl 19 :</p>\n<p>1 feat.</p>\n<p>New feature, <strong>Chromatic Knowledge</strong> : You can choose 1 spell from the other subclasses that can be used once per long rest for the cost of 2 Elder Powers. </p>\n<p>Lvl 20 :</p>\n<p>10th spell-level spell for each subclass (once per long rest, costs 1 Action + 1 Bonus Action).</p>\n<p> </p>\n<p>Each subclass obtains element-specific spells according to its level. At level 1, they unlock 4 spells, then 2 at levels 3, 5, 7, 9 and 11. They get 1 level 7 spell at level 13, 1 level 8 spell at level 15, 1 level 9 spell at level 17 and a 10th spell level Spell at level 20 (doesn't use spell slot but 1 Bonus action + 1 Action and has a Long Rest refresh).</p>\n<p> </p>\n<p>Subclasses :</p>\n<p> </p>\n<p style=\"text-align:center;\">The Wind Walker</p>\n<p>                                                                                                                           <img src=\"https://image.modcdn.io/members/1900/35977242/profile/windwalker.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">Sharp, fast and deadly, Wind is your main weapon.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Wind Velocity</strong> : You're fast and elusive. Your movement speed is increased by 3, you have Advantage with Dexterity Saving Throws and you can jump 2 x further, regardless of the armor or weapon you're holding.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Violent Wind</strong> : Once activated and at a cost of 1 Elder Power, your next spell or cantrip make bleed your targets. If this is already applied to your enemies, they will suffer 3d10 Slashing damage + your Wisdom modifier.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Enhanced Mobility</strong> : When you hit a target with a melee weapon attack, you gain Momentum for 3 turns .</p>\n<p>Lvl 12 :</p>\n<p>1 toggleable passive, <strong>Wind Strike</strong> : You imbue your weapon with the power of the Wind. You can choose to strike your enemies in melee or from a distance of up to 18m.</p>\n<p>Spells : Flaying (Melee or Ranged), Lightweight Feather, Squall, Mist, Twister, Wind Travel, Breath, Air Pressure, Wind Freedom (Zephyr), Tornado, Aeolian Attraction, Pack Flight, Elusive Breeze,Wind Shield, Wind Jail, Slashing Wind and Wall of Wind.</p>\n<p>Special Class Action : Unfathomable.</p>\n<p>10th level Spell : Counter Pressure.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Naturalist</p>\n<p>                                                                                                                            <img src=\"https://image.modcdn.io/members/1900/35977242/profile/naturalist.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">You draw your power from Mother Nature.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Nature's Gift</strong> : Nature is your ally, pushing you beyond your limits. Your Acid and Poison spells overcome Resistance and you become Immune to the effects of Difficult Terrain and those which try to Restrain you.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Spike Shot</strong> : Once activated and at a cost of 1 Elder Power, your next Acid or Poison spell can inflicts 2d10 additional Piercing damage and creates an explosion of poisoned thorns in a 2m radius around your targets, which can inflicts 3d10 Piercing damage and poison them.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Nature's Demigod</strong> : Your connection with Mother Nature evolves and is beyond understanding. Your Acid and Poison spells overcome Immunity, All your Acid spells apply Corrosion for 3 turns and all your Poison spells apply Venom for 3 turns.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Noxious Decomposition</strong> : If you kill a target with Acid or Poison spells, its corpse releases Noxious Fumes around it for 3 turns.</p>\n<p>Spells : Acid Bolt, Poisoned Shot, Corrosive Explosion, Vicious Vines, Venomous Spikes, Acid Fountain, Noxious Cloud, Thorn Armor, Living Black Vines, Acid Retribution, Cloudkill, Infestation, Wall of Thorns, Acid Rain, Flowers of Evil, Corrosive Smashing and Cordyceps.</p>\n<p>Special Class Action : Protection of Gaia.</p>\n<p>10th level Spell : Dazzling Growth.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Mind Force Commander</p>\n<p>                                                                                                                          <img src=\"https://image.modcdn.io/members/1900/35977242/profile/mindforcecommander.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">You control Psychic and Force powers with your dominating mind.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Increased Mindset</strong> : The Force is with you, Forever. You can't be forcibly moved by foes, you can read minds and you have Advantage and a proficiency bonus with Perception skill checks.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Force Shield</strong> : Once activated, when you are about to be hit by a ranged attack spell or weapon, you can use 1 Elder Power to redirect it towards your attacker and inflict the damage he intended to inflict on you.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>The Chosen One</strong> : The Force and the Spirit have chosen you to be their ambassador. You gain an extra Reaction and are immune to the effects of charm, fear, fright, confusion and sleep.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Mental Interference</strong> : When you deal Psychic or Force damage, you also inflict Mental Fatigue for 2 turns.</p>\n<p>Spells : Force Missile, Scary Whispers, Compel (Halt, Approach, Drop, Flee, Grovel, Duel), Force Wave, Transposition (Teleportation, Swap), Psychic Ray, Psychic Bomb, Levitation, Paralysis, Force Spectrum (Telekinesis, Force Attraction, Repel, Smother, Domination), Mind Blast, Black Hole, Deflagration, Spirit Storm, Force Lock, Antimagic Field and Lethal Force.</p>\n<p>Special Class Action : Reversal.</p>\n<p>10th level Spell : Spiritual Deliverance.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Terrestrial</p>\n<p>                                                                                                                            <img src=\"https://image.modcdn.io/members/1900/35977242/profile/terrestrial.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">Earth, Rock, Mud, Dust. Any inorganic material can be manipulated for you.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Superhuman Strength</strong> : The Earth favors you. You gain +2 on your Armour Class and your melee weapon attacks still inflict half the weapon's damage if they miss the target.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Tempered Glass</strong> : You transmute your skin into a mirror made of tempered glass. When this passive is activated, you halve the damage inflicted on you and if a spell or an attack hits you, depending on the type of damage, you unlock a spell of the same Damage Type that you can use for the cost of 1 Elder Power.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Rock Wall</strong> : You're an impenetrable wall. You become resistant to slashing and piercing attacks, and are far too heavy to be moved without your permission.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Earth Violence</strong> : Once per turn, when you deal damage with a spell, you gain Wrath for 2 turns.</p>\n<p>Spells : Muddy Floor, Dust, Mud Burst, Throw Stone, Hammer Fist, Burrow, Sand Blowing, Earthquake, Rockslide, Stone Heart, Earth Dome, Wall of Stone, Petrification, Colossus, Shock, Inner Earth (Inner Earth : Rock form, Inner Earth : Metal form) and Disaster.</p>\n<p>Special Class Action : Mountain of Strikes.</p>\n<p>10th level Spell : Stone Blast.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Tempestuous</p>\n<p>                                                                                                                            <img src=\"https://image.modcdn.io/members/1900/35977242/profile/tempestuous.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">The fury of Lightning and Thunder is birthed by your hands.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Storm Protection</strong> : When you kill a target with a Thunder or a Lightning spell, you can use the spell Tempestuous Flight. You become Resistant to Thunder and Lightning damage and all lightning related effects can no longer hurt you.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Shockwave Jump</strong> : Once activated, you can use the spell Shockwave Jump  for the cost of 1 Elder Power.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Storm Reverb</strong> : If you are hit by Lightning damage, you gain 2 Lightning Charges. If you hit an enemy with Thunder damage, you inflict 2 turns of Reverberation.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Electrostatic Discharge</strong> : When you stand in water during combat, it becomes electrified. When you start your turn on an electrified surface, you gain 3 Lightning Charges.</p>\n<p>Spells : Thunderwave, Witch Bolt, Sound Reversal, Shatter, Lightning Shot, Lightning Step, Thunder Clap, Lightning Bolt, Call Lightning, Thunder Fury, Destructive Wave, Voltage, Chain Lightning, Multi Chock, Lightning Overload, Thunderous Replication and Catastrophe.</p>\n<p>Special Class Action : Sound Blast.</p>\n<p>10th level Spell : Flash Crash.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Eternal</p>\n<p>                                                                                                                            <img src=\"https://image.modcdn.io/members/1900/35977242/profile/eternal.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">Glory to Death, and annihilation of the Living.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Overcoming Death</strong> : Bone Chill status can't affect you, your maximum Hit Points can't be reduced and once per Short Rest, if you reach 0 hit points, you regain 1 HP instead of becoming  Downed.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Deadly Ally</strong> : Once activated and for the cost of 1 Elder Power, you can try to turn an undead creature against its allies. If it survives the fight, it remains your ally until it dies or until you take control of another undead.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Soul Reaper</strong> : Once per turn, if you kill a creature with a spell, you regain hit points equal to twice the spell slot level used - thrice if it's a Necromancy spell. Undead and constructs are unaffected.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Walking Graveyard</strong> : When you hit a target with Necrotic damage, you inflict to her Crawling Gnaw for 2 turns. If the target dies with a weapon attack, it gives birth to a Newborn Zombie.</p>\n<p>Spells : Arms of Hadar, Hex, False Life, Inflict Wounds, Health Transfusion (Vampiric Touch, Vampiric Beam), Best Friend from Beyond the Grave, Speak with Dead, Necrotic Guardians, Fear of the Dead, Blight, Circle of Death, Army of the Dead, Harm, Scythe of Death, Butchering, Spectral Form and Call the Skeleton Terror.</p>\n<p>Special Class Action : Call the Death.</p>\n<p>10th level Spell : Life Transfer.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Sun Herald</p>\n<p>                                                                                                                            <img src=\"https://image.modcdn.io/members/1900/35977242/profile/sunherald.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">Your inner Fire burns, light your way and Radiate your enemies.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Sun Protection</strong> : You are Resistant to Fire and Radiant damage and you can't be  burnt.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Solar Flash</strong> : Once activated and for the cost of 1 Elder Power, you teleport to the target location and inflict 3d6 Fire damage to the enemies around the drop point.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Immolation </strong>: You are like solar plasma. You ignore Immunity to Fire and Radiant damage, if you deal fire damage you gain 2 turns of Solar Heat (like Heat status, but without the fire damage each turn) and when you are attacked by a melee enemy, you set it burn with holy fire.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Sun Herald Shockwave</strong> : When you deal Radiant damage, they cause a Radiant Shockwave. When you deal Fire damage, they cause a Fire Shockwave.</p>\n<p>Spells : Cone of Fire, Guiding Bolt, Solar Retribution, Heat Metal, Solar Radiation, Scorching Ray, Fireball, Fire Circle (Celestial Fire), Wall of Fire, Sunshine, Flame Strike, Solar Flare, Sunbeam, Meteor Shower, Firestorm, Call the Dragon and Big Bang Attack.</p>\n<p>Special Class Action : Power of the Sun.</p>\n<p>10th level Spell : Solar Plasma.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Aquamancian</p>\n<p>                                                                                                                            <img src=\"https://image.modcdn.io/members/1900/35977242/profile/aquamancian.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">Water in all its forms is an integral part of you.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Ice Man</strong> : Water-related Difficult Terrains don't affect you, you can't be knock Prone by Ice Surface and Cold spells can't affect you with their effects.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Absolute Zero</strong>: Once activated and for the cost of 1 Elder Power, you can add effects to your spells : if it's a Cold damage spell, you hit your target with Advantage and you  Freeze him during 2 turns. If it's a Melee weapon attack, you hit automatically your target with a critical hit.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Aqua Protection</strong> : The Aquatic element makes you Resistant to Cold and Piercing damage, and you can't do 1 to your Cold and Water spell Attack Rolls.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Snowburst </strong>: When you deal Cold or Piercing (Water) damage with a spell, you also create a 2m radius circle of ice around the target(s) for 2 turns.</p>\n<p>Spells : Create or Destroy Water, Aqua Shield, Ice Knife, Geyser, Water Whip, Icy Vapors, Sleet Storm, Aqua Wave, Ice Storm, Hydrocanon, Cone of Cold, Freezing Sphere, Wall of Ice, Kraken, Whirlpool, Tsunami and Blizzard.</p>\n<p>Special Class Action : Water Bubble.</p>\n<p>10th level Spell : Iceberg Blow.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Dark Faith</p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/1900/35977242/profile/darkfaith.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">Darkness is your light, Night is your destiny.</p>\n<p> </p>\n<p>Lvl 3 : </p>\n<p>1 passive, <strong>Embrace the Shadows</strong> : You're harder to detect when you're hidden or invisible and you're getting better at stealing objects.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Umbral Form</strong> : You wrap yourself in darkness. In this form, you are Resistant to non-magical damage and you can summon your Dark Friend for 1  Elder Power.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Shadow Killer</strong> : Once per turn when you kill an enemy, shroud yourself in primaeval darkness to become Invisible for 2 turns.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Ignition of the Mind</strong> : When you land a Critical Hit, the target receives a Psychic Blaze which deals 2d6 Psychic damage on it at the start of each turn, for 5 turns.</p>\n<p>Spells : Shadow Wounds, Shadow Blade, Pass Without Trace, Dark Flash, Darkness, Shadow Step, Shadow Pull, Shadow Fury, Shadow Raven Companion, Slayer of the Weak (Shadow Tunnel), Shadow Strike, Shadow Storm, Dark Hole, Void Zone, Black Fire, Black Mirror, Absolute Darkness.</p>\n<p>Special Class Action : Shadow Pact.</p>\n<p>10th level Spell : Dark Mantle.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Life Guardian</p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/1900/35977242/profile/lifeguardian.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">Life is a gift, and you can choose to give it, receive it, or take it back, as you wish.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Life Protector</strong> : You are the guarantor of the smooth running of Life. The Life flowing within you prevents disease or curse from affecting you, you gain Heavy Armor proficiency and you can wield any Martial Weapon.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Prohibition on Dying</strong> : Once activated and for the cost of 1 Elder Power, when you kill an enemy, you can use the spell Soul Catching : You've captured the vital essence of your victim, call it and make it your permanent ally. When the soul belongs to you, it increases allies Spell Save DC, weapon and spell attack rolls depending on your level and it can cast some spells.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Ascension </strong>: You regain 2d4 hit points per turn during a fight as long as you're fit to fight, and you have a +1 bonus to Armour Class and Saving Throws.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Life Overload</strong> : When you heal a target, it gains an additional 15 Temporary Hit Points.</p>\n<p>Spells : Cure Wounds, Healing Word, Bane, Breath of Life, Life's Favour, Life Beam, Mass Healing Word, Life Spirit Guardians, Banishment, Revivify, Mass Cure Wounds, Splash of Life, Heal, Divine Light, Confiscating Life, Second Chance, Protecting Life.</p>\n<p>Special Class Action : Touched by the Grace.</p>\n<p>10th level Spell : Judgement.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Arcanic Weaver</p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/1900/35977242/profile/arcanicweaver.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">The Weave flows through your veins, granting you unimaginable powers : Time, Space, and Matter are subject to your will.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Vision of Reality</strong> : The Weave reveals things that try to hide. You can See Invisible things and living beings, gain the ability to Speak with Animals and receive a Proficiency Bonus in Arcana Checks.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Change the Future</strong> : Once activated and for the cost of 1 Elder Power, in Reaction, you can change the flow of history if you are not satisfied with the result of an Attack Roll or a Saving Throw Roll.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Spatial Shortcut</strong> : You gain +5 with Initiative roll, can't be Surprised and once per turn, when you kill a creature and during the same turn, you can Teleport yourself where you want within a 18m radius for free.</p>\n<p>Lvl 12 :</p>\n<p>1 passive, <strong>Phase Shift</strong> : At the beginning of your turn, you change your space-time reality, granting enemies Disadvantage on Attack Rolls against you and giving you Advantage on Attack Rolls and all Saving Throws against them. This effect lasts until you take damage. </p>\n<p>Spells : Arcanic Bullet, Arcane Explosion, Cell Restructuring (Molecular Restructuring : Enlargement, Molecular Restructuring : Reduction, Molecular Restructuring : Invisibility, Harmless Blob), Zero Gravity, Elder's Misty Step, Time Stretching, Quick Senescence, Photon Strike, Timelapse, Elder's Dimension Door, Length Retraction, Graviton, Cell Disintegration, Space-Time Laser, Arcane Barrage, Time Break, Fate.</p>\n<p>Special Class Action : Multiverse Twin.</p>\n<p>10th level Spell : Creation.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Ungodly</p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/1900/35977242/profile/ungodly.png\" alt=\"\" width=\"120\" height=\"120\"></p>\n<p style=\"text-align:center;\">The Unholy magic of Hemomancy, forbidden by the Arcane arts, is your greatest asset.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 passive, <strong>Land of Blood</strong> : All your attacks and spells create a puddle of blood with a radius of 2m under your feet, for 2 turns.</p>\n<p>Lvl 6 :</p>\n<p>1 toggleable passive, <strong>Blood Blade</strong> : Once activated and for the cost of 1 Elder Power, you can summon your Blood Blade. Its power depends on your Elder class level.</p>\n<p>Lvl 8 :</p>\n<p>1 passive, <strong>Blood Skin</strong> : When you are in a Blood Surface, you gain Resistance to all incoming Elemental attacks and spells. The Bludgeoning, Piercing and Slashing damage aren't affected.</p>\n<p>Lvl 12:</p>\n<p>1 passive, <strong>Servants of the Hemomancer</strong> : The creatures you summon are resistant to all types of damage.</p>\n<p>Spells : Create Blood, Exsanguination, Reinforcement, Blood Spike, Bloody Step, Hematemesis, Hematology : Warrior and Archer (Hematology : Blood Skeleton Warrior, Hematology : Blood Skeleton Archer), Corpse Explosion, Eruption, Adrenaline Rush, Hemorrhage, Rotting, Bloody Flesh Golem, Blood Needles, Vascular Compression, Life Drinker, Bloody Triptych.</p>\n<p>Special Class Action : Blood for Blood.</p>\n<p>10th level Spell : Blood Gift.</p>\n<p> </p>\n<p style=\"text-align:center;\">The Chromaticist</p>\n<p style=\"text-align:center;\"><img src=\"https://image.modcdn.io/members/1900/35977242/profile/chromaticist.png\" alt=\"\" width=\"112\" height=\"112\"></p>\n<p style=\"text-align:center;\">The Source of all the other Elders. The more spells you know, the more unbeatable you are.</p>\n<p> </p>\n<p> </p>\n<p>The Chromaticist is a special Subclass of the Elder. As they progress toward Ultimate Power, Chromaticists combine all the spells from the various Aspects of the Weave.</p>\n<p>He is more powerful than the others. Practitioners of this discipline are rare, but incredibly effective. They are the firstborn, before primordial magic split into all the known disciplines.  From level 1 to level 20, at each spell level tier, the Chromaticist gains all the spells from every Elder subclass. However, they must prepare these spells to use them in combat.</p>\n<p><br>Every two levels starting at level 2, they can choose so-called “classic” spells, which must also be prepared.</p>\n<p><br>At levels 3, 6, 8, and 12, they win a special spell, which gives access to all passives from each subclass, but they can only choose one at a time.</p>\n<p><br>At level 17, they gain two spells: one that combines all special class actions plus their own class action, and one that combines all Hidden Power passives available to the various Elder subclasses plus their own Hidden Power. These two spells do not need to be prepared. The Chromaticist’s Hidden Power differs slightly from the others; it doesn’t grant immunity to elements but instead ignores all resistances to all elements and grants a +2 bonus to Spell Attack Rolls and Saving Throws.</p>\n<p> </p>\n<p>At level 19, they gain all Chromatic Knowledge spells from all other subclasses. They must be prepared for use.</p>\n<p><br>At level 20, they gain a special 10th-level spell which combine all of them, and his own spell. This spell container doesn’t need to be prepared.</p>\n<p>NB : Dazzling Growth and Blood Gift aren’t Concentration spells with the Chromaticist, due to restriction with the BG3 toolkit and the Container spells.</p>\n<p> </p>\n<p>Lvl 3 :</p>\n<p>1 unique passive, <strong>Chromatic Resonance</strong> : When you deal damage, you become Resistant to that same type of damage for 2 turns.</p>\n<p><br>Lvl 6 :</p>\n<p>1 unique toggleable passive, <strong>Arcanic Shot</strong> : You unlock Arcanic Shot spell, which, for a cost of 1 Elder Power, allows you to strike your enemies from a 12m distance with your melee weapon.</p>\n<p><br>Lvl 8 :</p>\n<p>1 unique passive, <strong>Weapon Infusion</strong> : You infuse your blade with the spells you cast. After using a spell or cantrip, until the end of your next turn, you add 2d8 damage to your melee weapon attack. Damage type depends on the last spell you've just cast.</p>\n<p><br>Lvl 12 :</p>\n<p>1 unique passive, <strong>Archimage </strong>: Your mastery of the Elder's powers grants you one additional spell slot for each spell level you reach. When you use Elemental spells and cantrips, you have a chance to apply a Condition to the targets if they fail a Wisdom Saving Throw, that make them Vulnerable to magical damage of this Element for 2 turns and deal 1d6 damage each turn, depending on the damage type. These conditions can be applied : Liquefaction, Putrefaction, Calcination, Cryogenization, Electrocution, Amplification, Essentialization, Mentalization, Radiation, Annihilation, Liberation, Sublimation and Calcification.</p>\n<p><br>Spells : every spells and passives from the other subclasses</p>\n<p><br>Special Class Action : Chromatic Flash.</p>\n<p><br>10th level Spell : Chromatic Fusion.</p>\n<p> </p>\n<p> </p>\n<p>Enjoy this Class !</p>\n<p> </p>\n<p>Thank you everyone for your support.</p>\n<p>Feel free to check out my other mods at the links below :</p>\n<p>Arcane Duellist, a Sorcerer Subclass mod : <a href=\"https://mod.io/g/baldursgate3/m/spellblade-sorcerer-orhyne#description\">https://mod.io/g/baldursgate3/m/spellblade-sorcerer-orhyne#description</a></p>\n<p>Athal' Kir custom weapon mod : <a href=\"https://mod.io/g/baldursgate3/m/sword-of-athal-kir-the-wind-walker#description/widget\">https://mod.io/g/baldursgate3/m/sword-of-athal-kir-the-wind-walker#description</a></p>\n<p>The Conjurer class mod : <a href=\"https://mod.io/g/baldursgate3/m/the-conjurer#description\">https://mod.io/g/baldursgate3/m/the-conjurer#description</a></p>\n<p>The Conjurer, Feat every 2 levels : <a href=\"https://mod.io/g/baldursgate3/m/conjurer-feat-every-2-levels#description\">https://mod.io/g/baldursgate3/m/conjurer-feat-every-2-levels#description</a></p>\n<p>The Elder, Feat every levels : <a href=\"https://mod.io/g/baldursgate3/m/elder-feat-every-levels#description\">https://mod.io/g/baldursgate3/m/elder-feat-every-levels#description</a> </p>\n<p>The Elder, Feat every 2 levels : <a href=\"https://mod.io/g/baldursgate3/m/elder-feat-every-2-levels#description\">https://mod.io/g/baldursgate3/m/elder-feat-every-2-levels#description</a></p>\n<p>The Elder, additionnal Feat at level 2 : <a href=\"https://mod.io/g/baldursgate3/m/elder-featlevel2-orhyne#description\">https://mod.io/g/baldursgate3/m/elder-featlevel2-orhyne#description</a> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>Compatibility : </p>\n<p>Mystra's spells mod by randomkilla <a href=\"https://mod.io/g/baldursgate3/m/mystras-spells#description\">https://mod.io/g/baldursgate3/m/mystras-spells#description</a> </p>\n<p>Dawnstar's spells mods (when a new mod is released, I make an update to be compatible with it) by Dawnstar- <a href=\"https://mod.io/g/baldursgate3/u/dawnstar11\">https://mod.io/g/baldursgate3/u/dawnstar11</a> </p>\n<p>BG2 spells mod by Lunubis <a href=\"https://mod.io/g/baldursgate3/m/baldurs-gate-2-spells#description\">https://mod.io/g/baldursgate3/m/baldurs-gate-2-spells#description</a> </p>\n<p>Elemental Cantrips mod by ivanl_art <a href=\"https://mod.io/g/baldursgate3/m/elemental-cantrips1#description\">https://mod.io/g/baldursgate3/m/elemental-cantrips1#description</a> </p>\n<p>Shadow Greatsword spell mod by yoonmoonsick <a href=\"https://mod.io/g/baldursgate3/m/shadow-greatsword#description\">https://mod.io/g/baldursgate3/m/shadow-greatsword#description</a> </p>\n<p>Isaac's Missile Storm mod by Doub1eTroub1e <a href=\"https://mod.io/g/baldursgate3/m/isaacs-missile-storm1#description\">https://mod.io/g/baldursgate3/m/isaacs-missile-storm1#description</a> </p>\n<p>Cataclysmic spells+ mod by WobbleTop <a href=\"https://mod.io/g/baldursgate3/m/summon-cataclysm#description\">https://mod.io/g/baldursgate3/m/summon-cataclysm#description</a> </p>\n<p>DnD PHB 2024 All in One Beyond mod by yoonmoonsick and the added spells <a href=\"https://mod.io/g/baldursgate3/m/bg3dnd#description\">https://mod.io/g/baldursgate3/m/bg3dnd#description</a> </p>\n<p>Spells from the Blood Sorcery subclass mod by Sturm1212 <a href=\"https://mod.io/g/baldursgate3/m/blood-sorcery-a-sorcerer-subclass#description\">https://mod.io/g/baldursgate3/m/blood-sorcery-a-sorcerer-subclass#description</a> </p>\n<p>Spells from the Gravity Sorcerer subclass mod by Acre_2 <a href=\"https://mod.io/g/baldursgate3/m/gravity-sorcery1#description\">https://mod.io/g/baldursgate3/m/gravity-sorcery1#description</a></p>\n<p>Spells from the Cosmic Sorcery subclass mod by CamTheLitFam <a href=\"https://mod.io/g/baldursgate3/m/cosmic-sorcery1#description\">https://mod.io/g/baldursgate3/m/cosmic-sorcery1#description</a> </p>\n<p>Blood Alchemy mod by jose22101998 (Nexus Mod) <a href=\"https://www.nexusmods.com/baldursgate3/mods/18544\">https://www.nexusmods.com/baldursgate3/mods/18544</a> </p>\n<p>Not Enough Spells? mod by TheLemonJungle <a href=\"https://mod.io/g/baldursgate3/m/notenoughspells#description\">https://mod.io/g/baldursgate3/m/notenoughspells#description</a> </p>\n<p>Advanced Tabletop Spells mod by celerev (Nexus Mod) <a href=\"https://www.nexusmods.com/baldursgate3/mods/14429\">https://www.nexusmods.com/baldursgate3/mods/14429</a> </p>\n<p>Homebrew Spells mod by DiZ91891 <a href=\"https://mod.io/g/baldursgate3/m/homebrewspells#description\">https://mod.io/g/baldursgate3/m/homebrewspells#description</a> </p>\n<p>Eldritch Cantrips mod by RandoRuda (Nexus Mod) <a href=\"https://www.nexusmods.com/baldursgate3/mods/17557\">https://www.nexusmods.com/baldursgate3/mods/17557</a> </p>\n<p>Ferrety's Spells - Elemental Cantrips mod by ferrety5011 (Nexus Mod) <a href=\"https://www.nexusmods.com/baldursgate3/mods/20924\">https://www.nexusmods.com/baldursgate3/mods/20924</a> </p>\n<p>Xara's Spellbook mod by xarara (Nexus Mod) <a href=\"https://www.nexusmods.com/baldursgate3/mods/17109\">https://www.nexusmods.com/baldursgate3/mods/17109</a> </p>\n<p>Additional Divination Spells mod by oaklei_ch <a href=\"https://mod.io/g/baldursgate3/m/divination-spells#description\">https://mod.io/g/baldursgate3/m/divination-spells#description</a> </p>\n<p>Stormlord's Arsenal Of Lighting &amp; Thunder Spells mod by LeKarenator <a href=\"https://mod.io/g/baldursgate3/m/stormlords-arsenal-of-lighting-thunder-spells#description\">https://mod.io/g/baldursgate3/m/stormlords-arsenal-of-lighting-thunder-spells#description</a> </p>\n<p>Homebrew Blade Cantrips mod by zx10rx <a href=\"https://mod.io/g/baldursgate3/m/homebrew-blade-cantrips#description\">https://mod.io/g/baldursgate3/m/homebrew-blade-cantrips#description</a> </p>",
     "date_added": 1750088995,
-    "date_updated": 1786076689,
+    "date_updated": 1789377016,
     "date_live": 1750091319,
     "visible": 1,
     "status": 1,
@@ -124225,15 +124225,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -124313,19 +124313,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8067509
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7767728
+        "modfile_live": 8067509
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7767728
+        "modfile_live": 8067509
       },
       {
         "platform": "ps5",
-        "modfile_live": 7767728
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8067509
       }
     ]
@@ -125742,7 +125742,7 @@
     "summary": "Add Some Enlarged pen*s Options to your Character Creation Menu (Magic Mirror) with some stylish pub*s and PA rings",
     "description": "<h2><span style=\"font-size:x-large;\">FEATURES</span></h2>\n<p><span style=\"font-size:large;\">• Adds Some Enlarged/Shrinked Pen1ses</span><span style=\"font-size:large;\"> Options to your character creation menu (Magic Mirror)</span></p>\n<p><span style=\"font-size:large;\">• </span><span style=\"font-size:large;\">Adds Some Enlarged/Shrinked Erected Pen1ses options as well</span></p>\n<p><span style=\"font-size:large;\">• Adds Some Stylish Pubes, PA Rings</span></p>\n<p><span style=\"font-size:large;\">• Supports <a href=\"https://www.nexusmods.com/baldursgate3/mods/2754\" target=\"_blank\" rel=\"noopener noreferrer\">Unique Tav Custom Appearance</a> (You'll have to install the other version on <a href=\"https://www.nexusmods.com/baldursgate3/mods/4789?tab=files\" target=\"_blank\" rel=\"noopener noreferrer\">Nexus Mods</a>)</span></p>\n<p><span style=\"font-size:large;\">• Includes <a href=\"https://www.nexusmods.com/baldursgate3/mods/6173\" target=\"_blank\" rel=\"noopener noreferrer\">Quick and Dirty Erections</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/192547292\" target=\"_blank\" rel=\"noopener noreferrer\">MrFunSize</a> (And Made Them Support All Modded Races Listed Below)</span></p>\n<p><span style=\"font-size:large;\">• Includes <a href=\"https://www.nexusmods.com/baldursgate3/mods/6287\" target=\"_blank\" rel=\"noopener noreferrer\">Cooler Dragonborn pen*s</a> by<a href=\"https://www.nexusmods.com/baldursgate3/users/25151829\" target=\"_blank\" rel=\"noopener noreferrer\"> TheMightyWaffle156</a></span></p>\n<p><span style=\"font-size:large;\">• Includes PP models from <a href=\"https://www.nexusmods.com/baldursgate3/mods/1194\" target=\"_blank\" rel=\"noopener noreferrer\">Muscular Male Dragonborn</a> by <a href=\"https://linktr.ee/raykieff14\" target=\"_blank\" rel=\"noopener noreferrer\">Raykie</a></span></p>\n<p><span style=\"font-size:large;\">• Supports Custom Races Listed Below</span></p>\n<p><span style=\"font-size:large;\">• Supports All Companions Including [SPOILER] </span><span style=\"font-size:large;color:#0d0d10;\">God Gale </span><span style=\"font-size:large;\">[SPOILER]</span></p>\n<h2>You might want to install <a href=\"https://www.nexusmods.com/baldursgate3/mods/899\" target=\"_blank\" rel=\"noopener noreferrer\">Appearance Edit Origins</a> as well if you wish to edit the PPs of your companions.</h2>\n<p>Supported Custom Races :<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4076\" target=\"_blank\" rel=\"noopener noreferrer\">Dark Elf</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/4159\" target=\"_blank\" rel=\"noopener noreferrer\">Aasimar</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/1824\" target=\"_blank\" rel=\"noopener noreferrer\">Half Angel (Aasimar 5E)</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/3861\" target=\"_blank\" rel=\"noopener noreferrer\">Solar</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/2634\" target=\"_blank\" rel=\"noopener noreferrer\">Half-Dragon</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/5127\" target=\"_blank\" rel=\"noopener noreferrer\">Fairy Race</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/428\" target=\"_blank\" rel=\"noopener noreferrer\">Satyr Race</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/4750\" target=\"_blank\" rel=\"noopener noreferrer\">Playable Dhampir</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/215\" target=\"_blank\" rel=\"noopener noreferrer\">Fantastical Dhampir/Orc/Triton/Goliath</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/13474\" target=\"_blank\" rel=\"noopener noreferrer\">Angel Themed Race (Aether-Born)</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/7030\" target=\"_blank\" rel=\"noopener noreferrer\">Legacy of Death (Deathborn)</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/9768\" target=\"_blank\" rel=\"noopener noreferrer\">Playable BeastFolk Race</a> , <a href=\"https://www.nexusmods.com/baldursgate3/mods/18449\" target=\"_blank\" rel=\"noopener noreferrer\">Triton Race</a></p>\n<h2><span style=\"font-size:x-large;\"><strong>For All Available Options in the Latest Version Please Refer to This Spreadsheet:</strong><br><strong><a href=\"https://docs.google.com/spreadsheets/d/118K4dY_33O8AdQSCW6qG2AGyna28fXSHvcAwh5v9hbI/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">Larger and Smaller ***** With Flopping Physics Options List</a></strong></span><span style=\"font-size:x-large;\"> (WIP)</span></h2>\n<p> </p>\n<h2>If You Encounter Any Problem and Want to Send a Bug Report,</h2>\n<h2>Please provide more info other than \"Doesn't work\" or \"Can't install/uninstall\".</h2>\n<h2>Mod list and load order might help, describing the behavior might help, anything with more details might help.</h2>\n<h2>Also this site's bug report system is AWFUL. All the reports are private so there are no way for others that encounter the same problem to help. On top of that, authors can only respond to any bug report by DMing EVERY SINGLE ONE who sent the report.</h2>\n<h2>Ain't nobody got time for that.</h2>\n<h2>So either you take this to <a href=\"https://www.nexusmods.com/baldursgate3/mods/4789?tab=bugs\" target=\"_blank\" rel=\"noopener noreferrer\">my Nexus Mods Page</a> or you provide enough info for me to even have a wild guess on what's wrong so I can waste more time DMing you instead of posting it on a dedicated issue board as seen on Nexus Mods and GitHub.</h2>\n<div> </div>\n<div> </div>\n<div style=\"text-align:center;\"><span style=\"font-size:large;\">-- Big Thank You --<br></span><br><span style=\"font-size:large;\"> <a href=\"https://www.nexusmods.com/baldursgate3/users/192547292\" target=\"_blank\" rel=\"noopener noreferrer\">MrFunSize</a> for Making the Tutorials on Adding Custom Genitals<br><a href=\"https://www.nexusmods.com/baldursgate3/users/2651530\" target=\"_blank\" rel=\"noopener noreferrer\">Padme4000</a> for Making the Tutorial Video on Creating Mods in Blender<br><a href=\"https://www.beastbehemoth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">BeastBehemoth</a> for Guiding Me Thru Blender Basics and Providing the Starter Models<br><a href=\"https://www.nexusmods.com/baldursgate3/users/25151829\" target=\"_blank\" rel=\"noopener noreferrer\">TheMightyWaffle156</a> for Letting Me Include Those Beautiful Dragonborn PPs in My Mod</span><br><span style=\"font-size:large;\"><a href=\"https://linktr.ee/raykieff14\" target=\"_blank\" rel=\"noopener noreferrer\">raykie</a> for Letting Me Include his amazing Custom pen*s Models form <a href=\"https://www.nexusmods.com/baldursgate3/mods/1194\" target=\"_blank\" rel=\"noopener noreferrer\">Muscular Male Dragonborn</a> in My Mod</span><br><a href=\"https://www.nexusmods.com/baldursgate3/users/7967470\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"font-size:large;\">Volno</span></a><span style=\"font-size:large;\"> for <a href=\"https://www.nexusmods.com/baldursgate3/mods/4310\" target=\"_blank\" rel=\"noopener noreferrer\">Volno's Texture Toolbox</a></span></div>\n<div style=\"text-align:center;\"><br><span style=\"font-size:large;\">-- Literally Standing on the Shoulder of Those Giants--</span></div>\n<div> </div>\n<p style=\"text-align:center;\"><a href=\"https://paypal.me/vintheman\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://myimgs.org/storage/images/36431/icons8-paypal-48.png\" alt=\"Support Me Through PayPal\"></a></p>\n<p style=\"text-align:center;\"><a href=\"https://ko-fi.com/B0B51NH0ZJ\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true\" alt=\"Buy Me a Coffee at ko-fi.com\"></a></p>",
     "date_added": 1750645580,
-    "date_updated": 1788136349,
+    "date_updated": 1789377411,
     "date_live": 1788136349,
     "visible": 1,
     "status": 1,
@@ -125772,15 +125772,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -125970,19 +125970,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8159026
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7104239
+        "modfile_live": 8159026
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7104239
+        "modfile_live": 8159026
       },
       {
         "platform": "ps5",
-        "modfile_live": 7104239
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8159026
       }
     ]
@@ -127004,7 +127004,7 @@
     "summary": "Adds a powerful radiant-themed gear set designed for divine warriors. Includes custom armor, weapon, and accessories with unique effects, auras, and synergy built around radiant damage and control.",
     "description": "<h2>Before installing or updating, please read!</h2>\n<p>There are some issues happening with the in-game mod manager that are causing this mod's PAK file to fail to update itself, resulting in a duplicate PAK being added to the mods folder. I believe it was due to some annoying custom virtual texture issues that I have since removed from the mod. This is a pretty simple fix for Windows users, but if you are on console there could be issues (Most reports I'm getting are from Xbox users). Below I will post the steps users should take <strong>PRIOR TO UPGRADING</strong>, a fix for Windows users, as well as uninstall instructions if you're having issues.</p>\n<blockquote>\n<p><strong>PLEASE NOTE: </strong>Uninstalling the mod mid-playthrough should work for Windows users. However, Larian does not allow console mods to be disabled during an active campaign. So I just want to make sure console players are aware that you will not be able to load your save without the mod if you choose to install it.</p>\n</blockquote>\n<p>Special thanks to Ariefel from Ember's Lute (and other amazing music mods) for giving me information to understand what's going on.</p>\n<hr>\n<h3>Do this before updating to avoid issues:</h3>\n<p>I believe just updating without doing it using the steps below causes issues and potential issues loading save files. Once you've done this, though, you shouldn't have to do so again.</p>\n<ol>\n<li>Disable the mod</li>\n<li>Restart the game</li>\n<li>Update the mod</li>\n<li>Restart the game (this one's probably not necessary, but I added it just to be safe)</li>\n<li>Re-enable the mod</li>\n<li>Load your save</li>\n</ol>\n<p>I'm sorry for those who are having issues. I updated the title so hopefully users will see it before clicking the blue arrow to update the mod.</p>\n<hr>\n<h3>If you're a Windows user having issues</h3>\n<ol>\n<li>Complete the steps detailed in the section above.</li>\n<li>If those steps don't work, navigate to C:\\Users\\&lt;your username&gt;\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods</li>\n<li>Look for a duplicate version of the PAK file</li>\n<li>Delete that version (you can delete both if you wish (being logged into mod.io should automatically redownload the correct version when you're back in the game)</li>\n</ol>\n<p>This should fix any issues and it should work from now on.</p>\n<hr>\n<h3>Uninstall Instructions</h3>\n<p><strong>IF YOU ARE ON WINDOWS:</strong></p>\n<p>You should be able to just disable the mod and be fine, however if that gives you issues try this:</p>\n<ol>\n<li>Make sure <a href=\"https://github.com/LaughingLeader/BG3ModManager/releases\">BG3MM</a> (Baldur's Gate 3 Mod Manager) and <a href=\"https://github.com/Norbyte/bg3se\">Script Extender</a> are installed</li>\n<li>Head to nexus and download <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n<li>Drag the Mod Uninstaller (and any requirements or dependencies) into your load order</li>\n<li>Choose \"Save Load Order to File\" followed by \"Export Order to Game\"</li>\n<li>Launch BG3 and load up your save</li>\n<li>Open up Mod Configuration Menu (required to use the uninstaller) and click on Mod Uninstaller in the left sidebar</li>\n<li>Choose my mod in the list and uninstall it.</li>\n<li>Save your game and then exit to main menu</li>\n<li>Go into your in-game mod manager</li>\n<li>Disable my mod, then unsubscribe</li>\n</ol>\n<p><strong>IF YOU ARE ON CONSOLE:</strong></p>\n<p>Unfortunately there is not much you can do. As I mentioned above, even if you could successfully uninstall the mod, you would not be able to load your save.</p>\n<p>I've been doing a lot of research to see if there's a way around it and Jay Dunna has a video that can potentially work for you - <a href=\"https://www.youtube.com/watch?v=q6AUFZMM_Qg\">https://www.youtube.com/watch?v=q6AUFZMM_Qg</a></p>\n<hr>\n<h2>About the Mod</h2>\n<p>This mod adds a full legendary radiant-themed gear set designed for divine warriors, spellcasters, and champions of the light. Every item features powerful radiant synergy, custom passives, and unique abilities — all built to make you feel like a living conduit of divine power.</p>\n<hr>\n<h4>The Story:</h4>\n<blockquote>\n<p>They were more than warriors. She, a brilliant cleric known as <em>Lightpiercer</em>, and he, a steadfast paladin named <em>Dawnwarden</em>. Together, they were radiant — a symbol of love defying the darkness of the Blood War.</p>\n<p>But their bond was shattered by a devil’s deception. Their souls were bound into a sword and shield, their power dormant, their vow unfulfilled.</p>\n<p>An ancient order called the <strong>Bondsworn</strong> took up their cause. They recovered the sword and shield and forged relics of radiant power to protect them, hoping one day to reawaken the light.</p>\n<p>Now that order is gone. But their trail remains.</p>\n<p>Many years later, a trio of adventurers tried and failed to follow that trail, leaving clues on how to continue the quest.</p>\n<p>Will you pick up where they left off?</p>\n</blockquote>\n<p><strong>PLEASE NOTE: </strong>This is not a quest mod. You will not receive objectives. You must find the relics yourself, guided only by the Bondsworn’s notes and your own intuition. For those who enjoy uncovering secrets and piecing together stories buried in the world — this is for you. Also, the scavenger hunt starts when you first get off the nautiloid, so using it on a new playthrough is the best experience (if you want to do the story/scavenger hunt)</p>\n<hr>\n<h3><strong>Recommendations:</strong></h3>\n<ul>\n<li><strong>Want to skip the hunt?</strong> Use a mod like <em>Tutorial Chest Summoning</em> to grab all relics immediately.</li>\n<li><strong>Want a challenge?</strong> This set is powerful. For a more balanced experience, use <em>Combat Extender</em> or another difficulty-scaling mod.</li>\n<li><strong>For the best experience</strong>: explore Act 1 naturally and let the lore guide you. The story was written to reward curiosity and attention to detail.</li>\n</ul>\n<hr>\n<h3>Known Issues:</h3>\n<ul>\n<li>There are upgrade/install issues happening. Read the intro to this post for details.</li>\n<li>There is some super minor clipping issues for BT1, but it is barely noticeable and the alternative pieces lose the look and feel I'm going for. Someday I will learn the 3D modeling aspect and fix this.</li>\n<li>The lighting effect from the sword is working functionally, but the visuals aren't working for me</li>\n<li>The Greatsword does not have a cool glowing sword model like the longsword does. Unfortunately I am too inexperienced currently to figure out how to incorporate that into the model (the model already existed in-game for the longsword), but as I learn I will revisit the mod when I figure it out.</li>\n<li>I know the item set is super unbalanced. I'm trying to think of things that I can make more balanced without taking away from the fun of the set. Open to suggestions :)</li>\n</ul>\n<hr>\n<h3>Special Thanks</h3>\n<ul>\n<li>Members of the BG3 modders community on Discord (JuuM, EvilSnake, XiphiasRex and Rydiak especially for this one)</li>\n</ul>\n<h3>As always, feel fr** to make recommendations or hit me up with bugs you're experiencing! ENJOY!</h3>\n<hr>\n<h3>Item Locations</h3>\n<p>========================================</p>\n<p>Many people are struggling to find items so, by request:</p>\n<p>THIS SECTION WILL TELL YOU WHERE EVERYTHING IS.<br>IF YOU DON'T WANT SPOILERS, DO NOT KEEP SCROLLING!</p>\n<p>Thank You! :)</p>\n<p>========================================</p>\n<ol>\n<li><strong>Longsword </strong>- In some rocks close to where you crash land after the nautiloid</li>\n<li><strong>Crown </strong>- Tollhouse with the Paladins of Tyr</li>\n<li><strong>Boots </strong>- Hidden stash outside owlbear cave</li>\n<li><strong>The Bondsworn Ledger</strong> - Pickpocketable off of auntie ethel while she's still in the grove. If you don't do that, you can loot it off of her. I also added it to her workshop after the fight for all that choose not to kill her for... hairy reasons.</li>\n<li><strong>Gloves </strong>- Corpse hidden near the magic mirror that leads to the Necromancy of Thay</li>\n<li><strong>Ring (Callous Coruscation)</strong> - Myconid Colony reward room (behind the vines)</li>\n<li><strong>Cloak </strong>- Myconid Colony reward room (behind the vines)</li>\n<li><strong>Amulet </strong>- On a dark justiciar body near the area that you can convince the deep rothe to destroy the rocks for you</li>\n<li><strong>Armor </strong>- On a corpse in a cell near the entrance of the creche</li>\n<li><strong>Shield </strong>- Outside of the cell where you find the armor</li>\n<li><strong>Ring (bondsworn)</strong> - In a chest above the stained glass room in Rosymorn monastery</li>\n</ol>",
     "date_added": 1751340578,
-    "date_updated": 1785810616,
+    "date_updated": 1789373038,
     "date_live": 1751341239,
     "visible": 1,
     "status": 1,
@@ -127034,15 +127034,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -127152,19 +127152,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8054949
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7661184
+        "modfile_live": 8054949
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7661184
+        "modfile_live": 8054949
       },
       {
         "platform": "ps5",
-        "modfile_live": 7661184
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8054949
       }
     ]
@@ -139744,7 +139744,7 @@
     "summary": "Aurora head. She has both normal and cat eyes, plus long and normal lashes. For ALL body type. For ALL races.",
     "description": "<h2>Aurora Head Mod - Final Update.</h2>\n<p style=\"font-size:0.95rem;\"><em>“Her eyes hold the quiet light of the northern sky.”</em></p>\n<hr>\n<p><strong>About</strong></p>\n<p>This is <strong>Aurora</strong>. This head has support for <strong>all races</strong> and <strong>all body types</strong>.</p>\n<ul>\n<li>Most heads include both <strong>regular</strong> and <strong>cat-eye</strong> versions.</li>\n<li>Features the option for longer lashes and normal lashes.</li>\n</ul>\n<p>I wanted Aurora’s look to capture the quiet strength and beauty of <em>Michelle Pfeiffer in Ladyhawke</em> — maybe I should have named her <em>Isabeau d'Anjou</em>.</p>\n<p>My plan is to expand Aurora to include all races and strong body types over time; this will take a while.</p>\n<p>If you like this head, please consider sharing screenshots of your Tavs — I love seeing what others create.</p>\n<hr>",
     "date_added": 1758427389,
-    "date_updated": 1786849692,
+    "date_updated": 1789378011,
     "date_live": 1758427593,
     "visible": 1,
     "status": 1,
@@ -139774,15 +139774,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -139882,19 +139882,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8102443
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7940831
+        "modfile_live": 8102443
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7940831
+        "modfile_live": 8102443
       },
       {
         "platform": "ps5",
-        "modfile_live": 7940831
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8102443
       }
     ]
@@ -139907,7 +139907,7 @@
     "summary": "Will you control the weapon, or will it control you? This is a mod to add a new class and some unique spell based around Kayn from League of Legends to the game. Supports Level 20",
     "description": "<p>My first time ever making a mod for any game. A new class based around taking out crowds of enemies, plus allowing you to specialize into either the quick Shadow Assassin, or the Savage Darkin Slayer.</p>\n<p>I have a feeling that this class may be over tuned a bit, and i know that the level 13+ stuff is more than likely busted, please feel free to offer suggestions.</p>\n<p>I was inspired to make this mod thanks to <a href=\"https://mod.io/g/baldursgate3/u/eclip5ex\">Eclip5e_'s</a> <a href=\"https://mod.io/g/baldursgate3/m/iron-revenant-class#description\">Iron Revenant Class</a>. Go check it out.</p>\n<p> </p>\n<p>New Spells:</p>\n<p>LvL 1 - Reaping Slash<br>(Charge in and slash enemies in an area)</p>\n<p>LvL 3 - Subclasses - Darkin Slayer and Shadow Assassin.<br>Shadow Step (Reskined Misty Step) <br>Shadows Binding (Darkin Binding variant for Shadow Assassin, Uses Dex for weapon scaling)</p>\n<p>LvL 5 - Blade's Reach + Extra attack<br>(Cleave forward striking all enemies in its path, slowing them)</p>\n<p>LvL 6 - Umbral Trespass<br>(Target an enemy, teleporting to them and dealing big damage)</p>\n<p>LvL 7 - Upgraded Blades Reach<br>(Gives you an upgraded Blade's Reach based on what form you took. Darkin causes enemies to go prone, Shadow Assassin turns into a bonus action and gains range)</p>\n<p>LvL 8 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow assassin gains a mix of bonus move speed or actions)</p>\n<p>LvL 9 - Upgrade Reaping Slash<br>(Reaping Slash does more damage. Shadow Assassin's hits a larger area, Darkin Slayer's heals on hit)</p>\n<p>LvL 10 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassin gains a mix of bonus move speed or actions)</p>\n<p>LvL 11 - Upgrade Umbral Trespass<br>(Shadow Assassin's Umbral Trespass has increased target range and doesn't cost anything to use. Darkin Slayer's heals for a high amount of health)</p>\n<p>LvL 12 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassins gains a mix of bonus move speed or actions)</p>\n<p> </p>\n<p>LvL 15 - Shadow Assassin's Shadow Strike<br>(Modified Sneak Attack, deals big damage but only usable while invisible)</p>\n<p>LvL 18 - Soul Reaper<br>(A difficult and taxing skill, hitting it will make an enemy who lives wish they died,)</p>\n<p>LvL 20 - Bonus Subclass stats<br>(Darkin Slayer gains passive healing at the start of its turn. Shadow Assassins gains a mix of bonus move speed or actions)<br><br></p>\n<p> </p>",
     "date_added": 1758657967,
-    "date_updated": 1786995147,
+    "date_updated": 1789378091,
     "date_live": 1786995147,
     "visible": 1,
     "status": 1,
@@ -139937,15 +139937,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -139990,19 +139990,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8109186
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7715472
+        "modfile_live": 8109186
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7715472
+        "modfile_live": 8109186
       },
       {
         "platform": "ps5",
-        "modfile_live": 7715472
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8109186
       }
     ]
@@ -154670,8 +154670,8 @@
     "summary": "fire themed, modular outfit for BT1/2/3/4, Gith, Dragonborn, TMTS and short races.",
     "description": "<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">once again massive thanks for the model to <a href=\"https://www.nexusmods.com/profile/onyx/mods\">onyx<span style=\"color:#ffffff;\"> &lt;3</span></a></span></span></div>\n<h4>models &amp; textures by Ida Faber</h4>\n<div> </div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><span style=\"color:#ffffff;\"><strong>Consumed by fire.</strong></span></span></span></div>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">Bodyarmor (A, B, C) - body slot</span></span></span></div>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">skirt - cloak slot</span></span></span></div>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">bracers - gloves slot</span></span></span></div>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">boots with heels - boots slot</span></span></span></div>\n<p> </p>\n<div><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">boots &amp; body also work in the camp clothing slot.</span></span></span><br><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">to contain it's power, the armor set is in a dragon egg within the tutorial chest</span></span></div>\n<p> </p>\n<p> </p>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><span style=\"color:#ffffff;\"><strong>Races &amp; Body Types</strong></span></span></span></div>\n<p><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">Humans, Drow, Elves, Tieflings -  BT1 / BT2 / BT3 / BT4</span></span></span></p>\n<p><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">Githyanki - female &amp; male</span></span></span></p>\n<p><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">Dragonborn - female &amp; male</span></span></span></p>\n<p><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\">TMTS<br>Shorties</span></span></span></p>\n<p>Small Male Bodies</p>\n<p> </p>\n<p> </p>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><strong>Installation instructions</strong></span></span></div>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><span style=\"color:#d4d4d8;\">drop the file in BG3 MM - done!</span></span></span></div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><strong>The biggest and best supporters:</strong></span></span></div>\n<div><span style=\"font-size:large;\"><span style=\"font-family:'Times New Roman';\"><a href=\"https://next.nexusmods.com/profile/khaleesinz?gameId=6945\">Mons</a>, <a href=\"https://next.nexusmods.com/profile/Petramalia\">Petra</a>, <a href=\"https://next.nexusmods.com/profile/Grace455?gameId=6945\">Lucille</a>, <a href=\"https://next.nexusmods.com/profile/PBTrinity?gameId=6945\">PB-Trinity</a>, <a href=\"https://next.nexusmods.com/profile/wayward314\">Wayward </a>and <a href=\"https://next.nexusmods.com/profile/AnxietyTheOrk?gameId=6945\">Anxiety</a> - thank you for everything. &lt;3</span></span></div>",
     "date_added": 1775763390,
-    "date_updated": 1786464197,
-    "date_live": 1775763390,
+    "date_updated": 1789377908,
+    "date_live": 1789377892,
     "visible": 1,
     "status": 1,
     "dependencies": false,
@@ -154700,15 +154700,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -154838,19 +154838,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8085532
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7630916
+        "modfile_live": 8085532
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7630916
+        "modfile_live": 8085532
       },
       {
         "platform": "ps5",
-        "modfile_live": 7630916
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8085532
       }
     ]
@@ -156138,7 +156138,7 @@
     "summary": "Expand your Find Familiar spell with 70 new summon options from across the Dungeons and Dragons multiverse.",
     "description": "<p>Familiars are spirits that can be summoned to travel along side you on your adventures. This mod adds 70 lore-friendly and balanced familiar options.</p>\n<p>All familiars come from official Dungeons &amp; Dragons sources using published stat blocks and abilities where possible. Familiars based on creatures with higher challenge ratings have scaled down to maintain balance. All new familiars have original tooltip artwork, functioning animations, and class specific casting VFX.</p>\n<hr>\n<h2><em><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/spell_conjuration_findfamiliar_.png\" alt=\"\" width=\"48\" height=\"48\"></em><em>Find Familiar</em></h2>\n<h4>1st Level Conjuration Spell</h4>\n<p>A favorite spell among wizards, warlocks, and rangers – Summon a spirit companion that takes the form of a diminutive animal of your choice, now including:</p>\n<ul>\n<li>Almiraj</li>\n<li>Badger</li>\n<li>Bat</li>\n<li>Bluejay</li>\n<li>Boar</li>\n<li>Dog</li>\n<li>Eagle</li>\n<li>Hyena</li>\n<li>Tressym</li>\n</ul>\n<h2><em><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/spell_necromancy_findfamiliar.png\" alt=\"\" width=\"48\" height=\"48\"></em><em>Find Undead Familiar </em></h2>\n<h4>1st level Necromancy Spell</h4>\n<p>A grim counterpart to the Find Familiar spell. Summon a tormented spirits to the spellcaster's side which takes the form of an undead creature. Find Undead Familiar can be learned by any class that can learn Find Familiar † and grants the following forms:</p>\n<ul>\n<li>Crawling Claw</li>\n<li>Floating Skull</li>\n<li>Phantom Hound</li>\n<li>Grim Bird</li>\n<li>Skeleton ‡</li>\n<li><span style=\"font-family:Euclid, Montserrat, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;\">Wraith Cat</span></li>\n</ul>\n<p>† Rangers can learn the Find Undead Familiar spell by choosing a new Natural Explorer option called Spirit Caller.</p>\n<p>‡ The skeleton familiar gains weapon and armor proficiency with either the Pact of the Chain or Undead Thralls passive features.</p>\n<h2><em><span style=\"font-size:large;\"><img src=\"https://image.modcdn.io/members/aec0/49157408/profile/action_warlock_pactofthechain_p.png\" alt=\"\" width=\"48\" height=\"48\"></span></em><em>Pact of the Chain </em></h2>\n<h4>3rd Level Warlock Boon</h4>\n<p>Warlocks with the Pact of the Chain feature gain more powerful and exotic familiar forms. Choosing this feature grants both the Find Familiar and Find Undead Familiar spells along with the following additional forms:</p>\n<ul>\n<li>Blink Dog</li>\n<li>Cranium Rat</li>\n<li>Flumph</li>\n<li>Gremishka</li>\n<li>Meenlock</li>\n<li>Pseudodragon</li>\n<li>Skeletal Mage</li>\n<li>Slaad Tadpole</li>\n<li>Sphinx of Wonder</li>\n</ul>\n<h2><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/passivefeature_chainmaster.png\" alt=\"\" width=\"48\" height=\"48\"> Investment of the Chain Master</h2>\n<p>This eldritch invocation option can be chosen by warlocks starting at 2nd level and grants your familiar summon the following passive benefits:</p>\n<p>Innate flight, resistance to non-magical physical damage, and their unarmed attacks are considered magical for the purposes of overcoming resistance to non-magical resistance or immunity.</p>\n<h2><span style=\"font-size:large;\"><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/spell_conjuration_findfamiliar_.1.png\" alt=\"\" width=\"48\" height=\"48\"></span><em>Unique Familiars </em></h2>\n<p>Some familiar spirits are summoned not with spells, but with rare magical items. Keep an eye out for shiny bobbles and strange skulls.</p>\n<p><strong>Disclaimer: Items may not appear in areas that have been explored or plundered prior to installation.</strong></p>\n<h2><span style=\"font-size:large;\"><img src=\"https://image.modcdn.io/members/aec0/49157408/profilefamiliar/spell_necromancy_findfamiliar_f.png\" alt=\"\" width=\"48\" height=\"48\"></span><em>Variant Familiars </em></h2>\n<p>Variant familiars can have different appearances, abilities, or become completely different types. Specific character choices, including class, subclass, or origin may unlock familiar form variants. For example, warlocks with Pact of the Chain and rangers with the Beats Tamer feature both summon a hermit crab familiars instead of regular crabs. Warlocks have many variants based on their patron; When a great old one patron warlock summons a floating skull, a brain in a jar will appear, instead of a floating humanoid skull, while warlocks with the fiend patron will summon a flameskull. There are dozens of variants like these to discover.</p>\n<p><strong>※ A comprehensive list of all available familiars and how to obtain them is available on <a title=\"Find Familiar Form List\" href=\"https://www.nexusmods.com/baldursgate3/articles/1892\" target=\"_blank\" rel=\"noopener noreferrer\">Nexus</a>.</strong></p>\n<hr>\n<h3>Recognitions </h3>\n<p>Thank you to <a href=\"https://mod.io/u/maxstrengthrizzard\" target=\"_blank\" rel=\"noopener noreferrer\">@MaxStrengthWizard</a> for scripting assistance, <a href=\"https://www.nexusmods.com/profile/Ninjoma\" target=\"_blank\" rel=\"noopener noreferrer\">@Ninjoma</a> for the dragon animation, and <a href=\"https://mod.io/u/snk777/\" target=\"_blank\" rel=\"noopener noreferrer\">@SNK777</a> for extensive bug testing and Russian localization</p>\n<p>If you like what I'm doing and want to support the creation of more mods like this one, please consider donating. All proceed go directly to the creator, and it helps me to continue making cool stuff.</p>\n<p><a href=\"https://ko-fi.com/edhelsereg\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://image.modcdn.io/members/aec0/49157408/profile/support_me_on_kofi_blue.png\" alt=\"\" width=\"247\" height=\"50\"></a></p>",
     "date_added": 1778107785,
-    "date_updated": 1788990022,
+    "date_updated": 1789377391,
     "date_live": 1778215997,
     "visible": 1,
     "status": 1,
@@ -156168,15 +156168,15 @@
         },
         {
           "platform": "mac",
-          "status": 3
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 3
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 3
+          "status": 0
         }
       ]
     },
@@ -156227,15 +156227,15 @@
     "platforms": [
       {
         "platform": "mac",
-        "modfile_live": 7857726
+        "modfile_live": 8141610
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7857726
+        "modfile_live": 8141610
       },
       {
         "platform": "ps5",
-        "modfile_live": 7857726
+        "modfile_live": 8141610
       },
       {
         "platform": "windows",
@@ -156698,7 +156698,7 @@
     "summary": "White ghost armor/camp clothing + weapon set. Includes Queen version.",
     "description": "<p>Armor/Camp Clothing and Weapon set of the White Ghost<br>fully dyeable<br>Supports BT1</p>\n<p>Commissioned by Kiosta270<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1778929897,
-    "date_updated": 1786318215,
+    "date_updated": 1789377879,
     "date_live": 1778930333,
     "visible": 1,
     "status": 1,
@@ -156728,15 +156728,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -156816,19 +156816,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8079163
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7742052
+        "modfile_live": 8079163
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7742052
+        "modfile_live": 8079163
       },
       {
         "platform": "ps5",
-        "modfile_live": 7742052
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8079163
       }
     ]
@@ -158804,7 +158804,7 @@
     "summary": "Adds the Forsaken Shard, a Longsword with a custom summon.",
     "description": "<p><span style=\"font-family:Georgia;\"><strong><span style=\"font-size:x-large;\"><span style=\"color:#87daff;\">P</span><span style=\"color:#88d4ff;\">a</span><span style=\"color:#89ceff;\">r</span><span style=\"color:#8ac8ff;\">t</span> <span style=\"color:#8dbcff;\">o</span><span style=\"color:#8eb6ff;\">f</span> <span style=\"color:#90abff;\">t</span><span style=\"color:#91a5ff;\">h</span><span style=\"color:#929fff;\">e</span> <span style=\"color:#9593ff;\">J</span><span style=\"color:#968dff;\">u</span><span style=\"color:#9787ff;\">l</span><span style=\"color:#9881ff;\">y</span> <span style=\"color:#9a75ff;\">2</span><span style=\"color:#9b6fff;\">0</span><span style=\"color:#9d69ff;\">2</span><span style=\"color:#9e63ff;\">6</span> <span style=\"color:#a058ff;\">M</span><span style=\"color:#a152ff;\">o</span><span style=\"color:#a24cff;\">d</span><span style=\"color:#a346ff;\">a</span><span style=\"color:#a540ff;\">t</span><span style=\"color:#a63aff;\">h</span><span style=\"color:#a734ff;\">o</span><span style=\"color:#a82eff;\">n</span></span></strong></span></p>\n<p><span style=\"font-family:Georgia;\"><span style=\"font-size:large;\">Created in collaboration with <a href=\"https://www.nexusmods.com/profile/Lyniara\"><strong>Lynia</strong></a><strong>.</strong></span></span></p>\n<p><span style=\"font-family:Georgia;\"><span style=\"font-size:large;\">This mod is also available on <a href=\"https://www.nexusmods.com/baldursgate3/mods/23627\">Nexus Mods</a>.<strong><br><br></strong></span></span><span style=\"font-family:Georgia;\"><br><span style=\"font-size:large;\">This mod adds <strong><span style=\"color:#87daff;\">F</span><span style=\"color:#8acdff;\">o</span><span style=\"color:#8cc0ff;\">r</span><span style=\"color:#8fb2ff;\">s</span><span style=\"color:#91a5ff;\">a</span><span style=\"color:#9498ff;\">k</span><span style=\"color:#968bff;\">e</span><span style=\"color:#997dff;\">n</span> <span style=\"color:#9e63ff;\">S</span><span style=\"color:#a056ff;\">h</span><span style=\"color:#a348ff;\">a</span><span style=\"color:#a53bff;\">r</span><span style=\"color:#a82eff;\">d</span></strong>, a Celestial and Shadow-themed Longsword, that allows you to summon a Celestial shadow to fight by your side. </span><br><span style=\"font-size:large;\">This mod is lore-friendly. Find more about how the sword came to be thanks to an old Decayed Journal you’ll find next to it.<br></span><br><br><br><span style=\"font-size:large;\"><strong>—🌕🌗🌑— <span style=\"color:#87daff;\">W</span><span style=\"color:#88d4ff;\">h</span><span style=\"color:#89cdff;\">e</span><span style=\"color:#8bc7ff;\">r</span><span style=\"color:#8cc1ff;\">e</span> <span style=\"color:#8eb4ff;\">t</span><span style=\"color:#90adff;\">o</span> <span style=\"color:#92a1ff;\">f</span><span style=\"color:#939aff;\">i</span><span style=\"color:#9494ff;\">n</span><span style=\"color:#968eff;\">d</span> <span style=\"color:#9881ff;\">F</span><span style=\"color:#997aff;\">o</span><span style=\"color:#9b74ff;\">r</span><span style=\"color:#9c6eff;\">s</span><span style=\"color:#9d67ff;\">a</span><span style=\"color:#9e61ff;\">k</span><span style=\"color:#9f5bff;\">e</span><span style=\"color:#a154ff;\">n</span> <span style=\"color:#a347ff;\">S</span><span style=\"color:#a441ff;\">h</span><span style=\"color:#a63bff;\">a</span><span style=\"color:#a734ff;\">r</span><span style=\"color:#a82eff;\">d</span> —🌑🌓🌕—</strong></span><br><br><span style=\"font-size:large;\">- <strong>Act 2</strong> : You will find Forsaken Shard and its accompanying Decayed Journal in the Shadowfell, right after completing Shar’s Gauntlet (see exact location in the mod images).</span><br><span style=\"font-size:large;\"><strong><br><br>—🌕🌗🌑— <span style=\"color:#87daff;\">S</span><span style=\"color:#89cfff;\">t</span><span style=\"color:#8bc3ff;\">a</span><span style=\"color:#8eb8ff;\">t</span><span style=\"color:#90acff;\">s</span> <span style=\"color:#9495ff;\">a</span><span style=\"color:#968aff;\">n</span><span style=\"color:#997eff;\">d</span> <span style=\"color:#9d67ff;\">S</span><span style=\"color:#9f5cff;\">p</span><span style=\"color:#a150ff;\">e</span><span style=\"color:#a445ff;\">l</span><span style=\"color:#a639ff;\">l</span><span style=\"color:#a82eff;\">s</span> —🌑🌓🌕—</strong></span><br><br><span style=\"font-size:large;\">Both Forsaken Shard itself and the attached Summon have custom stats and spells. Check the mod images to know more.</span><br><span style=\"font-size:large;\">Please also note that the Summon is compatible with photomode.</span><br></span><span style=\"font-size:large;\"><span style=\"font-family:Georgia;\"><strong><br><br>—🌕🌗🌑— <span style=\"color:#87daff;\">I</span><span style=\"color:#8acaff;\">n</span><span style=\"color:#8dbbff;\">s</span><span style=\"color:#90abff;\">t</span><span style=\"color:#939bff;\">a</span><span style=\"color:#968cff;\">l</span><span style=\"color:#997cff;\">l</span><span style=\"color:#9c6dff;\">a</span><span style=\"color:#9f5dff;\">t</span><span style=\"color:#a24dff;\">i</span><span style=\"color:#a53eff;\">o</span><span style=\"color:#a82eff;\">n</span> —🌑🌓🌕—</strong><br><br>It's fine to install this mod on existing saves, but uninstalling it mid playthrough is not recommended and could break your save.<br><br><br><strong>—🌕🌗🌑— <span style=\"color:#87daff;\">P</span><span style=\"color:#8ac9ff;\">e</span><span style=\"color:#8eb8ff;\">r</span><span style=\"color:#91a6ff;\">m</span><span style=\"color:#9495ff;\">i</span><span style=\"color:#9884ff;\">s</span><span style=\"color:#9b73ff;\">s</span><span style=\"color:#9e62ff;\">i</span><span style=\"color:#a150ff;\">o</span><span style=\"color:#a53fff;\">n</span><span style=\"color:#a82eff;\">s</span> —🌑🌓🌕—</strong><br><br>Please do not share or reupload.<br>Please ask before modifying the mod for personal use.<br>Credit is appreciated if you take pictures with the Forsaken Shard or its summon.<br><br><br>—🌕🌗🌑— <strong><span style=\"color:#87daff;\">C</span><span style=\"color:#8dbdff;\">r</span><span style=\"color:#92a1ff;\">e</span><span style=\"color:#9884ff;\">d</span><span style=\"color:#9d67ff;\">i</span><span style=\"color:#a34bff;\">t</span><span style=\"color:#a82eff;\">s</span></strong> —🌑🌓🌕—<br></span></span></p>\n<p><span style=\"font-size:large;\"><span style=\"font-family:Georgia;\">Item visuals by <a href=\"https://www.nexusmods.com/profile/Lyniara\">Lynia</a><br></span></span><span style=\"font-size:large;\"><span style=\"font-family:Georgia;\">Custom summon, spells and VFX by RevolutionScribe </span></span><br><br><br></p>\n<div>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br> </div>\n<div><strong><span style=\"font-size:large;\">F O R G O T T E N    A R M O U R Y</span></strong></div>\n<div><em><span style=\"font-size:small;\">Weapons forgotten by all, waiting for you to find them.</span></em></div>\n<div><em><span style=\"font-size:medium;\"> </span></em></div>\n<div><span style=\"font-size:medium;\"><strong>Part I - Forsaken Shard</strong></span></div>\n<div><span style=\"font-size:medium;\"><strong>Part II - <a href=\"https://mod.io/g/baldursgate3/m/ardeos-jawbone\">Ardeo's Jawbone</a></strong></span></div>\n<div><span style=\"font-size:medium;\"><strong>Part III - <a href=\"https://mod.io/g/baldursgate3/m/shifting-sands-staff-desert-mage-outfit#description\">Shifting Sands</a></strong></span></div>\n<div><span style=\"font-size:medium;\"><strong>Part IV - <a href=\"https://mod.io/g/baldursgate3/m/spineful#description\">Spineful</a><br></strong></span><span style=\"font-size:medium;\"><strong> </strong></span></div>\n<div>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</div>",
     "date_added": 1782838717,
-    "date_updated": 1785919796,
+    "date_updated": 1789377089,
     "date_live": 1782864102,
     "visible": 1,
     "status": 1,
@@ -158834,15 +158834,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -158912,19 +158912,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8023926
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7908988
+        "modfile_live": 8023926
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7908988
+        "modfile_live": 8023926
       },
       {
         "platform": "ps5",
-        "modfile_live": 7908988
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8023926
       }
     ]
@@ -159158,8 +159158,8 @@
     "summary": "adds a new armor set + camp clothing for BT1/BT2/BT3/BT4, TMTS and fem/mas Gith, fully dyeable!",
     "description": "<p> </p>\n<div>Armor - body slot</div>\n<p> </p>\n<div>boots - footwear slot</div>\n<p> </p>\n<div>also available for camp wear</div>\n<p> </p>\n<div>fully dyeable</div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div>the items are in the \"Vanitas Chest\", which can be found in the tutorial chesf.</div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div><strong>Races &amp; Body Types</strong></div>\n<p> </p>\n<div>Humans, Drow, Elves, Tieflings -  BT1 / BT2 / BT3 / BT4</div>\n<p> </p>\n<div>TMTS</div>\n<p> </p>\n<div>Githyanki - female &amp; male</div>\n<p> </p>\n<div>Dragonborn - fem&amp;masc</div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div><strong>Installation instructions</strong></div>\n<p> </p>\n<div>drop the file in BG3 MM - done!</div>\n<p> </p>\n<div> </div>\n<p> </p>\n<div><strong>The biggest and best supporters:</strong></div>\n<p> </p>\n<div>model belongs to Ubisoft</div>\n<p> </p>\n<div><a href=\"https://next.nexusmods.com/profile/khaleesinz?gameId=6945\">Mons</a>, <a href=\"https://next.nexusmods.com/profile/Petramalia\">Petra</a>, <a href=\"https://www.nexusmods.com/profile/onyx/mods\">Onyx</a>, <a href=\"https://next.nexusmods.com/profile/Grace455?gameId=6945\">Lucille</a>, <a href=\"https://next.nexusmods.com/profile/PBTrinity?gameId=6945\">PB-Trinity</a>, <a href=\"https://next.nexusmods.com/profile/wayward314\">Wayward </a>and <a href=\"https://next.nexusmods.com/profile/AnxietyTheOrk?gameId=6945\">Anxiety</a> - thank you for everything. &lt;3</div>",
     "date_added": 1783005267,
-    "date_updated": 1786464415,
-    "date_live": 1783005267,
+    "date_updated": 1789377928,
+    "date_live": 1789377922,
     "visible": 1,
     "status": 1,
     "dependencies": false,
@@ -159188,15 +159188,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -159291,19 +159291,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8085554
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7916815
+        "modfile_live": 8085554
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7916815
+        "modfile_live": 8085554
       },
       {
         "platform": "ps5",
-        "modfile_live": 7916815
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8085554
       }
     ]
@@ -159665,7 +159665,7 @@
     "summary": "Dynamic living hunt by the Absolute. Adaptive enemies, vengeful officers that return stronger, player-style adaptation, ceremorphosis transformations, NPC factions fighting back. Revenge system, dynamic ambushes and patrols. 100% Native, no SE.",
     "description": "<h2><span style=\"text-decoration:underline;\"><strong><em>Requiem for the Absolute</em></strong></span></h2>\n<p><strong>The Absolute has noticed you. Its army now travels the roads in search of your party, and it remembers what happens when it finds you.</strong></p>\n<p><img src=\"https://preview.redd.it/baldurs-gate-3-community-modathon-2026-v0-zkasywkmpnah1.png?width=800&amp;format=png&amp;auto=webp&amp;s=647dba47819af2db1b2110d618f843e6805df97e\" alt=\"CDN media\"></p>\n<h2><strong>Requiem for the Absolute: Introducing the Nemesis &amp; Rank System</strong></h2>\n<h2><strong>version 4.0.0 is live</strong></h2>\n<p>Version 4.0.0 adds a full hierarchy to the Absolute's army. Officers can now hold commissions, get promoted, keep their identity across encounters and move through the chain of command as the campaign changes.</p>\n<h2>The Ledger</h2>\n<p>The mod page now opens on the new Ledger, with configuration still available on the other tab. The Ledger shows the current chain of command: three Nemeses at the top, followed by seven officer commissions, up to three commanders sworn to vengeance, then the rest of the army.</p>\n<p>Each occupied position shows the actual creature holding it, with its portrait, name, rank and familiarity with your party. The rank and file are not tracked individually. As officers die, escape or get promoted, the Ledger updates with them.</p>\n<h2>Officer commissions</h2>\n<p>There are seven commissions, one for each branch of the army: The Herald's March, Goblin Warchiefs, True Souls, Hunters, Cult of Myrkul, Bhaalists and Mind Flayers.</p>\n<p>Each commission can only have one officer at a time, and they do not fill at the same rate. Goblin Warchiefs change hands often. Mind Flayer officers are much rarer and hold the highest commission.</p>\n<p>Officers also have full names now. Their given name and epithet come from their branch, so Goblins, Bhaalists, Mind Flayers and the other groups use different naming pools. Once an officer gets a name, it is theirs for the rest of the campaign.</p>\n<h2>Observers and promotions</h2>\n<p>Patrols can carry an observer, and ambushes and skirmishes can have one too. Observers do not fight. Once combat starts, they try to get away.</p>\n<p>If the observer escapes and delivers the report, the army can promote a new officer into an empty commission. If you do not want that promotion to happen, catch him.</p>\n<h2>The army changes during long rests</h2>\n<p>The hierarchy can move even when you are not fighting it. Reports can arrive, officers can be promoted, officers can fight each other, purges can remove them and commanders can be sent out after your party.</p>\n<p>The Ledger keeps the five most recent army events so you can see what changed. This means you can finish a long rest with a different chain of command than the one you had before it.</p>\n<h2>Rank abilities</h2>\n<p>Promotion changes what an officer can do in combat. Higher ranks can gain spells such as Counterspell, Shield, Misty Step and Cure Wounds, with the resources needed to use them.</p>\n<p>They can also receive tadpole powers including Force Tunnel, Stage Fright, Black Hole, Absorb Intellect, Fracture Psyche and Shield of Thralls. These abilities are visible when you Examine the officer.</p>\n<h2>Escaping commanders</h2>\n<p>There are now two different outcomes for commanders that get away.</p>\n<p>A commander that escapes alive is remembered and can return sworn to vengeance. A commander that downs a member of your party and escapes from that encounter gets Mission Complete. Mission Complete sends that commander directly to the top of the hierarchy as a Nemesis.</p>\n<p>Fleeing has also changed. Commanders no longer make a saving throw on their next turn and decide they are done fleeing. Once they break, they keep running. They are faster while escaping too, so if you want one dead, you have to catch it before it gets out.</p>\n<h2>Levels 1 to 3</h2>\n<p>No matter which difficulty you play on, enemies in Requiem's encounters keep Explorer health until your party reaches level 4. Only health is touched: feats, adaptations, officers and everything else arrive as normal. From level 4 the difficulty you chose applies again in full.</p>\n<h2> </h2>\n<h2>Minor fixes</h2>\n<p>Commanders no longer reroll their kit or epithet when another commander dies during the same fight.</p>\n<p>Commander names no longer show as Not Found after reloading a save. The name and the epithet are restamped when the save loads, so a playthrough that already lost them repairs itself on the next load.</p>\n<p>A hunt can no longer land on top of a conversation or a cutscene. If the party is busy the encounter waits and arrives once the scene is over, and a warband already walking towards you holds its ground instead of forcing combat in the middle of a dialogue.</p>\n<p>Changing an option in the mod menu during combat no longer applies Doctrine Resistance again to the band already on the field.</p>\n<p>The event ping no longer picks a leftover unit from the previous fight instead of the band that just arrived.</p>\n<p>Night raids no longer inherit the previous encounter's combat group and bring surviving stragglers into camp.</p>\n<p>Unit records are cleared when the unit dies instead of accumulating in the save.</p>\n<p>Named commander corpses are cleaned up normally.</p>\n<p>Returning officers no longer collect another copy of the same magic equipment every time they come back.</p>\n<p>The configuration screen now fits correctly on 4:3 and 16:10 displays. Longer descriptions should no longer be cut off.</p>\n<hr>\n<div style=\"text-align:center;\">\n<p>Give my guinea pigs a treat! 💜</p>\n<a title=\"Ko-Fi\" href=\"https://ko-fi.com/lukyrim/donate\"><img src=\"https://storage.ko-fi.com/cdn/useruploads/74257278-d31c-4626-a909-0eb86a375f2e_ed575b8b-23d3-4c71-837a-c136272df7f0.png\" alt=\"74257278-d31c-4626-a909-0eb86a375f2e_ed575b8b-23d3-4c71-837a-c136272df7f0.png\"></a><br>\n<p>Paypal</p>\n<p><a title=\"Paypal\" href=\"https://www.paypal.com/donate/?business=H5WTZJLPNKJYL&amp;no_recurring=0&amp;currency_code=USD\"> <img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" alt=\"Donate with PayPal\"> </a></p>\n</div>\n<h2>Description</h2>\n<p>Requiem puts a living hunt in the open world. Finish a Long Rest outside a sanctuary and the Absolute may send a warband after you. It waits for you out in the world when you come back from camp, never on top of your party. Kill its officers and the war escalates: hunts come more often, commanders arrive carrying names and fighting styles, and eventually the army comes looking for the fire you sleep next to.</p>\n<p>The army also has a chain of command. Seven officer commissions, three nemeses above them, and commanders sworn to vengeance below. Officers hold their names across encounters, get promoted, fight each other and die without you ever being there. You can read the whole thing in the Ledger.</p>\n<p>Everything runs on the game's own creatures, stat lines and scripting. No Script Extender.</p>\n<p>The main story is left alone. No vanilla record is replaced, no named story character is used, no scripted fight is touched. Requiem only adds to the open world.</p>\n<p>The next addition planned is a set of Legendary Commanders who will sit at the top of that hierarchy.</p>\n<hr>\n<h2>Installation instructions</h2>\n<p>Subscribe. The game does the rest.</p>\n<p>NMCM can be installed separately if you want to change Requiem's settings, but it is not required.</p>\n<p>New campaigns and saves already in progress both work. Requiem synchronises itself the next time the save is loaded, and updating during a playthrough works the same way.</p>\n<hr>\n<h2>Main features</h2>\n<p><strong>The army rolls for you after every Long Rest.</strong> The base chance is 20 percent, rising to 25, 30 and 40 as Attention grows. Every quiet rest adds 20 to the next roll, so silence ends on its own: four quiet nights at most, three once Attention is high. The pressure only clears when a warband actually finds you, so sitting in a sanctuary postpones the hunt instead of paying it off.</p>\n<p><strong>A hunt can also find you on the road.</strong> When a night passes quietly and a named commander is still waiting to come back, the army sends it after you instead of waiting for the next camp. It picks you up while you travel, arrives from a distance and marches in, so you get the same warning you would get from any patrol.</p>\n<p><strong>The army has a chain of command.</strong> Seven commissions, one for each branch: The Herald's March, the Goblin Warchiefs, the True Souls, the Hunters, the Cult of Myrkul, the Bhaalists and the Mind Flayers. Each holds one officer at a time, each fills at its own rate, and the Mind Flayer commission is the rarest of them. Above the commissions sit up to three nemeses, below them up to three commanders sworn to vengeance, and beneath all of it the rank and file, numberless and nameless.</p>\n<p><strong>The army moves while you sleep.</strong> Every Long Rest the officers deal with each other. Reports arrive from the field, commissions are filled, ranks rise, duels are fought, purges take the losers and commanders are sent out hunting. You can finish a rest with a different chain of command than the one you went to bed with, and the Ledger keeps the last five things that happened.</p>\n<p><strong>Every patrol may carry an observer.</strong> He watches, he does not fight, and when the shooting starts he runs. If his report reaches the army, someone you have never met takes an empty commission. Cut him down before he gets away and the promotion never happens. Ambushes and skirmishes can carry one too.</p>\n<p><strong>Sanctuaries are real.</strong> The Emerald Grove and Last Light Inn are safe, using the same area boundaries the game shows you, and so are nine smaller places: the Hideout, the Grove courtyard and the Druid vault in Act 1, the Myconid Colony in the Underdark, the Moonrise hub and its prison, and three areas of the Gauntlet of Shar.</p>\n<p><strong>Three kinds of hunt.</strong> Patrols make up 43 percent of them and walk in from a distance, so line of sight and positioning still matter. Ambushes are 20 percent, appear close and open with a genuine surprise round. Skirmishes are 37 percent: the Absolute attacks local defenders instead of you, and you can arrive mid battle, find the aftermath, or walk away. Your party starts neutral there, and whichever side you attack turns on you.</p>\n<p><strong>Attention never goes down.</strong> Killing a commander raises a permanent meter shown on the party portrait. Low Attention mostly changes how often you are hunted. Higher up, ordinary patrols give way to a fallen Death Knight with an honour guard, a stitched abomination walking beside its creator, or an entire undead court on the move.</p>\n<p><strong>Commanders grow with it.</strong> First they simply stop being easy to catch out, then they receive a given name and an epithet drawn from their own branch, so the goblin commission fields different names than the mind flayer commission. Elite units specialise: skeletal giants take up polearms, snipers stop depending on high ground, night blades strike and reposition. At the top, a warband can carry one specialist built to answer part of your build.</p>\n<p><strong>Rank buys ability, not bigger numbers.</strong> A promoted officer fights with a better version of its own mind, and higher up it carries what a character of your level would carry: Counterspell with the slot to pay for it, Shield, Misty Step, Cure Wounds. The Absolute also hands out tadpole powers as reward for rank, including Force Tunnel, Stage Fright, Black Hole, Absorb Intellect, Fracture Psyche and Shield of Thralls. Everything is named and readable when you Examine the officer.</p>\n<p><strong>Break the Mark.</strong> Nearly every warband is held together by one officer carrying the Mark. Kill the formation the ordinary way, or go for the officer and watch the dominated soldiers scatter, turn on their own or drop unconscious. Some encounters can end without killing every victim of the Absolute.</p>\n<p><strong>Officers run, and they come back two different ways.</strong> A wounded field commander can panic, take a name and flee for real, running and jumping away while you try to bring it down. Once it breaks it commits: no saving throw talks it out of running, and it moves fast enough that catching it is a decision you have to make. One that escapes alive returns sworn to vengeance. One that puts a member of your party on the ground and leaves in the same breath takes the harder road and goes straight to the top as a Nemesis. Either way it comes back healed and trained, resistant to whatever you used on it last time, carrying magic gear and potions it will actually drink, and often carrying illithid powers the Absolute handed out as a reward. Everything it carries can drop when it finally dies.</p>\n<p><strong>The army studies your habits.</strong> Lean on spells and a Silencer of the Absolute joins the hunt to smother your casting. Kill officers first and later ones arrive with a Markwarden absorbing half the damage aimed at them. Let one hero do most of the killing and a Doppelganger eventually shows up wearing that hero's face, gear and training. Repeat a damage type and future warbands resist it, up to two types, never immune, and the resistance falls with the Mark bearer.</p>\n<p><strong>The world fights back.</strong> Tiefling militia, Grove druids, the myconid colony, the defenders of Last Light and the Flaming Fist attack Absolute troops on sight. These are the game's own NPCs and the consequences stick: defenders can die. Goblins, cultists and other sympathisers stay out of it, and the garrison at Wyrm's Rock refuses to get involved.</p>\n<p><strong>The camp raid, if you want it.</strong> Switched off by default, one toggle in the menu. Once two commanders are dead the hunters can find your fire on any night: your party carries a visible warning first, the world goes quiet while it is armed, and then you wake up on your feet with the band already at the campfire. Story scenes always win, so a night the game has plans for is never taken. Win and the rest you paid for is given back to you for free, the bodies are gone by the next morning, and the camp stays quiet for two rests before any of it can happen again.</p>\n<p><strong>Levels 1 to 3 are a fight, not a wall.</strong> No matter which difficulty you play on, enemies in Requiem's encounters keep Explorer health until your party reaches level 4. Only health is touched: feats, adaptations, officers and everything else arrive as normal. From level 4 the difficulty you chose applies again in full.</p>\n<p><strong>A mod page inside the game.</strong> Two tabs on the NMCM page: the Ledger, which shows the chain of command as it stands, and Settings, with thirteen controls in five sections. Turn the encounter types on or off, set intensity and how fast Attention grows, choose commander rewards, switch individual adaptations off, and enable the camp raid. The defaults are the balance the mod ships with, so leaving the menu alone is a valid choice.</p>\n<p><strong>The whole campaign.</strong> Act 1 from the Grove out through the Blighted Village and the Risen Road, plus the Underdark, Grymforge, the mountain pass and Rosymorn Monastery. The Shadow Cursed Lands in Act 2, where some officers raise their own dead and rebuild a warband until you deal with them. Rivington, Wyrm's Crossing and the Lower City in Act 3, where Bhaalist cells fight for the Absolute under a Devastator or the Unholy Assassin. With a level cap mod installed it keeps going from 13 to 20, with a fallen Death Knight, a Mummy Lord and his court, a Hand of the Brain leading Mind Flayers, and an Infernal Executioner whose flaming greatsword you can loot. Without one, that tier simply stays asleep.</p>\n<p><strong>Tadpoles finish what they started.</strong> Some soldiers are close to maturity, and the game warns you before it happens, so you can kill the host first. A goblin is too small for ceremorphosis, so the tadpole tears free as an Intellect Devourer. A bugbear, hobgoblin or soldier of the Absolute becomes a Mind Flayer. A gnoll goes into a frenzy instead. In endgame fights an infected officer can turn into an Ulitharid.</p>\n<p><strong>Nothing hidden.</strong> Every ability has a name, an icon and a description you can read by examining the enemy. There are no invisible stat bumps and no silent rerolls. Every soldier uses a creature and stat line from the base game, picked for a sensible level band, so Explorer, Balanced, Tactician and Honour Mode change them exactly the way they change everything else.</p>\n<p><strong>It does not clutter your save.</strong> One hunt per rest at most. Survivors walk away on foot instead of standing around, corpses are cleaned up, and the largest special events stay under twenty units.</p>\n<hr>\n<h2>Requirements</h2>\n<p>Baldur's Gate 3, Patch 8 or later.</p>\n<p>NMCM is optional. Requiem works without it and will simply use the default settings. Install NMCM if you want the configuration menu or the Ledger.</p>\n<p>No Script Extender required.</p>\n<p>A level cap mod is optional. It is only needed for the level 13 to 20 encounter tiers, and for the Mind Flayer commission, whose officers only appear in those tiers.</p>\n<p>There is no special load order requirement. If you use NMCM, load it before Requiem.</p>\n<p>Requiem does not override vanilla records and is designed to work alongside other encounter and enemy mods.</p>\n<hr>\n<h2>FAQ</h2>\n<p><strong>Will it constantly interrupt me with fights or make my save much larger?</strong></p>\n<p>No. There can be at most one hunt after each rest. The frequency is deliberately limited. Survivors of a fight leave on foot instead of standing around, and anything left behind by a camp raid is cleared once you leave the camp.</p>\n<p><strong>How large are the encounters?</strong></p>\n<p>A normal warband contains one leader and a small group of soldiers. The largest special events use fewer than twenty units and appear only at high Attention.</p>\n<p><strong>Does the army change if I never fight it?</strong></p>\n<p>Yes. The hierarchy resolves at every Long Rest. Officers are promoted, duels are fought and purges happen whether or not a warband found you that night.</p>\n<p><strong>Do I need NMCM to get the hierarchy?</strong></p>\n<p>No. The chain of command runs either way. NMCM gives you the Ledger, which is where you read it, and the settings menu.</p>\n<p><strong>Is anywhere safe for resting?</strong></p>\n<p>Yes. Nine new safe zones where warbands will not spawn on you: the Hideout, the Grove courtyard and the Druid vault in Act 1, the Myconid Colony in the Underdark, and in Act 2 the Moonrise hub, its prison, and three areas of the Gauntlet of Shar.</p>\n<p><strong>Can I install it during an existing playthrough?</strong></p>\n<p>Yes. New content is synchronised the next time the save is loaded.</p>\n<p><strong>Can I update it during an existing playthrough?</strong></p>\n<p>Yes. New content is synchronised the next time the save is loaded.</p>\n<p><strong>Does it work in Honour Mode?</strong></p>\n<p>Yes. Enemies use the game's Honour Mode statistics, except during levels 1 to 3, where Requiem holds enemy health at Explorer values so the opening is playable. Ambushes still begin with a genuine surprise round.</p>\n<p><strong>Does it require a specific load order?</strong></p>\n<p>No. The mod does not override vanilla records and only declares its own base game dependency. Enable it normally.</p>\n<p><strong>Does it conflict with combat overhauls or other encounter mods?</strong></p>\n<p>It adds separate encounters using native content and was designed to coexist with other mods.</p>\n<p><strong>Do I need a level cap mod?</strong></p>\n<p>No. The Endgame tier activates only when characters reach the necessary levels. Without a level cap mod, it stays inactive and the normal Act 3 tiers remain available.</p>\n<p><strong>Can I uninstall it during a playthrough?</strong></p>\n<p>This is not recommended for any scripted mod. New hunts will stop, but warbands that already exist in the world may remain there.</p>\n<p><strong>Does it change the main story?</strong></p>\n<p>No. It only adds encounters to the open world.</p>\n<p><strong>Which languages are supported?</strong></p>\n<p>English, Português (Brasileiro), Français, Deutsch, Italiano and Español, fully localised.</p>\n<p> </p>\n<hr>\n<div>\n<h2><strong>A Note about Nemesis &amp; Rank System</strong></h2>\n<p>Requiem for the Absolute exists because of an idea other games got to first: an enemy that survives you should carry that with it. Shadow of Mordor and Shadow of War, built by Monolith Productions, are the deepest and most inventive version of that idea anyone has made, and they are the reason a lot of us went looking for it elsewhere. If the premise appeals to you, play them. Nothing here comes close to what they did.</p>\n<p>With that said, this is not a Shadow of Mordor mod, and it is not a port of anything. Requiem is built on Larian's own fiction. The Absolute's army already has a chain of command in the base game: True Souls answering to commanders, Mind Flayers above them, Goblin warchiefs and Bhaalist cells fighting under the same banner. That structure is already written. Requiem gives it mechanics, using the game's own creatures, stat lines and scripting, and nothing else.</p>\n<p> </p>\n<p><strong>The systems are my own:</strong></p>\n<p>Attention, a permanent escalation meter carried by your party and driven by the commanders you kill (original to this mod)</p>\n<p>Seven officer commissions, one for each branch of the army, each filling at its own rate (original to this mod)</p>\n<p>The Ledger, an in game record of the chain of command as it stands (inspired by the roster screens of grand strategy games)</p>\n<p>Adaptation, where the army answers your damage types, your casting and your best killer (original to this mod)</p>\n<p>The Mark, where one officer holds a warband together and killing it breaks the rest (original to this mod)</p>\n<p>Ceremorphosis, where infected soldiers mature into what their body allows (drawn from the base game's own fiction)</p>\n<p>An army that resolves itself during every Long Rest, whether or not it found you that night (original to this mod)</p>\n<p> </p>\n<p><strong>How it differs</strong></p>\n<p>The hunt runs the other way. In Shadow of Mordor you invade their world and climb their hierarchy. In Requiem the army leaves its world and comes into yours. There is nothing to assault and nowhere to conquer.</p>\n<p>Death is not the engine. Requiem never touches what happens when you lose a fight. There is no alternative death, no lost gear and no respawn. Officers rise because you kill their peers and because time passes, not because you fall.</p>\n<p>Nothing is procedurally generated. Every soldier and officer is a base game creature with a base game stat line, chosen by hand for its level band. Names are drawn from fixed pools written for each branch.</p>\n<p>No officer ever talks about you. There is no generated dialogue, no voice line and nothing that references what happened between you before. What an officer carries out of an encounter is written in its statistics, its gear and its resistances, and you read it by examining it.</p>\n<p>No domination and no followers. No soldier of the Absolute ever becomes yours, under any circumstances.</p>\n<p>No forts, no territory and no power centres. The hierarchy is a roster, not a map.</p>\n<p>No asset from any other game. Not one model, sound, line of text or line of code.</p>\n<p>Requiem is free, it uses only what Baldur's Gate 3 already ships, and it is offered with respect to the people who made the idea worth chasing.</p>\n</div>\n<hr>\n<h2>Tags</h2>\n<p>Dynamic Encounters, Living Hunt, Nemesis System, Officer Hierarchy, Revenge System, Adaptive Enemies, Vengeful Officers, Player Adaptation, Dynamic Ambushes, Patrols, Ceremorphosis, Illithid Transformations, Mark System, Native Mod, No Script Extender, Overworld Events, Difficulty Mod, Replayability, Absolute Army, Horror Elements, Living World, Tactical Combat, Camp Raid, Night Ambush, Doppelganger, Enemy Roster Variety, Fully Localised.</p>\n<p><strong>Requiem for the Absolute. The army was always doomed. Now it knows who you are, and it is looking for you.</strong></p>",
     "date_added": 1783185444,
-    "date_updated": 1788548155,
+    "date_updated": 1789377357,
     "date_live": 1783223216,
     "visible": 1,
     "status": 1,
@@ -159695,15 +159695,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -159778,19 +159778,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8175007
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7927750
+        "modfile_live": 8175007
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7927750
+        "modfile_live": 8175007
       },
       {
         "platform": "ps5",
-        "modfile_live": 7927750
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8175007
       }
     ]
