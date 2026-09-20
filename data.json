@@ -127533,6 +127533,134 @@
     ]
   },
   {
+    "id": 5054204,
+    "game_id": 6715,
+    "name": "CHAR's Erin Head",
+    "name_id": "erin-head-mod",
+    "summary": "A Standalone Head Mod for BT1 Elves, Half Elves, Drows and Humans",
+    "description": "<p><span style=\"font-size:x-large;\">✦ Mods Used In Screenshots ✦<br></span><a href=\"https://next.nexusmods.com/profile/Obscen1ty?gameId=3474\"><br></a>Blood Countess Armor by <a href=\"https://next.nexusmods.com/profile/Obscen1ty?gameId=3474\">Obscen1ty<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/9923\">Tasha's Cauldron of Outfits</a> by <a href=\"https://next.nexusmods.com/profile/tashaweeds?gameId=3474\">tashaweeds</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/7274\">Tasha's Cauldron of Hairstyles Pack 2</a> by <a href=\"https://next.nexusmods.com/profile/tashaweeds?gameId=3474\">tashaweeds</a><a href=\"https://www.nexusmods.com/baldursgate3/mods/16198\">Myky's Hairstyles</a> by <a href=\"https://next.nexusmods.com/profile/myky24?gameId=3474\">myky24<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/6674\">Jerinski's Alt Makeup</a> by <a href=\"https://www.nexusmods.com/baldursgate3/users/14040560\">jerinski</a></p>\n<p><span style=\"font-size:x-large;\">✦ Other Credits &amp; Special Thanks ✦<br><br></span>A HUGE thank you to everyone in the Faerun Fashionistas Discord for cheering me on and helping me out.<br><a href=\"https://www.patreon.com/c/kanut/home\">KaNut</a> for their demo video for sculpting heads &amp; exporting.<br><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4310\">Volno's Texture Toolbox (BG3 Shaders and Texture Editing Tools for Blender)</a> by <a href=\"https://next.nexusmods.com/profile/Volno?gameId=3474\">Volno</a><a href=\"https://next.nexusmods.com/profile/weeviljester?gameId=3474\"><br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/14364\">Lighty Lights and Photo Mode stuff</a> by <a href=\"https://next.nexusmods.com/profile/rakor1?gameId=3474\">rakor1</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/16242\">Poses of Plenty Vol. 1 - Poses for Photo Mode</a> by <a href=\"https://next.nexusmods.com/profile/lumad11?gameId=3474\">lumad11</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14474\">Pretty Particles</a> by <a href=\"https://next.nexusmods.com/profile/scarstarion?gameId=3474\">scarstarion<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/464\">BG3 Armature Tools for Blender</a> by <a href=\"https://next.nexusmods.com/profile/Aloija?gameId=3474\">Aloija</a></p>",
+    "date_added": 1751240480,
+    "date_updated": 1764338578,
+    "date_live": 1751241676,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/erin-head-mod",
+    "submitted_by": {
+      "id": 48057776,
+      "name_id": "charmods",
+      "username": "charmods",
+      "profile_url": "https://mod.io/u/charmods",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/03d4/48057776/crop_100x100/bg3_dx112026-08-2500-28-36_224.png"
+    },
+    "modfile": {
+      "id": 6518381,
+      "mod_id": 5054204,
+      "version": "1.0.0.7",
+      "filename": "chxr_erin_f2640eb0-b25d-f07d-0-eb8x.zip",
+      "changelog": null,
+      "date_added": 1751240926,
+      "date_updated": 0,
+      "date_scanned": 1751240994,
+      "filesize": 39442539,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "erin1.png",
+      "original": "https://image.modcdn.io/mods/bd5d/5054204/erin1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/bd5d/5054204/crop_320x180/erin1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/bd5d/5054204/crop_640x360/erin1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/bd5d/5054204/crop_1280x720/erin1.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "BG3 ModJam 2025",
+        "name_localized": "BG3 ModJam 2025",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6518381
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6518381
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6518381
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6518381
+      }
+    ]
+  },
+  {
     "id": 5055508,
     "game_id": 6715,
     "name": "ASE - Tall and Small (Visual)",
