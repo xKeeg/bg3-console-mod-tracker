@@ -77652,9 +77652,9 @@
     "name": "Duplication Chest",
     "name_id": "duplication-chest",
     "summary": "Duplication Chest Duplication Chest Gain a spell to summon a Duplication Chest at your location. Place items inside, close the chest, and they will be duplicated (except restricted items). All duplicated items can then be retrieved from the chest.",
-    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/duplicationchest.png\" alt=\"\" width=\"380\" height=\"380\"></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:x-large;\">Duplication Chest By SFR</span><br><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">This mod introduces the spell \"<strong>Summon Duplication Chest</strong>,\" allowing you to summon a magical chest with a unique enchantment to <strong>duplicate nearly any item you place inside.</strong> </span></p>\n<p><strong><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Stackable items, like potions, and non-stackable items, like weapons, can be duplicated up to a maximum of 99. </span></strong></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Certain items, such as <strong>gold, junk, cannot be duplicated to maintain game balance.</strong></span><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">To use, simply place items in the chest, close it, and the duplication magic activates, doubling the quantity or creating duplicates (up to 99) for each eligible item. </span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">The duplication can be used as many times you wish (up to 99).</span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\"> Only one Chest can be summoned at any time by any character in the Party.</span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">After a short or long rest, the chest will vanish, but any items inside will automatically transfer to your inventory<br><br>Duplicated Items are marked '<strong>Duplicated item</strong>' to differentiate them from the original</span></p>\n<p><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Designed for players looking to manage resources efficiently, this mod provides a balanced yet convenient way to boost supplies and experiment with gear. Summon, duplicate, and retrieve your items while preserving the challenge and immersion of the game!</span></p>\n<p><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
+    "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/duplicationchest.png\" alt=\"\" width=\"380\" height=\"380\"></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:x-large;\">Duplication Chest By SFR</span><br><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">This mod introduces the spell \"<strong>Summon Duplication Chest</strong>,\" allowing you to summon a magical chest with a unique enchantment to <strong>duplicate nearly any item you place inside.</strong> </span></p>\n<p><strong><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Stackable items, like potions, and non-stackable items, like weapons, can be duplicated up to a maximum of 99. </span></strong></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Certain items, such as <strong>gold, junk, cannot be duplicated to maintain game balance.</strong></span><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">To use, simply place items in the chest, close it, and the duplication magic activates, doubling the quantity or creating duplicates (up to 99) for each eligible item. </span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">The duplication can be used as many times you wish (up to 99).</span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\"> Only one Chest can be summoned at any time by any character in the Party.</span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">After a short or long rest, the chest will vanish, but any items inside will automatically transfer to your inventory<br><br>Duplicated Items are marked '<strong>Duplicated item</strong>' to differentiate them from the original<br><span style=\"color:#ffff00;\"><strong>new:</strong> Upon closing the chest, you will be prompted to <strong>repeat the last duplication up to 4 times.</strong></span><br></span></p>\n<p><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Designed for players looking to manage resources efficiently, this mod provides a balanced yet convenient way to boost supplies and experiment with gear. Summon, duplicate, and retrieve your items while preserving the challenge and immersion of the game!</span></p>\n<p><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
     "date_added": 1731609144,
-    "date_updated": 1759143082,
+    "date_updated": 1789987269,
     "date_live": 1731611030,
     "visible": 1,
     "status": 1,
@@ -77668,15 +77668,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 6799770,
+      "id": 8237059,
       "mod_id": 4485805,
-      "version": "7.0.8.10",
-      "filename": "duplicationchest_590a9f09-c640-gpay.zip",
-      "changelog": "Duplicated items are now correctly marked as duplicates instead of originals, along with some improvements and minor fixes.",
-      "date_added": 1758801175,
+      "version": "7.1.8.0",
+      "filename": "duplicationchest_590a9f09-c640-brm9.zip",
+      "changelog": "new: Upon closing the chest, you will be prompted to repeat the last duplication up to 4 times.\nadded descriptions to the spell and chest.",
+      "date_added": 1789987147,
       "date_updated": 0,
-      "date_scanned": 1758801325,
-      "filesize": 18245327,
+      "date_scanned": 1789987186,
+      "filesize": 18249353,
       "platforms": [
         {
           "platform": "windows",
@@ -77684,15 +77684,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -77737,10 +77737,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6799770
-      },
-      {
         "platform": "mac",
         "modfile_live": 6799770
       },
@@ -77751,6 +77747,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6799770
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8237059
       }
     ]
   },
