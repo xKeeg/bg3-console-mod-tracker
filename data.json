@@ -40081,9 +40081,9 @@
     "name": "Better Poison Equipment",
     "name_id": "better-poison-equipment",
     "summary": "Enhance your Poison builds! New Armor and Staff with new spells, new passives and feat, and rework of existing Poison-themed equipment.",
-    "description": "<p>Enhance your Poison builds! New Armor and Staff with new spells, new passives and feat, and rework of existing Poison-themed equipment.</p>\n<h2><span style=\"text-decoration:underline;\">List of features:</span></h2>\n<ol>\n<li>NEW ARMOR Necromancer's Robe with a NEW SPELL Absorb Poison (is Reaction like Absorb Elements), and a NEW PASSIVE Poison Adept. This armor is dropped by Balthazar. An upgraded version of the (also upgraded) Poisoner's Robe. Note: in the case of Warlocks, Absorb Poison restores 1 Warlock Spell Slot instead.<br><br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/necrorobe.2.png\" alt=\"\" width=\"300\" height=\"579\"><br><br></li>\n<li>NEW WEAPON Necromancer's Staff with NEW SPELL Poison Wave (has range of Cone of Cold). It's designed to be a viable melee weapon with the +1d4 Poison Damage and the ability to use Lacerate to cause bleed. This weapon is found in the chest inside Balthazar's Secret Room in Moonrise Towers (same place you find the Coldbrim Hat and where the Ritual Circle event with Gale can happen).<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/necrostaff.2.png\" alt=\"\" width=\"300\" height=\"472\"><br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/poisonwave.png\" alt=\"\" width=\"400\" height=\"358\"></li>\n<li>Added a NEW PASSIVE to Poisoner's Glove: Empowered Poison.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/gloves.png\" alt=\"\" width=\"400\" height=\"359\"><br><br></li>\n<li>Modified the Poisoner's Robe's passive Poison Trails so its power increases at level 6 and 11 (starts a at +1d4 Poison Damage, at level 6 becomes +1d6 and at level 11 becomes +1d8), and added the NEW PASSIVE Poison Adept to it.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/poisonrobe.1.png\" alt=\"\" width=\"350\" height=\"501\"></li>\n<li>Modified Necklace of Elemental Augmentation so it also includes Poison spells.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/necklace.png\" alt=\"\" width=\"400\" height=\"344\"><br><br></li>\n<li>Modified Ring of Elemental Infusion so it also includes Poison spells along with a correspondent Poison Infusion on your weapon.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/ring.png\" alt=\"\" width=\"400\" height=\"396\"></li>\n<li>Increased the healing amount from the Derivation Cloak when poisoning an enemy from 1d4 up to 2d4.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/cloak.png\" alt=\"\" width=\"400\" height=\"332\"><br><br></li>\n<li>NEW FEAT: Poison Adept. Does the same thing as the passive on the Robes (called Poison Adept: Equipment), but if you have both of them at the same time they stack to give you a new Condition (see screenshot below) Deadly Venom, which allows you to turn Poison Immunity into Poison Resistance (but not reduce it further).<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/poisonadeptfeat.1.png\" alt=\"\" width=\"400\" height=\"325\"><br><br></li>\n<li>NEW Condition/Buff: Deadly Venom. This condition can only be gained when the character has both the Feat ''Poison Adept: Feat'' AND the equipment passive ''Poison Adept: Equipment''. These features combine to give you Deadly Venom. Deadly Venom allows your spells and attacks to treat Poison Immunity as Poison Resistance (but not reduce it further). <strong>Does not affect inorganic creatures made of stone or metal nor inanimate objects.</strong><br><br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/deadlyvenom.2.png\" alt=\"\" width=\"400\" height=\"259\"><br><br></li>\n<li>Poisoner's Ring's Virulent Venom ability has been rebalanced. Now it's Once-Per-Short-Rest, its DC is no longer a fixed 14 and instead scales with your Spellcasting DC, instead of choosing 3 individual targets now you choose a small target area. To compensate, range has been reduced from 9m to 6m, and duration has been reduced from 10 turns to 6 turns.<br><br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/poisonerringvenom.png\" alt=\"\" width=\"400\" height=\"295\"></li>\n</ol>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
+    "description": "<p>Enhance your Poison builds! New Armor and Staff with new spells, new passives and feat, and rework of existing Poison-themed equipment.</p>\n<h2><span style=\"text-decoration:underline;\">List of features:</span></h2>\n<ol>\n<li>NEW ARMOR Necromancer's Robe with a NEW SPELL Absorb Poison (is Reaction like Absorb Elements), and a NEW PASSIVE Poison Adept. This armor is dropped by Balthazar. An upgraded version of the (also upgraded) Poisoner's Robe. Note: in the case of Warlocks, Absorb Poison restores 1 Warlock Spell Slot instead.<br><br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/necrorobe.2.png\" alt=\"\" width=\"300\" height=\"579\"><br><br></li>\n<li>NEW WEAPON Necromancer's Staff with NEW SPELL Poison Wave (has range of Cone of Cold). It's designed to be a viable melee weapon with the +1d4 Poison Damage and the ability to use Lacerate to cause bleed. This weapon is found in the chest inside Balthazar's Secret Room in Moonrise Towers (same place you find the Coldbrim Hat and where the Ritual Circle event with Gale can happen).<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/necrostaff.2.png\" alt=\"\" width=\"300\" height=\"472\"><br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/poisonwave.png\" alt=\"\" width=\"400\" height=\"358\"></li>\n<li>Added a NEW PASSIVE to Poisoner's Glove: Empowered Poison.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/gloves.png\" alt=\"\" width=\"400\" height=\"359\"><br><br></li>\n<li>Modified the Poisoner's Robe's passive Poison Trails so its power increases at level 6 and 11 (starts a at +1d4 Poison Damage, at level 6 becomes +1d6 and at level 11 becomes +1d8), and added the NEW PASSIVE Poison Adept to it.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/poisonrobe.1.png\" alt=\"\" width=\"350\" height=\"501\"></li>\n<li>Modified Necklace of Elemental Augmentation so it also includes Poison spells.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/necklace.png\" alt=\"\" width=\"400\" height=\"344\"><br><br></li>\n<li>Modified Ring of Elemental Infusion so it also includes Poison spells along with a correspondent Poison Infusion on your weapon.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/ring.png\" alt=\"\" width=\"400\" height=\"396\"></li>\n<li>Increased the healing amount from the Derivation Cloak when poisoning an enemy from 1d4 up to 2d4.<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/cloak.png\" alt=\"\" width=\"400\" height=\"332\"><br><br></li>\n<li>NEW FEAT: Poison Adept. Does the same thing as the passive on the Robes (called Poison Adept: Equipment), but if you have both of them at the same time they stack to give you a new Condition (see screenshot below) Deadly Venom, which allows you to turn Poison Immunity into Poison Resistance (but not reduce it further).<br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/poisonadeptfeat.1.png\" alt=\"\" width=\"400\" height=\"325\"><br><br></li>\n<li>NEW Condition/Buff: Deadly Venom. This condition can only be gained when the character has both the Feat ''Poison Adept: Feat'' AND the equipment passive ''Poison Adept: Equipment''. These features combine to give you Deadly Venom. Deadly Venom allows your spells and attacks to treat Poison Immunity as Poison Resistance (but not reduce it further). <strong>Does not affect inorganic creatures made of stone or metal nor inanimate objects.</strong><br><br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/deadlyvenom.2.png\" alt=\"\" width=\"400\" height=\"259\"><br><br></li>\n<li>Poisoner's Ring's Virulent Venom ability has been rebalanced. Now it's Once-Per-Short-Rest, its DC is no longer a fixed 14 and instead scales with your Spellcasting DC, instead of choosing 3 individual targets now you choose a small target area. To compensate, range has been reduced from 9m to 6m, and duration has been reduced from 10 turns to 6 turns.<br><br><img src=\"https://image.modcdn.io/mods/5ea6/4356365/poisonerringvenom.png\" alt=\"\" width=\"400\" height=\"295\"></li>\n</ol>\n<p> </p>\n<div><strong><span style=\"font-size:x-large;\">Enemy Compatibility</span></strong></div>\n<div> </div>\n<div>You can add Poison Adept to enemies easily by giving them the PoisonAdeptPassiveFeat and/or the PoisonAdeptPassiveEnemy (this last one is equivalent to them having a Poison Adept item equipped) with your mod of choice, like <a href=\"https://www.nexusmods.com/baldursgate3/mods/16217\">Absolute's Laboratory</a>. If the enemy has both passives, then they will get Deadly Venom as expected.</div>\n<div> </div>\n<div><strong><u>Note:</u></strong> if you are using my <a href=\"https://mod.io/g/baldursgate3/m/booming-blade-bugfix\">Booming Blade BUGFIX</a> mod, make sure to load this mod BEFORE that one.</div>\n<p> </p>\n<hr>\n<h2>Check out my other mods</h2>\n<p><a href=\"https://mod.io/g/baldursgate3/u/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\">My mod.io profile.</a></p>\n<p><a href=\"https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\">My NexusMods profile.</a></p>\n<hr>\n<h2>Tip/Support me on Ko-fi:</h2>\n<p>Remember to Endorse if you enjoyed the mod! And if you would like to <strong>tip/support my mod creation</strong> (click link) I would <em>highly</em> appreciate it:</p>\n<h3><a href=\"https://ko-fi.com/chizfreak\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>https://ko-fi.com/chizfreak</strong></a></h3>\n<p><a href=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-c32aed96ea31eb8ac4535159032e8b90-8zjyefwg.jpg\" alt=\"\" width=\"600\" height=\"300\"></a></p>\n<p> </p>",
     "date_added": 1727011425,
-    "date_updated": 1753285236,
+    "date_updated": 1790133568,
     "date_live": 1727014567,
     "visible": 1,
     "status": 1,
@@ -40097,15 +40097,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/6c74/1135184/crop_100x100/740365.png"
     },
     "modfile": {
-      "id": 6388981,
+      "id": 8241902,
       "mod_id": 4356365,
-      "version": "3.1.0.24",
-      "filename": "poisonequipmenttweaks_d638d904-0kjv.zip",
-      "changelog": "Revamped Poisoner's Ring's Virulent Venom ability. Now it's Once-Per-Short-Rest, its DC is no longer a fixed 14 and instead scales with your Spellcasting DC, instead of choosing 3 individual targets now you choose a small target area. To compensate, range has been reduced from 9m to 6m, and duration has been reduced from 10 turns to 6 turns.",
-      "date_added": 1747901913,
+      "version": "3.2.0.26",
+      "filename": "poisonequipmenttweaks_d638d904-br4f.zip",
+      "changelog": "Fine-tuned status flags of Poison Adept and Deadly Venom to avoid it being incorrectly removed when Long Resting. Fine-tuned Deadly Venom implementation for better performance. Added self-removal behaviour for the corresponding passives and statuses of Poison Adept and Deadly Venom's enemy counterparts so they can be used with Absolute's Laboratory mod.",
+      "date_added": 1790133369,
       "date_updated": 0,
-      "date_scanned": 1747901921,
-      "filesize": 798860,
+      "date_scanned": 1790133377,
+      "filesize": 799006,
       "platforms": [
         {
           "platform": "windows",
@@ -40113,15 +40113,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -40171,10 +40171,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6388981
-      },
-      {
         "platform": "mac",
         "modfile_live": 6388981
       },
@@ -40185,6 +40181,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6388981
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8241902
       }
     ]
   },
@@ -84815,7 +84815,7 @@
     "summary": "The unofficial community bug fix mod - Over 2000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 2000 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1789782519,
+    "date_updated": 1790129109,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -84829,15 +84829,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8227355,
+      "id": 8241711,
       "mod_id": 4561805,
-      "version": "4.7.4.1",
-      "filename": "itembugfix_010e73d5-9342-e528-dwe3.zip",
-      "changelog": "- Disguise Self can no longer be used to bypass restrictions on reactions that prevent usage while polymorphed, but reactions that would otherwise work properly while wild shaped can now be used normally (61 changed, 22 available for use in wild shapes)\n- Fighting Style: Defence no longer incorrectly provides an AC bonus while wild shaped when armor was worn previously\n- Draconic Resilience, Unarmoured Defence (Barbarian), Unarmoured Defence (Monk), Fast Movement, and Unarmoured Movement now correctly function while wild shaped, even if armor was worn previously\n- Elemental Affinity: Resistance now correctly only triggers on spells\n- Misty Escape 'Cloak of Mists' no longer incorrectly states it turns the caster invisible after casting Misty Step\n- Woyy now has the Arrow of Many Targets in his inventory instead of Arrow of Piercing, which is largely nonfunctional\n- Barbed Arrow now correctly displays \"Barbed Arrow\" in the combat log, and displays the number of turns of Ruptured on its tooltip\n- Arrow of Ilmater now follows standard conventions regarding applied conditions from items, and applies 2 turns of 'Arrow of Ilmater' that tick at the start of the affected creature's turn\n- Throwing the Orphic Hammer at the Infernal Crystals imprisoning Hope now breaks them\n- Indomitable is now correctly reset  when consuming a Potion of Angelic Slumber or when affected by Divine Intervention: Opulent",
-      "date_added": 1789782497,
+      "version": "4.7.5.1",
+      "filename": "itembugfix_010e73d5-9342-e528-c52g.zip",
+      "changelog": "- All boss passives are now flagged as Highlighted to guarantee they always display in the Notable Features list (7 changed)\n- The Emperor's Counterspell now actually works once per Short Rest\n- Shield from Magic Initiative: Sorcerer and Magic Initiate: Wizard no longer relies on custom resources, which should further improve compatibility with other mods and make this mod safer to remove mid-playthrough (if needed)\n-- The UUIDs for the custom resources remain in the code to prevent crashing for players who may have previously had them on their characters, but are no longer referenced\n- Heavy Armour Master now functions as close to the original intention as possible for the game engine, and reduces physical damage from non-spell sources\n-- Descriptions updated\n- Skeleton archers are now correctly proficient with their equipped heavy crossbows\n- Weapon actions from items now all correctly have their cooldowns set per item instead of per player (32 changed)\n-- Reverted prior changes to Potion of Angelic Slumber and Divine Intervention: Opulent Revival to reset items which grant additional resources\n- Danger Sense now correctly interacts with any Blind and Incapacitation condition\n- Code optimizations",
+      "date_added": 1790129090,
       "date_updated": 0,
-      "date_scanned": 1789782506,
-      "filesize": 1853397,
+      "date_scanned": 1790129101,
+      "filesize": 1853823,
       "platforms": [
         {
           "platform": "windows",
@@ -84951,7 +84951,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8227355
+        "modfile_live": 8241711
       }
     ]
   },
@@ -102306,10 +102306,10 @@
   {
     "id": 4824578,
     "game_id": 6715,
-    "name": "Spell Thief (Blue Mage Sub-Class)(P8)",
+    "name": "Spell Thief (Blue Mage Sub-Class)",
     "name_id": "spell-thief",
     "summary": "* Become more powerful than you can imagine",
-    "description": "<p>A Spell Thief is someone that has a preternatural talent for understanding the arcane arts. Able to understand the intricacies of a spell by simply observing it being cast, the very few that have this capability have to hide it because it terrifies the magical community. This talent, however, allows the Spell Thief to spend time that would otherwise be spent on learning the basics following other pursuits.<br><br>Spell Thief level-based upgrades are as follows:<br>- Level 1: <a href=\"https://bg3.wiki/wiki/Iron_Mind\">Iron Mind</a><br>- Level 3: <a href=\"https://bg3.wiki/wiki/Unarmoured_Defence_(Monk)\">Unarmored Defense</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Dextrous_Attacks\">Dextrous Unarmed Attacks</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Bonus_Unarmed_Strike\">Bonus Unarmed Strike</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Deft_Strikes\">Deft Strikes</a><br>- Level 5: <a href=\"https://bg3.wiki/wiki/Unarmoured_Movement\">Unarmored Movement</a><br>- Level 6: <a href=\"https://bg3.wiki/wiki/Fast_Hands\">Fast Hands</a><br>- Level 7: <a href=\"https://bg3.wiki/wiki/Hound_of_Ill_Omen\">Hound of Ill Omen</a><br>- Level 9: <a href=\"https://bg3.wiki/wiki/Magical_Ambush\">Magical Ambush</a><br>- Level 10: <a href=\"https://bg3.wiki/wiki/Controlled_Chaos\">Controlled Chaos</a><br>- Level 11: <a href=\"https://bg3.wiki/wiki/Advanced_Unarmoured_Movement\">Advanced Unarmored Movement</a><br><br>You may see a reaction popup if a nearby NPC/Player casts a spell. This allows you to either learn the spell, or blacklist and and (ideally) not be pestered about it.<br>You must see the spell being cast! (not a 100% thing, but supposed to work this way)<br>- The Clear Blacklist ability clears this blacklist, which will prompt you to learn spells you previously rejected if they are cast near you again.<br>- The Summon: *** Spell-Eater ability summons The Spell-Eater, which will eat (remove) any spells you have learned via observation if you cast the spell on it.<br>- The Focus ability allows you to focus on a single target and learn the next spell they cast. This has the side-effect of silencing them afterward.<br><br>Spells learned show up in the Common tab, not the Sorcerer tab.<br>I do recommend trying my <a href=\"https://mod.io/g/baldursgate3/m/gabes-sneak-attack\">Sneak Attack</a> mod with this subclass for a Ninja-Mage experience</p>",
+    "description": "<p>A Spell Thief is someone that has a preternatural talent for understanding the arcane arts. Able to understand the intricacies of a spell by simply observing it being cast, the very few that have this capability have to hide it because it terrifies the magical community. This talent, however, allows the Spell Thief to spend time that would otherwise be spent on learning the basics following other pursuits.<br><br>Spell Thief level-based upgrades are as follows:<br>- Level 1: <a href=\"https://bg3.wiki/wiki/Iron_Mind\">Iron Mind</a><br>- Level 3: <a href=\"https://bg3.wiki/wiki/Unarmoured_Defence_(Monk)\">Unarmored Defense</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Dextrous_Attacks\">Dextrous Unarmed Attacks</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Bonus_Unarmed_Strike\">Bonus Unarmed Strike</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Deft_Strikes\">Deft Strikes</a><br>- Level 5: <a href=\"https://bg3.wiki/wiki/Unarmoured_Movement\">Unarmored Movement</a><br>- Level 6: <a href=\"https://bg3.wiki/wiki/Fast_Hands\">Fast Hands</a><br>- Level 7: <a href=\"https://bg3.wiki/wiki/Hound_of_Ill_Omen\">Hound of Ill Omen</a><br>- Level 9: <a href=\"https://bg3.wiki/wiki/Magical_Ambush\">Magical Ambush</a><br>- Level 10: <a href=\"https://bg3.wiki/wiki/Controlled_Chaos\">Controlled Chaos</a><br>- Level 11: <a href=\"https://bg3.wiki/wiki/Advanced_Unarmoured_Movement\">Advanced Unarmored Movement</a><br><br>You may see a reaction popup if a nearby NPC/Player casts a spell. This allows you to either learn the spell, or blacklist and and (ideally) not be pestered about it.<br>You must see the spell being cast! (not a 100% thing, but supposed to work this way)<br>- The Clear Blacklist ability clears this blacklist, which will prompt you to learn spells you previously rejected if they are cast near you again.<br>- The Summon: *** Spell-Eater ability summons The Spell-Eater, which will eat (remove) any spells you have learned via observation if you cast the spell on it.<br>- The Focus ability allows you to focus on a single target and learn the next spell they cast. This has the side-effect of silencing them afterward.<br><br>Spells learned show up in the <strong>Common</strong> tab, not the Sorcerer tab.</p>",
     "date_added": 1742994196,
     "date_updated": 1789999959,
     "date_live": 1742995025,
@@ -102394,6 +102394,11 @@
       {
         "name": "Sorcerer",
         "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
         "date_added": 0
       },
       {
