@@ -102306,12 +102306,12 @@
   {
     "id": 4824578,
     "game_id": 6715,
-    "name": "Spell Thief (Blue Mage Sub-Class)(P8)",
+    "name": "Spell Thief (Blue Mage Sub-Class)",
     "name_id": "spell-thief",
     "summary": "* Become more powerful than you can imagine",
     "description": "<p>A Spell Thief is someone that has a preternatural talent for understanding the arcane arts. Able to understand the intricacies of a spell by simply observing it being cast, the very few that have this capability have to hide it because it terrifies the magical community. This talent, however, allows the Spell Thief to spend time that would otherwise be spent on learning the basics following other pursuits.<br><br>Spell Thief level-based upgrades are as follows:<br>- Level 1: <a href=\"https://bg3.wiki/wiki/Iron_Mind\">Iron Mind</a><br>- Level 3: <a href=\"https://bg3.wiki/wiki/Unarmoured_Defence_(Monk)\">Unarmored Defense</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Dextrous_Attacks\">Dextrous Unarmed Attacks</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Bonus_Unarmed_Strike\">Bonus Unarmed Strike</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Deft_Strikes\">Deft Strikes</a><br>- Level 5: <a href=\"https://bg3.wiki/wiki/Unarmoured_Movement\">Unarmored Movement</a><br>- Level 6: <a href=\"https://bg3.wiki/wiki/Fast_Hands\">Fast Hands</a><br>- Level 7: <a href=\"https://bg3.wiki/wiki/Hound_of_Ill_Omen\">Hound of Ill Omen</a><br>- Level 9: <a href=\"https://bg3.wiki/wiki/Magical_Ambush\">Magical Ambush</a><br>- Level 10: <a href=\"https://bg3.wiki/wiki/Controlled_Chaos\">Controlled Chaos</a><br>- Level 11: <a href=\"https://bg3.wiki/wiki/Advanced_Unarmoured_Movement\">Advanced Unarmored Movement</a><br><br>You may see a reaction popup if a nearby NPC/Player casts a spell. This allows you to either learn the spell, or blacklist and and (ideally) not be pestered about it.<br>You must see the spell being cast! (not a 100% thing, but supposed to work this way)<br>- The Clear Blacklist ability clears this blacklist, which will prompt you to learn spells you previously rejected if they are cast near you again.<br>- The Summon: *** Spell-Eater ability summons The Spell-Eater, which will eat (remove) any spells you have learned via observation if you cast the spell on it.<br>- The Focus ability allows you to focus on a single target and learn the next spell they cast. This has the side-effect of silencing them afterward.<br>- Mirrored Casting will temporarily turn you into the character you learned the spell you are casting from.<br><br>Spells learned show up in the <strong>Common</strong> tab, not the Sorcerer tab.</p>",
     "date_added": 1742994196,
-    "date_updated": 1790158980,
+    "date_updated": 1790164401,
     "date_live": 1742995025,
     "visible": 1,
     "status": 1,
@@ -102325,15 +102325,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
     },
     "modfile": {
-      "id": 6795293,
+      "id": 8242550,
       "mod_id": 4824578,
-      "version": "1.0.0.205",
-      "filename": "spellthief_9632659b-dbb1-e765-6y20.zip",
-      "changelog": "* Fixed Psychic Strain (still not 100% sure it was broken)\n* You will now be prompted to learn a spell after it is cast, not before.",
-      "date_added": 1758622719,
+      "version": "1.0.0.234",
+      "filename": "spellthief_9632659b-dbb1-e765-29ag.zip",
+      "changelog": "* Multiple players can now be Spell Thieves at the same time. See notes for the single known issue with this change.\n* The Mirrored Casting passive has been added, which will transform you into the caster you originally learned the spell from for a short time when you cast a learned spell. This is for funsies only and is not intended to add any new abilities etc.\n* Blacklists for characters that respec out of Spell Thief will be reset.",
+      "date_added": 1790164371,
       "date_updated": 0,
-      "date_scanned": 1758622761,
-      "filesize": 17988652,
+      "date_scanned": 1790164446,
+      "filesize": 17993120,
       "platforms": [
         {
           "platform": "windows",
@@ -102341,15 +102341,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -102469,10 +102469,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6795293
-      },
-      {
         "platform": "mac",
         "modfile_live": 6795293
       },
@@ -102483,6 +102479,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6795293
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8242550
       }
     ]
   },
