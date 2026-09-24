@@ -11953,10 +11953,10 @@
     "game_id": 6715,
     "name": "Jerinski's Alt Hairs",
     "name_id": "jerinskis-alt-hairs",
-    "summary": "Mohawky mashups for all races and body types.",
-    "description": "<p style=\"text-align:center;\"><strong>Update 21.04.2025</strong></p>\n<p style=\"text-align:center;\">Added another variant of Mighty Booyahg: has all accessories except the plate/headband.</p>\n<p style=\"text-align:center;\">Removed the dependency for P4 Horn, Makeup, Lip, and Tattoo, however if you wish to tint the accessories of the Booyahg hairs, it is still needed to open up the menu for non-tiefs.</p>\n<p> </p>\n<hr>\n<p> </p>\n<p>Adds 29 various goblin and gith based mohawks and undercut hairs. They are autosnapping and will work on all races and body types.</p>\n<p> </p>\n<hr>\n<p> </p>\n<p>For a list of mods used in the images, check out the <a href=\"https://www.nexusmods.com/baldursgate3/mods/4163\" target=\"_blank\" rel=\"noopener noreferrer\">page description of this mod on Nexus</a></p>",
+    "summary": "Many mohawky mashups for all races and body types.",
+    "description": "<p style=\"text-align:center;\"><strong>Update 24.09.2026</strong></p>\n<p style=\"text-align:center;\">Added 4 new hairs: Murderelf, Cybershart, Fey Frisur, and Wet Cat.</p>\n<p style=\"text-align:center;\">Fixed broken physics on Gobbohawk hairs by simply removing said physics. They weren't needed anyway.</p>\n<p> </p>\n<hr>\n<p> </p>\n<p>Adds <del>29</del> a lot of various goblin and gith based mohawks and undercut hairs. They are autosnapping and will work on all races and body types.</p>\n<p> </p>\n<hr>\n<p> </p>\n<p>For a list of mods used in the images, check out the <a href=\"https://www.nexusmods.com/baldursgate3/mods/4163\" target=\"_blank\" rel=\"noopener noreferrer\">page description of this mod on Nexus</a></p>",
     "date_added": 1725518706,
-    "date_updated": 1745407238,
+    "date_updated": 1790283060,
     "date_live": 1725519474,
     "visible": 1,
     "status": 1,
@@ -11970,30 +11970,18 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/9d1a/32522086/crop_100x100/frog.png"
     },
     "modfile": {
-      "id": 6298557,
+      "id": 8246854,
       "mod_id": 4317381,
-      "version": "2.0.4.21",
-      "filename": "alt-hairs_0f86b73c-928c-033f-6-egrk.zip",
-      "changelog": "Removed p4 horn colors dependency - however if you wish to recolor the Booyahg accessories it is still needed to access horn colors for non-tiefs.\nAdded another variant of the Booyahg hair, without the plate thing on the back.\nPatch 8 ready.",
-      "date_added": 1745267017,
+      "version": "2.0.5.31",
+      "filename": "alt-hairs_0f86b73c-928c-033f-6-eht9.zip",
+      "changelog": "Added 4 new hairs: Murderelf, Cybershart, Fey Frisur, and Wet Cat.\nFixed broken physics on Gobbohawk hairs by removing them altogether.",
+      "date_added": 1790282589,
       "date_updated": 0,
-      "date_scanned": 1745267139,
-      "filesize": 72623063,
+      "date_scanned": 1790282748,
+      "filesize": 84880987,
       "platforms": [
         {
           "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
           "status": 1
         }
       ]
@@ -12089,10 +12077,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 6298557
-      },
-      {
         "platform": "mac",
         "modfile_live": 6298557
       },
@@ -12103,6 +12087,10 @@
       {
         "platform": "ps5",
         "modfile_live": 6298557
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8246854
       }
     ]
   },
