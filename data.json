@@ -69040,7 +69040,7 @@
   {
     "id": 4447185,
     "game_id": 6715,
-    "name": "ShadowDomain",
+    "name": "Shadow Domain Cleric",
     "name_id": "shadowdomain",
     "summary": "A custom cleric domain built around being obscured and dealing necrotic damage. Likely a bit stronger than most base game domains, but hopefully not too overpowered.",
     "description": "<p>A custom cleric domain built around being obscured and dealing necrotic damage.</p>\n<h2><strong>Proficiencies</strong></h2>\n<ul>\n<li>Scimitars, Shortswords, Longbows</li>\n<li>Expertise in 2 out of Sleight of Hand, Stealth and Deception (Doesn't require proficiency in those skills)</li>\n</ul>\n<h2>Domain Spells</h2>\n<ol>\n<li>Disguise Self, Hex</li>\n<li>Darkness, Invisibility</li>\n<li>Vampiric Touch, Hunger of Hadar</li>\n<li>Blight, Greater Invisibility</li>\n<li>Cloudkill, Destructive Wave</li>\n</ol>\n<h2>Subclass Features</h2>\n<h3>Level 1</h3>\n<h4>Umbral Assault</h4>\n<p>While obscured, weapon attacks deals 1d6 bonus Necrotic damage.</p>\n<h3>Level 2</h3>\n<h4>Channel Divinity: Shadow Bolt</h4>\n<p>Ranged projectile attack that deals 1d8 Necrotic damage per character level to one target, blinding it for 2 turns if it fails a Constitution saving throw.</p>\n<h4>Born into Darkness</h4>\n<p>Grants 24m darkvision, ability to see through magical and nonmagical darkness and immunity to blindness.</p>\n<h3>Level 6</h3>\n<h4>Unseen Strike</h4>\n<p>Melee attack that deals normal weapon damage. Costs a reaction instead of an action and can only be used while obscured.</p>\n<h3>Level 8</h3>\n<h4>Improved Umbral Assault</h4>\n<p>Umbral Assault now deals 1d8 damage plus additional damage equal to your Wisdom modifer.</p>\n<h4>Disciple of Shadows</h4>\n<p>Spells and attacks that deals Necrotic damage deals bonus damage equal to your Wisdom modifer, and all your Necrotic damage ignores resistance.</p>",
@@ -83239,7 +83239,7 @@
     "name": "Ghost's Deck Of Many Feats (v7.4)",
     "name_id": "ghosts-deck-of-many-feats",
     "summary": "This Mod add more than 40 Feats",
-    "description": "<p><strong>1.Close fighter</strong><br><em>Can use reaction to hit anyone who enter your range</em></p>\n<p><strong>2.Spellcaster Expert</strong><br><em>+5 spell save DC</em></p>\n<p><strong>3.Master of Archery</strong><br><em>+5 archery</em></p>\n<p><strong>4.Critical Expert</strong><br><em>-3 roll to CRIT</em></p>\n<p><strong>5.Sword Master</strong><br><em>+5 sword</em></p>\n<p><strong>6.Reactive</strong><br><em>- you can do 3 reactions</em><br><em>+3 initiative</em></p>\n<p><strong>7.Fast hands</strong><br><em>It gives you a passive extra bonus action</em></p>\n<p><strong>8.Extra action</strong><br><em>It gives you a passive extra action</em></p>\n<p><strong>9.Slayer of the weak</strong><br><em>Can use riposte as a reaction if the enemy miss you</em></p>\n<p><strong>10.Not Dead Yet</strong><br><em>Once per battle you die you return with 1 Hit Point</em></p>\n<p><strong>11.Death Essence</strong><br><em>Every time you kill someone you heal </em><br><em>1d12 Hit Points</em></p>\n<p><strong>12.Talking one</strong><br><em>you really enjoy talking with every creature dead or alive</em><br><em>+2 charisma</em><br><em>+5 persuasion</em></p>\n<p><em>+speak with dead</em><br><em>+speak with animals</em></p>\n<p><strong>13. Exceptional Mind </strong></p>\n<p>Can chose one of the effects to your Character</p>\n<ul>\n<li><strong>BurningMind</strong><br>You can deal a 1d4 fire damage + charisma</li>\n<li><strong>Cold Mind</strong><br>You can deal a 1d4 ice damage + intelligence</li>\n<li><strong>Eletric Mind</strong><br>You can deal a 1d4 lightning damage + dexterity</li>\n<li><strong>Dark Mind</strong><br>You can deal a 1d4 necrotic damage +con</li>\n<li><strong>Strong Mind</strong><br>You can deal a 1d4 force damage +strengh</li>\n<li><strong>DivineMind</strong><br>You deal a 1d4 radiant damage + wisdom</li>\n</ul>\n<p><strong>14.Body Guard</strong><br><em>+2 Ac class</em></p>\n<p><strong>15.What a joke</strong><br><em>Every time you misses an enemy within melee range it gets hideous laughter</em></p>\n<p><strong>16.Dumb luck</strong><br><em>You are just very lucky for no reason</em></p>\n<p><em>It gain a d4 on checks</em></p>\n<p><strong>17.Battlemage</strong><br><em>Every time you hit an enemy you get +2 arcane acuity</em></p>\n<p><strong>18.Hit and Run</strong><br><em>On CRIT you cause prone to the target, and also gain +3 momentum</em></p>\n<p><strong>19.Assassins Frenzy</strong><br><em>Once per turn you kill a target you get 1 extra action</em></p>\n<p><strong>20.Eagle vision</strong><br><em>+20 perception</em><br><em>+20 survival</em></p>\n<p><strong>21.Erudite scholar</strong><br><em>+10 religion +10 history +10 arcane +10 Medicine</em></p>\n<p>Can make double potions</p>\n<p><strong>22. Drinking Problem</strong><br><em>Deal a passive D4 fire Damage</em><br><em>Deal one more D4 fire and thunder damage while drunk.</em></p>\n<p><strong>23. NoOne</strong></p>\n<p><em>While Shapeshifting, you gain +5 Deception +5 Persuasion +5 performance.</em></p>\n<p><strong>24. Mind Reader</strong><br><em>Enemies have disadvantages against you, and you gain 1d4 on attack Rolls</em><br><em>Can always cast Detect Thoughts </em></p>\n<p><strong>25. Combat Agility</strong><br><em>Can dash, Sneak and disengage with a bonus action </em></p>\n<p><strong>26. Defensive Parry</strong><br>Can reduce the damage you receive by 1d12, it costs a reaction point</p>\n<p><strong>27. Pride of the guild</strong><br><em>+10 Stealth</em><br><em>+10 Sleight of hand</em></p>\n<p><strong>28. Magic Restoration </strong><br><em>You can always restore empty spell slots</em><br><em>(only spells that you have consumed)</em></p>\n<p><strong>29. Ki restoration</strong><br><em>You can always restore your kit points</em><br><em>(only ki points that you have consumed)</em></p>\n<p><strong>30. Animage</strong></p>\n<p><em>Can chose one of the creatures to always transform into</em></p>\n<ul>\n<li><strong>Cat, </strong><strong>Spider, </strong><strong>Raven, </strong><strong>Wolf, Dilofosaurus, Panther, SaberTooth, Bear, OwlBear and others</strong></li>\n</ul>\n<p><strong>31.Flying Ability</strong></p>\n<ul>\n<li>Angelic ascension</li>\n<li>Devilish Descent<br><br></li>\n</ul>\n<p><strong>32.The Hidden One</strong><br>can always become invisible with a bonus action</p>\n<p><strong>32.Dimensional Traveler</strong></p>\n<ul>\n<li>You can always teleport as bonus action</li>\n<li>You can always cast a dimensional door using an action and a bonus action</li>\n<li>you can always hide himself in other plane</li>\n</ul>\n<p><strong>33.Multiple Targets</strong><br>Your arrows now hit three enemies at a time.</p>\n<p> </p>\n<p><strong>And more... A lot more... xD</strong></p>\n<p> </p>\n<p>(PS.) So... I still can add more feats, but not every feat that you guys suggest will get in the game... Enjoy what we already created together. =D</p>\n<p>Change log?</p>\n<div> </div>\n<div>Yeah now i'm trying to do a change log...</div>\n<div> </div>\n<div>(Version 7.4)</div>\n<div>Cursed presence</div>\n<div>+ New elemental type of curse: Force</div>\n<div> </div>\n<div>Exceptional Mind</div>\n<div>+ Fixed necrotic damage that was not showing up on the feat selection. </div>\n<div> </div>\n<div>Better Magic restoration</div>\n<div>\n<ul>\n<li>*fixed Bardic restoration that was not restoring</li>\n<li>*change the animation (way cooler now)</li>\n<li>*better Magic Restoration now restores all your allies in a 12m range</li>\n<li>*magic Restoration also restores short and long rest actions (But only on self)</li>\n</ul>\n</div>\n<div>Ki restoration</div>\n<div>*now restore 100% Ki points even when you have more than 10 ki points</div>\n<div>+Now It gives you also 10 ki points extra.</div>\n<div> </div>\n<div>(Version 7.a.1)</div>\n<div> </div>\n<div>exmind\n<div>*dark Mind Description is now scaling with constitution<br>+Now all Exmind damages works with transformations... thanks to our user <a href=\"https://mod.io/g/baldursgate3/u/itachibaiii\">itachibaiii</a> that sent me the code for that.</div>\n<div> </div>\n<div>Cursed mind</div>\n<div>*description is now actually describing what it does.</div>\n<div>-Is It is now a 25m range instead of 100m</div>\n<div> </div>\n<div>Legend Of fang</div>\n<div>*legend Of Fang Spell now has its own name instead of ''karsic weave.''</div>\n</div>\n<div> </div>\n<div> </div>",
+    "description": "<p><strong>1.Close fighter</strong><br><em>Can use reaction to hit anyone who enter your range</em></p>\n<p><strong>2.Spellcaster Expert</strong><br><em>+5 spell save DC</em></p>\n<p><strong>3.Master of Archery</strong><br><em>+5 archery</em></p>\n<p><strong>4.Critical Expert</strong><br><em>-5 roll to CRIT</em></p>\n<p><strong>5.Sword Master</strong><br><em>+5 sword</em></p>\n<p><strong>6.Reactive</strong><br><em>- you can do 5 reactions</em><br><em>+3 initiative</em></p>\n<p><strong>7.Fast hands</strong><br><em>It gives you a passive extra bonus action</em></p>\n<p><strong>8.Extra action</strong><br><em>It gives you a passive extra action</em></p>\n<p><strong>9.Slayer of the weak</strong><br><em>Can use riposte as a reaction if the enemy miss you</em></p>\n<p><strong>10.Not Dead Yet</strong><br><em>Once per battle you die you return with 1 Hit Point</em></p>\n<p><strong>11.Death Essence</strong><br><em>Every time you kill someone you heal </em><br><em>1d12 Hit Points</em></p>\n<p><strong>12.Talking one</strong><br><em>you really enjoy talking with every creature dead or alive</em><br><em>+2 charisma</em><br><em>+5 persuasion</em></p>\n<p><em>+speak with dead</em><br><em>+speak with animals</em></p>\n<p><strong>13. Exceptional Mind </strong></p>\n<p>Can chose one of the effects to your Character</p>\n<ul>\n<li><strong>BurningMind</strong><br>You can deal a 1d8 fire damage + charisma</li>\n<li><strong>Cold Mind</strong><br>You can deal a 1d8 ice damage + intelligence</li>\n<li><strong>Eletric Mind</strong><br>You can deal a 1d8 lightning damage + dexterity</li>\n<li><strong>Dark Mind</strong><br>You can deal a 1d8 necrotic damage +con</li>\n<li><strong>Strong Mind</strong><br>You can deal a 1d8 force damage +strengh</li>\n<li><strong>DivineMind</strong><br>You deal a 1d8 radiant damage + wisdom</li>\n</ul>\n<p><strong>14.Body Guard</strong><br><em>+2 Ac class</em></p>\n<p><strong>15.What a joke</strong><br><em>Every time you misses an enemy within melee range it gets hideous laughter</em></p>\n<p><strong>16.Dumb luck</strong><br><em>You are just very lucky for no reason</em></p>\n<p><em>It gain a d4 on checks</em></p>\n<p><strong>17.Battlemage</strong><br><em>Every time you hit an enemy you get +2 arcane acuity</em></p>\n<p><strong>18.Hit and Run</strong><br><em>On CRIT you cause prone to the target, and also gain +3 momentum</em></p>\n<p><strong>19.Assassins Frenzy</strong><br><em>Once per battle you get 1 extra action</em></p>\n<p><strong>20.Eagle vision</strong><br><em>+20 perception</em><br><em>+20 survival</em></p>\n<p><strong>21.Erudite scholar</strong><br><em>+10 religion +10 history +10 arcane +10 Medicine</em></p>\n<p>Can make double potions</p>\n<p><strong>22. Drinking Problem</strong><br><em>Deal a passive D4 fire Damage</em><br><em>Deal one more D4 fire and thunder damage while drunk.</em></p>\n<p><strong>23. NoOne</strong></p>\n<p><em>While Shapeshifting, you gain +5 Deception +5 Persuasion +5 performance.</em></p>\n<p><strong>24. Mind Reader</strong><br><em>Enemies have disadvantages against you, and you gain 1d4 on attack Rolls</em><br><em>Can always cast Detect Thoughts </em></p>\n<p><strong>25. Combat Agility</strong><br><em>Can dash, Sneak and disengage with a bonus action </em></p>\n<p><strong>26. Defensive Parry</strong><br>Can reduce the damage you receive by 1d12, it costs a reaction point</p>\n<p><strong>27. Pride of the guild</strong><br><em>+15 Stealth</em><br><em>+15 Sleight of hand</em></p>\n<p><strong>28. Magic Restoration </strong><br><em>You can always restore empty spell slots</em><br><em>(only spells that you have consumed)</em></p>\n<p><strong>29. Ki restoration</strong><br><em>You can always restore your kit points</em><br><em>(only ki points that you have consumed)</em></p>\n<p><strong>30. Animage</strong></p>\n<p><em>Can chose one of the creatures to always transform into</em></p>\n<ul>\n<li><strong>Cat, </strong><strong>Spider, </strong><strong>Raven, </strong><strong>Wolf, Dilofosaurus, Panther, SaberTooth, Bear, OwlBear and others</strong></li>\n</ul>\n<p><strong>31.Flying Ability</strong></p>\n<ul>\n<li>Angelic ascension</li>\n<li>Devilish Descent<br><br></li>\n</ul>\n<p><strong>32.The Hidden One</strong><br>can always become invisible with a bonus action</p>\n<p><strong>32.Dimensional Traveler</strong></p>\n<ul>\n<li>You can always teleport as bonus action</li>\n<li>You can always cast a dimensional door using an action and a bonus action</li>\n<li>you can always hide himself in other plane</li>\n</ul>\n<p><strong>33.Multiple Targets</strong><br>Your arrows now hit three enemies at a time.</p>\n<p> </p>\n<p><strong>And more... A lot more... xD</strong></p>\n<p> </p>\n<p>(PS.) So... I still can add more feats, but not every feat that you guys suggest will get in the game... Enjoy what we already created together. =D</p>\n<p>Change log?</p>\n<div> </div>\n<div>Yeah now i'm trying to do a change log...</div>\n<div> </div>\n<div>(Version 7.4)</div>\n<div>Cursed presence</div>\n<div>+ New elemental type of curse: Force</div>\n<div> </div>\n<div>Exceptional Mind</div>\n<div>+ Fixed necrotic damage that was not showing up on the feat selection. </div>\n<div> </div>\n<div>Better Magic restoration</div>\n<div>\n<ul>\n<li>*fixed Bardic restoration that was not restoring</li>\n<li>*change the animation (way cooler now)</li>\n<li>*better Magic Restoration now restores all your allies in a 12m range</li>\n<li>*magic Restoration also restores short and long rest actions (But only on self)</li>\n</ul>\n</div>\n<div>Ki restoration</div>\n<div>*now restore 100% Ki points even when you have more than 10 ki points</div>\n<div>+Now It gives you also 10 ki points extra.</div>\n<div> </div>\n<div>(Version 7.a.1)</div>\n<div> </div>\n<div>exmind\n<div>*dark Mind Description is now scaling with constitution<br>+Now all Exmind damages works with transformations... thanks to our user <a href=\"https://mod.io/g/baldursgate3/u/itachibaiii\">itachibaiii</a> that sent me the code for that.</div>\n<div> </div>\n<div>Cursed mind</div>\n<div>*description is now actually describing what it does.</div>\n<div>-Is It is now a 25m range instead of 100m</div>\n<div> </div>\n<div>Legend Of fang</div>\n<div>*legend Of Fang Spell now has its own name instead of ''karsic weave.''</div>\n</div>\n<div> </div>\n<div> </div>",
     "date_added": 1733664975,
     "date_updated": 1790636288,
     "date_live": 1787344163,
@@ -83304,6 +83304,16 @@
       {
         "name": "Spells",
         "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Overhaul",
+        "name_localized": "Overhaul",
+        "date_added": 0
+      },
+      {
+        "name": "Rules Changes",
+        "name_localized": "Rules Changes",
         "date_added": 0
       },
       {
@@ -102542,7 +102552,7 @@
     "summary": "* Become more powerful than you can imagine",
     "description": "<p>A Spell Thief is someone that has a preternatural talent for understanding the arcane arts. Able to understand the intricacies of a spell by simply observing it being cast, the very few that have this capability have to hide it because it terrifies the magical community. This talent, however, allows the Spell Thief to spend time that would otherwise be spent on learning the basics following other pursuits.<br><br>Spell Thief level-based upgrades are as follows:<br>- Level 1: <a href=\"https://bg3.wiki/wiki/Iron_Mind\">Iron Mind</a><br>- Level 3: <a href=\"https://bg3.wiki/wiki/Unarmoured_Defence_(Monk)\">Unarmored Defense</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Dextrous_Attacks\">Dextrous Unarmed Attacks</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Bonus_Unarmed_Strike\">Bonus Unarmed Strike</a>, <a href=\"https://bg3.wiki/wiki/Martial_Arts:_Deft_Strikes\">Deft Strikes</a><br>- Level 5: <a href=\"https://bg3.wiki/wiki/Unarmoured_Movement\">Unarmored Movement</a><br>- Level 6: <a href=\"https://bg3.wiki/wiki/Fast_Hands\">Fast Hands</a><br>- Level 7: <a href=\"https://bg3.wiki/wiki/Hound_of_Ill_Omen\">Hound of Ill Omen</a><br>- Level 9: <a href=\"https://bg3.wiki/wiki/Magical_Ambush\">Magical Ambush</a><br>- Level 10: <a href=\"https://bg3.wiki/wiki/Controlled_Chaos\">Controlled Chaos</a><br>- Level 11: <a href=\"https://bg3.wiki/wiki/Advanced_Unarmoured_Movement\">Advanced Unarmored Movement</a><br><br>You may see a reaction popup if a nearby NPC/Player casts a spell. This allows you to either learn the spell, or blacklist and and (ideally) not be pestered about it.<br>You must see the spell being cast! (not a 100% thing, but supposed to work this way)<br>- The Clear Blacklist ability clears this blacklist, which will prompt you to learn spells you previously rejected if they are cast near you again.<br>- The Summon: Spell-Eater ability summons The Spell-Eater, which will eat (remove) any spells you have learned via observation if you cast the spell on it.<br>- Mirrored Casting will temporarily turn you into the character you learned the spell you are casting from.<br>- <strong>Overexertion</strong> is a response to frequent requests for spell slot-type limitations. When this is enabled and you are in combat you are limited to ONE stolen spell per turn. You can cast more, but each time you risk your very messy demise. You explode. That is your demise, explosion into a pile of meat-bits.<br><br>Spells learned show up in the <strong>Common</strong> tab, not the Sorcerer tab.</p>",
     "date_added": 1742994196,
-    "date_updated": 1790690062,
+    "date_updated": 1790698593,
     "date_live": 1742995025,
     "visible": 1,
     "status": 1,
@@ -102556,15 +102566,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
     },
     "modfile": {
-      "id": 8263805,
+      "id": 8264243,
       "mod_id": 4824578,
-      "version": "1.0.0.258",
-      "filename": "spellthief_9632659b-dbb1-e765-6bzz.zip",
-      "changelog": "* Fixed an issue where if you had Overexertion active, cast a spell, but the target noticed you before the cast finished (and thus putting you in combat) the completion of the cast would make you explode. This was due to receiving the Stolen Spell Available status on your turn, which typically would not happen in that scenario before the spell was cast. You will not have the Stolen Spell Available status at all times until it is used, at which point it is added during your next turn (in or out of combat).\n* Changed the effect for Stolen Spell Available to avoid messing with screenshots etc when playing this sub-class.",
-      "date_added": 1790685453,
+      "version": "1.0.0.277",
+      "filename": "spellthief_9632659b-dbb1-e765-ecvv.zip",
+      "changelog": "* Fixed a syncing issue with the explosion effect.",
+      "date_added": 1790698516,
       "date_updated": 0,
-      "date_scanned": 1790685535,
-      "filesize": 17994013,
+      "date_scanned": 1790698602,
+      "filesize": 17994776,
       "platforms": [
         {
           "platform": "windows",
@@ -102713,7 +102723,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8263805
+        "modfile_live": 8264243
       }
     ]
   },
@@ -165878,10 +165888,10 @@
     "game_id": 6715,
     "name": "Elven Head Pack",
     "name_id": "elven-head-pack",
-    "summary": "Pack of head presets for elf, drow and half-elf.",
+    "summary": "Pack of head presets for elf/drow, half-elf and tiefling.",
     "description": "<p>Heads has been tested only in nautiloid, didn't notice any issues.</p>\n<p><br>If you want to make UTAV/KAVT or EotB work, please use these:<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/20629?tab=description\" rel=\"nofollow\">UT - KAVT - Universal Automatic Patcher (UAP)</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/21440\" rel=\"nofollow\">Eyes of the Beholder - Universal Automatic Patcher (EotB UAP)</a><br><br>I recommend to use this with my mods:<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/1058?tab=posts\" rel=\"nofollow\">Less Wrinkled Expression and Forehead for Face</a><br><br>Mods used in pictures:<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/16198\" rel=\"nofollow\">Myky's Hairstyles</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/22657\" rel=\"nofollow\">New Vanilla Earring Sets</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/11280\" rel=\"nofollow\">Myky's Makeup and Tattoos</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/19556\" rel=\"nofollow\">Poesielibre's Fantastical Hairstyles</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/213\" rel=\"nofollow\">Tav's Hair Salon</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\" rel=\"nofollow\">hijimare hairs</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/2900\" rel=\"nofollow\">Astralities' Fantasy Skintone Expansion</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/22082\" rel=\"nofollow\">Tepkunset Hair Collection Vol 2</a><br><br></p>",
     "date_added": 1783108210,
-    "date_updated": 1787836566,
+    "date_updated": 1790700716,
     "date_live": 1787836560,
     "visible": 1,
     "status": 1,
@@ -165895,15 +165905,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/9a43/57884981/crop_100x100/1000021191.1.png"
     },
     "modfile": {
-      "id": 8105317,
+      "id": 8264332,
       "mod_id": 6188345,
-      "version": "1.0.0.4",
-      "filename": "elven_head_pack_5df7c17e-2bc9-8tfd.zip",
-      "changelog": "-Colette's elf/drow and half-elf mouth material fixed",
-      "date_added": 1786911130,
+      "version": "1.0.0.5",
+      "filename": "elven_head_pack_5df7c17e-2bc9-0may.zip",
+      "changelog": "-Heads_IKRig added\n-Attempt to minimize ear seams",
+      "date_added": 1790700657,
       "date_updated": 0,
-      "date_scanned": 1786911339,
-      "filesize": 115283941,
+      "date_scanned": 1790700871,
+      "filesize": 115296352,
       "platforms": [
         {
           "platform": "windows",
@@ -165911,15 +165921,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -165979,10 +165989,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 8105317
-      },
-      {
         "platform": "mac",
         "modfile_live": 8105317
       },
@@ -165993,6 +165999,10 @@
       {
         "platform": "ps5",
         "modfile_live": 8105317
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8264332
       }
     ]
   },
