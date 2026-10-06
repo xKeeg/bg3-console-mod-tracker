@@ -163479,9 +163479,9 @@
     "name": "Arcadia - Clothing and Light Armor",
     "name_id": "onyx-arcadia",
     "summary": "the peaceable kingdoms ❖ DEX and INT based armor available for BT1/BT2/BT3/BT4 and TMTS BT1/BT3",
-    "description": "<p>This is the release of my armor set <strong>Arcadia</strong>, now available for BT1/BT2/BT3/BT4, as well as TMTS BT1/BT3!<br><br>The container for this mod is a historical tome and the second in its series <u><br>Tales of the Outer Planes</u> which contain several pages filled with items.<br><br>This armor set is a bit unique in that it was created solely for my Tav;<strong> Ashana</strong>, a Bladesinger Wizard<br>with a penchant for thunder spells. Due to this, it is a bit more themed than a regular set would be.<br><br><u>As for some information about the armor set itself:</u><br> <br>- <strong>Clothing, Light Armor</strong> and <strong>Camp clothing</strong> versions<br>- <strong>Dyable </strong>- comes with <strong>two custom dyes</strong><br>- <strong>Non-VT </strong><span style=\"font-size:xx-small;\">(if you don't know what that means, don't worry about it)</span><br>- <strong>DEX and INT based stats </strong>- ideal for a <strong>Bladesinger Wizard</strong><br>- <strong>Several variants </strong>of items available<br><br>The biggest difference for Arcadia since its beta release is that there is now a <strong>second version of the outfit available</strong>! <br><br>I decided to release two variants of the armor as I liked both and didn't want to exclude one or the other;<br>please note that <u>both versions are supported for all the body types listed previously</u> <span style=\"font-size:xx-small;\">(fashion doesn't discriminate (⌐■◡■)✧)</span><br><br><strong>Version A</strong> is the one from beta release with the corset and button-up shirt<br><strong>Version B</strong> is a leather armor top with a pauldron and scarf<br><br><em><span style=\"font-size:small;\">[Unfortunately, I am unable to remove the scarf and/or pauldron from the leather armor version as it is covering empty space <br>of the armor (as many game assets only model what can be see). Sorry about that. I, too, wish it was more modular (¬`‸´¬)]</span></em><br><br>At this stage, I am unsure if it will be refitted for the remaining body types.<br><br>I am busy working on multiple projects simultaneously, while also battling some mental health<br>struggles and burnout. If I do create more refits, these will be updated sporadically so I apologize for that.<br><br>(That doesn't mean they might <em>never</em> happen, just that I can't make any promises in regards to them!)<br><br></p>\n<hr>\n<p><br><u>The tome can be found in these locations</u>:<br><br><strong>Tutorial chest</strong><br><strong>Dammon</strong> <span style=\"font-size:small;\">(Act 1 in Emerald Grove, Act 2 in Last Light inn*, Act 3 in Lower city*) </span><span style=\"font-size:xx-small;\">l*if he's alive]</span><br><strong>Omeleuum</strong> <span style=\"font-size:small;\">(Act 1, Underdark)</span><br><strong>Araj Oblodra</strong> <span style=\"font-size:small;\">(Act 2, Moonrise Towers)</span><br><strong>Popper</strong> <span style=\"font-size:small;\">(Act 3, Circus of the Last Days in Rivington)</span><br><strong>The Bibliophile</strong> <span style=\"font-size:small;\">(Act 3, Book store in Lower City)</span> <span style=\"font-size:xx-small;\">god i'm funny</span> <span style=\"font-size:xx-small;\">ᕕ( ᐛ )ᕗ</span><br><br>To install, download the file, unzip the folder and then drag and drop the PAK into the BG3 Mod Manager.<br><br></p>\n<hr>\n<p><br><span style=\"font-size:small;\"><em>Thank you to everyone for your support, I really do appreciate it. ♥<br><br>Also, a big shout-out to all the amazing screenarchers from the Faerûn Fashionistas discord server,<br>who took all these beautiful screenshots used in this mod page during its Beta Release. You are all wonderful beyond words.<br><br>The thumbnail was taken in the custom map <a href=\"https://www.patreon.com/posts/celestine-grove-158982486?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_fan&amp;utm_content=web_share\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Celestine Grove</span></a> by Tinuviel, which is just gorgeous. Go check it out!</em></span><br><br><span style=\"font-size:small;\"><em>For anyone that is interested, both the title of the tome and its content is directly inspired by <a href=\"https://forgottenrealms.fandom.com/wiki/Tales_of_the_Outer_Planes\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">the book<br>of the same name</span></a> from 1st edition, as well as the 3rd edition book <a href=\"https://forgottenrealms.fandom.com/wiki/Manual_of_the_Planes_3rd_edition\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Manual of the Planes</span></a>!</em></span></p>",
+    "description": "<p>Changelog 06.10.26</p>\n<p><em>&gt; Updated mod as somehow underwear was toggled on when wearing wearing Version B. Oops.</em></p>\n<hr>\n<p>This is the release of my armor set <strong>Arcadia</strong>, now available for BT1/BT2/BT3/BT4, as well as TMTS BT1/BT3!<br><br>The container for this mod is a historical tome and the second in its series <u><br>Tales of the Outer Planes</u> which contain several pages filled with items.<br><br>This armor set is a bit unique in that it was created solely for my Tav;<strong> Ashana</strong>, a Bladesinger Wizard<br>with a penchant for thunder spells. Due to this, it is a bit more themed than a regular set would be.<br><br><u>As for some information about the armor set itself:</u><br> <br>- <strong>Clothing, Light Armor</strong> and <strong>Camp clothing</strong> versions<br>- <strong>Dyable </strong>- comes with <strong>two custom dyes</strong><br>- <strong>Non-VT </strong><span style=\"font-size:xx-small;\">(if you don't know what that means, don't worry about it)</span><br>- <strong>DEX and INT based stats </strong>- ideal for a <strong>Bladesinger Wizard</strong><br>- <strong>Several variants </strong>of items available<br><br>The biggest difference for Arcadia since its beta release is that there is now a <strong>second version of the outfit available</strong>! <br><br>I decided to release two variants of the armor as I liked both and didn't want to exclude one or the other;<br>please note that <u>both versions are supported for all the body types listed previously</u> <span style=\"font-size:xx-small;\">(fashion doesn't discriminate (⌐■◡■)✧)</span><br><br><strong>Version A</strong> is the one from beta release with the corset and button-up shirt<br><strong>Version B</strong> is a leather armor top with a pauldron and scarf<br><br><em><span style=\"font-size:small;\">[Unfortunately, I am unable to remove the scarf and/or pauldron from the leather armor version as it is covering empty space <br>of the armor (as many game assets only model what can be see). Sorry about that. I, too, wish it was more modular (¬`‸´¬)]</span></em><br><br>At this stage, I am unsure if it will be refitted for the remaining body types.<br><br>I am busy working on multiple projects simultaneously, while also battling some mental health<br>struggles and burnout. If I do create more refits, these will be updated sporadically so I apologize for that.<br><br>(That doesn't mean they might <em>never</em> happen, just that I can't make any promises in regards to them!)<br><br></p>\n<hr>\n<p><br><u>The tome can be found in these locations</u>:<br><br><strong>Tutorial chest</strong><br><strong>Dammon</strong> <span style=\"font-size:small;\">(Act 1 in Emerald Grove, Act 2 in Last Light inn*, Act 3 in Lower city*) </span><span style=\"font-size:xx-small;\">l*if he's alive]</span><br><strong>Omeleuum</strong> <span style=\"font-size:small;\">(Act 1, Underdark)</span><br><strong>Araj Oblodra</strong> <span style=\"font-size:small;\">(Act 2, Moonrise Towers)</span><br><strong>Popper</strong> <span style=\"font-size:small;\">(Act 3, Circus of the Last Days in Rivington)</span><br><strong>The Bibliophile</strong> <span style=\"font-size:small;\">(Act 3, Book store in Lower City)</span> <span style=\"font-size:xx-small;\">god i'm funny</span> <span style=\"font-size:xx-small;\">ᕕ( ᐛ )ᕗ</span><br><br>To install, download the file, unzip the folder and then drag and drop the PAK into the BG3 Mod Manager.<br><br></p>\n<hr>\n<p><br><span style=\"font-size:small;\"><em>Thank you to everyone for your support, I really do appreciate it. ♥<br><br>Also, a big shout-out to all the amazing screenarchers from the Faerûn Fashionistas discord server,<br>who took all these beautiful screenshots used in this mod page during its Beta Release. You are all wonderful beyond words.<br><br>The thumbnail was taken in the custom map <a href=\"https://www.patreon.com/posts/celestine-grove-158982486?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_fan&amp;utm_content=web_share\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Celestine Grove</span></a> by Tinuviel, which is just gorgeous. Go check it out!</em></span><br><br><span style=\"font-size:small;\"><em>For anyone that is interested, both the title of the tome and its content is directly inspired by <a href=\"https://forgottenrealms.fandom.com/wiki/Tales_of_the_Outer_Planes\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">the book<br>of the same name</span></a> from 1st edition, as well as the 3rd edition book <a href=\"https://forgottenrealms.fandom.com/wiki/Manual_of_the_Planes_3rd_edition\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Manual of the Planes</span></a>!</em></span></p>",
     "date_added": 1781000848,
-    "date_updated": 1786019270,
+    "date_updated": 1791242545,
     "date_live": 1781003347,
     "visible": 1,
     "status": 1,
@@ -163495,15 +163495,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2168/52939147/crop_100x100/fsdfsdfsdfsvvvvvfsf.jpg"
     },
     "modfile": {
-      "id": 7829141,
+      "id": 8290002,
       "mod_id": 6124348,
-      "version": "1.0.0.47",
-      "filename": "onyx_arcadia_9cfae904-da4f-665-3zhq.zip",
+      "version": "1.0.0.48",
+      "filename": "onyx_arcadia_9cfae904-da4f-665-ddya.zip",
       "changelog": null,
-      "date_added": 1781000880,
+      "date_added": 1791242322,
       "date_updated": 0,
-      "date_scanned": 1781001675,
-      "filesize": 99886036,
+      "date_scanned": 1791242538,
+      "filesize": 97842856,
       "platforms": [
         {
           "platform": "windows",
@@ -163511,15 +163511,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -163599,10 +163599,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7829141
-      },
-      {
         "platform": "mac",
         "modfile_live": 7829141
       },
@@ -163613,6 +163609,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7829141
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8290002
       }
     ]
   },
