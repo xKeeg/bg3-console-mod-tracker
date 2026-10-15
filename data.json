@@ -147091,6 +147091,109 @@
     ]
   },
   {
+    "id": 5328005,
+    "game_id": 6715,
+    "name": "Combat Encounters (Random Spawns Lite)",
+    "name_id": "combat-encounters-random-spawns-lite",
+    "summary": "* A lite version of the Random Spawn Generator. Simpler, faster, smoother.",
+    "description": "<p>A leaner, cleaner, lighter version of <a href=\"https://mod.io/g/baldursgate3/m/random-spawn-generator#description\">Random Spawns</a>! Contains most of the same functionality, but is smoother and simpler.<br><br><a style=\"text-decoration:none;\" href=\"https://mod.io/g/baldursgate3/m/random-spawn-generator#description\"><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffff00;background-color:transparent;font-weight:bold;font-style:italic;text-decoration:none;vertical-align:baseline;\"><span style=\"font-size:11pt;font-family:Arial, sans-serif;background-color:transparent;font-weight:bold;font-style:italic;text-decoration:none;vertical-align:baseline;\"><span style=\"font-size:11pt;font-family:Arial, sans-serif;background-color:transparent;font-weight:bold;font-style:italic;text-decoration:none;vertical-align:baseline;\">** DO NOT USE WITH</span></span> </span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffff00;background-color:transparent;font-weight:bold;font-style:italic;text-decoration:underline;vertical-align:baseline;\">RANDOM SPAWNS</span></a><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#ffff00;background-color:transparent;font-weight:bold;font-style:italic;text-decoration:none;vertical-align:baseline;\">! Please choose one or the other. Both work fine, but may conflict with one another. **</span><br><br>* This mod contains the following difficulty increase options:<br><em><strong><span style=\"color:#ffff00;\">-- Enemy Leveling:</span> </strong>Enemies will level up to match player levels.<strong><br>** </strong>Unlike Random Spawns, this is built-in and does not require a dependency.</em><br><em><strong><span style=\"color:#ffff00;\">-- Random Attacks:</span> </strong>As you play, there is a chance those you once killed will return to seek revenge.<br>** Unlike Random Spawns, allies are not frozen (though they will be invulnerable) and may participate in your defense.<br>** 1% chance per turn to spawn assassins. Will NOT spawn in camp or in dialogue! Apply to companions to increase spawn rate.</em><br><em><strong><span style=\"color:#ffff00;\">-- Create Portal:</span> </strong>Forcibly spawns a portal so you can fight at your leisure.</em><br><em><strong><span style=\"color:#ffff00;\">-- Enemy Reinforcements:</span> </strong>Enemies may summon reinforcements from the underworld to assist them.</em><br><em><strong><span style=\"color:#ffff00;\">-- Enemy Damage Boost:</span> </strong>Scales enemy damage based on enemy level.<br></em><em><strong><span style=\"color:#ffff00;\">-- Enemy Health Boost:</span> </strong>Scales enemy health based on enemy level.<br></em><em><strong><span style=\"color:#ffff00;\">-- Attacker Boost:</span> </strong>Enemies arriving via portal have a chance to receive a health or damage boost. Does NOT stack with Enemy Damage/Health Boosts.</em><br><em><strong><span style=\"color:#ffff00;\">-- Random Effects:</span> </strong>Gives enemies 1 to 4 (based on enemy level) random effects.<br>** This can include any non-boss status in the game and can be either beneficial or negative. Things may get weird, you have been warned.<br>** There is a system that removes statuses from any NPC that is unharmed after 3-4 turns. This will prevent invulnerable statuses from being a major issue.</em><br><em><strong><span style=\"color:#ffff00;\">-- Enemy Duplication:</span> </strong>This causes non-boss enemies to duplicate themselves after combat begins.<br></em><em><strong><span style=\"color:#ffff00;\">-- Enemy Classes:</span> </strong>Enemies are assigned a random class based on enemy AI or attack types.<strong><br>** </strong>Humanoid NPCs are assigned a random class based on their AI or attack types. These classes generally reflect the player version of the same class, but are not identical.<br>** Skeletal enemies receive a class assignment after their first attack. <br>** Note: classes receive an AI boost to the Smart version of Larian's AI, but no customization has been done on my end.<br><strong><span style=\"color:#ffff00;\">-- Ally Class Block:</span> </strong>Blocks non-enemies (allies etc) from receiving class assignments.<br><strong><span style=\"color:#ffff00;\">-- Summon Class Block:</span> </strong>Blocks humanoid and skeletal summons from receiving class assignments.<br><strong><span style=\"color:#ffff00;\">-- Most Recent Combat (MeRC) mode:</span> </strong>Restricts the pool of possible enemies to those from the most recent encounter.<br><strong><span style=\"color:#ffff00;\">-- From the Shadows:</span> </strong>This passive functions as a very basic constant-attack mode that has a 75% chance per turn of spawning assassins.<br>** Assassins have first-strike capability and are guaranteed to land their first hit.<br><br><strong><span style=\"color:#ffff00;\">-- Experience Increases:</span></strong> Increases experience gain on enemy death by 1*level (your level) for each of the following functions you have toggled on; Enemy Damage Boost, Enemy Health Boost, Attacker Boost, Enemy Classes.<br><strong><span style=\"color:#ffff00;\">-- Experience Loss (Modded Enemies):</span></strong> Decreases experience gain on enemy death by 1*level (your level) for each of the following functions you have toggled on; Enemy Damage Boost, Enemy Health Boost, Attacker Boost, Enemy Classes.<br><strong><span style=\"color:#ffff00;\">-- Experience Loss:</span> </strong>Decreases experience gain on enemy death by 1*level (your level).<br></em><em><br><strong>NOTE: All functions become available when entering camp. There is a container (pink eye icon) you need to click.</strong></em></p>\n<p><strong><span style=\"color:#00ff00;\">- You can use --&gt; <a href=\"https://docs.google.com/document/d/1sFfwT2j9nuJ5dyrEZBqEejeLnabJ8NaAyokuHzdVoiw/edit?usp=sharing\">THIS</a> &lt;-- template to add your custom classes to enemies!<br></span></strong><em><br></em>Q: What is this mod, and why does it exist?<br>A: Random Spawns has been a project of mine for a while and has accumulated legacy code that makes it more complicated than it needs to be. Random Spawns still works perfectly fine and there are no significant issues with it, so you can continue to use it! This version, however, applies lessons I learned to make the code simpler, easier to maintain, and with fewer opportunities to give me problems.<br><br>-- Enemy loot tables have not been altered by me. Any loot they may drop will be based on Larian files. That said, I will be using <a href=\"https://mod.io/g/baldursgate3/m/gabes-fun-pack#description\">Gabe's Fun Pack</a> with this mod, which includes my <a href=\"https://mod.io/g/baldursgate3/m/enemy-loot-randomizer#description\">Enemy Loot Randomizer</a>, making loot tables for enemies pointless anyway. They may have nothing. They may have junk. They may have a legendary weapon. Murder them and find out!<br><br>Existing <strong>Enemy Classes</strong> in this mod:<br>- War Domain (Cleric)<br>- Life Domain (Cleric)<br>- Great Old One (Warlock)<br>- Wild Magic (Sorcerer)<br>- Storm (Sorcerer)<br>- Demon Summoner (<strong>Custom</strong>)<br>- Berserker (Barbarian)<br>- Battle Master (Fighter)<br>- Oathbreaker (Paladin)<br>- Puppeteer of the Dead (<strong>Custom</strong>)<br>- Way of Shadow (Monk)<br>- Drunken Master (Monk)<br>- Grenadier (<strong>Custom</strong>)<br>- Gloom Stalker (Ranger)<br>- Beast Master (Ranger)<br>- Archer (<strong>Custom</strong>)<br>- Swashbuckler (Rogue)<br>- Arcane Trickster (Rogue)<br><br>Check out these mods, they should work very nicely with this one!<br>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/14429\">Advanced Tabletop Spells</a><br>- <br><br>Hag Bolt note:<br>- Using a fire spell on an enemy will cast Hag Bolt, re-randomizing any random effect on it, if it takes 0 damage.<br>-- This also affects <a href=\"https://bg3.wiki/wiki/Category:Immune_to_all_Fire\">creatures immune to all fire</a>, so check this list if you see this cast more often than expected.</p>",
+    "date_added": 1762068346,
+    "date_updated": 1792076478,
+    "date_live": 1762089837,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/combat-encounters-random-spawns-lite",
+    "submitted_by": {
+      "id": 34648576,
+      "name_id": "nexus-gabecamomescro",
+      "username": "GabeCamomescro",
+      "profile_url": "https://mod.io/u/nexus-gabecamomescro",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/fc0b/34648576/crop_100x100/images.jpg"
+    },
+    "modfile": {
+      "id": 8026106,
+      "mod_id": 5328005,
+      "version": "1.0.0.326",
+      "filename": "gabesrsglite_3ec75338-6f97-91d-jy4a.zip",
+      "changelog": "* Removed enemy leveling up on downing characters due to feedback from https://www.twitch.tv/andross1",
+      "date_added": 1785210615,
+      "date_updated": 0,
+      "date_scanned": 1785210660,
+      "filesize": 21490216,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/89c0/5328005/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/89c0/5328005/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/89c0/5328005/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/89c0/5328005/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8026106
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8026106
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8026106
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8026106
+      }
+    ]
+  },
+  {
     "id": 5329100,
     "game_id": 6715,
     "name": "Axi and Cay's Hand-Holding Poses",
