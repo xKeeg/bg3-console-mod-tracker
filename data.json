@@ -85262,9 +85262,9 @@
     "name": "Item and Spell Bug Fixes",
     "name_id": "item-and-spell-bug-fixes",
     "summary": "The unofficial community bug fix mod - Over 2000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
-    "description": "<p>The unofficial community bug fix mod - <strong>Over 2000 fixes!</strong><br>Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.</p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인</p>\n<p>If you would like to translate the mod into a language that you are fluent in, please reach out to me!<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</p>\n<p>Leave a comment if there is something else you would like me to fix. A big, heart-felt \"thank you\" goes out to all of you who have already reported bugs!</p>\n<p>Updates on Tuesdays and Fridays<br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
+    "description": "<p>The unofficial community bug fix mod - <strong>Over 2000 fixes!</strong></p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(<a href=\"https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)\">https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</a><br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1791953726,
+    "date_updated": 1792227515,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -85278,15 +85278,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8324870,
+      "id": 8337704,
       "mod_id": 4561805,
-      "version": "4.8.5.1",
-      "filename": "itembugfix_010e73d5-9342-e528-40w8.zip",
-      "changelog": "- Inured to Undeath now also correctly prevents 'Drained'\n- Vampire Spawn: Bite now correctly reduces target hitpoints based on the number of 'Blood-Sapped' turns remaining\n- Wraith 'Life Drain' can no longer be exploited to repeatedly heal the affected character\n- Fighting Style: Defence, Fast Movement, Unarmoured Defence (Barbarian), Unarmoured Defence (Monk), and Unarmoured Movement now correctly interact with Wildshapes\n- Unarmoured Defence (Monk) now correctly states you must not be using a shield\n- Deflect Missiles: Redirect now correctly will only trigger if damage was reduced to 0\n-- Prior description changes to Deflect Missiles reverted\n- Life of the Party now correctly displays an effect on the monk when gained\n- Code improvements",
-      "date_added": 1791953708,
+      "version": "4.8.6.1",
+      "filename": "itembugfix_010e73d5-9342-e528-bmy6.zip",
+      "changelog": "- Slayer 'Slay' now correctly lists a Strength saving throw in the tooltip\n- Fighting Style: Defence, Fast Movement, Unarmoured Defence (Barbarian), Unarmoured Defence (Monk), and Unarmoured Movement now correctly interact with Slayer\n- Reactions which were previously made to function with Wild Shape forms now also function with Slayer\n- Actor, Durable, Heavily Armoured, and Heavy Armour Master now use the SelectAbilities() function instead of the Ability() function to better stack with other sources of ability buffs\n- - Performer reverted back to SelectAbilities()\n- - Be warned that these feats will not be selectable if you are already at the 20 point limit of the respective ability\n- - Resilient cannot be changed because it operates off of SelectPassives()\n- Wild Shape: Owlbear no longer incorrectly loses Rage Charges when initiating dialogue\n- Previously used custom ActionResourceDefinitions finally removed from mod\n- - These have not been used for quite some time and their removal should cause no issues, but if you are experiencing any problems with this version please download and use the previous version of this mod, respec any characters that have the Magic Initiate: Wizard or Magic Initiate: Sorcerer feats at Withers, save, and then upgrade to this new version\n\nAttention: This marks the final planned update to Item and Spell Bug Fixes as I move on to other games. Thank you all for your wonderful support over the past 22 months! This mod would never have become as big and successful as it is without your help. A very very special thanks to all of my contributors.  Whether you provided or helped review code, provided translations into the 9 other languages we support, or tirelessly reported bugs in the comments, I am proud to have worked on this mod with you all.  The mod was indeed a community effort, and I hope I was able to leave you with something you can enjoy for years to come.\n\nWith all of my love,\nRydiak",
+      "date_added": 1792227486,
       "date_updated": 0,
-      "date_scanned": 1791953720,
-      "filesize": 2289555,
+      "date_scanned": 1792227497,
+      "filesize": 2289610,
       "platforms": [
         {
           "platform": "windows",
@@ -85400,7 +85400,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8324870
+        "modfile_live": 8337704
       }
     ]
   },
@@ -111147,11 +111147,11 @@
       ]
     },
     "logo": {
-      "filename": "mod_publish_logo.png",
-      "original": "https://image.modcdn.io/mods/01da/4880828/mod_publish_logo.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/01da/4880828/crop_320x180/mod_publish_logo.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/01da/4880828/crop_640x360/mod_publish_logo.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/01da/4880828/crop_1280x720/mod_publish_logo.png"
+      "filename": "weavemonk-sm.png",
+      "original": "https://image.modcdn.io/mods/01da/4880828/weavemonk-sm.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/01da/4880828/crop_320x180/weavemonk-sm.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/01da/4880828/crop_640x360/weavemonk-sm.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/01da/4880828/crop_1280x720/weavemonk-sm.png"
     },
     "tags": [
       {
@@ -137969,11 +137969,11 @@
       ]
     },
     "logo": {
-      "filename": "mod_publish_logo.png",
-      "original": "https://image.modcdn.io/mods/1ee7/5157157/mod_publish_logo.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/1ee7/5157157/crop_320x180/mod_publish_logo.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/1ee7/5157157/crop_640x360/mod_publish_logo.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/1ee7/5157157/crop_1280x720/mod_publish_logo.png"
+      "filename": "kishin.png",
+      "original": "https://image.modcdn.io/mods/1ee7/5157157/kishin.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/1ee7/5157157/crop_320x180/kishin.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/1ee7/5157157/crop_640x360/kishin.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/1ee7/5157157/crop_1280x720/kishin.png"
     },
     "tags": [
       {
