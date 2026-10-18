@@ -113407,7 +113407,7 @@
     "summary": "After Nessa has been set free from Yurgir's charm and killing her former master she joins you on your adventures. She wants to complete hunts, killing specific types of enemies, granting her new abilities and passive bonuses.",
     "description": "<h3>Nexus Mods</h3>\n<p>You can also <a href=\"https://www.nexusmods.com/baldursgate3/mods/16040?tab=files\"><strong>download</strong></a> this mod on Nexus Mods.</p>\n<p> </p>\n<h3>Overview</h3>\n<p>After Nessa has been set free from Yurgir's charm and killing her former master she joins you on your adventures. She wants to complete hunts, killing specific types of enemies, granting her new abilities and passive bonuses.</p>\n<p> </p>\n<h3>How to get Nessa</h3>\n<p>To have Nessa join your party, you need to follow these steps in Act 2:</p>\n<ul>\n<li>Walk into Yurgir's ambush</li>\n<li>Resolve the ambush peacefully</li>\n<li>Investigate the spider corpse and either cure Nessa of the charm/poison, or make her aware of it</li>\n<li>Convince Nessa to join you against Yurgir (careful - DC30 Persuasion check)</li>\n<li>Kill Yurgir</li>\n<li>Talk to Nessa (<em>Leave! Before I get hungry again.</em>)</li>\n<li>You will obtain Nessa's Fang</li>\n</ul>\n<p>Anyone holding her fang will be able to summon her. When the fang leaves your inventory Nessa will despawn.</p>\n<p><strong>OR</strong><br><br>Find the fang in the Tutorial Chest.</p>\n<p><strong>OR</strong><br><br>Use the script extender console and type in:<br><br><code>TemplateAddTo(\"d7f482d9-da65-476a-b4f8-6809dfd9ce4e\",GetHostCharacter(),1,1)</code></p>\n<ul>\n<li>You can do this if you want to help Yurgir with his contract</li>\n<li>Or if you want to convince him to kill his minions and himself</li>\n<li>Or you are already in Act 3 and want to try Nessa</li>\n</ul>\n<p> </p>\n<h3>The Hunt</h3>\n<p>Nessa is a Displacer Beast and as such she wants to hunt. You complete a hunt by allowing her to have the killing blow against certain types of enemies, like fiends, beasts or dwarves. She has currently <strong>14</strong> hunts to complete. </p>\n<p>Each hunt either unlocks one of her abilities or gives her a passive bonus. She is supposed to be somewhat weak when you get her. It is your task to get her the killing blows she needs to become a true menace for your enemies.</p>\n<p>If she dies or you un-summon her and then re-summon her these hunts will <strong>not </strong>be lost. The hunts set an osiris flag that allows Nessa to regain all the hunts she completed after being re-summoned.</p>\n<p> </p>\n<h3>Mechanics</h3>\n<ul>\n<li>Nessa gains health and damage when she levels up</li>\n<li>Nessa's level is synced to whoever summons her</li>\n<li>She uses <strong>Distortion Charges</strong> to cast her spells, these recharge on Short Rest</li>\n<li>Has access to Illusory Copy and Displacement like all Displacer Beasts</li>\n<li>She can toggle 1 of 3 (later 4) passives on, giving her attacks a chance to apply prone/frightened/bleeding </li>\n<li>Her damage is significantly reduced compared to vanilla displacer beasts, since she is quite durable</li>\n<li>Her role is more of a support, if you complete her <strong>hunts </strong>she will be able to bring immense utility</li>\n</ul>\n<p>Furthermore, her illusory copies work exactly like in my mod <a href=\"https://www.nexusmods.com/baldursgate3/mods/4535\">Druid Wildshape Items</a> on NexusMods. They inflict low psychic damage and when hit they have a chance of being revealed as copies, which will cause the AI to ignore them and halving their damage.</p>\n<p> </p>\n<h3>Story Changes</h3>\n<ul>\n<li>Nessa will change her name from \"Displacer Beast\" to \"Nessa\" after the ambush was resolved peacefully</li>\n<li>Nessa will disappear after you receive her claw</li>\n</ul>\n<p> </p>\n<h3>FAQ</h3>\n<p><strong>This is my first mod made in the official toolkit. Does this mean I will try to transfer my mods to the toolkit?</strong><br><em>I will try - but keep in mind its not a straight forward process but rather a lot of work.</em><br><br><br><strong>Does this mean I'm back to BG3 modding? </strong><br><em>Sort of, but don't expect another 20 mods out of me. I have some plans but I'm also more busy these days.<br></em></p>\n<p><em><br></em><strong>What is the UUID for Nessa's Fang?</strong></p>\n<p><code>d7f482d9-da65-476a-b4f8-6809dfd9ce4e</code></p>\n<p><em>You can spawn in the fang and use it just fine. The story edits are just for immersion, they don't have any functionality towards her as a companion.</em></p>\n<p> </p>\n<p><strong>I have greedy longfingers as friends in multiplayer or I can't control myself and take the fang out of the tutorial chest at the start of the game, help!<br></strong><em>Try <a href=\"https://www.nexusmods.com/baldursgate3/mods/4913\">Yield To Temptation</a> - this mod changes the loot table the <span style=\"color:#b4a7d6;\">actual physical tutorial chest</span> on the nautiloid uses to a different one, while leaving the <span style=\"color:#b6d7a8;\">tutorial chest loot table</span> (which all mods that spawn the chest) untouched. This causes the <span style=\"color:#b4a7d6;\">chest on the nautiloid</span> to only have vanilla items in it (2 potions), but all <span style=\"color:#b6d7a8;\">tutorial chest spawning mods</span> still work. No the mod does not need an update, its 1.0.0 version has worked ever since Patch 4.</em></p>",
     "date_added": 1745478363,
-    "date_updated": 1792098655,
+    "date_updated": 1792355235,
     "date_live": 1792098456,
     "visible": 1,
     "status": 1,
@@ -113421,15 +113421,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/a5f6/42679667/crop_100x100/bat_avatar_3_circle_v3.png"
     },
     "modfile": {
-      "id": 8331144,
+      "id": 8346215,
       "mod_id": 4893667,
-      "version": "1.0.17.0",
-      "filename": "justice_for_nessa_593b02e9-e8c-3nzo.zip",
-      "changelog": "Distort Space now applies fall damage\nNessa now should gain kill credit from enemies dying from fall damage or chasm instant-deaths if she caused them\nPre-Recruitment Nessa now gains her Feral Instinct passive once she spots the player\nPre-Recruitment Nessa now becomes fully allied (instead of neutral) after agreeing to help the player take down Yurgir\nPre-Recruitment Nessa now gains a strong buff for three turns upon her turn in the fight against Yurgir\nPre-Recruitment Nessa now gains See Invisibility for five turns upon her turn in the fight against Yurgir\nPre-Recruitment Nessa will now focus Yurgir in the fight\nNessa now rarely growls at the start of her turn\nFixed some minor coding errors",
-      "date_added": 1792098206,
+      "version": "1.0.18.0",
+      "filename": "justice_for_nessa_593b02e9-e8c-ckl3.zip",
+      "changelog": "Nessa gained a new passive toggle: Adaptive Tentacles - Nessa decides what debuff to apply based on a predefined logic (should generally do what you want)\nChanged her toggle passives to use a DC based on her hunts completed: Formula is 8 + hunts completed / 2 (bleeding gets a +2 on top)\nThe DCs are now ran against different abilities STR for disarm/prone, CON for bleeding and WIS for frightened\nDisarm now only applies to enemies that can be disarmed to avoid the text popping up as much\nDeveloped a new AI archetype for her illusions, allowing them to teleport very short distances, making them a lot better at hitting things\nAdded \"IGNORE_COMBAT_LATE_JOIN_PENALTY\" to her illusions, allowing them to act the same turn they were spawned, even past the first turn of battle",
+      "date_added": 1792353506,
       "date_updated": 0,
-      "date_scanned": 1792098225,
-      "filesize": 6132441,
+      "date_scanned": 1792353523,
+      "filesize": 6321043,
       "platforms": [
         {
           "platform": "windows",
@@ -113437,15 +113437,15 @@
         },
         {
           "platform": "mac",
-          "status": 3
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 3
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 3
+          "status": 0
         }
       ]
     },
@@ -113513,7 +113513,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8331144
+        "modfile_live": 8346215
       }
     ]
   },
