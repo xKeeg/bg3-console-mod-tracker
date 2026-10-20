@@ -62984,7 +62984,7 @@
     "summary": "The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 as close to their 5th edition versions as they can elegantly be, with improvements made to Booming Blade.",
     "description": "<p>The three remaining Sword Coast Adventurer's Guide cantrips translated into BG3 from their 5th edition versions:<br>Green-Flame Blade<br>Lightning Lure<br>Sword Burst</p>\n<p>Additionally, Booming Blade is greatly enhanced including better functionality (such as level 10 scaling), bug fixes, VFX, and sound.</p>\n<p>All spells have their own visual effects and icons, with Green-Flame Blade notably being green!</p>\n<p>The 'War Caster' feat also includes Booming Blade as a reaction choice.<br><br>Looking for a way to expand the usage of these blade cantrips?  Try <a title=\"Feat - Spell Blade\" href=\"https://mod.io/g/baldursgate3/m/feat-spell-blade\">Feat - Spell Blade</a></p>",
     "date_added": 1729286972,
-    "date_updated": 1789699655,
+    "date_updated": 1792534220,
     "date_live": 1788802649,
     "visible": 1,
     "status": 1,
@@ -62998,15 +62998,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8224392,
+      "id": 8354846,
       "mod_id": 4423191,
-      "version": "2.3.3.3",
-      "filename": "5e_blade_cantrips_14943f09-f25-j5xo.zip",
-      "changelog": "- Additional EnableCondition bug fix",
-      "date_added": 1789699640,
+      "version": "2.3.4.1",
+      "filename": "5e_blade_cantrips_14943f09-f25-5pbv.zip",
+      "changelog": "- Additional conditions bug from vanilla fixed",
+      "date_added": 1792534159,
       "date_updated": 0,
-      "date_scanned": 1789700151,
-      "filesize": 574333,
+      "date_scanned": 1792534167,
+      "filesize": 574338,
       "platforms": [
         {
           "platform": "windows",
@@ -63150,7 +63150,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8224392
+        "modfile_live": 8354846
       }
     ]
   },
