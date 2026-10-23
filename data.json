@@ -45665,6 +45665,114 @@
     ]
   },
   {
+    "id": 4371366,
+    "game_id": 6715,
+    "name": "Quick n Clean Halsin Scrubber",
+    "name_id": "quick-n-clean-halsin-scrubber",
+    "summary": "Removes baked-in grime from Halsin.",
+    "description": "<p>Halsin's dirty, Druidic self has a lot of charm, but when I was metamorphing him into Raphael for thirst-related reasons the baked-in dirt and grime showing up on his wings was bothering me, so I made this mod to remove it after I couldn't find one that would do it for me.  I figured I'd upload it in case the dirt was bothering anyone else.<br><br>That's it.  That's the whole mod. </p>\n<p>Halsin can still get dirty the same way other companions do, this just removes the stuff that was baked into his character visuals.</p>\n<p>I have no idea if it will work with other Halsin-related mods as I don't use any.<br><br>Can be safely removed mid-playthrough if needed, at least from my own experiments.</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/nikjima\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/13807/13807-1746708401-640373048.png\" alt=\"\" width=\"300\" height=\"61\"></a></p>",
+    "date_added": 1727625354,
+    "date_updated": 1792747713,
+    "date_live": 1727625529,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/quick-n-clean-halsin-scrubber",
+    "submitted_by": {
+      "id": 32519326,
+      "name_id": "nikjima",
+      "username": "Nikjima",
+      "profile_url": "https://mod.io/u/nikjima",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dd09/32519326/crop_100x100/galeodone_commission_nikjima_n.png"
+    },
+    "modfile": {
+      "id": 5619114,
+      "mod_id": 4371366,
+      "version": "1.0.0.2",
+      "filename": "cleanhalsin_dca65805-0ab3-4622-8fe0.zip",
+      "changelog": "Fixed issue causing his tattoo to darken",
+      "date_added": 1727713883,
+      "date_updated": 0,
+      "date_scanned": 1727713889,
+      "filesize": 3063231,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "icon.png",
+      "original": "https://image.modcdn.io/mods/7c41/4371366/icon.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7c41/4371366/crop_320x180/icon.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7c41/4371366/crop_640x360/icon.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7c41/4371366/crop_1280x720/icon.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Halsin",
+        "name_localized": "Halsin",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5619114
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5619114
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5619114
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5619114
+      }
+    ]
+  },
+  {
     "id": 4371429,
     "game_id": 6715,
     "name": "Gilded Obsidian Dice",
@@ -61473,7 +61581,7 @@
     "summary": "The most ambitious D&amp;D 5.5e conversion yet: 16 classes, 124 subclasses, 98 feats, 148 new/revised spells, 41 backgrounds, 15 new subraces, and 17 core rule changes — a complete rebuild, still growing with every update.",
     "description": "DnD 5.5e All-in-One BEYOND\n<p><a href=\"https://github.com/Yoonmoonsik/bg3dnd\">DnD 5.5e All-in-One BEYOND</a> is a Baldur's Gate 3 mod that packs a broad set of D&amp;D 5.5e-inspired rules, player options, spells, feats, equipment, and class updates into a single all-in-one mod.</p>\n<p>For deeper gameplay notes, class details, spell behavior, item locations, and community-maintained documentation, see the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a>.</p>\n<p><em>Note: The Wiki is maintained by community contributors and is not officially written or managed by the mod developer. Some information may be incomplete, outdated, or inaccurate.</em></p>\n<h2>Bug Reports and Questions</h2>\n<ul>\n<li><strong>Bug reports:</strong> open a report in <a href=\"https://github.com/Yoonmoonsik/bg3dnd/issues\">Issues</a>.</li>\n<li><strong>Questions, suggestions, requests, and general feedback:</strong> post in <a href=\"https://github.com/Yoonmoonsik/bg3dnd/discussions\">Discussions</a>.</li>\n</ul>\n<h2>YouTube</h2>\n<p>For gameplay examples, build ideas, and practical references, check the playthrough videos on the <a href=\"https://www.youtube.com/@bg3dnd\">YouTube channel</a> and the dedicated <a href=\"https://www.youtube.com/playlist?list=PLOxzTx3j5VdueKEU6lfAmzKL5KQt0rNhi\">playthrough playlist</a>.</p>\n<h2>Rules and Actions</h2>\n<ul>\n<li><strong>Common Actions:</strong> Distract, Dodge, Equipping Weapons, Extra Attack (including War Magic integration), Hide, Jump, Shove, Topple</li>\n<li><strong>Conditions:</strong> Bloodied, Down, Prone</li>\n<li><strong>Rest and Recovery:</strong> Hit Point Dice, Inspiration from Background</li>\n<li><strong>Spellcasting:</strong> One Spell Slot Spell per Turn, Spell Scroll Usage Limitation</li>\n<li><strong>Equipment and Items:</strong> Heavy Armor Strength Requirement, Heavy Weapon Ability Requirement, Weapon Mastery</li>\n</ul>\n<h2>Backgrounds</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Backgrounds\">Backgrounds</a>.</p>\n<p>41 backgrounds are available. Each grants 2 skill proficiencies and an Origin Feat at character creation: Acolyte, Charlatan, Chondathan Freebooter, Criminal, Dead Magic Dweller, Dragon Cultist, Emerald Enclave Caretaker, Entertainer, Experiment, Farmer, Flaming Fist Mercenary, Folk Hero, Genie Touched, Giant Foundling, Guide, Guild Artisan, Harper, Haunted One, Hermit, Ice Fisher, Knight of the Gauntlet, Lords' Alliance Vassal, Merchant, Moonwell Pilgrim, Mulhorandi Tomb Raider, Mythalkeeper, Noble, Outlander, Purple Dragon Squire, Rashemi Wanderer, Rest Warden, Sage, Sailor, Scribe, Shadowmasters Exile, Soldier, Spellfire Initiate, Urchin, Wayfarer, Wicker Weaver, Zhentarim Mercenary.</p>\n<h2>Classes</h2>\n<p>See the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a> and each class page for detailed level progression and subclass features.</p>\n<ul>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Artificer\">Artificer</a></strong> — Alchemist, Armorer, Artillerist, Battle Smith</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Barbarian\">Barbarian</a></strong> — Berserker, Fractured, Giant, Shadow Gnawer, Wild Magic, Wildheart, World Tree, Zealot</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Bard\">Bard</a></strong> — Choreography, Dance, Glamour, Lore, Moon, Spirits, Swords, Valor</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Cleric\">Cleric</a></strong> — Apocalypse, Astral, Death, Dragon, Forge, Grave, Nature, Shadow, Tempest, Knowledge, Life, Light, Mind, Trickery, Twilight, War</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Druid\">Druid</a></strong> — Circle of Dragons, Dreams, Stars, Land, Moon, Sea, Spores, Unbroken</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Fighter\">Fighter</a></strong> — Arcane Archer, Banneret, Battle Master, Cavalier, Champion, Eldritch Knight, Psi Warrior, Rune Knight, Viking</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Gunslinger\">Gunslinger</a></strong> — High Roller, Spellslinger, White Hat</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Illrigger\">Illrigger</a></strong> — Architect of Ruin, Hellspeaker, Painkiller, Sanguine Knight, Shadowmaster</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Monk\">Monk</a></strong> — Drunken Master, Elements, Kensei, Mercy, Mystic Arts, Open Hand, Shadow, Sun Soul</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Monster-Hunter\">Monster Hunter</a></strong> — Carver Guild, Devourer Guild, Occultist Guild</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Paladin\">Paladin</a></strong> — Ancients, Conquest, Crown, Devotion, Glory, Noble Genies, Vengeance, Watchers, Oathbreaker</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Ranger\">Ranger</a></strong> — Beast Master, Fey Wanderer, Gloom Stalker, Hollow Warden, Hunter, Swarm Keeper, Winter Walker</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Rogue\">Rogue</a></strong> — Arachnoid Stalker, Arcane Trickster, Assassin, Blade of Radiance, Scion of the Three, Highway Rider, Sanguine Thief, Soulknife, Swashbuckler, Thief</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Sorcerer\">Sorcerer</a></strong> — Aberrant Sorcery, Clockwork Sorcery, Divine Soul, Draconic Sorcery, Frost Sorcery, Heroic Sorcery, Shadow Magic, Spellfire Sorcery, Storm Sorcery, Wild Magic Sorcery</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Warlock\">Warlock</a></strong> — Archfey, Celestial, Fiend, Great Old One, Hexblade, Undead, expanded Invocations</li>\n<li><strong><a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Class-Wizard\">Wizard</a></strong> — Abjurer, Bladesinger, Conjurer, Diviner, Enchanter, Evoker, Illusionist, Necromancer, Sangromancer, Transmuter</li>\n<li><strong>Psion</strong> — Coming soon</li>\n</ul>\n<h2>Feats</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Feats\">Feat</a>.</p>\n<p>Actor, Alert, Altered, Athlete, Charger, Charm Twister, Cold Caster, Crossbow Expert, Crusher, Cult of the Dragon Initiate, Deadly Archery, Death Defier, Defensive Duelist, Dragon Fear, Dragon Hide, Dragonscarred, Dragon-Slayer, Dual Wielder, Dungeon Delver, Durable, Dwarven Fortitude, Eldritch Adept, Elemental Adept, Elven Accuracy, Emerald Enclave Fledgling, Enclave Magic, Fade Away, Fairy Trickster, Fey Touched, Fierce Shot, Fighting Initiate, Flames of Phlegethos, Genie Magic, Gleam of Wrath, Grave Keeper, Great Weapon Master, Harper Agent, Harper Teamwork, Healer, Heavily Armored, Heavy Armor Master, Infernal Constitution, Inspiring Leader, Keenness of the Stone Giant, Lightly Armored, Lordly Resolve, Lords' Alliance Agent, Lucky, Mage Slayer, Magic Initiate: Cleric, Magic Initiate: Druid, Magic Initiate: Wizard, Martial Adept, Medium Armor Master, Metamagic Adept, Moderately Armored, Mounted Combatant, Musician, Mythal Touched, Nimbleness, Orcish Fury, Order's Resilience, Piercer, Poisoner, Polearm Master, Purple Dragon Commandant, Purple Dragon Rook, Resilient, Ritual Caster, Rune Shaper, Savage Attacker, Sentinel, Shadow Touched, Sharpshooter, Shield Master, Skill Expert, Skilled, Skulker, Slasher, Soul of the Storm Giant, Speedy, Spellfire Adept, Spellfire Spark, Spell Sniper, Squat Nimbleness, Swift Witchcraft, Tavern Brawler, Tough, Tyro of the Gauntlet, War Caster, Weapon Master, Zhentarim Ruffian, Zhentarim Tactics.</p>\n<h3>Fighting Styles</h3>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Fighting-Styles\">Fighting Styles</a>.</p>\n<p>Archery, Blind Fighting, Defense, Dueling, Great Weapon Fighting, Interception, Protection, Thrown Weapon Fighting, Two-Weapon Fighting, Unarmed Fighting.</p>\n<h2>Races</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Races\">Race</a>.</p>\n<ul>\n<li>Aasimar, Changeling, Goliath, and Kalashtar are available as Human subrace options. Eladrin and Ice Elf are available as Elf subrace options. Dhampir can be taken as a Human, Elf, Drow, Tiefling, Dwarf, Halfling, Gnome, or Orc subrace.</li>\n<li>Dragonborn, Dwarf, Elf, Githyanki, Gnome, Half Elf, Halfling, Human, Orc, and Tiefling are supported.</li>\n<li>Several species include ancestry or lineage options, including Dragonborn Draconic Ancestry, Elf and Half Elf sub-lineages, Goliath Giant Ancestry, and Tiefling legacy options.</li>\n</ul>\n<h2>Spells</h2>\n<p>See <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki/Spells\">Spell</a>.</p>\n<p>The lists below cover new and revised spells only. The wiki has the complete per-level tables, including spells that are unchanged.</p>\n<h3>Cantrips</h3>\n<p>Acid Splash, Blade Ward, Blood Bolt, Booming Blade, Bursting Sinew, Finger Guns, Frightful Start, Green-Flame Blade, Hellfire, Holy Word, Mind Sliver, Primal Savagery, Produce Flame, Sorcerous Burst, Spare the Dying, Starry Wisp, Sword Burst, Thunderclap, Toll the Dead, True Strike, Vengeful Blade, Word of Radiance.</p>\n<h3>Leveled Spells</h3>\n<ul>\n<li><strong>Level 1:</strong> Absorb Elements, Armor of Agathys, Ballistic Smite, Blood Rush, Bloodbane Rune, Body Warping of Gorgoroth, Boil Blood, Catapult, Chromatic Orb, Cloak of Shadow, Color Spray, Command, Consumption, Crimson Lash, Cure Wounds, Dissonant Whispers, Earth Tremor, False Life, Fog Cloud, Healing Word, Hell's Lash, Hideous Laughter, Hungering Blade, Shroud Blood, Somnolence, Spectral Slash, Spellfire Flare, Thorn Armor, Thunderous Smite, Tide of Darkness, Umbral Tendril, Vibrating Humors, Wardaway, Witch Bolt, Wrathful Smite.</li>\n<li><strong>Level 2:</strong> Aganazzar's Scorcher, Alter Self, Arcane Vigor, Barkskin, Blood Wisp, Darkbolt, Dazing Blast, Death Armor, Dragon's Breath, Elminster's Elusion, Find Steed, Fire Rune, Gust of Wind, Lesser Restoration, Mind Spike, Moonbeam, Prayer of Healing, Rime's Binding Ice, Sanguine Shield, Searing Orb, Sense Lifeblood, Shadow Blade, Snilloc's Snowball Swarm, Summon Beast, Tasha's Mind Whip, Theft of Vitae, Warding Bond, Web, Wilting Smite.</li>\n<li><strong>Level 3:</strong> Animate Dead, Ashardalon's Stride, Astral Flood, Aura of Vitality, Bestow Curse, Blood Bond, Cacophonic Shield, Conjure Barrage, Counterspell, Crusader's Mantle, Elemental Exhalation, Extract Iron, Haste, Laeral's Silver Lance, Lightning Arrow, Murmurs of Doom, Phantom Steed, Reanimate, Sanguine Poppet, Serpent Tongue, Summon Fey, Summon Undead, Tidal Wave, Trollblood Infusion, Void Strike.</li>\n<li><strong>Level 4:</strong> Arcane Eye, Charm Monster, Circle of Scarlet, Conjure Woodland Beings, Dark Sacrament, Fire Dance, Fount of Moonlight, Murder of Crows, Spellfire Storm, Summon Aberration, Summon Elemental, Viscous Sheath, Vitriolic Sphere.</li>\n<li><strong>Level 5:</strong> Awaken, Circle of Power, Cone of Cold, Conjure Elemental, Danse Macabre, Dawn, Dispel Evil and Good, Dream, Enervation, Holy Weapon, Steel Wind Strike, Summon Celestial, Summon Dragon, Synaptic Static.</li>\n<li><strong>Level 6:</strong> Circle of Death, Disintegrate, Freezing Sphere, Planar Ally.</li>\n</ul>\n<h2>Items</h2>\n<h3>Equipment</h3>\n<p>Argument Solver, Blazer of Benevolence, Cap of Curing, Chain of Liberation, Charge-Bound Warhammer, Corrosive Flail, Dragon's Grasp, Enforcer Club, Enforcer Helmet, Enforcer Shield, Gloves of Heroism, Hellrider's Pride, Helmet of Smiting, Holy Avenger, Hoppy, Hunting Shortbow, Moon Sickle, Musket, Musket +1, Musket +2, Pistol, Pistol +1, Pistol +2, Rupturing Blade, Spellthief, The Baneful, The Oak Father's Embrace, The Sacred Star, True Name, Voltedge, Whip, Whip +1, Whip +2, Xyanyde.</p>\n<h3>Spell Scrolls</h3>\n<p>Spell scrolls are restricted to specific classes, with cantrip scrolls, Scrolls of Revivify, and Scrolls of Detect Thoughts always exempt.</p>\n<h2>Support the Mod</h2>\n<p>This mod is developed and maintained for free, and it always will be. If you would like to support continued development, you can do so here:</p>\n<ul>\n<li><a href=\"https://ko-fi.com/yoonmoonsik\">Ko-fi</a></li>\n<li><a href=\"https://toon.at/donate/yoonmoonsick\">Toonation</a> (for supporters in Korea)</li>\n</ul>\n<p>Contributions go toward purchasing the official D&amp;D rulebooks that this mod is based on, so that new content can be implemented accurately from the source material.</p>\n<p>Support is entirely voluntary and grants no special access, priority requests, or exclusive content. Sharing feedback, reporting bugs, and helping others in Discussions are just as valuable.</p>\n<h2>Credits</h2>\n<p>See the <a href=\"https://github.com/Yoonmoonsik/bg3dnd/wiki\">Wiki</a> for full attribution.</p>\n<ul>\n<li><strong>Brazilian Portuguese Translation:</strong> <a href=\"https://mod.io/u/shadowahjin\">ShadowAhJin</a> (<a href=\"https://github.com/CaioShin93\">CaioShin93</a>)</li>\n<li><strong>French Translation:</strong> <a href=\"https://github.com/mcz-xiocku\">CyberBoloss</a></li>\n<li><strong>Italian Translation:</strong> Alessandro</li>\n<li><strong>Japanese Translation:</strong> <a href=\"https://www.nexusmods.com/profile/Eolaloe\">Eolaloe</a></li>\n<li><strong>Polish Translation:</strong> <a href=\"https://discord.gg/VxSvMqQ6sS\">TableTop BRAMA community</a></li>\n<li><strong>Russian Translation:</strong> <a href=\"https://github.com/ANizamutdinov\">ANizamutdinov</a></li>\n<li><strong>Spanish / Latin Spanish Translation:</strong> <a href=\"https://github.com/incolhermex-droid\">incolhermex-droid</a></li>\n<li><strong>Turkish Translation:</strong> <a href=\"https://github.com/batuhansekban\">batuhansekban</a></li>\n<li><strong>Ukrainian Translation:</strong> <a href=\"https://discord.gg/VxSvMqQ6sS\">TableTop BRAMA community</a></li>\n<li><strong>Item Models:</strong> <a href=\"https://mod.io/g/baldursgate3/u/skirbie\">skirbie</a> (<a href=\"https://mod.io/g/baldursgate3/m/viper-carbine-steampunk-rifle-gun\">Viper Carbine Steampunk Rifle Gun</a>, <a href=\"https://mod.io/g/baldursgate3/m/hand-cannon-gunslinger-weapon\">Hand Cannon Gunslinger Weapon</a>)</li>\n</ul>\n<h2>Legal</h2>\n<p>DnD 5.5e All-in-One BEYOND is unofficial Fan Content permitted under the <a href=\"https://company.wizards.com/en/legal/fancontentpolicy\">Fan Content Policy</a>. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>",
     "date_added": 1729165055,
-    "date_updated": 1792726027,
+    "date_updated": 1792738897,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -61487,15 +61595,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 8364145,
+      "id": 8364629,
       "mod_id": 4419649,
-      "version": "4.13.11.0",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-5xuy.zip",
+      "version": "4.13.11.1",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-39ue.zip",
       "changelog": null,
-      "date_added": 1792726005,
+      "date_added": 1792738879,
       "date_updated": 0,
-      "date_scanned": 1792726176,
-      "filesize": 89096051,
+      "date_scanned": 1792739051,
+      "filesize": 89103722,
       "platforms": [
         {
           "platform": "windows",
@@ -61797,7 +61905,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8364145
+        "modfile_live": 8364629
       }
     ]
   },
@@ -64244,6 +64352,114 @@
       {
         "platform": "ps5",
         "modfile_live": 5785110
+      }
+    ]
+  },
+  {
+    "id": 4429764,
+    "game_id": 6715,
+    "name": "Ornamented Orator - Raphael redressing mod",
+    "name_id": "ornamented-orator-raphael-redressing-mod",
+    "summary": "Gives Raphael a set of golden rings, a golden ear-cuff, and changes the colour of his acessories to gold in his cambion form. Adds a signet ring and gold buttons to his human form.",
+    "description": "<p>This mod started out with fellow Raphael fan <a href=\"https://www.tumblr.com/alwachart\">Alisa</a> pondering how Raphael would look with a gold belt, and evolved into me spending a week making him jewellery.  Parts of the outfit (the rings) were inspired by one of Raphael's portraits, the golden ear ornaments were just because I like his pointy ears and think they deserve shinies.<br><br><strong>What it does:</strong><br>Changes the silver parts of his outfit in both forms to gold (Belt, kneepads, buttons, buckles, boot trim).<br>Gives him a gold signet ring in both forms<br>Gives him several rings and a claw-cover in cambion form<br>Gives him golden ear cuffs in cambion form<br><br>There's also a 'Such a Tease' variant <a href=\"https://mod.io/g/baldursgate3/m/such-a-tease-ornamented-raphael-redressing-mod\">here</a> that adds all of the above, plus opens up his doublet and adds a necklace to both forms.<br><br>The horn jewellery is from my <strong><a href=\"https://mod.io/g/baldursgate3/m/raphaels-hornaments\">Raphael's Hornaments</a></strong> mod, which is fully compatible with this one.<br><br>Not compatible with other mods that change his outfit.</p>\n<p>Overrides the vanilla OSI script Act3c_END_GodsAndMonsters. Not compatible with any mods that override the same script.<br><br>Made in the Toolkit so will only work with games in patch 7 and onwards.<br><br>Other mods used in screenshots:<br><a href=\"https://mod.io/g/baldursgate3/m/raphaels-hornaments\">Raphael's Hornaments</a> (golden horn ornaments)<br><a href=\"https://mod.io/g/baldursgate3/m/a-devil-you-do\">A Devil You 'do (Raphael Hair Fixer)</a><br><a href=\"https://opm.fransbouma.com/Cameras/bg3.htm\">Otis Freecam</a> (plus reshade)<br><a href=\"https://mod.io/g/baldursgate3/m/brushyourteeth\">Brush Your Teeth</a><br><br>I plan to make some jewellery for Haarlep eventually too, and also a version of the signet ring that's wearable by players, but after spending almost 2 weeks working on this I want to stop for now and do something else.<br><br></p>\n<p>My Raphael and Raphael-adjacent mods available on Mod.io:</p>\n<p><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/raphaels-hornaments\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Raphael's Hornaments </span></span></span></span></a></span>- Gives Raphael golden horn ornaments in his cambion form, and gives Haarlep a golden and black harness<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/such-a-tease\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Such a Tease </span></span></span></span></a></span>- Opens up his doublet in both human and cambion forms<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/such-a-tease-ornamented-raphael-redressing-mod\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Such a Tease - Ornamented (Raphael redressing mod)</span></span></span></span></a></span> - Opens up his doublet and adds golden jewellery and accessories to both human and cambion forms<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/horusrestorus\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Horus Restorus</span></span></span></span></a></span> - Restores Rivington NPC Horus Crysst to have Raphael's face, which he had before patch 7<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/a-devil-you-do\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">A Devil You 'do (Raphael Hair Fixer)</span></span></span></span></a></span> - Fixes the gap between Raphael's hair and ears in his cambion form<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/a-devil-you-gnome-raphael-replacer\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">A Devil You Gnome (Raphael Replacer)</span></span></span></span></a></span> - Changes his human guise into a Gnome<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/cambions-companion\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Cambion's Companion (Haarlep Summon)</span></span></span></span></a></span> - a suggestively-shaped necklace that allows the wearer to summon Haarlep<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/the-house-of-hope-couture\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">The House Of Hope Couture - Raphael Outfits</span></span></span></span></a></span> - Adds both Raphael's outfits, Korrilla's outfit, Yurgir's outfit, and the debtor clothing as both camp clothing and armor, adds several fun spells to them including allowing you to summon Yurgir, transform into devils, and transform into Raphael's Ascended Fiend form.<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/mouses-manacles-raphael-themed-collars-n-cuffs\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Mouse's Manacles - Raphael Themed Collars n Cuffs</span></span></span></span></a></span> - Collars and wrist/ankle manacles themed around Raphael<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/soaring-ambition-ascended-fiend-wings\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Soaring Ambition - Ascended Fiend Wings</span></span></span></span></a></span> - Gives the player Raphael's Ascended Fiend wings as equippable, functional wings<br><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex tw-min-h-10\" style=\"text-align:initial;\"><a class=\"tw-space-x-1 tw-button-transition tw-cursor-pointer tw-outline-none tw-border-none tw-text-primary hover:tw-text-primary-hover focus:tw-text-primary-hover\" href=\"https://mod.io/g/baldursgate3/m/infernal-intimates-tk\"><span class=\"tw-flex tw-items-center tw-justify-center tw-space-x-1.5 lg:tw-space-x-2.5\"><span class=\"tw-items-center tw-justify-start tw-text-sm tw-text-opacity-70 group-hover:tw-text-opacity-100 tw-inline-flex\" style=\"text-align:initial;\"><span class=\"tw-space-x-1\"><span class=\"tw-whitespace-pre-wrap\">Infernal Intimates - Stockings for all</span></span></span></span></a></span> - adds stockings to a dyeable version of the incubus harness for players</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/nikjima\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/13807/13807-1746708401-640373048.png\" alt=\"\" width=\"300\" height=\"61\"></a></p>",
+    "date_added": 1729439159,
+    "date_updated": 1792747780,
+    "date_live": 1729441224,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/ornamented-orator-raphael-redressing-mod",
+    "submitted_by": {
+      "id": 32519326,
+      "name_id": "nikjima",
+      "username": "Nikjima",
+      "profile_url": "https://mod.io/u/nikjima",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dd09/32519326/crop_100x100/galeodone_commission_nikjima_n.png"
+    },
+    "modfile": {
+      "id": 6787815,
+      "mod_id": 4429764,
+      "version": "1.0.0.5",
+      "filename": "ornamentedorator_0def96a2-4dd1-cv3q.zip",
+      "changelog": "Raphael will now be wearing the Crown of Karsus in the Epilogue if you successfully gave it to him.  Added the hair fix from A Devil You Do for his cambion form.",
+      "date_added": 1758400323,
+      "date_updated": 0,
+      "date_scanned": 1758400431,
+      "filesize": 53386645,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/c562/4429764/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/c562/4429764/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/c562/4429764/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/c562/4429764/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6787815
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6787815
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6787815
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6787815
       }
     ]
   },
@@ -94814,6 +95030,202 @@
       {
         "platform": "ps5",
         "modfile_live": 7184472
+      }
+    ]
+  },
+  {
+    "id": 4705368,
+    "game_id": 6715,
+    "name": "Replace Gale with Raphael",
+    "name_id": "replace-gale-with-raphael",
+    "summary": "Replaces Gale's visuals with those of Raphael's human form.",
+    "description": "<p>I was asked to make a Raphael Origin character replacer for those who want to roleplay Raphael being a party member, so I made two, this one <a href=\"https://mod.io/g/baldursgate3/m/replace-astarion-with-raphael\">and an Astarion one</a>.  You can download either, or both versions, if you just can't get enough of that devil.<br><br>It only changes their visuals, not their voices, names, dialogue, or anything else.<br><br>A copy of Raphael's clothing is sent to the camp chest on startup so you can get them from there if you want.  They have the same stats as the character's vanilla gear, if you want some fun spells try my <a href=\"https://mod.io/g/baldursgate3/m/the-house-of-hope-couture\">The House of Hope Couture</a> mod, which has Raphael's clothing with some of his spells, including the ability to shapeshift into his ascended fiend form.<br><br>All Gale's models have been changed, including the astral projections and God form.<br><br>You may also want my <a href=\"https://mod.io/g/baldursgate3/m/cambions-companion\">Cambion's Companion</a> mod, so your Raphael can summon Haarlep to aid in battle.<br><br>My <a href=\"https://mod.io/g/baldursgate3/m/dress-that-devil-turn-into-raphael-or-haarlep\">Dress That Devil</a> mod enables you to switch into Raphael's cambion form, and still equip clothing.<br><br>In case his colour presets get changed by a cc mod such as <a href=\"https://www.nexusmods.com/baldursgate3/mods/899\">Appearance Edit Enhanced</a>, his presets are skin tone neutral 6, eye colour brown 2, and I've added his hair colour to cc under Raphael. <br><br>This mod won't change Raphael himself, only the relevant companion.</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/nikjima\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/13807/13807-1746708401-640373048.png\" alt=\"\" width=\"300\" height=\"61\"></a></p>",
+    "date_added": 1738621363,
+    "date_updated": 1792747838,
+    "date_live": 1738622724,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/replace-gale-with-raphael",
+    "submitted_by": {
+      "id": 32519326,
+      "name_id": "nikjima",
+      "username": "Nikjima",
+      "profile_url": "https://mod.io/u/nikjima",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dd09/32519326/crop_100x100/galeodone_commission_nikjima_n.png"
+    },
+    "modfile": {
+      "id": 6058764,
+      "mod_id": 4705368,
+      "version": "1.0.0.2",
+      "filename": "raphaelgalereplacer_388e039a-e-7yip.zip",
+      "changelog": "Corrected vertex masking on clothing.",
+      "date_added": 1738681129,
+      "date_updated": 0,
+      "date_scanned": 1738681150,
+      "filesize": 16119484,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/c05b/4705368/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/c05b/4705368/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/c05b/4705368/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/c05b/4705368/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6058764
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6058764
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6058764
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6058764
+      }
+    ]
+  },
+  {
+    "id": 4705376,
+    "game_id": 6715,
+    "name": "Replace Astarion with Raphael",
+    "name_id": "replace-astarion-with-raphael",
+    "summary": "Replaces Astarion's visuals with those of Raphael's human form.",
+    "description": "<p>I was asked to make a Raphael Origin character replacer for those who want to roleplay Raphael being a party member, so I made two, this one and <a href=\"https://mod.io/g/baldursgate3/m/replace-gale-with-raphael\">a Gale one</a>.  You can download either, or both versions, if you just can't get enough of that devil.<br><br>It only changes their visuals, not their voices, names, dialogue, or anything else.<br><br>A copy of Raphael's clothing is sent to the camp chest on startup so you can get them from there if you want.  They have the same stats as the character's vanilla gear, if you want some fun spells try my <a href=\"https://mod.io/g/baldursgate3/m/the-house-of-hope-couture\">The House of Hope Couture</a> mod, which has Raphael's clothing with some of his spells, including the ability to shapeshift into his ascended fiend form.<br><br>All Astarion's models have been changed, including the shirtless ones from his romance scenes and the Cazador scene.<br><br>You may also want my <a href=\"https://mod.io/g/baldursgate3/m/cambions-companion\">Cambion's Companion</a> mod, so your Raphael can summon Haarlep to aid in battle.<br><br>My <a href=\"https://mod.io/g/baldursgate3/m/dress-that-devil-turn-into-raphael-or-haarlep\">Dress That Devil</a> mod enables you to switch into Raphael's cambion form, and still equip clothing.<br><br>In case his colour presets get changed by a cc mod such as <a href=\"https://www.nexusmods.com/baldursgate3/mods/899\">Appearance Edit Enhanced</a>, his presets are skin tone neutral 6, eye colour brown 2, and I've added his hair colour to cc under Raphael. <br><br>This mod won't change Raphael himself, only the relevant companion.</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/nikjima\"><img src=\"https://staticdelivery.nexusmods.com/mods/3474/images/13807/13807-1746708401-640373048.png\" alt=\"\" width=\"300\" height=\"61\"></a></p>",
+    "date_added": 1738621646,
+    "date_updated": 1792747880,
+    "date_live": 1738622730,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/replace-astarion-with-raphael",
+    "submitted_by": {
+      "id": 32519326,
+      "name_id": "nikjima",
+      "username": "Nikjima",
+      "profile_url": "https://mod.io/u/nikjima",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dd09/32519326/crop_100x100/galeodone_commission_nikjima_n.png"
+    },
+    "modfile": {
+      "id": 6058771,
+      "mod_id": 4705376,
+      "version": "1.0.0.11",
+      "filename": "raphaelastarionreplacer_320b42-3jjg.zip",
+      "changelog": "Corrected vertex masking on clothing.",
+      "date_added": 1738681546,
+      "date_updated": 0,
+      "date_scanned": 1738681567,
+      "filesize": 14871578,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/b4f6/4705376/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b4f6/4705376/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b4f6/4705376/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b4f6/4705376/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6058771
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6058771
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6058771
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6058771
       }
     ]
   },
@@ -126564,6 +126976,104 @@
     ]
   },
   {
+    "id": 5014485,
+    "game_id": 6715,
+    "name": "Dragonborn Lucious Locks",
+    "name_id": "dragonborn-lucious-locks",
+    "summary": "This mod gives Dragonborn vanilla hair, depending on the Crest choice will depend how much they clip.",
+    "description": "<p>This mod gives Dragonborn vanilla hair, depending on the Crest choice will depend how much they clip. See images and linked video.</p>\n<p>Works on both bodytypes. </p>\n<p><strong>Autosnap Hair Mods - </strong>Like vanilla hairs they should auto work with this mod applied, however I can't predict clipping. Please do not complain to the hair modders for any clipping. I did try to reduce clipping as much as I could without making huge gaps, so clipping sadly will be a thing for some hairs no matter what.</p>",
+    "date_added": 1749924511,
+    "date_updated": 1792748159,
+    "date_live": 1750955163,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dragonborn-lucious-locks",
+    "submitted_by": {
+      "id": 32519245,
+      "name_id": "padme4000",
+      "username": "Padme4000",
+      "profile_url": "https://mod.io/u/padme4000",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/d8e5/32519245/crop_100x100/padme4000logo.png"
+    },
+    "modfile": {
+      "id": 6477652,
+      "mod_id": 5014485,
+      "version": "1.0.0.4",
+      "filename": "dragonborn_hair_93c73c5e-2b2a-dtm2.zip",
+      "changelog": null,
+      "date_added": 1750254689,
+      "date_updated": 0,
+      "date_scanned": 1750254699,
+      "filesize": 3219497,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/2573/5014485/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2573/5014485/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2573/5014485/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2573/5014485/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6477652
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6477652
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6477652
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6477652
+      }
+    ]
+  },
+  {
     "id": 5017325,
     "game_id": 6715,
     "name": "The Lasses Head Presets by cedastarions",
@@ -127610,6 +128120,104 @@
       {
         "platform": "ps5",
         "modfile_live": 6477296
+      }
+    ]
+  },
+  {
+    "id": 5023845,
+    "game_id": 6715,
+    "name": "P4 Dragonborn Sockets",
+    "name_id": "p4-dragonborn-sockets",
+    "summary": "This mod gives Dragonborn new sockets, so far only the missing hair sockets the other races had. It does nothing on its own, but with mods like Dragonborn Lucious Locks it unlocks vanilla hairs for Dragonborn.",
+    "description": "<p>This mod is a requirement for Lucious locks to work, which can also be used as a requirement by other modders. If they want to use the hair sockets I added to the Dragonborn.</p>\n<p>I have plans to add more sockets, though right now for the initial release I have only added the same sockets the other races use. New sockets will come when I can test them by giving more new assets via them, to make sure they work.</p>\n<p><strong>Autosnap Hair Mods</strong> - Like vanilla hairs they should auto work with this mod applied, however I can't predict clipping. Please do not complain to the hair modders for any clipping. I did try to reduce clipping as much as I could without making huge gaps, so clipping sadly will be a thing for some hairs no matter what.</p>",
+    "date_added": 1750254188,
+    "date_updated": 1792748184,
+    "date_live": 1750955138,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/p4-dragonborn-sockets",
+    "submitted_by": {
+      "id": 32519245,
+      "name_id": "padme4000",
+      "username": "Padme4000",
+      "profile_url": "https://mod.io/u/padme4000",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/d8e5/32519245/crop_100x100/padme4000logo.png"
+    },
+    "modfile": {
+      "id": 6477640,
+      "mod_id": 5023845,
+      "version": "1.0.0.5",
+      "filename": "dgb_sockets_0a07daff-53bd-cc46-fs0y.zip",
+      "changelog": null,
+      "date_added": 1750254327,
+      "date_updated": 0,
+      "date_scanned": 1750254593,
+      "filesize": 1750684,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "dgbsocketscover.png",
+      "original": "https://image.modcdn.io/mods/cd94/5023845/dgbsocketscover.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/cd94/5023845/crop_320x180/dgbsocketscover.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/cd94/5023845/crop_640x360/dgbsocketscover.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/cd94/5023845/crop_1280x720/dgbsocketscover.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6477640
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6477640
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6477640
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6477640
       }
     ]
   },
@@ -129477,6 +130085,99 @@
       {
         "platform": "ps5",
         "modfile_live": 6512945
+      }
+    ]
+  },
+  {
+    "id": 5052355,
+    "game_id": 6715,
+    "name": "Halsin - No Tattoo",
+    "name_id": "halsin-no-tattoo",
+    "summary": "Removes Halsins Tattoo either for those wanting no tattoo or wanting to give him another via UCA",
+    "description": "<p>Removes Halsins Tattoo either for those wanting no tattoo or wanting to give him another tattoo via another mod.</p>\n<p>Such as if you want to give him a new tattoo via mods that allow you to edit him in the magic mirror.</p>",
+    "date_added": 1751190369,
+    "date_updated": 1792748027,
+    "date_live": 1751192135,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/halsin-no-tattoo",
+    "submitted_by": {
+      "id": 32519245,
+      "name_id": "padme4000",
+      "username": "Padme4000",
+      "profile_url": "https://mod.io/u/padme4000",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/d8e5/32519245/crop_100x100/padme4000logo.png"
+    },
+    "modfile": {
+      "id": 6516168,
+      "mod_id": 5052355,
+      "version": "1.0.1.0",
+      "filename": "halsin_no_tattoo_4bd50f64-8725-89lz.zip",
+      "changelog": "removed shaders so can be approved for console",
+      "date_added": 1751192014,
+      "date_updated": 0,
+      "date_scanned": 1751192049,
+      "filesize": 17334964,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/79c3/5052355/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/79c3/5052355/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/79c3/5052355/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/79c3/5052355/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Halsin",
+        "name_localized": "Halsin",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6516168
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6516168
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6516168
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6516168
       }
     ]
   },
@@ -136114,6 +136815,169 @@
     ]
   },
   {
+    "id": 5118149,
+    "game_id": 6715,
+    "name": "P4 Hornucopia",
+    "name_id": "p4-hornucopia",
+    "summary": "Collection of horns I have mostly made myself. Two are horns I edited from vanilla horns.",
+    "description": "<p>Collection of horns I have mostly made myself. Two are horns I edited from vanilla horns.</p>\n<p>Adds 16 Horns + 58 Horn/HornTip Colours (also added to makeup, tattoo, greying and highlights) these are added so everyone who uses this mod has at least some colours to use for non Tiefling races. If you want the vanilla colours I suggest my: <a href=\"https://mod.io/g/baldursgate3/m/vanilla-cc-colours-for-all-sections#description\">Vanilla CC Colours For All Sections</a></p>\n<p><strong>Angler Fish Horns:</strong></p>\n<p>It comes with a toggable passive, when on it will emit a light, that will also protect your companions in the Shadowlands up to 3m from the character that has the horn.</p>\n<p>They will also increase dark vision to 18m if the character who has it, has less than that while the passive is active, when the passive is inactive it will revert to the original value.</p>\n<p><strong>Dragonborn</strong>: </p>\n<p>If you have <a href=\"https://mod.io/g/baldursgate3/m/p4-dragonborn-sockets#description\">P4 Dragonborn Sockets</a> installed it will change how the horns apply to dragonborn. Please check the images for with and without dgb sockets images.</p>",
+    "date_added": 1753458379,
+    "date_updated": 1792747998,
+    "date_live": 1753792975,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/p4-hornucopia",
+    "submitted_by": {
+      "id": 32519245,
+      "name_id": "padme4000",
+      "username": "Padme4000",
+      "profile_url": "https://mod.io/u/padme4000",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/d8e5/32519245/crop_100x100/padme4000logo.png"
+    },
+    "modfile": {
+      "id": 7506890,
+      "mod_id": 5118149,
+      "version": "1.0.1.0",
+      "filename": "p4_hornucopia_22ae8f7a-ec6f-7d-eygs.zip",
+      "changelog": "Made the passive remove or be added if using the MIrror to add or remove the Anglerfish horn.",
+      "date_added": 1773578515,
+      "date_updated": 0,
+      "date_scanned": 1773578543,
+      "filesize": 12884561,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/d222/5118149/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d222/5118149/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d222/5118149/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d222/5118149/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Horns",
+        "name_localized": "Horns",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "Modathon 2025",
+        "name_localized": "Modathon 2025",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7506890
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7506890
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7506890
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7506890
+      }
+    ]
+  },
+  {
     "id": 5119123,
     "game_id": 6715,
     "name": "Car Wildshape",
@@ -140326,6 +141190,109 @@
       {
         "platform": "ps5",
         "modfile_live": 7577449
+      }
+    ]
+  },
+  {
+    "id": 5194426,
+    "game_id": 6715,
+    "name": "Planar Ally - Moonlight Sliver",
+    "name_id": "moonlightsliverdeva1",
+    "summary": "Add Moonlight Sliver as a summon choice in Planar Ally spell with similar stat with Deva (plus some buff)",
+    "description": "<p><span style=\"font-size:large;\">Big thanks to <a href=\"https://next.nexusmods.com/profile/FrancisN934757?gameId=3474\" rel=\"nofollow\">FrancisN934757</a> for helping me with major bugs.<br><br>How to install:<br>download the file then putting in load order, that's all<br><br><strong>Possible Questions:<br></strong>Q: Could you make the version with no extra attack?<br>A: For the level 6 spell, no. You can download the non-toolkit version of this mod <a href=\"https://www.nexusmods.com/baldursgate3/mods/16260\">here</a>.</span></p>\n<p><span style=\"font-size:large;\">Q: the healing is too much/deva shouldn't know warden of vitality/unlimited revivify is unacceptable/free guiding bolt in deva??<br>A: It's a level 6 spell where you need to be level 11. At that point, potions and revivify scrolls in lower city is much easier to purchase.</span></p>\n<p><span style=\"font-size:large;\">Q: Where can I get sword and Shield<br>A: <a href=\"https://www.nexusmods.com/baldursgate3/mods/10940\" rel=\"nofollow\">Selunite Weaponry</a>! They are in my mod since Day-1 and also main reference for 2.0 update.<br><br>Q: Where to get their Outfit?<br>A: <a href=\"https://www.nexusmods.com/baldursgate3/mods/4718\" rel=\"nofollow\">Vestment of the Faithful</a>!<br></span></p>",
+    "date_added": 1756152428,
+    "date_updated": 1792747282,
+    "date_live": 1756156096,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/moonlightsliverdeva1",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 6712898,
+      "mod_id": 5194426,
+      "version": "1.0.0.9",
+      "filename": "moonlightsliverdeva_d6658e1e-0-4tco.zip",
+      "changelog": null,
+      "date_added": 1756156024,
+      "date_updated": 0,
+      "date_scanned": 1756156032,
+      "filesize": 1872468,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/590f/5194426/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/590f/5194426/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/590f/5194426/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/590f/5194426/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6712898
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6712898
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6712898
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6712898
       }
     ]
   },
@@ -147423,6 +148390,109 @@
     ]
   },
   {
+    "id": 5336278,
+    "game_id": 6715,
+    "name": "Oath of the Moon",
+    "name_id": "oath-of-the-moon",
+    "summary": "A moonlit guardian who protects the lost and hunts the wicked. A homebrew oath inspired by Selune.",
+    "description": "<p><span style=\"font-size:medium;\">I love playing my Durge as Paladin of Selune but to make it actually “<em>Selûnite</em>”, you need multiclass to get some moon theme spells or get into Oath of Ancients (which doesn't feel like moon maiden that much). For me who loves monoclass, it is time to make a homebrew oath. This project took the longest time and is my passion project. </span><br><br></p>\n<blockquote><span style=\"font-family:Arial;\"><span style=\"font-size:xx-large;\"><em>You stand vigil under the moon's light, protecting the lost and guiding wanderers through darkness while hunting those who corrupt the night.</em></span></span></blockquote>\n<p><br><br><strong><span style=\"font-size:large;\">Tenets</span></strong><br><span style=\"font-size:medium;\"><strong>Vigilance. </strong>Stand watch when others cannot, and never let darkness go unchallenged.</span><br><span style=\"font-size:medium;\"><strong>Guidance.</strong> Light the way for the lost and offer hope to those who wander in shadow.</span><br><span style=\"font-size:medium;\"><strong>Protection.</strong> Shield the innocent from those who would prey upon them in their vulnerability.</span><br><span style=\"font-size:medium;\"><strong>Transformation.</strong> Embrace change as inevitably as the cycles of the moon, and help others find redemption in their darkest moments.</span><br><br><strong><span style=\"font-size:large;\">Oath Spells</span></strong></p>\n<p>1st level: Guidance<br>3rd level: Faerie Fire, Sanctuary, and Lunar Smite<br>5th level: Moonbeam, Warding Bond<br>9th level: Remove Curse, Spirit Guardians<br>13th level: Dimension Door, Fount of Moonlight<br>17th level: Hold Monster, Mass Cure Wounds</p>\n<p><span style=\"font-size:x-large;\"><strong><span style=\"color:#cfe2f3;\">Subclass Features</span></strong></span></p>\n<p><img src=\"https://i.ibb.co/q3JLK7mh/Action-Moon-Paladin-Full-Moon.png\" alt=\"\" width=\"144\" height=\"144\"><br><span style=\"font-size:large;\">Level 1: Channel Oath - <strong><span style=\"color:#cfe2f3;\">Full Moon</span></strong></span><br><span style=\"font-size:medium;\">As an action, radiate an aura of radiance and composure. Hostile creatures within 9 meters radius of you must make a wisdom saving throw or be blinded and slowed for 2 turns.</span><br><br><span style=\"font-size:medium;\">Early debuff is always nice.</span><br><span style=\"font-size:medium;\"><br>Bonus Spell - <strong>Guidance</strong></span><br><br><span style=\"font-size:medium;\">C’mon, our tenets literally have Guidance. It won’t kill you.</span><br><span style=\"font-size:medium;\"><br>Level 3:</span><br><span style=\"font-size:large;\">Gain <strong><span style=\"color:#cfe2f3;\">Superior Dark Vision<br><br></span></strong>same logic as why Gloomstalker gets it.</span></p>\n<p><img src=\"https://i.ibb.co/7JR9Td98/Action-Moon-Paladin-Punish-The-Wicked.png\" alt=\"\" width=\"144\" height=\"144\"><br><span style=\"font-size:large;\">Channel Oath - <strong><span style=\"color:#cfe2f3;\">Punish the Wicked</span></strong></span><br><span style=\"font-size:medium;\">As a bonus action. Envelop yourself in divine light, allowing you to teleport beside an enemy.</span></p>\n<p><img src=\"https://i.ibb.co/Z69zK617/Action-Moon-Paladin-Lunar-Guardian.png\" alt=\"\" width=\"144\" height=\"144\"><br><span style=\"font-size:large;\">Channel Oath - <strong><span style=\"color:#cfe2f3;\">Divine Guardian</span></strong></span><br><span style=\"font-size:medium;\">As an action, protect yourself or an ally with a shard of your divine essence. All incoming damage to them reduce by half</span><br><span style=\"font-size:medium;\"><br>Should stack with resistance or any passive (such as uncanny dodge).</span></p>\n<p><img src=\"https://bg3.wiki/w/images/c/ca/Lunar_Smite_Icon.webp\" alt=\"\"><br><span style=\"font-size:large;\">Bonus Spell - <strong><span style=\"color:#cfe2f3;\">Lunar Smite</span></strong></span><br><br><span style=\"font-size:medium;\">I love holy fire &lt;3</span></p>\n<p><span style=\"font-size:medium;\"><img src=\"https://i.ibb.co/PsRfGgp0/Action-Paladin-Aura-Of-Moonlight.png\" alt=\"\" width=\"144\" height=\"144\"><br>Level 7: </span><strong><span style=\"font-size:large;\">Aura of Moonlight</span></strong></p>\n<p>Reduce ALL incoming damage to allies in your party equal to your charisma modifier while staying in 3 meters from paladin. It is stacked with resistance.</p>\n<p>At 18th level, the range of this aura increases to 9 meters.</p>\n<p><img src=\"https://i.ibb.co/zTT1Rbzq/Action-Moon-Paladin-Silvered-Rebuke.png\" alt=\"\" width=\"144\" height=\"144\"></p>\n<p>Passive - <strong>Silvered Rebuke</strong><br>Creatures who miss their Attack Rolls against the Paladin must succeed Wisdom Saving throw or take radiant damage equal to Character level + Charisma modifier</p>\n<p>Toggleable.</p>\n<h3>Level 20:</h3>\n<p><img src=\"https://i.ibb.co/gM43Znj9/Action-Moon-Paladin-Lunar-Champion.png\" alt=\"\" width=\"144\" height=\"144\"></p>\n<p>Ability - <strong>Lunar Champion</strong><br>Bonus action. For 10 turns, gains following benefits</p>\n<p>Gain 1 more reaction and glow white light in 3 meters radius.<br>Once activated, all non-enemies in an 18 meters radius gain bonus to all saving throws equal to paladin's charisma modifier, and temporary freedom of movement for 10 turns. <br>Enemies who stay within 3 meters from paladin must succeed Wisdom Saving throws each turn otherwise receive Vulnerability to Radiant damage.</p>\n<p><br><strong><span style=\"font-size:large;\">Future plan</span></strong><span style=\"font-size:large;\"><br>- custom vfx to be more thematic.</span><span style=\"font-size:large;\"><br></span><br><strong><span style=\"font-size:large;\">Potential Issue/Disclaimers</span></strong></p>\n<p><span style=\"font-size:large;\">You need any kind of level expansion mod(s) to play level 13-20. For people who play vanilla level (aka max at 12), you don't need to do anything. Enjoy the update.<br>Level 20 vfx will make your mouth a bit red in some body types.<br>Due to the way searing smite works in vanilla, Searing smite and Lunar smite don't have proper glowing ground effect when prepare to cast the spells.<br>Oath breaking events are all based on devotion Paladin.<br>If you break your oath, animation and dialogue to regain oath will use oath of devotion version.</span></p>\n<p><span style=\"font-size:large;\"><strong>Installation and Uninstallation</strong></span></p>\n<p><span style=\"font-size:large;\">download and put it in load order in bg3 mod manager. This mod is safe to install mid-playthrough. For uninstallation, please make sure you get rid of starting armor by using mod like \"Mod Uninstaller\" or put armor in temporary containers (such as summoning tutorial chest) to permanently delete it. <span style=\"text-decoration:underline;\">For people who update to 2.0 version, please respect out of our subclass first before adding an update.</span></span></p>\n<p><br><br><strong><span style=\"font-size:x-large;\">Special Thanks</span></strong></p>\n<p><span style=\"font-size:large;\">Huge thank you to <a href=\"https://mod.io/g/baldursgate3/u/incogneatoburrito\">IncogneatoBurrito</a> for all beautiful icons and suggestions. 2.0 update won't be possible without you.<br><a href=\"https://mod.io/g/baldursgate3/u/xiphiasrex\">Xiphiasrex</a> and <a href=\"https://mod.io/g/baldursgate3/u/maxstrengthrizzard\">MaxStrengthWizard</a> on technical side<br><a href=\"https://www.nexusmods.com/profile/SeluniteJeanne?gameId=3474\">SeluniteJeanne</a> for testing and cheering up<br><a href=\"https://www.nexusmods.com/profile/Mueffel?gameId=3474\">Mueffel</a>, <a href=\"https://www.nexusmods.com/profile/Siaell?gameId=3474\">Siael</a>, <a href=\"https://www.nexusmods.com/profile/CatDude55?gameId=3474\">CatDude55</a> for spell and grammar check.</span></p>\n<p> </p>\n<p><span style=\"font-size:large;\"><a href=\"https://next.nexusmods.com/profile/DigitalGhostCollector\">MissRen</a> for all the pretty screenshots</span></p>\n<p><span style=\"font-size:large;\"><a href=\"https://next.nexusmods.com/profile/wingsofhegemon?gameId=3474\">Kara</a> for helping and validating ideas<br>Padme on Subclass icon bugs <br><a href=\"https://next.nexusmods.com/profile/KConstantineK?gameId=3474\">k.constantine</a> and randoruda on making Aura icon<br>Subclass icon by <a href=\"https://next.nexusmods.com/profile/vhale000\">Vhale000</a><br>Jess, Wish, Cacophony for helping with Ideation</span><br><span style=\"font-size:large;\">And all people I may have rant about this project to.</span></p>",
+    "date_added": 1762290274,
+    "date_updated": 1792747187,
+    "date_live": 1762291429,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/oath-of-the-moon",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 7861099,
+      "mod_id": 5336278,
+      "version": "2.0.0.0",
+      "filename": "oathofthemoon_221f258f-9ab7-f7-j4s6.zip",
+      "changelog": "Add Oath of the Moon details in paladin book. Only in new playthrough.\nChange sound effect of Lunar Smite to feel more radiant.\nClean up the codes. Remove all parent values from spells/statuses/stats\nAdd level 13-20 expansion. Including spell lists, level 15 passive and level 20 ability.\n5.5e Fount of Moonlight spell is made and will show up at level 13.\nAll new icons for oath features and Fount of Moonlight.\nAll oath actions have status effects now.\nAura of moonlight has error message like other auras to tell that aura is active.\nRemoving starting armor from tutorial chest.\nRewrite several parts to be more readable and matching with Larian's style for consistency",
+      "date_added": 1781726543,
+      "date_updated": 0,
+      "date_scanned": 1781726547,
+      "filesize": 1631447,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "oathofthemoon.png",
+      "original": "https://image.modcdn.io/mods/de03/5336278/oathofthemoon.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/de03/5336278/crop_320x180/oathofthemoon.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/de03/5336278/crop_640x360/oathofthemoon.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/de03/5336278/crop_1280x720/oathofthemoon.png"
+    },
+    "tags": [
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7861099
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7861099
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7861099
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7861099
+      }
+    ]
+  },
+  {
     "id": 5337387,
     "game_id": 6715,
     "name": "Bernard Evolved",
@@ -153763,6 +154833,104 @@
     ]
   },
   {
+    "id": 5680221,
+    "game_id": 6715,
+    "name": "Shadowheart - Disable Forced White Hair",
+    "name_id": "shadowheart-disable-forced-white-hair",
+    "summary": "For those who like to edit companions via mods such as Appearance Edit Enhanced, this makes it so you can change Shadowhearts hair colour when it becomes white.",
+    "description": "<p>This mod is intended for people wanting to edit Shadowheart's hair colour after her hair changes, with mods that allow you to edit companions in the mirror. Or just want her to keep her black hair.<br><br>It does however cause her not to get White hair at all in Act 3, but due to being made for those who want to edit her hair colour, I figured this was fine. However she may get her white hair after the initial change. But the hair colour should now be editable in all acts with mods that allow you to edit companions in the Mirror.</p>\n<p>Mod Images were just made to showcase the mod, so I had a bit of fun with the one with Gale to make it look like he was presenting the mod change.</p>\n<blockquote>\n<p>If you have previously installed this mod from nexusmods, you want to remove that pak first from your mods folder, as deploying from toolkit changes the pak name from <strong>sh_disable_whitehair</strong> to <strong>sh_disable_whitehair_7e600ab6-1c0c-4a49-bb7c-6e783e5bdc45</strong></p>\n</blockquote>",
+    "date_added": 1768131461,
+    "date_updated": 1792747851,
+    "date_live": 1768132808,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/shadowheart-disable-forced-white-hair",
+    "submitted_by": {
+      "id": 32519245,
+      "name_id": "padme4000",
+      "username": "Padme4000",
+      "profile_url": "https://mod.io/u/padme4000",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/d8e5/32519245/crop_100x100/padme4000logo.png"
+    },
+    "modfile": {
+      "id": 7259276,
+      "mod_id": 5680221,
+      "version": "1.0.0.2",
+      "filename": "sh_disable_whitehair_7e600ab6-5hkc.zip",
+      "changelog": null,
+      "date_added": 1768131471,
+      "date_updated": 0,
+      "date_scanned": 1768131482,
+      "filesize": 3634186,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/ff9d/5680221/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ff9d/5680221/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ff9d/5680221/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ff9d/5680221/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hair Colors",
+        "name_localized": "Hair Colors",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7259276
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7259276
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7259276
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7259276
+      }
+    ]
+  },
+  {
     "id": 5682946,
     "game_id": 6715,
     "name": "Hallowleaf Epilogue Letters",
@@ -156625,6 +157793,124 @@
     ]
   },
   {
+    "id": 5763278,
+    "game_id": 6715,
+    "name": "PL Lithe Physique Body Textures for Elf and Drow",
+    "name_id": "pl-lithe-physique-normies",
+    "summary": "New body textures for female standard elves and drow. Leaner and more toned textures. Reworked nipple textures, no more butt mole, more muscular lower back and subtle back dimples.",
+    "description": "<p style=\"text-align:center;\"><span style=\"color:#8e7cc3;\"><span style=\"font-size:large;\"><u><strong>What is this mod:</strong></u></span></span><span style=\"font-size:medium;\"><br>Custom body textures for the standard female body type elves and drows.<br></span><span style=\"font-size:large;\"><br><strong><span style=\"color:#93c47d;\"><u>What this custom texture changes:</u></span></strong><br></span><span style=\"font-size:medium;\"><span style=\"color:#b6d7a8;\"><u>Normies:</u></span><br>More toned abs and intercostal muscles (more pronounced ribs)<br>Bellybutton has moved up a little<br>More muscular lower back<br>Subtle lower back dimples<br>No more butt mole<br>New nipple textures </span><span style=\"font-size:large;\"><br></span></p>\n<p style=\"text-align:center;\"><span style=\"font-size:large;\"><u><strong>This mod will change the textures for all characters in game of that race that don't use unique textures.<br></strong></u></span></p>\n<p> </p>\n<p style=\"text-align:center;\"><span style=\"font-size:large;\"><strong><span style=\"color:#c27ba0;\"><u>Credits and Thanks<br></u></span></strong></span><span style=\"font-size:medium;\">A huge thank to Megan for the support and giving me suggestions while making this mod.<br>To the Faerûn Fashonista discord for the enthusiasm for the textures.<br>To my friends for helping and testing the textures and the wonderful pictures</span></p>\n<p> </p>\n<p> </p>",
+    "date_added": 1770334180,
+    "date_updated": 1792747554,
+    "date_live": 1770339599,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/pl-lithe-physique-normies",
+    "submitted_by": {
+      "id": 38797,
+      "name_id": "poesielibre",
+      "username": "Poesielibre",
+      "profile_url": "https://mod.io/u/poesielibre",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3fd2/38797/crop_100x100/alixprofile.jpeg"
+    },
+    "modfile": {
+      "id": 8329667,
+      "mod_id": 5763278,
+      "version": "1.0.0.3",
+      "filename": "pl_lithe_physique_normies_8a1b-agcm.zip",
+      "changelog": "Removed shader files",
+      "date_added": 1792071846,
+      "date_updated": 0,
+      "date_scanned": 1792071896,
+      "filesize": 23114982,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/bff8/5763278/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/bff8/5763278/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/bff8/5763278/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/bff8/5763278/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Other Customisation",
+        "name_localized": "Other Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8329667
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8329667
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8329667
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8329667
+      }
+    ]
+  },
+  {
     "id": 5765184,
     "game_id": 6715,
     "name": "Heartsworn Knight Fighter",
@@ -156985,6 +158271,129 @@
       {
         "platform": "ps5",
         "modfile_live": 7389771
+      }
+    ]
+  },
+  {
+    "id": 5776187,
+    "game_id": 6715,
+    "name": "Bex Head for Human/Elf/Drow",
+    "name_id": "bex-head-for-hed",
+    "summary": "Conversion of Tiefling Female head 2 (aka Bex's head) to Humans, Elves, Half-Elves and Drow.",
+    "description": "<p>This is a conversion of the Tiefling Female head 2, aka. Bex's head, for BT1 Humans, Elves, Half-elves and drow.  It includes custom skeletons so piercings will line up correctly with the heads, and custom icons in cc.  </p>\n<p>It was kindly commissioned and publically shared by MaxStrengthWizard.  You should check out his amazing <a href=\"https://mod.io/g/baldursgate3/m/ultimate-cut-content-restoration-mod#description\">Ultimate Cut Content Restoration Mod </a>while you're here!</p>\n<p>Dress pictured in the human screenshots is the beautiful <a href=\"https://www.nexusmods.com/baldursgate3/mods/17312\">Prismatic Dress</a> by Lynia.</p>\n<p> </p>\n<p style=\"text-align:center;\">If you'd like to see WIPs and posts about planned projects I now have a free <a href=\"https://www.patreon.com/c/Nikjima\">Patreon</a> you can follow! Nothing is locked behind a paywall, it's just a convenient place to share my work.</p>",
+    "date_added": 1770674858,
+    "date_updated": 1792748210,
+    "date_live": 1770675391,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/bex-head-for-hed",
+    "submitted_by": {
+      "id": 32519326,
+      "name_id": "nikjima",
+      "username": "Nikjima",
+      "profile_url": "https://mod.io/u/nikjima",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dd09/32519326/crop_100x100/galeodone_commission_nikjima_n.png"
+    },
+    "modfile": {
+      "id": 7380254,
+      "mod_id": 5776187,
+      "version": "1.0.0.5",
+      "filename": "bex_head_hed_ebc5f6d3-7fa3-e1a-5xy1.zip",
+      "changelog": null,
+      "date_added": 1770674871,
+      "date_updated": 0,
+      "date_scanned": 1770675300,
+      "filesize": 26789254,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/b418/5776187/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/b418/5776187/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/b418/5776187/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/b418/5776187/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7380254
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7380254
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7380254
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7380254
       }
     ]
   },
@@ -160216,6 +161625,104 @@
       {
         "platform": "ps5",
         "modfile_live": 7514661
+      }
+    ]
+  },
+  {
+    "id": 5878129,
+    "game_id": 6715,
+    "name": "One Feels So Exposed - a Raphael redressing mod",
+    "name_id": "one-feels-so-exposed-a-raphael-redressing-mod",
+    "summary": "Opens up Raphael's doublet and rolls up his sleeves - the scandal!",
+    "description": "<blockquote>\n<div style=\"text-align:center;\">Must be the surroundings. Rather bleak and lonesome. One feels so... exposed.</div>\n</blockquote>\n<p><br>An even sluttier devil upgrade to my previous mod, <a href=\"https://www.nexusmods.com/baldursgate3/mods/9011\">Such a Tease</a>, this mod alters Raphael's outfit in several ways:</p>\n<ul>\n<li>Rolls up his sleeves to expose his whorish wrists.</li>\n<li>Opens his doublet and adds a proper undershirt, like a proper gentlemanly fiend should wear</li>\n<li>Gives him many gorgeous golden rings, with human and devil variants of some of them depending on the form he's in</li>\n<li>Improved mesh and textures for his cambion head compared to my previous mods</li>\n<li>Gives him a forked tongue in his cambion form</li>\n<li>Fixes his hair in cambion form to sit around his and Haarlep's ears properly (the same thing my</li>\n<li>Also gives him the Crown of Karsus during his Epilogue scene, if no thieving Wizards steal it from him.</li>\n</ul>\n<p><br><strong>Compatibility:</strong></p>\n<ul>\n<li>Not compatible with mods that alter Raphael's CharacterVisuals or mods that change his outfit - whichever mod is last in your load order will override the</li>\n<li>others.  </li>\n<li>Compatible with my <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/10351\">Raphael's Hornaments</a></strong> mods, and should be compatible with any other mods that simply override individual parts of him without editing his CharacterVisuals.</li>\n<li>Edits the OSI script <em>Act3c_END_GodsAndMonsters</em>, so won't be compatible with any other mods that alter the same script.</li>\n</ul>\n<p><br><strong>Other info:</strong></p>\n<ul>\n<li><u><em>I will not be making the outfit available as equipment for players, it is exclusive to Raphael.</em></u><em>  </em></li>\n<li>I do not give permission to edit this mod in any way.</li>\n<li><u>I am not taking requests to change this mod in any way.</u></li>\n</ul>\n<p><br><strong>Thanks &amp; Credits:</strong></p>\n<ul>\n<li>The gorgeous screenshots, including the mod thumbnail images and header were taken by the incredibly talented <a href=\"https://www.tumblr.com/ugh-my-back\">CrypticOpal</a>!  They've made my mod look infinitely better than I ever could!</li>\n<li>Upscaled doublet textures from <a href=\"https://www.nexusmods.com/baldursgate3/mods/5318\">Upscales of misc textures</a> by the wonderful <a href=\"https://www.nexusmods.com/baldursgate3/users/18863634\">CommanderStrawberry</a></li>\n</ul>\n<p><br><br></p>\n<div style=\"text-align:center;\">If you'd like to see WIPs and posts about planned projects I now have a free <a href=\"https://www.patreon.com/c/Nikjima\">Patreon</a> you can follow! Nothing is locked behind a paywall, it's just a convenient place to share my work.</div>",
+    "date_added": 1773776529,
+    "date_updated": 1792747809,
+    "date_live": 1792747804,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/one-feels-so-exposed-a-raphael-redressing-mod",
+    "submitted_by": {
+      "id": 32519326,
+      "name_id": "nikjima",
+      "username": "Nikjima",
+      "profile_url": "https://mod.io/u/nikjima",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/dd09/32519326/crop_100x100/galeodone_commission_nikjima_n.png"
+    },
+    "modfile": {
+      "id": 7515502,
+      "mod_id": 5878129,
+      "version": "1.0.0.21",
+      "filename": "onefeelssoexposed_7bee0096-c67-1pac.zip",
+      "changelog": null,
+      "date_added": 1773776580,
+      "date_updated": 0,
+      "date_scanned": 1773776773,
+      "filesize": 115412667,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/eeac/5878129/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/eeac/5878129/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/eeac/5878129/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/eeac/5878129/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7515502
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7515502
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7515502
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7515502
       }
     ]
   },
@@ -164097,6 +165604,114 @@
       {
         "platform": "windows",
         "modfile_live": 8288682
+      }
+    ]
+  },
+  {
+    "id": 6041294,
+    "game_id": 6715,
+    "name": "Be Nice To Wyll - IGMM Version",
+    "name_id": "be-nice-to-wyll",
+    "summary": "Gives players some nicer dialogue options for Wyll by overriding existing game text. Also corrects some typos in his dialogue captions and player responses to him. ***mod images contain spoilers!***",
+    "description": "<p><br><strong>Be Nice To Wyll</strong> alters game text to give some nicer dialogue options when talking to Wyll! It doesn't remove mean options entirely for him, but does reword certain options to give players more neutral/nice options when talking to him. It also corrects some typos in his dialogue captions and player responses to him.</p>\n<p>This mod does not make any changes to any dialogue files directly! It works purely through localization overrides, and should not conflict with anything that does not edit the same localization strings.</p>\n<p>You can find a full list of changes this mod makes in <a href=\"https://www.nexusmods.com/baldursgate3/articles/697\">this article on the original Nexus Mods page.</a></p>\n<p>Can safely be combined with other text override mods.</p>\n<p>This mod is exactly the same as the one on <a href=\"https://www.nexusmods.com/baldursgate3/mods/9192\">Nexus Mods</a>, just with a different mod UUID! Install either this version or the Nexus Mods version, not both. It won't hurt your game if you install both, but since they're identical outside of the mod name/UUID, it's a bit pointless to have both of them.</p>\n<p>Safe to install and uninstall mid-playthrough! All changes will revert on mod removal.</p>\n<p>As always, let me know if you have any problems, and enjoy!</p>\n<p> </p>",
+    "date_added": 1778133541,
+    "date_updated": 1792747349,
+    "date_live": 1792747314,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/be-nice-to-wyll",
+    "submitted_by": {
+      "id": 32941434,
+      "name_id": "magnetuning",
+      "username": "magnetuning",
+      "profile_url": "https://mod.io/u/magnetuning",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5bda/32941434/crop_100x100/magnetuningicon04_v02.png"
+    },
+    "modfile": {
+      "id": 7712550,
+      "mod_id": 6041294,
+      "version": "1.0.0.3",
+      "filename": "mgntn_benicetowyll_2093abe6-31-16tm.zip",
+      "changelog": null,
+      "date_added": 1778133549,
+      "date_updated": 0,
+      "date_scanned": 1778133555,
+      "filesize": 295900,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "nexusmodsthumb_benicetowyll_02.png",
+      "original": "https://image.modcdn.io/mods/4435/6041294/nexusmodsthumb_benicetowyll_02.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4435/6041294/crop_320x180/nexusmodsthumb_benicetowyll_02.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4435/6041294/crop_640x360/nexusmodsthumb_benicetowyll_02.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4435/6041294/crop_1280x720/nexusmodsthumb_benicetowyll_02.png"
+    },
+    "tags": [
+      {
+        "name": "Languages",
+        "name_localized": "Languages",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Wyll",
+        "name_localized": "Wyll",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7712550
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7712550
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7712550
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7712550
       }
     ]
   },
@@ -172026,6 +173641,134 @@
       {
         "platform": "ps5",
         "modfile_live": 8278062
+      }
+    ]
+  },
+  {
+    "id": 6447478,
+    "game_id": 6715,
+    "name": "Vampire Queen - Head Preset",
+    "name_id": "vampire-queen-head-preset",
+    "summary": "BT1 head preset with and without fangs for elf/drow, half-elf, human, tiefling and githyanki. Includes different ear variants.",
+    "description": "<p>The heads has only been tested in Nautiloid, but everything should work fine. Please report if you encounter any issues.</p>\n<h3>✦ <strong>For EotB users  </strong>✦</h3>\n<p>I recommend downloading the version of this mod from NexusMods. Mod.io version was created by using the game's own toolkit and EotB doesn't seem to work with it.</p>\n<p><a href=\"https://www.nexusmods.com/baldursgate3/mods/25347\">Vampire Queen - Head Preset NEXUS VERSION</a></p>\n<h3>✦ <strong>Mods used in pictures </strong>✦  </h3>\n<div><a href=\"https://www.nexusmods.com/baldursgate3/mods/16198\" rel=\"nofollow\">Myky's Hairstyles</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/22657\" rel=\"nofollow\">New Vanilla Earring Sets</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/11280\" rel=\"nofollow\">Myky's Makeup and Tattoos</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/13881\" rel=\"nofollow\">hijimare hairs</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/2900\" rel=\"nofollow\">Astralities' Fantasy Skintone Expansion</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/22082\" rel=\"nofollow\">Tepkunset Hair Collection Vol 2</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17880\" rel=\"nofollow\">Tabatha Eyes</a></div>\n<div><a href=\"https://www.nexusmods.com/baldursgate3/mods/24683\" rel=\"nofollow\">Taste of Poison - Minthara Edit</a> (hair)</div>\n<div><a href=\"https://www.nexusmods.com/baldursgate3/mods/24409\" rel=\"nofollow\">Astral Fury - Lae'zel Edit</a>  (gith hair)</div>\n<div><a href=\"https://www.nexusmods.com/baldursgate3/mods/15611\" rel=\"nofollow\">Hearts Hairpack</a></div>\n<div><a href=\"https://www.nexusmods.com/baldursgate3/mods/7274\" rel=\"nofollow\">Tasha's Cauldron of Hairstyles Pack 2</a></div>\n<div><a href=\"https://www.nexusmods.com/baldursgate3/mods/24744?tab=posts\" rel=\"nofollow\">Lilac and gooseberries - Yennefer of Vengerberg's wardrobe</a></div>\n<h3>✦ <a href=\"https://ko-fi.com/manuliparoni\" rel=\"nofollow\">Ko-fi</a> ✦</h3>",
+    "date_added": 1791834134,
+    "date_updated": 1792746961,
+    "date_live": 1791834808,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/vampire-queen-head-preset",
+    "submitted_by": {
+      "id": 57884981,
+      "name_id": "modiouser2xkscn",
+      "username": "ManuliParoni",
+      "profile_url": "https://mod.io/u/modiouser2xkscn",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/9a43/57884981/crop_100x100/1000021191.1.png"
+    },
+    "modfile": {
+      "id": 8319001,
+      "mod_id": 6447478,
+      "version": "1.0.0.1",
+      "filename": "manulis_vampire_queen_head_ccd-4kxm.zip",
+      "changelog": null,
+      "date_added": 1791834163,
+      "date_updated": 0,
+      "date_scanned": 1791834256,
+      "filesize": 44595259,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/ee67/6447478/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ee67/6447478/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ee67/6447478/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ee67/6447478/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8319001
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8319001
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8319001
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8319001
       }
     ]
   }
