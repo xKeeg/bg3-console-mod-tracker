@@ -154732,7 +154732,7 @@
     "summary": "Adds 30 Wild Magic effects, mostly available for Wild Magic Barbarian as well. Compatible with other mods that adds Wild Magic effects.",
     "description": "<p><span style=\"font-size:medium;\">Adds 30 Wild Magic effects, mostly available for Wild Magic Barbarian as well. Compatible with other mods that adds Wild Magic effects.<br><br></span><span style=\"font-size:medium;\">Thought my sorcerer playthrough could be more chaotic, made these and figured I'd share as well. I try to avoid repeating Wild Magic effects from other similar mods, a few won't be available for Barbarian because they are spell related. Some of these effects can be rather penalising, so not recommended for Honour mode unless you're a masochist. There are probably a few bugs I missed, report them and I'll try my best to fix.</span><br><br>Detailed descriptions of the Wild Magic effects are on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/20299\">Nexus mod page</a>.<br><br><span style=\"color:#ffe599;\"><span style=\"font-size:large;\"><strong><u>Compatibility</u></strong></span></span><span style=\"font-size:medium;\"><br>Compatible with other mods that add Wild Magic effects, though it will become rarer for effects from this mod to trigger the more Wild Magic there is. There are numerous mods that increase or guarantee Wild Magic chance, but I recommend <a href=\"https://www.nexusmods.com/baldursgate3/mods/15760\">this mod</a> if you want a balanced or tabletop experience.<br><br></span>This mod doesn't overwrite or change anything Vanilla.<br><br><span style=\"color:#6aa84f;\"><span style=\"font-size:large;\"><strong><u>Installation</u></strong></span></span><br><span style=\"font-size:medium;\">Install this like any other pak files. Recommend using <a href=\"https://bg3modmanager.net/\">BG3 Mod Manager</a>, <span style=\"color:#00ffff;\"><u>Remember to Export Order to Game</u></span>. <span style=\"color:#6d9eeb;\">Load order doesn’t matter</span>, but place this near the top to be safe.</span><br><br><span style=\"color:#e06666;\"><span style=\"font-size:large;\"><strong><u>Uninstalling</u></strong></span></span><br><span style=\"font-size:medium;\">Almost everything is removed after a Long Rest, so you could uninstall after that but it's still best to uninstall with <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a>.</span><br><br><span style=\"color:#b4a7d6;\"><span style=\"font-size:medium;\">Mods used in screenshots:</span></span><br><a href=\"https://next.nexusmods.com/profile/Caites/mods?gameId=3474\">Caites UI Mods</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/16325\">Kazstra's Virtual Tav x Tattoo Makeup and Scar Extender</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4974\">Demon Eyes</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17353\">Flaming Hair</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/3156\">Bhaal Tattoo Collection</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17126\">Y-Shaped Autopsy Scars – for KAVT</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17130\">Chest Glow for KAVT</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/4347\">Random (Neck) Scars WIP</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17123\">Character Appearance Edit WIP</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/12007\">EasyDye 2.0</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14717\">Armory - Auto-Transmog Vanity Outfit Manager</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17679\">Myky's Accessories</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/11055\">Glowing Accessories and Dyes<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/443\">Modular Equipment</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/14819\">Luminous Threads (Persephone's Gift)</a><br><a href=\"https://www.patreon.com/posts/112305215?collection=1565349\">Dragon Dress</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/97\">Basket Full of Equipment. NSFW version</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/15615\">Astarion Alternative Starter Equipment<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/10690\">Battlemage Armor</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/8048\">Wyll's Unique Armor</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/6578\">Asymmetrical Shadowheart Concept Outfit</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/8115\">Alternative Shadowheart Tattoos</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/16176\">Gale’s Glowing Orb</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/11172\">Configurable Party Limit</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/16977\">Weapon Sheathing on Hip CORRECT anims</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/17189\">Compatibility Patch for Photo Mode Pose Mods</a><br><a href=\"https://www.nexusmods.com/baldursgate3/mods/1646\">Recruit any NPC</a> (I only used this to take screenshot. It’s very outdated, don’t activate this in normal playthroughs)<br><br>Made with BG3 Toolkit. <a href=\"https://bg3.norbyte.dev/search\">BG3 Search Engine</a> and <a href=\"https://docs.baldursgate3.game/index.php?title=Main_Page\">this website</a> has been incredibly helpful in making this mod.</p>",
     "date_added": 1768128413,
-    "date_updated": 1791722787,
+    "date_updated": 1792871550,
     "date_live": 1787483929,
     "visible": 1,
     "status": 1,
@@ -154746,15 +154746,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8312225,
+      "id": 8372061,
       "mod_id": 5680102,
-      "version": "1.2.0.1",
-      "filename": "homebrewwildmagic_ff4320cc-84f-2xnk.zip",
-      "changelog": "Fixed Polymorph forms from Random Polymorph and Chaotic Polymorph not being removed properly, after their health is reduced to 0.",
-      "date_added": 1791721765,
+      "version": "1.3.0.1",
+      "filename": "homebrewwildmagic_ff4320cc-84f-419v.zip",
+      "changelog": "-Fixed characters going invisible if all of your party members are in Polymorph forms.\n-Polymorph Wild Magic won't affect characters that have their Polymorph forms extended until Long Rest anymore. Consequently for better or worse, they also won't affect characters in Polymorphs or Wildshapes outside of this mod.",
+      "date_added": 1792869996,
       "date_updated": 0,
-      "date_scanned": 1791721775,
-      "filesize": 4763243,
+      "date_scanned": 1792870008,
+      "filesize": 4763280,
       "platforms": [
         {
           "platform": "windows",
@@ -154762,15 +154762,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 3
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 3
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 3
         }
       ]
     },
@@ -154828,7 +154828,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8312225
+        "modfile_live": 8372061
       }
     ]
   },
