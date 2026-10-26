@@ -93853,7 +93853,7 @@
     "summary": "Loot Master: Grants 7 spells in a 18 ft radius. Loot Corpses: Loots all non ally corpses. Loot Containers: Loots non empty containers. Loot All: Loots both. Pickpocket: Loots one target., Loot Ground, Refresh Loot, Remove Mod: Uninstalls the mod.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/copilot_20260508_212944.png\" alt=\"copilot_20260508_212944.png\" width=\"240\" height=\"240\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/copilot_20260508_214953.png\" alt=\"copilot_20260508_214953.png\" width=\"240\" height=\"240\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/copilot_20260508_214133.png\" alt=\"copilot_20260508_214133.png\" width=\"240\" height=\"240\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/copilot_20260508_214325.png\" alt=\"copilot_20260508_214325.png\" width=\"240\" height=\"240\"> <img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/copilot_20260508_213827.png\" alt=\"copilot_20260508_213827.png\" width=\"240\" height=\"240\"> <br><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/copilot_20260508_222526.png\" alt=\"copilot_20260508_222526.png\" width=\"240\" height=\"240\"></p>\n<p><span style=\"color:#d4af37;font-size:42px;\"><strong>Loot Master by SwissFred</strong></span></p>\n<p><span style=\"color:#d4af37;\"> Loot containers and corpses, disarm traps, unlock containers, and pickpocket characters. <br>Recover inventory from characters who have been thrown or pushed into a chasm. <br>Destroy containers and collect their loot. <br>Loot items directly from the ground. </span></p>\n<hr>\n<p><span style=\"color:#d4af37;\"> <strong>Please read the update procedure in the Release Notes or pinned Info before updating.</strong> </span></p>\n<hr>\n<p><span style=\"color:#d4af37;\"> Upon installing this mod, you gain the following spells. All spells operate within an <strong>18-foot radius</strong> of the caster: </span></p>\n<ul>\n<li><span style=\"color:#d4af37;\"><strong>Loot Corpses:</strong> Loots all corpses except allies.</span></li>\n<li><span style=\"color:#d4af37;\"><strong>Loot Containers:</strong> Loots all non-empty containers.</span></li>\n<li><span style=\"color:#d4af37;\"><strong>Loot All:</strong> Loots both corpses and containers.</span></li>\n<li><span style=\"color:#d4af37;\"><strong>Pickpocket:</strong> Loots a single living, non-allied character within an <strong>18-foot radius</strong>.</span></li>\n<li><span style=\"color:#d4af37;\"><strong>Loot Ground:</strong> Collects potions, camp supplies, alchemy ingredients, keys, books, and weapons directly into the caster's inventory.</span></li>\n<li><span style=\"color:#d4af37;\"><strong>Rescan Loot:</strong> Rescans the surrounding area and highlights containers and corpses.</span></li>\n<li><span style=\"color:#d4af37;\"><strong>Remove Mod:</strong> Uninstalls the mod.</span></li>\n</ul>\n<hr>\n<p><span style=\"color:#d4af37;font-size:30px;\"> <strong>Features</strong> </span></p>\n<ul>\n<li><strong><span style=\"color:#d4af37;\">Multiplayer compatible.</span></strong></li>\n<li><span style=\"color:#d4af37;\"> The <strong>party leader</strong> receives <strong>4 spells</strong> and <strong>3 weightless backpacks</strong>. </span></li>\n<li><span style=\"color:#d4af37;\"> Spells are stored in a dedicated <strong>Spell Container</strong>. </span></li>\n<li><span style=\"color:#d4af37;\"> Configurable loot handling: send items to backpacks or directly to inventory. </span></li>\n<li><span style=\"color:#d4af37;\"> All looted <strong>common and junk items</strong> are transferred to the weightless <strong>Loot Master Commons Backpack</strong>. Items lose weight while inside the backpack and regain it when removed. </span></li>\n<li><span style=\"color:#d4af37;\"> All looted <strong>rare items</strong> are transferred to the weightless <strong>Loot Master Rares Backpack</strong>. Items lose weight while inside the backpack and regain it when removed. </span></li>\n<li><span style=\"color:#d4af37;\"> All <strong>story items and keys</strong> are transferred to the weightless <strong>Loot Master Uniques Backpack</strong>. Items lose weight while inside the backpack and regain it when removed. </span></li>\n<li><span style=\"color:#d4af37;\"> <strong>Vanity clothing</strong> is not looted unless found inside a container. </span></li>\n<li><span style=\"color:#d4af37;\"> Containers are automatically <strong>unlocked and opened</strong>. </span></li>\n<li><span style=\"color:#d4af37;\"> If a container is trapped, the trap is automatically <strong>disarmed</strong>. </span></li>\n<li><span style=\"color:#d4af37;\"> <strong>Characters</strong> (excluding player characters) who are <strong>thrown or pushed into a chasm</strong> will have their inventory automatically recovered. </span></li>\n<li><span style=\"color:#d4af37;\"> Destroy containers and automatically collect their contents. Enjoy a little <strong>vandalism</strong> and smash everything in sight. </span></li>\n<li><span style=\"color:#d4af37;\"> <strong>Pickpocket</strong> retrieves only a character's private inventory items and does not access a vendor's complete inventory. </span></li>\n</ul>\n<p><span style=\"color:#d4af37;\"> <strong>Tip:</strong> Place your entire inventory into a nearby container or corpse and use <strong>Loot All</strong> to automatically sort everything into the appropriate backpacks. </span></p>\n<hr>\n<p><span style=\"color:#d4af37;font-size:30px;\"> <strong>Compatibility</strong> </span></p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/smart-containers-2024-more-sorting-containers\"> Smart Containers 2024 - More Sorting Containers </a> <br><a href=\"https://mod.io/g/baldursgate3/m/carry-capacity-5x#description\"> Carry Capacity 5x </a></p>\n<p><span style=\"color:#d4af37;\"> <em>Note: Loot All Containers has been retired and replaced by this mod.</em> </span></p>\n<hr>\n<p><span style=\"color:#d4af37;font-size:30px;\"> <strong>Translations</strong> </span></p>\n<p><span style=\"color:#d4af37;\"><strong>Chinese (Simplified):</strong></span> <br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\"> SwissFred Mods CHS (Simplified Chinese Translation Collection) </a></p>",
     "date_added": 1738095155,
-    "date_updated": 1792922111,
+    "date_updated": 1792976422,
     "date_live": 1738097894,
     "visible": 1,
     "status": 1,
@@ -93867,15 +93867,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 8375208,
+      "id": 8379399,
       "mod_id": 4688261,
-      "version": "4.6.8.4",
-      "filename": "lootmaster_f4695834-1216-1ca7-7krg.zip",
-      "changelog": "The contents of the looting bags can now be traded.",
-      "date_added": 1792921993,
+      "version": "4.6.8.8",
+      "filename": "lootmaster_f4695834-1216-1ca7-envg.zip",
+      "changelog": "Fixed: If no Highlight is chosen, looting will function as intended.",
+      "date_added": 1792976355,
       "date_updated": 0,
-      "date_scanned": 1792922033,
-      "filesize": 18652303,
+      "date_scanned": 1792980508,
+      "filesize": 18652288,
       "platforms": [
         {
           "platform": "windows",
@@ -93942,7 +93942,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8375208
+        "modfile_live": 8379399
       }
     ]
   },
