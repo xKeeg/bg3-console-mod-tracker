@@ -171721,7 +171721,7 @@
     "summary": "A light armor and camp clothing set set focused around sleep and malintent.",
     "description": "<blockquote>\n<p style=\"text-align:center;\"><em>you don't pick the nightmare; the nightmare picks you</em></p>\n</blockquote>\n<p><br><br>Hello everyone and here's my official release of Malefica, a light armor set centered around bad dreams and a little inspired by my favorite pokemon of all time, Darkrai. This one was a little more personal for me because it was the first time I created something solely because I wanted my Tav to have it and figured to just share with everyone else because I put blood, sweat and tears into this. I even learned a brand new skill, spring physics, just so the ribbon on the weapon would move when you move. If someone notices that small detail and points it out or makes a shout out about it, you have all my blessings.<br><br>The armor is currently available to BT1/BT2/BT3/BT4/BT1 &amp; BT2 Gith, BT1/BT2 Half Orcs, BT1 Dragonborn + BT1/BT3 TMTS, TRM1, Sindae's Petite Body and Dulcet A! There's a little bit of seeing the seam line for Dulcet A in certain poses and animations. It was just something I had to accept due to the nature of the ripped asset. If I can ever get it to play nicer, I'll update it. There is some clipping with the boots for BT1 Dragonborn and honestly I had to accept it because for whatever reason, it didn't want to play nice. I made Sindae's petite body refit to function just like the original mod so there's only camp versions that you toggle on. Anyways, I left it at those body types because it made no sense to refit for a body type I'm not even sure would be used in the first place. BUT I do have a list of modded body type requests that I will get to eventually.<br><br><strong>Some notable things for the set:</strong></p>\n<ul>\n<li>It's a light armor set and the AC is set at 13 but I removed the proficiency group so anyone can wear it.</li>\n<li>I made a default version and dyeable version for the main armor, gloves and boots because I had no faith in my skills to make the armor pretty with it automatically being dyeable. Turns out I did a better job than I thought but I already committed to having 2 versions. The camp clothing versions and the blindfold are already dyeable by default.</li>\n<li>There’s 2 versions of the gloves. The regular version has like a sleeve to go with the gloves and version B is just the gloves by themselves.</li>\n<li>The passive \"Enhanced Quickspell Flinger\" will most likely have to be dragged into your hotbar to be able to toggle the passive on and off . </li>\n<li>Malefica's main body armor comes with 2 unique spells, Dreameater and Bad Dreams. I would have liked the sleep spells to also do damage but it would wake the enemy up so I had to compromise.</li>\n<li>The armor set was honestly a little thought out to be something for warlocks. The vibes of the dress were magical robes but the matching weapon screams \"use me, use me! go melee!\" which just made me think about warlocks that can be sometimes more<em> hands on</em>. And I mean you don’t just jump into the fray with no protection, hence the armor class.</li>\n<li>The matching weapon, \"Fallen Star\" is a homing weapon so it will come back to you after you throw it, inspired by how Yuffie in OG FFVII(I haven't played the remake) would throw her ninja star and it come right back to her.</li>\n<li>The weapon is also dyeable! There's a default and dyeable version. </li>\n<li>Please read the names of the armor. There are versions of the armor for modded body types that PC users use which will give you crazy clipping if you’re using that version. </li>\n<li>Last but not least, have fun and enjoy!</li>\n</ul>\n<p><br><strong>Everything can be found in the Ominous Vase and you can acquire that vase in these places:</strong></p>\n<ul>\n<li>The tutorial chest</li>\n<li>Arron(Act I, Emerald Grove) </li>\n<li>Talli(Act II, Last Light Inn) </li>\n<li>Araj Oblodra(Act II, Moonrise Towers)</li>\n<li>Helsik(Act III, Devil's Fee, Lower City)</li>\n</ul>\n<p>And thank you so much to everyone in the Faerûn Fashionistas server that tested out my armor and took such beautiful screenshots for me for the mod page! You all have my eternal thanks. Love you all so much &lt;333<br><br>This is my first time making this sort of thing in terms of style and technical skill needed for this type of armor and weapon so I apologize for any imperfections. Truly I did my absolute best. With that being said, I hope you all enjoy Malefica <span style=\"color:#351c75;\"> .✦ ݁</span></p>",
     "date_added": 1785459108,
-    "date_updated": 1792297669,
+    "date_updated": 1793071475,
     "date_live": 1786428333,
     "visible": 1,
     "status": 1,
@@ -171748,6 +171748,18 @@
         {
           "platform": "windows",
           "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
         }
       ]
     },
