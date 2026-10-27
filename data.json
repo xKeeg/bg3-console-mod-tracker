@@ -12413,7 +12413,7 @@
     "summary": "Adds the Mystic class from Unearthed Arcana to Baldur's Gate 3.",
     "description": "<p>Adds the Mystic Class from Unearthed Arcana to Baldur's Gate 3, along with all spells and subclasses. Contains features all the way up to level 20.</p>\n<p>Mystics use a unique resource called Psi Points, which they use to fuel their psionics. The number of psi points you can spend at once depends on your level (known as your Psi Limit).</p>\n<p><em>Level 1: 2 Psi Limit<br>Level 3: 3 Psi Limit<br>Level 5: 5 Psi Limit<br>Level 7: 6 Psi Limit<br>Level 9: 7 Psi Limit</em></p>\n<p>There's mystic specific gear scattered around the game, as well as permanent upgrades for Soul Knife's weapons.</p>\n<p>More information can be found in the : <a href=\"https://www.nexusmods.com/baldursgate3/mods/2786\">Mystic Class at Baldur's Gate 3 Nexus Mods</a></p>\n<p>Link to the class from Unearthed Arcana: <a href=\"https://dnd5e.wikidot.com/mystic\">Mystic Class (DnD Wikidot)</a></p>",
     "date_added": 1725547433,
-    "date_updated": 1789100843,
+    "date_updated": 1793104714,
     "date_live": 1725550002,
     "visible": 1,
     "status": 1,
@@ -12443,15 +12443,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -12491,19 +12491,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8200020
+      },
+      {
         "platform": "mac",
-        "modfile_live": 6276270
+        "modfile_live": 8200020
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 6276270
+        "modfile_live": 8200020
       },
       {
         "platform": "ps5",
-        "modfile_live": 6276270
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8200020
       }
     ]
@@ -28957,7 +28957,7 @@
     "summary": "Allows the Mystic to gain a feat every 2 levels.",
     "description": "<p>Allows the Mystic to gain a feat every 2 levels.</p>",
     "date_added": 1726172152,
-    "date_updated": 1788982620,
+    "date_updated": 1793104691,
     "date_live": 1726172983,
     "visible": 1,
     "status": 1,
@@ -28987,15 +28987,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -29030,19 +29030,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8195566
+      },
+      {
         "platform": "mac",
-        "modfile_live": 5563513
+        "modfile_live": 8195566
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 5563513
+        "modfile_live": 8195566
       },
       {
         "platform": "ps5",
-        "modfile_live": 5563513
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8195566
       }
     ]
@@ -51988,7 +51988,7 @@
       "name_id": "venomuspool",
       "username": "venomus_pool",
       "profile_url": "https://mod.io/u/venomuspool",
-      "profile_img_100x100_url": "https://thumb.modcdn.io/members/d7b1/344931/crop_100x100/e9565a29a68be2d9d4b21acdd0d71b8.jpg"
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/d7b1/344931/crop_100x100/steam.png"
     },
     "modfile": {
       "id": 6356011,
@@ -54930,7 +54930,7 @@
     "summary": "Aim's to add more Monk equipment throughout the game.",
     "description": "<p>Enhance Your Monk with Unarmed and Upgraded, This mod is designed to help expand your Monk's potential with this collection of carefully crafted items. I designed this mod to address the lack of dedicated Monk gear throughout the game, offering new choices that enhance your unarmed combat. Some gear is also beneficial for other classes too. Feedback is welcome to ensure a balanced experience!</p>\n<p> </p>\n<p>- Each Act adds 10 items curated for Monk<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/7254\">Nexus page</a> or on Imgur - <a href=\"https://imgur.com/a/FkqpNut\">Act 1</a>, <a href=\"https://imgur.com/a/7Vu5KnQ\">Act 2</a>, <a href=\"https://imgur.com/a/hlnMPu0\">Act 3</a> <br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </p>\n<p><span style=\"text-decoration:underline;\"><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a> is now a hard requirement if you want items immersively distributed throughout the game.</span></p>\n<p>Q: Can I install the mod in the middle of the playthrough?<br>A: You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br></p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1728411174,
-    "date_updated": 1788547367,
+    "date_updated": 1793103473,
     "date_live": 1728411827,
     "visible": 1,
     "status": 1,
@@ -54960,15 +54960,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -55028,19 +55028,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8174979
+      },
+      {
         "platform": "mac",
-        "modfile_live": 8041483
+        "modfile_live": 8174979
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 8041483
+        "modfile_live": 8174979
       },
       {
         "platform": "ps5",
-        "modfile_live": 8041483
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8174979
       }
     ]
@@ -58493,7 +58493,7 @@
     "summary": "Students of ancient elven spellcasting techniques, duskblades blur the line between spellcasters and warriors, marrying the power of magic with combat prowess.",
     "description": "<p><strong>Hit points</strong></p>\n<p>At Level 1: 8 + Constitution Modifier</p>\n<p>At Higher Levels: 5 + Constitution Modifier</p>\n<p> </p>\n<p><strong>Proficiencies</strong></p>\n<p>Saving Throws: Constitution, Intelligence</p>\n<p>Equipment: Simple Weapons, Martial Weapons, Light Armour, Medium Armour (Level 4), Heavy Armour (Level 7, Selected Subclass), Shields (Level 7)</p>\n<p>Skills (Choose 2): Arcana, Athletics, History, Insight, Investigation, Nature, Religion</p>\n<p> </p>\n<p><strong>Spellcasting</strong></p>\n<p>Spellcasting Ability: Intelligence (Known spells are always prepared, cannot learn spells from scrolls)</p>\n<p>Multiclass Spell Progression: 3/4</p>\n<p> </p>\n<p>See attached media for class, subclass, and feature descriptions.</p>",
     "date_added": 1728764634,
-    "date_updated": 1788760993,
+    "date_updated": 1793104007,
     "date_live": 1728767493,
     "visible": 1,
     "status": 1,
@@ -58523,15 +58523,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -58596,19 +58596,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8186685
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7792264
+        "modfile_live": 8186685
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7792264
+        "modfile_live": 8186685
       },
       {
         "platform": "ps5",
-        "modfile_live": 7792264
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8186685
       }
     ]
@@ -85377,7 +85377,7 @@
     "summary": "Add 30 new items curated for Warlock, 10 items per Act.",
     "description": "<p>Embrace the forbidden power granted by your patron with <em>Pact and Power: Warlock Equipment</em>. This mod introduces a collection of unique and powerful items specifically designed to enhance every aspect of the warlock class. Discover artifacts that amplify your spellcasting, strengthen your pact boons, and deepen your connection with your patron, the source of your power.. <em>Pact and Power</em> offers a diverse array of equipment to complement any warlock build. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. All feedback is invaluable! Share your thoughts and suggestions to help refine <em>Pact and Power</em>.</p>\n<p> </p>\n<ul>\n<li>Each Act adds 10 items curated for Warlock</li>\n<li>View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14327\">Nexus page</a>, or on Imgur - <a href=\"https://imgur.com/a/pact-power-warlock-equipment-act-1-Fd4y5fe\">Act 1</a>, <a href=\"https://imgur.com/a/pact-power-warlock-equipment-act-2-mCKQ2tu\">Act 2</a>, <a href=\"https://imgur.com/a/pact-power-warlock-equipment-act-3-Op8Vvx4\">Act 3</a></li>\n<li>These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"</li>\n<li>Required <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">FED</a> to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</li>\n</ul>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).<br><br></p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1734405050,
-    "date_updated": 1788547569,
+    "date_updated": 1793103737,
     "date_live": 1788547569,
     "visible": 1,
     "status": 1,
@@ -85407,15 +85407,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -85465,19 +85465,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8174988
+      },
+      {
         "platform": "mac",
-        "modfile_live": 8011196
+        "modfile_live": 8174988
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 8011196
+        "modfile_live": 8174988
       },
       {
         "platform": "ps5",
-        "modfile_live": 8011196
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8174988
       }
     ]
@@ -88034,7 +88034,7 @@
     "summary": "Add 30 new items curated for Rogue, 10 items per Act.",
     "description": "<p>Become a true whisper in the shadows with an arsenal of gear crafted to empower every aspect of your rogue's abilities.  Improve your ability to melt into the darkness, evade detection, and strike with precision. Whether you prefer to eliminate targets with deadly efficiency, manipulate situations from the shadows, or acquire treasures through cunning and guile, this collection offers the tools to enhance your preferred playstyle. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial!  Share your thoughts and help refine this <em>Veil and Venom</em>.</p>\n<p> </p>\n<ul>\n<li>Each Act adds 10 items curated for Rogue</li>\n<li>View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14586\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-1-ZxIhOHB\">Act 1</a>, <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-2-NEBn4Yq\">Act 2</a>, <a href=\"https://imgur.com/a/veil-venom-rogue-equipment-act-3-y5rfLs7\">Act 3</a></li>\n<li>These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\" </li>\n<li>Required <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">FED</a> to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</li>\n</ul>\n<p> </p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1735786928,
-    "date_updated": 1792006977,
+    "date_updated": 1793103457,
     "date_live": 1788547264,
     "visible": 1,
     "status": 1,
@@ -88064,15 +88064,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -88122,19 +88122,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8326990
+      },
+      {
         "platform": "mac",
-        "modfile_live": 8077604
+        "modfile_live": 8326990
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 8077604
+        "modfile_live": 8326990
       },
       {
         "platform": "ps5",
-        "modfile_live": 8077604
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8326990
       }
     ]
@@ -91528,7 +91528,7 @@
     "summary": "Create new equipment that combines the appearance and stats of different items.",
     "description": "<p>This mod gives every player character a spell with three options for transmogrifying equipment. Place a compatible item on the ground and target it with one of these spells to create a new piece of equipment that combines its appearance or stats with the item that is currently equipped in that slot (if any).</p>\n<p>For example, if Karlach has the Bonespike Garb equipped but you'd prefer her to look like she's wearing heavy armour, you can put Plate Armour on the ground and cast <strong>Transmogrify: Take Appearance</strong> on it. Karlach will then create and automatically equip a new item with the stats of Bonespike Garb and the appearance of Plate Armour.</p>\n<p>Or, if you want her to have the stats from Cloak of Protection without the appearance of wearing a cloak at all, unequip everything from that slot and then cast <strong>Transmogrify: Take Stats</strong> on the Cloak of Protection to create an invisible version of it.</p>\n<p>When you're done with a piece of transmogrified equipment, put it on the ground and cast <strong>Transmogrify: Dismiss</strong> on it.</p>\n<h3>Limited Compatibility</h3>\n<p>There is currently NO support for transmogrifying weapons, shields, and underwear.</p>\n<p>Modded equipment can only be transmogrified if someone specifically makes it compatible with this mod. Some might be compatible by default, but most will probably require a mod dependency that you also have to download in order to transmogrify that equipment. You can search for mods that start with \"Transmogrify\" or check one of the pinned comments on this mod's webpage to find some compatible mods.</p>\n<p>The equipment that <em>is</em> directly supported by Transmogrification Lite is all of the clothes / armour, headwear, gloves, boots, cloaks, camp clothes, and camp shoes for players in the base game, as well as some inaccessible / cut items.</p>\n<p>Mods that just give you equipment that's already supported, such as <a href=\"https://mod.io/g/baldursgate3/m/all-camp-clothes-and-dyes\">All Camp Clothes and Dyes</a> by KatLix and the equipment boxes in <a href=\"https://mod.io/g/baldursgate3/m/cheaters-ring\">Cheaters Spell Scroll</a> by Xelphos, should be compatible by default.</p>\n<p>Because this mod does not override any resources, I don't think there should be direct conflicts with other mods that could cause crashes, etc. However, it has to recreate a lot of fundamental equipment behavior, and so there are MANY possible ways that transmogrifications might not work as expected with other mods. If you discover an indirect conflict like this, feel free to let me know about it, but keep in mind that I can't support every mod interaction and I may choose not to support it. I've released a guide about how to extend this mod (linked below) so that everyone is free to add their own support for the things they care about.</p>\n<h3>Other Limitations</h3>\n<p>Developing this mod using only the official toolkit required a lot of workarounds, which limits what it can do. In addition to the limited compatibility with modded equipment, there are a few other important things to know:</p>\n<p>1. Tooltips for transmogrified items can display general information about an item, but they cannot recreate its original detailed description. For example, it might say that an item is Heavy Armour that reduces damage and unlocks a spell, but it cannot say how much / what type of damage is reduced or what the spell is (see the mod images for examples). I recommend keeping the original item in the character's inventory to easily reference the details of what it does.</p>\n<p>2. The game's normal AC calculation doesn't understand transmogrified equipment, so this mod has to recreate a lot of it (which gets pretty convoluted). Modded classes, spells, etc., that change a character's core AC calculation might need custom support in order for transmogrified equipment to give the correct AC.</p>\n<ul>\n<li>For example, a spell that simply adds +2 AC for its duration should work perfectly fine.</li>\n<li>However, a spell like Mage Armour that increases the AC 'floor' from 10 to something like 13 will probably need custom support.</li>\n<li>Modded classes that add an ability score other than Dexterity to AC, or that have features that depend on (not) wearing armor, will also probably need custom support to work correctly. Some modded classes already have built-in support but the rest will need an extension to this mod. (Note: Multiclassing between classes that both need custom support is probably not possible.)</li>\n</ul>\n<p>3. I can't apply the correct debuffs for wearing transmogrified armour that a character isn't proficient with, so instead it will be automatically unequipped and a pop-up message will explain what happened.</p>\n<p>4. Cooldowns for spells granted by transmogrified equipment are not always enforced by the game, so this mod might have to forcibly interrupt an attempt to cast a spell again before it should be. If so, a pop-up message will explain what happened.</p>\n<h3>Additional Details (optional)</h3>\n<p>In my testing, this mod is safe to add to preexisting saves. I don't recommend trying to remove it from saves, but if you do, at least dismiss every transmogrification first.</p>\n<p>I have not experienced any unusual game slowdowns when testing this mod, but it's possible that using too many transmogrification extensions for large armor mods could impact the game's performance. A good rule of thumb is to not enable extensions for armor mods that you don't plan to transmogrify, as well as dismissing transmogrified items when you're done with them instead of sending them to camp.</p>\n<p>This mod should not inherently alter game balance, but it can definitely be exploited to do so. The primary limit I've put on exploiting this mod is that most equipment can only have one copy of its stats being used at a time. That is, if you only have one Plate Armour +2, then only one character can equip the original or a transmogrification using its stats at a time. If you have two of them, then you can create and use a second transmogrification from the second copy of it. (Note: Appearance is not restricted in any way. Even for truly unique armors like Helldusk Armour, you can have the entire party equip transmogrifications with its appearance at the same time.)</p>\n<p>I can't duplicate the debuffs to a barbarian's rage when they're wearing transmogrified heavy armor, so this mod has to end their rage instead. To avoid punishing players who don't know this, the mod will refund the resources used to rage if they shouldn't have been able to do so.</p>\n<p>You can only transmogrify your armor to have the appearance of camp clothes - you cannot do the opposite and transmogrify your camp clothes to have the appearance of armor.</p>\n<h3>Extending This Mod</h3>\n<p>Want to make more modded equipment compatible with Transmogrification Lite? I've written a detailed guide on the process that you can read here: <a href=\"https://mod.io/g/baldursgate3/r/how-to-extend-transmogrification-lite\">https://mod.io/g/baldursgate3/r/how-to-extend-transmogrification-lite</a></p>\n<p>If you make an extension to this mod, or make an equipment mod that's compatible by default, then I encourage you to reply to one of the pinned comments to let us know about it!</p>",
     "date_added": 1736807934,
-    "date_updated": 1788983755,
+    "date_updated": 1793104738,
     "date_live": 1736811120,
     "visible": 1,
     "status": 1,
@@ -91558,15 +91558,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -91621,19 +91621,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8195618
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7642773
+        "modfile_live": 8195618
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7642773
+        "modfile_live": 8195618
       },
       {
         "platform": "ps5",
-        "modfile_live": 7642773
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8195618
       }
     ]
@@ -91980,7 +91980,7 @@
     "summary": "Add 30 new items curated for Barbarian, 10 items per Act.",
     "description": "<p>Unleash your inner fury with Rage and Resilience: Barbarian Equipment. This mod introduces a collection of powerful items designed to enhance every aspect of the barbarian class. Discover artifacts that amplify your rage, bolster your resilience, and unleash your primal might. All equipment is immersively distributed throughout the game using <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution (FED)</a>, ensuring you'll encounter these treasures organically as you explore the world. Your feedback is crucial! Share your thoughts and help refine this <em>Rage and Resilience</em>.</p>\n<p>- Each Act adds 10 items curated for Barbarian<br>- View more information about each item on the <a href=\"https://www.nexusmods.com/baldursgate3/mods/14744/\">Nexus Page</a> or on Imgur - <a href=\"https://imgur.com/a/rage-resilience-barbarian-equipment-act-1-XqndUaZ\">Act 1</a>, <a href=\"https://imgur.com/a/rage-resilience-barbarian-equipment-act-2-wsoZLRU\">Act 2</a>, <a href=\"https://imgur.com/a/rage-resilience-barbarian-equipment-act-3-zNfB0DP\">Act 3</a><br>- These items can be obtained in the Camp Chest using my mod \"<a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a>\"<br>- Requires FED to immersively distribute the items throughout the game - Without FED the items won't spawn in the world</p>\n<p><strong>Q:</strong> Can I install the mod in the middle of the playthrough?<br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot list for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes on long rest).</p>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a></p>\n<p>Check out my other mods!</p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a></p>\n<p>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a></p>\n<p>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest\">Fade's Camp Chest</a></p>",
     "date_added": 1737134227,
-    "date_updated": 1792006760,
+    "date_updated": 1793103492,
     "date_live": 1788547455,
     "visible": 1,
     "status": 1,
@@ -92010,15 +92010,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -92068,19 +92068,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8326972
+      },
+      {
         "platform": "mac",
-        "modfile_live": 8077596
+        "modfile_live": 8326972
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 8077596
+        "modfile_live": 8326972
       },
       {
         "platform": "ps5",
-        "modfile_live": 8077596
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8326972
       }
     ]
@@ -117238,7 +117238,7 @@
     "summary": "A combination of Fade's Equipment Distribution and all the Class Equipment Packs.",
     "description": "<p>Experience all of Fade's Equipment mods in one convenient package! This combined mod includes Fade's Equipment Distribution and all class-specific equipment mods (excluding Gifts of the Absolute). In version 1.0.0.18, the Distribution system was re-written and is now compatible with any mod that edits RootTemplates. Additionally, a Togglable Randomizer was added in 1.0.0.18. This will only randomize items added from this mod (Randomizing may cause you to get duplicate items).<br>Enjoy translated versions in Chinese, Korean, Brazilian Portuguese, Russian, French, Japanese, and Spanish. </p>\n<p><strong>Translation Credits:</strong> <br>Chinese Translations by <a href=\"https://next.nexusmods.com/profile/yangyangmeiiii?gameId=3474\">yangyangmei</a><br>Russian Translations by <a href=\"https://mod.io/u/snk777/\">SNK777</a><br>Korean Translations by <a href=\"https://www.nexusmods.com/profile/Eolaloe?gameId=3474\">Eolaloe</a><br>Brazilian Portuguese by <a href=\"https://next.nexusmods.com/profile/kaironn2\">kaironn2</a><br>Spanish Translations by <a href=\"https://next.nexusmods.com/profile/Sokrof2\">Sokrof2</a><br>French Translations by <a href=\"https://www.nexusmods.com/profile/Tojii1\">Tojii1</a> <br>Japanese Translations by <a href=\"https://www.nexusmods.com/profile/hawchangJA\">hawchangJA</a></p>\n<p> </p>\n<p><strong>List of all item locations with images - <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vThKpJZeUVZIp_mBGlPRUV9blJFcpNH7hJnDh82T46-R7YAM892mmtvKRh9HaqLzClPP3FtTezsLV9u/pubhtml\">Link</a></strong></p>\n<p><br><strong>A:</strong> You can do this. However, the changes will not apply to locations you have already visited, as the static loot lists for them have already been generated. The traders you visit will also have predetermined loot (But it is still possible to get the items from traders, their inventory refreshes every 2-3 long rests).<br><br></p>\n<ul>\n<li>This mod includes: Fade's Equipment Distribution, Unarmed and Upgraded, Faith and Fortitude, Grove and Growl, Beast and Bow, Wands and Weave, Song and Steel, Pact and Power, Veil and Venom, Rage and Resilience, Might and Metal, Oath and Order, and Chaos and Control.</li>\n<li><u><strong>If you download this mod, do <span style=\"color:#ff0000;\">NOT</span> have the other mods that are included in the mod enabled.</strong></u> - If this mod is being disabled its because you have the individual FED mod installed...</li>\n<li>If you switch Fade's Equipment Distribution for Fade's Equipment Distribution AIO in the middle of a playthrough, it will duplicate items for the Act you are in.</li>\n</ul>\n<p> </p>\n<p><strong>Compatibility:</strong></p>\n<ul>\n<li>Mods that change the base game stats such as DnD 5.5e All-in-One BEYOND, and BG3 - Chocolate Edition may cause some items to function incorrectly.</li>\n<li>No other known compatibility conflicts as of version 1.0.0.18. <br><br>\n<p style=\"text-align:center;\">Join my Discord Server!<br><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a><br>Buy me a coffee 💜</p>\n<div style=\"text-align:center;\"><a href=\"https://ko-fi.com/graphicfade/donate\"><img src=\"https://i.imgur.com/mnuuR3n.png\" alt=\"mnuuR3n.png\"></a><br><br><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"btn_donate_LG.gif\"></a></div>\n<p> </p>\n<p>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a></p>\n<p> </p>\nSpells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a><br><br>Visuals ---<br><a href=\"https://mod.io/g/baldursgate3/m/shadow-cursed-nimbus#description\">Shadow-Cursed Nimbus (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/nimbus-recolored#description\">Nimbus Recolored (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/scratch-recolored-husky#description\">Scratch Recolored: Husky</a><br><br>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest#description\">Fade's Camp Chest</a><br><a href=\"https://mod.io/g/baldursgate3/m/simply-more-gold-2x#description\">Simply More Gold (2x)</a><br><br>Gameplay ---<br><a href=\"https://mod.io/g/baldursgate3/m/early-access-illithid-powers-restored#description\">Early Access Illithid Powers Restored</a><br><a href=\"https://mod.io/g/baldursgate3/m/leader-homebrew-class#description\">Leader Homebrew Class</a><br><a href=\"https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul#description\">Sorcerer Subclass - Conflagrant Soul</a></li>\n</ul>",
     "date_added": 1746390180,
-    "date_updated": 1792152226,
+    "date_updated": 1793103950,
     "date_live": 1746391440,
     "visible": 1,
     "status": 1,
@@ -117268,15 +117268,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -117426,19 +117426,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8333332
+      },
+      {
         "platform": "mac",
-        "modfile_live": 8174998
+        "modfile_live": 8333332
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 8174998
+        "modfile_live": 8333332
       },
       {
         "platform": "ps5",
-        "modfile_live": 8174998
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8333332
       }
     ]
@@ -119617,7 +119617,7 @@
     "summary": "Tutorial Quick Exit Skips the Nautiloid tutorial level, freeing Us and Shadowheart. You start at the crash site with enough XP for level 2. Inventory includes the Everburn Blade, gold, and basic tools.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/tutorialquickexit_icon.png\" alt=\"\" width=\"300\" height=\"300\"></p>\n<p><span style=\"color:#008000;\"><strong>Tutorial Quick Exit</strong><br>By SwissFred</span></p>\n<p><span style=\"color:#008000;\">Skip the tutorial level on the Nautiloid!<br>This mod automatically frees <strong><em>Us</em></strong> and <strong><em>Shadowheart</em></strong> and puts you right at the beach crash site next to Shadowheart — with enough XP to reach level 2.</span></p>\n<blockquote>\n<p><span style=\"color:#008000;\"><strong>Important:</strong> This mod is meant for a <strong>new playthrough</strong>.<br>It is <strong>not</strong> an update or replacement for the <strong>Tutorial Exit</strong> mod.</span></p>\n</blockquote>\n<p><span style=\"color:#008000;\"><strong>Your inventory will include:</strong><br>– Everburn Blade<br>– Gold<br>– Tools<br>– Nautiloid Tanks<br></span><span style=\"color:#008000;\">– Key story items</span></p>\n<p><span style=\"color:#008000;\"><strong>Features:</strong><br>– A spell called <strong>Quick Exit</strong> that lets you leave the tutorial instantly, skipping the crash cinematic<br>– At the tutorial starting area, the <strong>Tutorial Chest</strong> and <strong>Elaborate Chest</strong> are available<br>– The <strong>key</strong> for the <strong>Elaborate Chest</strong> is already in your inventory<br>– no changes or addons to the Tutorial Chest or Elaborate Chest, Chests remains untouched.<br>– The helm fight is optional — if you choose to do it, the <strong>round timer is disabled</strong><br>– <strong>Nautiloid tanks have reduced weight</strong><br>– Works if you play as Shadowheart or Lae’zel — the mod adapts accordingly<br>– All Nautiloid tutorial quests will be marked as completed when you arrive at the crash site</span></p>\n<p><span style=\"color:#008000;\"><strong>Optional:</strong><br>– You don’t need to free <em>Us</em> or <em>Shadowheart</em> manually — they’re freed automatically<br>– If you skip freeing Shadowheart, she’ll still show up at the beach</span></p>\n<p><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>\n<p> </p>",
     "date_added": 1747153149,
-    "date_updated": 1788470638,
+    "date_updated": 1793103434,
     "date_live": 1747165516,
     "visible": 1,
     "status": 1,
@@ -119647,15 +119647,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -119695,19 +119695,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8143656
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7932423
+        "modfile_live": 8143656
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7932423
+        "modfile_live": 8143656
       },
       {
         "platform": "ps5",
-        "modfile_live": 7932423
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8143656
       }
     ]
@@ -137324,7 +137324,7 @@
     "summary": "Eyes that I made for my own personal game that I decided to share. I am open to requests. I hope you like them as much as I do. There is a variety of different colors and styles.",
     "description": "<h3><strong>Eyes Mod.</strong></h3><br><h3>I created this eyes mod for my own personal game but decided to share it.<br>I hope you like it too. I am also open to eye color requests.<br><br>I recommend downloading <a href=\"https://mod.io/g/baldursgate3/m/roxs-everyone-can-glow#description\">Rox's Everyone can glow mod</a>. If you want the eyes to glow.<br>Other glow enabled mods also will work if you have a personal favorite. </h3>",
     "date_added": 1753768329,
-    "date_updated": 1788589258,
+    "date_updated": 1793103969,
     "date_live": 1753778547,
     "visible": 1,
     "status": 1,
@@ -137354,15 +137354,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -137402,19 +137402,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8177129
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7973661
+        "modfile_live": 8177129
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7973661
+        "modfile_live": 8177129
       },
       {
         "platform": "ps5",
-        "modfile_live": 7973661
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8177129
       }
     ]
@@ -138009,7 +138009,7 @@
     "summary": "Queen's Garments is a pack that has undergarments fit for royalty. They feature many customisation options such as body sculpts and PHYSICS.",
     "description": "<p>A collection fit for your queen and all her needs<br>Only for bt1; pillar outfit available for bt3; roughly half of the outfits are also compatible with tiefling bt1<br>Uses camp clothing, camp shoes and underwear slot (accessories)</p>\n<p>Some of the included outfits:<br>Crimson Wings, Royal Knight, Bifrost, Eternal Queen, Scarlet<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits1.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Crimson Monarch, Secret Therapy, Artor, Valkyrie, Pillar<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits2.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Tactical Dress, Duskraven, Loveless, Cyber Bunny, Chic<br><img src=\"https://image.modcdn.io/members/5372/35718117/profileeqllist/outfits3.jpg\" alt=\"\" width=\"400\" height=\"225\"></p>\n<p>Commissioned for Morgana Evelyn<br>Pillar/Valkyrie BT3 refit commissioned for JC<br>Valkyrie outfit commissioned for Anonymous<br>Aesir outfit commissioned for Albion<br>Tiefling bt1 compatibility commissioned for Noir, Tina and Anonymous<br><br>Credits:<br>Duskraven - <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Secret Therapy - outfit by <a href=\"https://www.patreon.com/arideyya\">Arideyya</a><br>Additional glamour screenshots - Lara</p>\n<p>Find Queen's Garments at the following locations:<br>Nautiloid: “Tutorial” Chest<br>Act 1: Ethel - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Lorroakan’s Projection/Rolan - Sorcerous Sundries<br>            Skittle - Heapside Prison</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
     "date_added": 1754207608,
-    "date_updated": 1788727948,
+    "date_updated": 1793103987,
     "date_live": 1754210788,
     "visible": 1,
     "status": 1,
@@ -138039,15 +138039,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -138122,19 +138122,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8184933
+      },
+      {
         "platform": "mac",
-        "modfile_live": 7969694
+        "modfile_live": 8184933
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 7969694
+        "modfile_live": 8184933
       },
       {
         "platform": "ps5",
-        "modfile_live": 7969694
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8184933
       }
     ]
@@ -170180,7 +170180,7 @@
     "summary": "Aylin and Isobel can be recruited as full party members and have new interactions in Act 3.",
     "description": "<p>After Dame Aylin and Isobel Thorm have been reunited, they will join your camp as fully recruitable party members with new dialogue options and reactions to more story events!</p>\n<p>In my testing, this mod can be added to existing saves (but it is NOT safe to remove). If Aylin and Isobel have already left your camp after dealing with Lorroakan, don't worry - you'll have the option to bring them back! Just check your inventory for the \"Letter to Selûnite Enclave\" and it will tell you what to do. There's also an image on this mod page that shows you exactly where you need to go if you want a visual reference.</p>\n<p style=\"text-align:center;\"><strong>Released as part of the July 2026 Modathon,<br></strong><strong>themed with the paladin of the moon and<br></strong><strong>the cleric risen from the shadow-cursed lands.</strong></p>\n<p style=\"text-align:center;\"><img src=\"https://i.ibb.co/KjZ8VJ5F/2026-week-1-Celestial-Shadows.png\" alt=\"\" width=\"550\" height=\"289\"></p>\n<p style=\"text-align:center;\"><img src=\"https://i.ibb.co/ym6z8bqr/Around-The-World.png\" alt=\"\" width=\"400\" height=\"144\"><img src=\"https://i.ibb.co/VWjJxKy8/The-Absolute.png\" alt=\"\" width=\"400\" height=\"144\"></p>\n<p> </p>\n<p>There's still more I want to do with this mod! I think it's already in really good shape, but please do let me know if you have feedback or bug reports, it helps a lot. As I have time, my plan is to:</p>\n<p>1. Give Aylin and Isobel some sort of reaction to meeting Aradin outside Sorcerous Sundries</p>\n<p>2. Give Aylin and Isobel at least basic camp corner decorations</p>\n<p>3. Possibly more?</p>\n<p> </p>\n<h3>Details</h3>\n<p>All the 'new' dialogue uses repurposed assets from the original game. I did not use AI in any way or at any stage of developing this mod. All files were created and edited using the official toolkit or a text editor (except the thumbnail I guess, which I made with normal image editing tools).</p>\n<p>The exact requirements to recruit Aylin and Isobel are:</p>\n<ol>\n<li>They must both be alive and have joined camp.</li>\n<li>They've spent at least one night in camp.</li>\n<li>If Shadowheart is in the party, she must have spoken with Aylin about her past.</li>\n<li>If Jaheira is alive, you must have left the Shadow-Cursed Lands (otherwise she can leave the party when Isobel is attacked in this region).</li>\n</ol>\n<p>Aylin can't be recruited if Isobel died and vice-versa. This is sort-of a character decision, but TBH it's mostly because so much of the dialogue and scripting in this mod would burst into flames if one of them is missing lol.</p>\n<p>If you recruit Aylin or Isobel but they refuse to actually enter the party, it's because the party is full and they just don't have specific enough voice lines to say you need to dismiss someone first.</p>\n<p><strong>Highlighted Additions:</strong></p>\n<ul>\n<li>Aylin and Isobel's main camp dialogues have new options for the player to ask them to join or leave the party.</li>\n<li>Aylin and Isobel join the epilogue party with completely new dialogues if they were never betrayed.</li>\n<li>If Isobel is taken to the first meeting with Lorroakan (<em>not</em> the confrontation that will happen if Aylin is also there), she can make comments, start a fight with Lorroakan, and be betrayed by the player.</li>\n<li>After defeating Lorroakan, the player has new dialogue options when Aylin and Isobel explain their plan to leave for the Selûnite enclave.\n<ul>\n<li>If they decide to stay in camp, Aylin won't be available to talk or join the party until after she's rested for a couple of days.</li>\n<li>If they decide to leave camp, a letter will be added to the player's inventory after a couple of days, and it can be mailed to the Selûnite enclave to cause Aylin and Isobel to return to camp.</li>\n</ul>\n</li>\n<li>Aylin and Isobel have new one-time greetings after the following events:\n<ul>\n<li>Talking with Lorroakan about his plans for Aylin (Isobel only)</li>\n<li>Killing Lorroakan with Isobel's help (Isobel only)</li>\n<li>Entering the Cloister of Sombre Embrace</li>\n<li>Shadowheart freeing or 'freeing' her parents</li>\n<li>Entering the House of Hope</li>\n<li>Defeating Raphael (Aylin only)</li>\n<li>The Dark Urge ridding themself of their urges (<em>currently</em> Aylin only)</li>\n</ul>\n</li>\n</ul>\n<p><strong>More Additions:</strong></p>\n<ul>\n<li>Aylin gets toggle-able passives that control whether her wings are armoured (the original appearance), unarmoured, or hidden.\n<ul>\n<li>If Aylin's wing armour is enabled during the day, then she will automatically toggle it off at night when she's wearing camp clothes. However, this shouldn't happen if she's set to wear camp clothes all the time or if she doesn't enable wing armour during the day.</li>\n</ul>\n</li>\n<li>Isobel gets a toggle-able passive that controls whether her eyeliner is running (the original appearance) or not.</li>\n<li>A new dialogue option is available for both of them after they've returned to camp from the enclave, or just for Aylin after she's finished resting in camp.</li>\n<li>A completely new dialogue will trigger after you hand Shadowheart over to Viconia where Aylin and Isobel get Big Mad at you. (There are consequences.)</li>\n<li>Aylin will use different greetings when spoken to at night depending on which combination of her and Isobel are currently in the party.</li>\n<li>Aylin will exclaim after certain Act 3 bosses are killed in combat (e.g. the Chosen, Sarevok, etc.).</li>\n</ul>\n<p><strong>Changes:</strong></p>\n<ul>\n<li>Aylin will clean the dirt and blood off her face when she joins camp, and she and Isobel will change into camp clothes at night after they've been in camp for at least a day.</li>\n<li>The conditions for the player's dialogue option to invite Aylin to join them permanently have been changed (must have been in camp for at least one night, and if Shadowheart is present then she must have already talked with Aylin about her past).</li>\n<li>Aylin's end-game ally ability to summon her is replaced after she has been recruited to summon a Moonlight Sliver instead.</li>\n<li>Aylin will no longer auto-stabilize and auto-resurrect while in the party during combat.</li>\n<li>Aylin will no longer lose all statuses when she goes to camp after being recruited.</li>\n<li>Aylin's Lunar Blessing ability now costs a Bonus Action instead of being completely free.</li>\n<li>If Aylin has not yet been told about Lorroakan, several changes have been made to prevent her from being able to meet him until she has been told. This is just to make sure that Aylin's hostile tone when meeting Lorroakan makes sense because it would be a <em>lot</em> of work to make a brand new meeting between them that starts friendly and ends like normal.\n<ul>\n<li>The conversation where the player tells Aylin about Lorroakan will be forced if she approaches the portal as a playable character, and some of the player's options in this conversation to avoid telling her the truth have been disabled (only if it gets triggered as a failsafe - the options are still available if she's spoken with earlier).</li>\n<li>The portal up to Ramazith's Tower cannot be used directly by Aylin, she can only go up to the tower by following a grouped party member, or if she's not in the party at all and goes up as an NPC.</li>\n</ul>\n</li>\n<li>If Aylin is in the active party when she's told about Lorroakan, she won't immediately run off to confront him unless she's dismissed from the party. Isobel's dialogue about Aylin's intent to confront Lorroakan will start differently if Aylin has not yet left, and one of the player's options will be reworded.</li>\n<li>If Aylin is trapped in Lorroakan's soulcage after the player sided with her, she can now be freed from the cage and Lorroakan can be fought again. If she's defeated and caged a second time, she will be hidden and cannot be freed again.</li>\n<li>If the player is controlling Isobel during Aylin's confrontation with Lorroakan, the options to betray Aylin are disabled because there's just no way Isobel would turn on her like that. If there's a reason to leave these options enabled that I'm overlooking, feel free to let me know.</li>\n<li>In the nighttime conversations after defeating Lorroakan (Isobel on her own and the two of them at once), some changes are made if Isobel joined the fight against Lorroakan (such as several lines at the start of the conversations being skipped and some of the player's options being reworded to reflect that Isobel already knows what happened).</li>\n<li>If you meet Lorroakan for the first time with Isobel in the party and commit to betraying Aylin (which will turn Isobel hostile), then you will no longer be able to support Aylin during her confrontation with Lorroakan. It's just such a niche path that would be a hassle to add support for, so, yeah, no current plans to do that. If you happen to be playing the one character who would do all of this... sorry, lol. Or, I dunno, let me know if this is actually more common than I think.</li>\n<li>Fixed a bug in the original game where Lorroakan's wand won't appear in a specific dialogue path of his initial meeting scene.</li>\n</ul>\n<p> </p>\n<h3>Compatibility</h3>\n<p>In my testing, this mod is fully compatible with:</p>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/isobelsurvivabilityoverhaul#description\">Isobel Survivability Overhaul</a> by koboldJuno</li>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/mods/22759\">Look At This Photograph - Isobel Dialogue Unlocker</a> by magnetuning</li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/squire-evolved\">Squire Evolved</a> by Exaen</li>\n<li><a href=\"https://mod.io/g/baldursgate3/m/transmogrification-lite#description\">Transmogrification Lite</a> by me (for use with Aylin and Isobel's starting equipment)</li>\n</ul>\n<p>Most mods that change Aylin and Isobel's appearances are not automatically compatible, although they will probably work for Aylin until she joins camp. It is possible for them to be made fully compatible though. For more information, see: <a href=\"https://www.nexusmods.com/baldursgate3/articles/1893\">https://www.nexusmods.com/baldursgate3/articles/1893</a></p>\n<p>This mod changes the following dialogue files:</p>\n<ul>\n<li>CAMP_Isobel (DialogsBinary and Timeline)</li>\n<li>CAMP_Nightsong (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_FinalConfrontation^ (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_IsobelCamp (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_Lorroakan^ (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_NightsongAndIsobelCampAfterFight (DialogsBinary and Timeline)</li>\n<li>LOW_SorcerousSundries_NightsongCamp^ (DialogsBinary)</li>\n<li>LOW_SorcerousSundries_NightsongConclusion^ (Timeline)</li>\n<li>LOW_SorcerousSundries_NightsongSmash^ (Timeline)</li>\n</ul>\n<p>The files denoted with <code>^</code> are not critical and if needed can be overridden by another mod that is placed later in the load order. Just be aware that the more of these that are replaced, the jankier this mod's behavior will become and the less new dialogue you will see.</p>\n<p>It also overrides:</p>\n<ol>\n<li>The Osiris script <code>GLO_Nightsong</code> just to stop Aylin from fully healing every time she returns to camp after she's recruited.</li>\n<li>Aylin's root template to make a few minor changes like her default title, but I don't think anything critical.</li>\n<li>Aylin's breastplate root template (<code>ARM_Nightsong</code>) in order to add a physics resource just so it can be placed on the ground for use with Transmogrification Lite.</li>\n<li>The portal leading up to Ramazith's Tower just to add a condition that Aylin can't use it (can only go up if not in the party or if grouped with a player who uses the portal).</li>\n</ol>\n<p> </p>\n<h3>Known Issues</h3>\n<p>This is a large and technically complex mod, so there are a handful of issues that I'm already aware of and that don't need to be reported. Please do report any other issues you find, though! Thanks.</p>\n<p>1. In the level-up screen, you can't zoom in on Aylin. The only way to fix this is to make Aasimar a fully playable race that can be chosen on the character creator screen, which is beyond the scope of this mod.</p>\n<p>2. Both of their portraits <em>should</em> be able to re-render properly when they level up, but Aylin in particular might be in the wrong position or not get a background. So far as I can tell this is an engine-level issue that can affect all characters, it just happens more often for Aylin, and I don't know of anything I can do to improve this. Definitely let me know if you do! In my experience though it happens <em>less</em> often when you have a good framerate (so like while in a smaller map or right after launching the game) and when you only level up one character at a time.</p>\n<p>3. Can't ask Withers to resurrect Isobel if she's been recruited but is NOT currently in the party. (If she is in the party while dead, Withers can resurrect her.) You can still use a spell or scroll to resurrect her instead. This issue technically applies to Aylin too, but she should always resurrect herself before there's time for it to be a problem.</p>\n<p>4. After Aylin and Isobel promise their support for the Gather Your Allies quest, Isobel's death will always cause the quest to update. This is because her death normally breaks their support, and the only way to stop it from happening would be overriding another resource and further complicating mod compatibility, so instead I just undo the quest update as soon as it happens and you're left with a notification for nothing. It shouldn't cause any actual issues, though.</p>\n<p>5. Aylin and Isobel's approval of the player will not be visible if added to existing games (it should be visible in new games).</p>\n<p> </p>\n<h3>Special Thanks</h3>\n<p>Editing dialogue on the XML level is very complicated and <em>extremely</em> confusing to get started with, so I don't think I would have tried learning how to do it without the in-depth research and guides that <a href=\"https://mod.io/g/baldursgate3/u/magnetuning\">magnetuning</a> has generously shared on the topic. He has my immense thanks, and if you haven't already then I recommend you check out his mods!</p>",
     "date_added": 1782969939,
-    "date_updated": 1788877651,
+    "date_updated": 1793104667,
     "date_live": 1782973930,
     "visible": 1,
     "status": 1,
@@ -170210,15 +170210,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 1
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -170263,19 +170263,19 @@
     ],
     "platforms": [
       {
+        "platform": "windows",
+        "modfile_live": 8172533
+      },
+      {
         "platform": "mac",
-        "modfile_live": 8038081
+        "modfile_live": 8172533
       },
       {
         "platform": "xboxseriesx",
-        "modfile_live": 8038081
+        "modfile_live": 8172533
       },
       {
         "platform": "ps5",
-        "modfile_live": 8038081
-      },
-      {
-        "platform": "windows",
         "modfile_live": 8172533
       }
     ]
