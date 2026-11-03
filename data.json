@@ -8309,6 +8309,104 @@
     ]
   },
   {
+    "id": 4240062,
+    "game_id": 6715,
+    "name": "Mass Rez Scroll",
+    "name_id": "massrezscroll",
+    "summary": "Changes Scroll of Revivify to apply to multiple targets via \"Shout\" ability",
+    "description": "",
+    "date_added": 1723031396,
+    "date_updated": 1793716917,
+    "date_live": 1723031406,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/massrezscroll",
+    "submitted_by": {
+      "id": 21503626,
+      "name_id": "sydmeier",
+      "username": "SydMeier",
+      "profile_url": "https://mod.io/u/sydmeier",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8173/21503626/crop_100x100/kitty.jpg"
+    },
+    "modfile": {
+      "id": 5501192,
+      "mod_id": 4240062,
+      "version": "1.0.0.4",
+      "filename": "massrezscroll_6b419a28-b015-da-0xtf.zip",
+      "changelog": null,
+      "date_added": 1724566817,
+      "date_updated": 0,
+      "date_scanned": 1724566821,
+      "filesize": 1558087,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "untitled93.png",
+      "original": "https://image.modcdn.io/mods/f678/4240062/untitled93.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/f678/4240062/crop_320x180/untitled93.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/f678/4240062/crop_640x360/untitled93.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/f678/4240062/crop_1280x720/untitled93.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Consumables",
+        "name_localized": "Consumables",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5501192
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5501192
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5501192
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5501192
+      }
+    ]
+  },
+  {
     "id": 4242396,
     "game_id": 6715,
     "name": "Bag Of Holding",
@@ -9169,6 +9267,99 @@
       {
         "platform": "ps5",
         "modfile_live": 5455181
+      }
+    ]
+  },
+  {
+    "id": 4254081,
+    "game_id": 6715,
+    "name": "Remove Ritual Casting",
+    "name_id": "remove-ritual-casting",
+    "summary": "Removes the ability to ritual cast spells for a bit of extra challenge.",
+    "description": "<p>This mod entirely removes ritual casting, forcing you to expend spell slots for utility spells whilst out of combat. Why? Because I thought it would be neat. It's also something to spice runs up a bit, and gives more use to items like potions of glorious vaulting.</p>\n<p>Spells altered: Detect Thoughts, Disguise Self, Enhance Leap, Feather Fall, Find Familiar, Longstrider, Silence, Speak with Animals, Speak with Dead.</p>\n<p>All spells still operate the same way they normally do, like upcasted longstrider letting you select multiple targets.</p>\n<p>I was going to tamper with Mystra's Grace and the Mask of the Shapeshifter as well, but I decided against it. Especially with the mask being DLC which would probably get weird with people who don't own the DLC.</p>\n<p> </p>\n<p>Nexus version: <a href=\"https://www.nexusmods.com/baldursgate3/mods/11979\">https://www.nexusmods.com/baldursgate3/mods/11979</a></p>",
+    "date_added": 1723430329,
+    "date_updated": 1793716285,
+    "date_live": 1723431111,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/remove-ritual-casting",
+    "submitted_by": {
+      "id": 27843568,
+      "name_id": "miahtrt",
+      "username": "MiahTRT",
+      "profile_url": "https://mod.io/u/miahtrt",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/f199/27843568/crop_100x100/83e6a1d91adcfbee5661f7ff66cf2d9.jpg"
+    },
+    "modfile": {
+      "id": 5457980,
+      "mod_id": 4254081,
+      "version": "1.0.0.1",
+      "filename": "removeritualcasting_97b250c2-a-eyu5.zip",
+      "changelog": null,
+      "date_added": 1723430341,
+      "date_updated": 0,
+      "date_scanned": 1723430344,
+      "filesize": 1083921,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "removeritualcasting2.png",
+      "original": "https://image.modcdn.io/mods/4f96/4254081/removeritualcasting2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4f96/4254081/crop_320x180/removeritualcasting2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4f96/4254081/crop_640x360/removeritualcasting2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4f96/4254081/crop_1280x720/removeritualcasting2.png"
+    },
+    "tags": [
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5457980
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5457980
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5457980
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5457980
       }
     ]
   },
@@ -10923,6 +11114,109 @@
       {
         "platform": "ps5",
         "modfile_live": 5624853
+      }
+    ]
+  },
+  {
+    "id": 4284019,
+    "game_id": 6715,
+    "name": "Shortash | Halfling Gortash Replacer",
+    "name_id": "shortash",
+    "summary": "Turns Gortash into a Halfling",
+    "description": "<p>He is stoneless, the stone only appears for tall Gort.</p>",
+    "date_added": 1724442595,
+    "date_updated": 1793717012,
+    "date_live": 1724442626,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/shortash",
+    "submitted_by": {
+      "id": 21503626,
+      "name_id": "sydmeier",
+      "username": "SydMeier",
+      "profile_url": "https://mod.io/u/sydmeier",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8173/21503626/crop_100x100/kitty.jpg"
+    },
+    "modfile": {
+      "id": 5495857,
+      "mod_id": 4284019,
+      "version": "1.0.0.1",
+      "filename": "shortash_b417b36a-48aa-064b-1b-3nkb.zip",
+      "changelog": null,
+      "date_added": 1724442601,
+      "date_updated": 0,
+      "date_scanned": 1724442655,
+      "filesize": 1364153,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/f14d/4284019/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/f14d/4284019/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/f14d/4284019/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/f14d/4284019/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Races",
+        "name_localized": "Races",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5495857
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5495857
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5495857
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5495857
       }
     ]
   },
@@ -13030,6 +13324,104 @@
       {
         "platform": "ps5",
         "modfile_live": 5540155
+      }
+    ]
+  },
+  {
+    "id": 4318395,
+    "game_id": 6715,
+    "name": "big grease",
+    "name_id": "big-grease",
+    "summary": "Ever wanted to create bigger grease puddles? Well now you can wizards have finally gained the ability to create even more grease for the meager cost of a level 2 spell slot they can cast bigger grease.",
+    "description": "",
+    "date_added": 1725568963,
+    "date_updated": 1793716852,
+    "date_live": 1725571049,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/big-grease",
+    "submitted_by": {
+      "id": 34676190,
+      "name_id": "trustworth",
+      "username": "trustworth",
+      "profile_url": "https://mod.io/u/trustworth",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 5540188,
+      "mod_id": 4318395,
+      "version": "1.0.0.2",
+      "filename": "mod1_2127f2a9-854a-a1a3-ed3c-2-bja9.zip",
+      "changelog": null,
+      "date_added": 1725568970,
+      "date_updated": 0,
+      "date_scanned": 1725568976,
+      "filesize": 2786938,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/4a0d/4318395/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4a0d/4318395/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4a0d/4318395/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4a0d/4318395/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Wizard",
+        "name_localized": "Wizard",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 5540188
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 5540188
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 5540188
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 5540188
       }
     ]
   },
@@ -61581,7 +61973,7 @@
     "summary": "The most ambitious D&amp;D 5.5e conversion yet: 16 classes, 125 subclasses, 99 feats, 315 spells, 41 backgrounds, 46 subspecies, and 17 core rule changes — a complete rebuild, still growing with every update.",
     "description": "DnD 5.5e All-in-One BEYOND\n<p><a href=\"https://github.com/Yoonmoonsik/bg3dnd\">DnD 5.5e All-in-One BEYOND</a> (https://github.com/Yoonmoonsik/bg3dnd) is a Baldur's Gate 3 mod that packs a broad set of D&amp;D 5.5e-inspired rules, player options, spells, feats, equipment, and class updates into a single all-in-one mod.</p>\n<p><strong>We built a data browser where you can look up the mod's data — classes and subclasses, spells, feats, backgrounds, species, fighting styles and weapon masteries — with search and filters, all generated from the mod's game data: <a href=\"https://yoonmoonsik.github.io/bg3dnd/\">Data Browser</a> (https://yoonmoonsik.github.io/bg3dnd/)</strong></p>\n<h2>Bug Reports and Questions</h2>\n<ul>\n<li><strong>Bug reports:</strong> open a report in <a href=\"https://github.com/Yoonmoonsik/bg3dnd/issues\">Issues</a>.</li>\n<li><strong>Questions, suggestions, requests, and general feedback:</strong> post in <a href=\"https://github.com/Yoonmoonsik/bg3dnd/discussions\">Discussions</a>.</li>\n</ul>\n<h2>YouTube</h2>\n<p>For gameplay examples, build ideas, and practical references, check the playthrough videos on the <a href=\"https://www.youtube.com/@bg3dnd\">YouTube channel</a> and the playthrough playlists: <a href=\"https://www.youtube.com/playlist?list=PLOxzTx3j5VdueKEU6lfAmzKL5KQt0rNhi\">Honor Mode playthrough</a> and <a href=\"https://www.youtube.com/playlist?list=PLEZTjfEePePw\">Season 4 Honor Mode playthrough</a>.</p>\n<h2>Rules and Actions</h2>\n<ul>\n<li><strong>Common Actions:</strong> Distract, Dodge, Equipping Weapons, Extra Attack (including War Magic integration), Hide, Jump, Shove, Topple</li>\n<li><strong>Conditions:</strong> Bloodied, Down, Prone</li>\n<li><strong>Rest and Recovery:</strong> Hit Point Dice, Inspiration from Background</li>\n<li><strong>Spellcasting:</strong> One Spell Slot Spell per Turn, Spell Scroll Usage Limitation</li>\n<li><strong>Equipment and Items:</strong> Heavy Armor Strength Requirement, Heavy Weapon Ability Requirement, Weapon Mastery</li>\n</ul>\n<h2>Backgrounds</h2>\n<p>See <a href=\"https://yoonmoonsik.github.io/bg3dnd/backgrounds.html\">Backgrounds</a>.</p>\n<p>41 backgrounds are available. Each grants 2 skill proficiencies and an Origin Feat at character creation: Acolyte, Charlatan, Chondathan Freebooter, Criminal, Dead Magic Dweller, Dragon Cultist, Emerald Enclave Caretaker, Entertainer, Experiment, Farmer, Flaming Fist Mercenary, Folk Hero, Genie Touched, Giant Foundling, Guide, Guild Artisan, Harper, Haunted One, Hermit, Ice Fisher, Knight of the Gauntlet, Lords' Alliance Vassal, Merchant, Moonwell Pilgrim, Mulhorandi Tomb Raider, Mythalkeeper, Noble, Outlander, Purple Dragon Squire, Rashemi Wanderer, Rest Warden, Sage, Sailor, Scribe, Shadowmasters Exile, Soldier, Spellfire Initiate, Urchin, Wayfarer, Wicker Weaver, Zhentarim Mercenary.</p>\n<h2>Classes</h2>\n<p>See the <a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html\">Classes</a> page for detailed level progression and subclass features.</p>\n<ul>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Artificer\">Artificer</a></strong> — Alchemist, Armorer, Artillerist, Battle Smith</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Barbarian\">Barbarian</a></strong> — Berserker, Fractured, Giant, Muscle Wizard, Shadow Gnawer, Wild Magic, Wildheart, World Tree, Zealot</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Bard\">Bard</a></strong> — Choreography, Dance, Glamour, Lore, Moon, Spirits, Swords, Valor</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Cleric\">Cleric</a></strong> — Apocalypse, Astral, Death, Dragon, Forge, Grave, Nature, Shadow, Tempest, Knowledge, Life, Light, Mind, Trickery, Twilight, War</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Druid\">Druid</a></strong> — Circle of Dragons, Dreams, Stars, Land, Moon, Sea, Spores, Unbroken</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Fighter\">Fighter</a></strong> — Arcane Archer, Banneret, Battle Master, Cavalier, Champion, Eldritch Knight, Psi Warrior, Rune Knight, Viking</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Gunslinger\">Gunslinger</a></strong> — High Roller, Spellslinger, White Hat</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Illrigger\">Illrigger</a></strong> — Architect of Ruin, Hellspeaker, Painkiller, Sanguine Knight, Shadowmaster</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Monk\">Monk</a></strong> — Drunken Master, Elements, Kensei, Mercy, Mystic Arts, Open Hand, Shadow, Sun Soul</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Monster%20Hunter\">Monster Hunter</a></strong> — Carver Guild, Devourer Guild, Occultist Guild</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Paladin\">Paladin</a></strong> — Ancients, Conquest, Crown, Devotion, Glory, Noble Genies, Vengeance, Watchers, Oathbreaker</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Ranger\">Ranger</a></strong> — Beast Master, Fey Wanderer, Gloom Stalker, Hollow Warden, Hunter, Swarm Keeper, Winter Walker</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Rogue\">Rogue</a></strong> — Arachnoid Stalker, Arcane Trickster, Assassin, Blade of Radiance, Scion of the Three, Highway Rider, Sanguine Thief, Soulknife, Swashbuckler, Thief</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Sorcerer\">Sorcerer</a></strong> — Aberrant Sorcery, Clockwork Sorcery, Divine Soul, Draconic Sorcery, Frost Sorcery, Heroic Sorcery, Shadow Magic, Spellfire Sorcery, Storm Sorcery, Wild Magic Sorcery</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Warlock\">Warlock</a></strong> — Archfey, Celestial, Fiend, Great Old One, Hexblade, Undead, expanded Invocations</li>\n<li><strong><a href=\"https://yoonmoonsik.github.io/bg3dnd/classes.html#q=Wizard\">Wizard</a></strong> — Abjurer, Bladesinger, Conjurer, Diviner, Enchanter, Evoker, Illusionist, Necromancer, Sangromancer, Transmuter</li>\n<li><strong>Psion</strong> — Coming soon</li>\n</ul>\n<h2>Feats</h2>\n<p>See <a href=\"https://yoonmoonsik.github.io/bg3dnd/feats.html\">Feats</a>.</p>\n<p>Actor, Alert, Altered, Athlete, Charger, Charm Twister, Cold Caster, Crossbow Expert, Crusher, Cult of the Dragon Initiate, Deadly Archery, Death Defier, Defensive Duelist, Dragon Fear, Dragon Hide, Dragon-Slayer, Dragonscarred, Dual Wielder, Dungeon Delver, Durable, Dwarven Fortitude, Eldritch Adept, Elemental Adept, Elven Accuracy, Ember of the Fire Giant, Emerald Enclave Fledgling, Enclave Magic, Fade Away, Fairy Trickster, Fey Touched, Fierce Shot, Fighting Initiate, Flames of Phlegethos, Fury of the Frost Giant, Genie Magic, Gleam of Wrath, Grave Keeper, Great Weapon Master, Guile of the Cloud Giant, Harper Agent, Harper Teamwork, Healer, Heavily Armored, Heavy Armor Master, Infernal Constitution, Inspiring Leader, Keenness of the Stone Giant, Lightly Armored, Lordly Resolve, Lords' Alliance Agent, Lucky, Mage Slayer, Magic Initiate: Cleric, Magic Initiate: Druid, Magic Initiate: Wizard, Martial Adept, Medium Armor Master, Metamagic Adept, Moderately Armored, Mounted Combatant, Musician, Mythal Touched, Nimbleness, Orcish Fury, Order's Resilience, Piercer, Poisoner, Polearm Master, Purple Dragon Commandant, Purple Dragon Rook, Resilient, Ritual Caster, Rune Shaper, Savage Attacker, Sentinel, Shadow Touched, Sharpshooter, Shield Master, Skill Expert, Skilled, Skulker, Slasher, Soul of the Storm Giant, Speedy, Spell Sniper, Spellfire Adept, Spellfire Spark, Squat Nimbleness, Strike of the Giants, Swift Witchcraft, Tavern Brawler, Tough, Tyro of the Gauntlet, Vigor of the Hill Giant, War Caster, Weapon Master, Zhentarim Ruffian, Zhentarim Tactics.</p>\n<h3>Fighting Styles</h3>\n<p>See <a href=\"https://yoonmoonsik.github.io/bg3dnd/fighting-styles.html\">Fighting Styles</a>.</p>\n<p>Archery, Blind Fighting, Defense, Dueling, Great Weapon Fighting, Interception, Protection, Thrown Weapon Fighting, Two-Weapon Fighting, Unarmed Fighting.</p>\n<h2>Species</h2>\n<p>See <a href=\"https://yoonmoonsik.github.io/bg3dnd/species.html\">Species</a>.</p>\n<ul>\n<li>Aasimar, Changeling, Goliath, and Kalashtar are available as Human subspecies options. Eladrin, Ice Elf, and Shadar-kai are available as Elven Lineage options. Dhampir can be taken as a Human, Elf, Drow, Tiefling, Dwarf, Halfling, Gnome, or Orc subspecies.</li>\n<li>Dragonborn, Dwarf, Elf, Githyanki, Gnome, Half Elf, Halfling, Human, Orc, and Tiefling are supported.</li>\n<li>Several species include ancestry or lineage options, including Dragonborn Draconic Ancestry, Elf and Half Elf sub-lineages, Goliath Giant Ancestry, and Tiefling legacy options.</li>\n</ul>\n<h2>Spells</h2>\n<p>See <a href=\"https://yoonmoonsik.github.io/bg3dnd/spells.html\">Spells</a>.</p>\n<p>The lists below cover every spell in the mod. The <a href=\"https://yoonmoonsik.github.io/bg3dnd/spells.html\">Spells</a> page has filters for level, school, class and scroll.</p>\n<h3>Cantrips</h3>\n<p>Acid Splash, Blade Ward, Blood Bolt, Bone Chill, Booming Blade, Bursting Sinew, Dancing Lights, Eldritch Blast, Finger Guns, Fire Bolt, Friends, Frightful Start, Frostbite, Green-Flame Blade, Guidance, Hellfire, Holy Word, Light, Mage Hand, Mind Sliver, Minor Illusion, Poison Spray, Prestidigitation, Primal Savagery, Produce Flame, Ray of Frost, Resistance, Sacred Flame, Shillelagh, Shocking Grasp, Sorcerous Burst, Spare the Dying, Starry Wisp, Sword Burst, Thaumaturgy, Thorn Whip, Thunderclap, Toll the Dead, True Strike, Vengeful Blade, Vicious Mockery, Word of Radiance.</p>\n<h3>Leveled Spells</h3>\n<ul>\n<li><strong>Level 1:</strong> Absorb Elements, Animal Friendship, Armour of Agathys, Arms of Hadar, Ballistic Smite, Bane, Bless, Blood Rush, Bloodbane Rune, Body Warping of Gorgoroth, Boil Blood, Burning Hands, Catapult, Charm Person, Chromatic Orb, Cloak of Shadow, Colour Spray, Command, Compelled Duel, Consumption, Create or Destroy Water, Crimson Lash, Cure Wounds, Disguise Self, Dissonant Whispers, Divine Favour, Earth Tremor, Enhance Leap, Ensnaring Strike, Entangle, Expeditious Retreat, Faerie Fire, False Life, Feather Fall, Find Familiar, Fog Cloud, Goodberry, Grease, Guiding Bolt, Hail of Thorns, Healing Word, Hellish Rebuke, Hell’s Lash, Heroism, Hex, Hungering Blade, Hunter's Mark, Ice Knife, Inflict Wounds, Longstrider, Mage Armour, Magic Missile, Protection from Evil and Good, Ray of Sickness, Sanctuary, Searing Smite, Shield, Shield of Faith, Shroud Blood, Sleep, Somnolence, Speak with Animals, Spectral Slash, Spellfire Flare, Tasha's Hideous Laughter, Thorn Armor, Thunderous Smite, Thunderwave, Tide of Darkness, Umbral Tendril, Vibrating Humors, Wardaway, Witch Bolt, Wrathful Smite.</li>\n<li><strong>Level 2:</strong> Aganazzar's Scorcher, Aid, Alter Self, Arcane Lock, Arcane Vigor, Barkskin, Blindness, Blood Wisp, Blur, Branding Smite, Calm Emotions, Cloud of Daggers, Crown of Madness, Darkbolt, Darkness, Darkvision, Dazing Blast, Death Armor, Detect Thoughts, Dragon's Breath, Elminster's Elusion, Enhance Ability, Enlarge/Reduce, Enthrall, Fiend Flesh, Find Steed, Fire Rune, Flame Blade, Flaming Sphere, Gust of Wind, Heat Metal, Hold Person, Invisibility, Knock, Lesser Restoration, Magic Weapon, Melf's Acid Arrow, Mind Spike, Mirror Image, Misty Step, Moonbeam, Pass Without Trace, Phantasmal Force, Prayer of Healing, Protection from Poison, Ray of Enfeeblement, Rime's Binding Ice, Sanguine Shield, Scorching Ray, Searing Orb, See Invisibility, Sense Lifeblood, Shadow Blade, Shatter, Silence, Snilloc's Snowball Swarm, Spike Growth, Spiritual Weapon, Summon Beast, Tasha's Mind Whip, Theft of Vitae, Warding Bond, Web, Wilting Smite, Wrack.</li>\n<li><strong>Level 3:</strong> Animate Dead, Ashardalon's Stride, Astral Flood, Aura of Vitality, Beacon of Hope, Bestow Curse, Blinding Smite, Blink, Blood Bond, Cacophonic Shield, Call Lightning, Conjure Barrage, Counterspell, Crusader's Mantle, Daylight, Elemental Exhalation, Elemental Weapon, Extract Iron, Fear, Feign Death, Fireball, Fly, Gaseous Form, Glyph of Warding, Haste, Hunger of Hadar, Hypnotic Pattern, Laeral's Silver Lance, Lightning Arrow, Lightning Bolt, Mass Healing Word, Murmurs of Doom, Phantom Steed, Plant Growth, Protection from Energy, Reanimate, Remove Curse, Revivify, Sanguine Poppet, Serpent Tongue, Sleet Storm, Slow, Speak with Dead, Spirit Guardians, Stinking Cloud, Summon Fey: Red Cap, Summon Undead: Ghoul, Tidal Wave, Trollblood Infusion, Vampiric Touch, Void Strike.</li>\n<li><strong>Level 4:</strong> Arcane Eye, Banishment, Blight, Charm Monster, Circle of Scarlet, Confusion, Conjure Minor Elemental, Conjure Woodland Being, Dark Sacrament, Death Ward, Dimension Door, Dominate Beast, Evard's Black Tentacles, Fire Dance, Fire Shield, Fount of Moonlight, Freedom of Movement, Grasping Vine, Greater Invisibility, Guardian of Faith, Ice Storm, Murder of Crows, Otiluke's Resilient Sphere, Phantasmal Killer, Polymorph, Shadow of Moil, Spellfire Storm, Staggering Smite, Stoneskin, Summon Aberration, Summon Elemental, Viscous Sheath, Vitriolic Sphere, Wall of Fire.</li>\n<li><strong>Level 5:</strong> Alustriel's Mooncloak, Awaken, Banishing Smite (Melee), Circle of Power, Cloudkill, Cone of Cold, Conjure Elemental, Contagion, Danse Macabre, Dawn, Destructive Wave, Dispel Evil And Good, Dominate Person, Dream, Enervation, Flame Strike, Greater Restoration, Hold Monster, Holy Weapon, Insect Plague, Mass Cure Wounds, Planar Binding, Seeming, Steel Wind Strike, Summon Celestial, Summon Dragon, Synaptic Static, Telekinesis, Wall of Stone.</li>\n<li><strong>Level 6:</strong> Arcane Gate, Blade Barrier, Chain Lightning, Circle of Death, Create Undead, Disintegrate, Eyebite, Flesh to Stone, Globe of Invulnerability, Harm, Heal, Heroes' Feast, Mental Prison, Otiluke's Freezing Sphere, Otto's Irresistible Dance, Planar Ally, Sunbeam, Wall of Ice, Wall of Thorns, Wind Walk.</li>\n</ul>\n<h2>Items</h2>\n<h3>Equipment</h3>\n<p>Argument Solver, Blazer of Benevolence, Blunderbuss, Blunderbuss +1, Blunderbuss +2, Cap of Curing, Chain of Liberation, Charge-Bound Warhammer, Corrosive Flail, Dragon's Grasp, Enforcer Club, Enforcer Helmet, Enforcer Shield, Giant Slayer Blunderbuss, Gloves of Heroism, Hellrider's Pride, Helmet of Smiting, Holy Avenger, Hoppy, Hunting Shortbow, Lucent Destroyer, Moon Sickle, Musket, Musket +1, Musket +2, Pistol, Pistol +1, Pistol +2, Rupturing Blade, Spellthief, The Baneful, The Oak Father's Embrace, The Sacred Star, Thunderbuss, True Name, Voltedge, Whip, Whip +1, Whip +2, Xyanyde.</p>\n<h3>Spell Scrolls</h3>\n<p>Spell scrolls are restricted to specific classes, with cantrip scrolls, Scrolls of Revivify, and Scrolls of Detect Thoughts always exempt.</p>\n<h2>Support the Mod</h2>\n<p>This mod is developed and maintained for free, and it always will be. If you would like to support continued development, you can do so here:</p>\n<ul>\n<li><a href=\"https://ko-fi.com/yoonmoonsik\">Ko-fi</a></li>\n<li><a href=\"https://toon.at/donate/yoonmoonsick\">Toonation</a> (for supporters in Korea)</li>\n</ul>\n<p>Contributions go toward purchasing the official D&amp;D rulebooks that this mod is based on, so that new content can be implemented accurately from the source material.</p>\n<p>Support is entirely voluntary and grants no special access, priority requests, or exclusive content. Sharing feedback, reporting bugs, and helping others in Discussions are just as valuable.</p>\n<h2>Credits</h2>\n<ul>\n<li><strong>Brazilian Portuguese Translation:</strong> <a href=\"https://mod.io/u/shadowahjin\">ShadowAhJin</a> (<a href=\"https://github.com/CaioShin93\">CaioShin93</a>)</li>\n<li><strong>French Translation:</strong> <a href=\"https://github.com/mcz-xiocku\">CyberBoloss</a></li>\n<li><strong>Italian Translation:</strong> Alessandro</li>\n<li><strong>Japanese Translation:</strong> <a href=\"https://www.nexusmods.com/profile/Eolaloe\">Eolaloe</a></li>\n<li><strong>Polish Translation:</strong> <a href=\"https://discord.gg/VxSvMqQ6sS\">TableTop BRAMA community</a></li>\n<li><strong>Russian Translation:</strong> <a href=\"https://github.com/ANizamutdinov\">ANizamutdinov</a></li>\n<li><strong>Spanish / Latin Spanish Translation:</strong> <a href=\"https://github.com/incolhermex-droid\">incolhermex-droid</a></li>\n<li><strong>Turkish Translation:</strong> <a href=\"https://github.com/batuhansekban\">batuhansekban</a></li>\n<li><strong>Ukrainian Translation:</strong> <a href=\"https://discord.gg/VxSvMqQ6sS\">TableTop BRAMA community</a></li>\n<li><strong>Item Models:</strong> <a href=\"https://mod.io/g/baldursgate3/u/skirbie\">skirbie</a> (<a href=\"https://mod.io/g/baldursgate3/m/viper-carbine-steampunk-rifle-gun\">Viper Carbine Steampunk Rifle Gun</a>, <a href=\"https://mod.io/g/baldursgate3/m/hand-cannon-gunslinger-weapon\">Hand Cannon Gunslinger Weapon</a>)</li>\n<li><strong>Item Models:</strong> <a href=\"https://sketchfab.com/dakotakimble\">Dak Attack</a> (<a href=\"https://sketchfab.com/3d-models/blunderbuss-dabef1eda0e845efbbe3216cc07376f9\">Blunderbuss</a>, licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>, converted for BG3)</li>\n</ul>\n<h2>Legal</h2>\n<p>DnD 5.5e All-in-One BEYOND is unofficial Fan Content permitted under the <a href=\"https://company.wizards.com/en/legal/fancontentpolicy\">Fan Content Policy</a>. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.</p>",
     "date_added": 1729165055,
-    "date_updated": 1793637286,
+    "date_updated": 1793708781,
     "date_live": 1729165076,
     "visible": 1,
     "status": 1,
@@ -61595,15 +61987,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/4584/33661205/crop_100x100/file.png"
     },
     "modfile": {
-      "id": 8417268,
+      "id": 8420940,
       "mod_id": 4419649,
-      "version": "4.14.2.0",
-      "filename": "dnd2024_897914ef-5c96-053c-44a-f9tg.zip",
-      "changelog": "4.14.2.0\n\n- loc: merge duplicate handles and reuse vanilla names\n- loc: reuse vanilla Cleave and Slow names and align mastery wording\n- loc: reuse vanilla handles for strings identical to vanilla\n- fix(abjurer): reduce Projected Ward damage with a status instead of AdjustRoll\n- fix(items): stop the Disintegrating Night Walkers from being a story item\n- fix(story): keep Baelen's Misty Step escape from the poison mushrooms working\n- fix(spells): make the Spectral Slash weapon attack run through Osiris\n- fix(battlemaster): make the Commander's Strike attack run through Osiris\n- fix(feats): allow slot casting after using a free cast\n- fix(rogue): roll Cunning Strike saves only when the option is chosen\n- fix(soulknife): clear the inherited Bardic Inspiration extra description from Homing Strikes\n- loc: describe Sharpshooter Long Shots as a 1.5x range increase",
-      "date_added": 1793637213,
+      "version": "4.14.3.3",
+      "filename": "dnd2024_897914ef-5c96-053c-44a-1nus.zip",
+      "changelog": "4.14.3.3\n\n- loc(ko): write Mythal as 미스알 to match the vanilla translation\n- fix(rogue): grant the reaction Sneak Attack charge only to rogues\n- fix(status): add visual effects to Spectral Slash, extra Sneak Attack, Uncanny Dodge and Magical Ambush\n- fix(soulknife): scale Homing Strikes with the Psionic Energy die\n- fix(soulknife): give the thrown Psychic Blade its own trajectories and effects\n- fix(weapon-mastery): tick Vex with its source and hide its portrait icon\n- fix(rogue): drop the extra Sneak Attack charge when a reaction attack misses\n- fix(spells): bring back the Spectral Slash attack prompt\n- fix(battlemaster): bring back the Commander's Strike reaction prompt",
+      "date_added": 1793708685,
       "date_updated": 0,
-      "date_scanned": 1793637386,
-      "filesize": 89375669,
+      "date_scanned": 1793708840,
+      "filesize": 89379477,
       "platforms": [
         {
           "platform": "windows",
@@ -61917,7 +62309,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8417268
+        "modfile_live": 8420940
       }
     ]
   },
@@ -123356,7 +123748,7 @@
     "name": "Rebalance Gear",
     "name_id": "rebalance-gear",
     "summary": "Half the gear in Baldurs Gate 3 is of questionable value, not merely situational but outright bad. What if it wasn't? Overhauls many poor items to be much more interesting and generally useful.",
-    "description": "<p><strong><span style=\"font-size:large;\"><span style=\"color:#f6b26b;\">Overview</span></span></strong><br>A large amount of the weapons, armor and accessories you find in BG3 are of little use. Either they are too weak, too situational or just acquired too late for their intended purpose. This mod overhauls a large amount of items to be more generally useful and appealing - without changing their identity too much. This mod also does not add any new items to the game. Gaps in gear progression will be filled with a seperate mod.<br><br>The mod focuses heavily on <strong>Act 1</strong> items, since they need the most work, but also because they lay the groundwork for builds and combos later in the game. Plus, these items will actually be acquired by most players, as only 52% of players make it to Act 2 and only 40% make it to Act 3.<br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:large;\"><br><br>List of changes</span></span></strong><br><br><strong>Over-arcing changes<br></strong></p>\n<ul>\n<li>Some items rarity was changed to better fit their power level</li>\n<li>This can be a reduction or increase in rarity</li>\n<li>Their buy/sell price is affected by this</li>\n<li>All \"of the Absolute\" items no longer require the brand to function, the brand is now purely for dialog/story purposes</li>\n<li>Every new or changed passive has a note whether it works in Wild Shape or not - you must hover over the passive effect to see this note</li>\n</ul>\n<p><br>Example image from my mod <a href=\"https://www.nexusmods.com/baldursgate3/mods/4535\">Druid Wildshape Items</a>:</p>\n<p><br><img src=\"https://i.imgur.com/r8cebVk.png\" alt=\"r8cebVk.png\"><br><br><br><strong>Important acquisition changes:</strong><br><br></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Broodmother%27s_Revenge\">Broodmother's Revenge</a> - After redeeming Khaga from the Shadow Druids and resolving the Grove conflict (killed the goblin leaders or defended the grove on the attack) speaking to Khaga will cause her to hand you the necklace. No more Khaga murder required. She will still drop it however.</li>\n<li><a href=\"https://bg3.wiki/wiki/Hat_of_Fire_Acuity\">Hat of Fire Acuity</a> - Now rewarded alongside the <a href=\"https://bg3.wiki/wiki/Shapeshifter%27s_Boon_Ring\">Shapeshifter's Boon Ring</a> when helping the <a href=\"https://bg3.wiki/wiki/Strange_Ox\">Strange Ox</a> enter the Lower City, no more Phasm murder required.</li>\n<li>The two items <a href=\"https://bg3.wiki/wiki/Gemless_Ring\">Gemless Ring</a> and <a href=\"https://bg3.wiki/wiki/Ringless_Gem\">Ringless Gem</a> had their root templates fixed and now combine into the <a href=\"https://staticdelivery.nexusmods.com/mods/3474/images/16874/16874-1748445739-2113274494.png\">Restored Ring of Luck</a> - the original result had an invalid root template too, meaning you never got the actual \"Magical Ring\", but even if you did it had no effects</li>\n<li><a href=\"https://bg3.wiki/wiki/Cloth_Armour\">Cloth Armour</a> was renamed to <a href=\"https://staticdelivery.nexusmods.com/mods/3474/images/16874/16874-1753099588-155586526.png\">Armour of Patience</a> with new effects and is now available in the gnoll-sieged cave in Act 1 with <a href=\"https://bg3.wiki/wiki/Reason%27s_Grasp\">Reason's Grasp</a></li>\n</ul>\n<p><br><br><br><img src=\"https://i.imgur.com/sZE5mXm.png\" alt=\"sZE5mXm.png\"> <img src=\"https://i.imgur.com/55VPx5j.png\" alt=\"55VPx5j.png\"> <img src=\"https://i.imgur.com/DYlR0p1.png\" alt=\"DYlR0p1.png\"> <img src=\"https://i.imgur.com/T68Ow0B.png\" alt=\"T68Ow0B.png\"><img src=\"https://i.imgur.com/QY3OexB.png\" alt=\"QY3OexB.png\"> <img src=\"https://i.imgur.com/Hfhd4HO.png\" alt=\"Hfhd4HO.png\"> <img src=\"https://i.imgur.com/i0xEZPb.png\" alt=\"i0xEZPb.png\"> <img src=\"https://i.imgur.com/OD5zWHm.png\" alt=\"OD5zWHm.png\"> <img src=\"https://i.imgur.com/9Eig3lL.png\" alt=\"9Eig3lL.png\"> <img src=\"https://i.imgur.com/108ZxBL.png\" alt=\"108ZxBL.png\"><img src=\"https://i.imgur.com/6znJv0L.png\" alt=\"6znJv0L.png\"> <img src=\"https://i.imgur.com/y1RFBuA.png\" alt=\"y1RFBuA.png\"> <img src=\"https://i.imgur.com/BcC6PYI.png\" alt=\"BcC6PYI.png\">  <img src=\"https://i.imgur.com/nrcnHmr.png\" alt=\"nrcnHmr.png\"> <img src=\"https://i.imgur.com/OooTGKz.png\" alt=\"OooTGKz.png\"> <img src=\"https://i.imgur.com/U2xkpPN.png\" alt=\"U2xkpPN.png\"> <img src=\"https://i.imgur.com/xT6IvJ4.png\" alt=\"xT6IvJ4.png\"> <img src=\"https://i.imgur.com/USN2DGZ.png\" alt=\"USN2DGZ.png\"> <img src=\"https://i.imgur.com/QmiHX4H.png\" alt=\"QmiHX4H.png\"><img src=\"https://i.imgur.com/pMAxSO6.png\" alt=\"pMAxSO6.png\"><img src=\"https://i.imgur.com/fZiAMTt.png\" alt=\"fZiAMTt.png\"><br><strong><span style=\"font-size:medium;\"><span style=\"color:#f6b26b;\">Weapons</span><br></span></strong><br><strong>General changes<br><br></strong></p>\n<ul>\n<li>All simple weapons had their dice increased to 1d6</li>\n<li>Daggers remain 1d4 but now grant 1.5m movement and 3m jump distance (stacking)</li>\n<li>Maces gained the Tenacity passive (since they were already 1d6)</li>\n<li>Tridents, Spears and Javelins now have the reach attribute and range</li>\n<li>Many weapons have had their icons reworked, to more easily distinguish them from generic +1 weapons or other weapons (there is <strong><em>eight </em></strong><a href=\"https://bg3.wiki/wiki/Shortswords#List_of_shortswords\">shortswords</a> in the base game sharing the same icon, for example)</li>\n<li>Many weapons that did not feature any basic enchantment now feature +1 Weapon Enchantment</li>\n<li>Many of the aforementioned shortswords now function for all attacks, not just attacks made with these weapons - their tooltip was not clear about it, this way you can take advantage of many great effects without needing dual wielder</li>\n<li>Returning Pike and Dwarven Thrower don't equip themselves any longer when returning, they return to the inventory instead</li>\n</ul>\n<p><br><strong>Specific changes<br><br></strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Staff_of_Arcane_Blessing\">Staff of Arcane Blessing</a> - Description clarified, works with every type of bless now and mirrors its duration, does no longer grant the Bless spell, instead automatically grants the user Bless for 3 turns on their turn, or the nearest ally within 6m if they already have Bless</li>\n<li><a href=\"https://bg3.wiki/wiki/Spellthief\">Spellthief</a> - Now rare, restores level 1 spell slot on an attack with advantage (using the bow) - in wild shape any attack with advantage will restore a spell slot; the effect does not go on cooldown if you are not missing a level 1 spell slot (vanilla bugfix)</li>\n<li><a href=\"https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker\">Svartlebee's Woundseeker</a> - +1d4 to attacks against targets that are not full HP works on all attacks now, rarity increased, acquisition unchanged</li>\n<li><a href=\"https://bg3.wiki/wiki/Sharran_Crossbow\">Sharran Crossbow</a> - Now deals 1d4 Necrotic damage to obscured enemies or if you are obscured</li>\n<li><a href=\"https://bg3.wiki/wiki/Shattered_Flail\">Shattered Flail</a> - madness debuff is only 3 turns (from 6) but refreshes every attack rather than only when it drops off, also is removed after combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Jorgoral%27s_Greatsword\">Jorgoral's Greatsword</a> - gives +1 attack on kill, once, until combat end</li>\n<li><a href=\"https://bg3.wiki/wiki/Phalar_Aluve\">Phalar Aluve</a> - bonus action, but shriek doesnt give -1d4 to attacks/death saving throws any more</li>\n<li><a href=\"https://bg3.wiki/wiki/Mourning_Frost\">Mourning Frost</a> - chilled DC scales and applies frostbitten, no more cold damage bonus, now gives +1 spell attack and dc</li>\n<li><a href=\"https://bg3.wiki/wiki/Creation%27s_Echo\">Creation's Echo</a> - No longer overwrites elixirs and grants +1 to spell attacks and save dc</li>\n<li><a href=\"https://bg3.wiki/wiki/Light_of_Creation\">Light of Creation</a> - No longer stuns the wielder on a failed save, but instead \"jolts\" them - jolted is a combination of \"shocked\" and \"electrocuted\" (1d4 lightning damage + cant take reactions) - jolted is a vanilla condition that you can apply to enemies with <a href=\"https://bg3.wiki/wiki/The_Real_Sparky_Sparkswall\">The Real Sparky Sparkswall</a>, rare now and new icon</li>\n<li><a href=\"https://bg3.wiki/wiki/Firestoker\">Firestoker</a> - +1 Enchantment</li>\n<li><a href=\"https://bg3.wiki/wiki/Knife_of_the_Undermountain_King\">Knife of the Undermountain King</a> - Organ Rearranger Passive reroll works for any unarmed or weapon attack now and tooltips reflects that</li>\n<li><a href=\"https://bg3.wiki/wiki/Justiciar%27s_Scimitar\">Justiciar's Scimitar</a> - It's hidden Shadowblade Passive is no longer hidden. Shadowblade Passive (in general) now doesn't falsely states that it only works when attacking with that weapon but all weapon and unarmed attack rolls. Shadow-Blinding doesn't stop working in Honour Mode anymore and also works with any attack made with advantage now</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Blood_of_Lathander\">Blood of Lathander</a> - Deals 1d4 Radiant damage on attack</li>\n<li><a href=\"https://bg3.wiki/wiki/Thorn_Blade\">Thorn Blade</a> - Now always deals 1d4 Poison damage. When concentrating, deals an additional 1d4+ProficiencyBonus poison damage, this effect works in Wild Shape</li>\n<li><a href=\"https://bg3.wiki/wiki/Cruel_Sting\">Cruel Sting</a> - Can no longer be affected by Spindleweb Fanaticism, now always deals 1d4 Psychic damage (1d6 if wielded by a Drow); 1d4 poison damage against ensnared targets now works for any race, but is increased to 1d6 for drows as well</li>\n<li><a href=\"https://bg3.wiki/wiki/Hellfire_Hand_Crossbow\">Hellfire Hand Crossbow</a> - Has Firestoker's passive in addition</li>\n<li><a href=\"https://bg3.wiki/wiki/Hellrider_Longbow\">Hellrider Longbow</a> - Applies Faerie Fire for 2 turns, initiative and perception advantage work in wild shape (this is also true for Sentinel Shield, as its the same passive)</li>\n<li><a href=\"https://bg3.wiki/wiki/Kurwin%27s_Cauteriser\">Kurwin's Cauteriser</a> - Now deals 2d4 Fire damage and is rare; burning uses your hybrid DC instead of a flat value</li>\n<li><a href=\"https://bg3.wiki/wiki/Melf%27s_First_Staff\">Melf's First Staff</a> - Once per combat cooldown for Melf's Acid Arrow</li>\n<li><a href=\"https://bg3.wiki/wiki/Creation%27s_Echo\">Creation's Echo</a> - No longer overwrites elixirs, gained Arcane Enchantment passive, its effect now also grants +2 damage with spells of that type</li>\n<li><a href=\"https://bg3.wiki/wiki/Crossbow_of_Arcane_Force\">Crossbow of Arcane Force</a> - Inherently has 1d4 Force damage now, arcane ammunition now lasts 3 turns and turns your ranged attacks into melee attacks (no penalty for being in melee or threatened) and they push enemies back 3m now</li>\n</ul>\n<p><br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\">Armor</span></span></strong><br><strong>General Changes</strong><br><br></p>\n<ul>\n<li>Some armors recieved the benefits of their non-magical counterpart (the generic +1/+2 armors)</li>\n<li>Many armors had their AC increased to be competitive with +1/+2 generic armors (often you would prefer 2-3 AC over whatever magical effect armors had, so now their AC is either the same or just slightly lower</li>\n<li>Some rings had their icon changed - this was done to rings that shared icons in the same rarity tier to better distinguish them</li>\n<li>Many of these items (e.g. Spellthief, all the \"on dash\" boots, etc. work in Wild Shape)!</li>\n<li>Common Leather Gloves now grant +1 to Acrobatics, Metal Gloves +1 to Athletics (Logic: Shoving is done with hands as well as legs/feet)</li>\n<li>Common Leather Boots now grant +1 to Dex Saves, Metal Boots grant +1 Str Saves (Logic: Dodging or resisting a restrain etc. is usually more done with legs/feet)</li>\n<li>This can apply to magic items as well, but might not to all, depending if they inherit the change or not</li>\n</ul>\n<p><br><strong>Specific Changes</strong><br><br><strong>Head</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Shadow_of_Menzoberranzan\">Shadow of Menzoberranzan</a> - Grants +1d4 damage when attacking from hiding or invisibility, invisibility from spell lasts 10 turns instead of 2</li>\n<li><a href=\"https://bg3.wiki/wiki/Key_of_the_Ancients\">Key of the Ancients</a> - Now also grants +2 to Concentration Saving Throws</li>\n<li><a href=\"https://bg3.wiki/wiki/Circlet_of_Blasting\">Circlet of Blasting</a> - Short rest CD, now also grants +3 Fire damage when dealing Fire damage (+1 for aoe/multihit)</li>\n<li>Lifebringer - scales like Boots of Aid and Comfort and grants immunity to electrocution</li>\n<li><a href=\"https://bg3.wiki/wiki/Cap_of_Curing\">Cap of Curing</a> - Now works with Mantle of Inspiration and triggers \"on heal\" effects (try it with Glamour Bard, prob really strong)</li>\n<li><a href=\"https://bg3.wiki/wiki/Helmet_of_Smiting\">Helmet of Smiting</a> - Now works with any smite spell, applies holy fire (CON save, guaranteed against fiends/undead) and the temp hitpoints last until long rest instead of 2 turns</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Shadespell_Circlet\">Shadespell Circlet</a> - Now gives +1 save spell DC at all times and increases to +2 when obscured</li>\n<li><a href=\"https://bg3.wiki/wiki/Circlet_of_Hunting\">Circlet of Hunting</a> - Now also grants 1d4 to damage against marked targets - further, you do not have to be the cause for the condition any longer, hex is now mentioned (always worked with it) and it works with restraining conditions as well, downgraded to rare</li>\n<li><a href=\"https://bg3.wiki/wiki/Marksmanship_Hat\">Marksmanship Hat</a> - +2, now works for offhand</li>\n<li><a href=\"https://bg3.wiki/wiki/Circlet_of_Mental_Anguish\">Circlet of Mental Anguish</a> - Any spell saving throw triggers it</li>\n<li><a href=\"https://bg3.wiki/wiki/Browbeaten_Circlet\">Browbeaten Circlet</a> - Now also grants +1 to spell attackrolls when threatened, now rare</li>\n<li><a href=\"https://bg3.wiki/wiki/Circlet_of_Psionic_Revenge\">Circlet of Psionic Revenge</a> - Damage scales, everyone gets +1 to mental saving throws, githyanki get an extra +1 to INT saves (against mind flayers)</li>\n<li><a href=\"https://bg3.wiki/wiki/Hat_of_Uninhibited_Kushigo\">Hat of Uninhibited Kushigo</a> - Gives arcane charge in addition</li>\n<li><a href=\"https://bg3.wiki/wiki/Scabby_Pugilist_Circlet\">Scabby Pugilist Circlet</a> - Gives 1d6 damage against threatened enemies for melee weapon and unarmed attacks</li>\n<li><a href=\"https://bg3.wiki/wiki/Hat_of_the_Sharp_Caster\">Hat of the Sharp Caster</a> - Prevents you from rolling a 1 or 2 with spells on damage, if your WIS or CHA is 20 or higher, INT is set to 18</li>\n<li><a href=\"https://bg3.wiki/wiki/Mask_of_Soul_Perception\">Mask of Soul Perception</a> - Now also grants +2 to Wisdom to a maximum of 20 (this is <strong>not </strong>meant for Clerics/Druids, but to bolster Ranger/Monk WIS)</li>\n<li><a href=\"https://bg3.wiki/wiki/Helm_of_Balduran\">Helm of Balduran</a> - Stun immunity works against stunning gaze and any other stun now</li>\n</ul>\n<p><br><br><strong>Chest</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Poisoner%27s_Robe\">Poisoner's Robe</a> - 1d4 to 1d8 poison damage added to cantrip/spell damage, less to aoe/multihit spells, poisons melee attackers on hit</li>\n<li><a href=\"https://bg3.wiki/wiki/Robe_of_Summer\">Robe of Summer</a> - Cant roll a 1 or 2 for spell damage, +2 to fire damage (+1 for aoe/multihit)</li>\n<li><a href=\"https://bg3.wiki/wiki/Infernal_Robe\">Infernal Robe</a> - Deals a fire blast on first damaging spell/cantrip per combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Blazer_of_Benevolence\">Blazer of Benevolence</a> - Rare and now grants the effect of Bardic Inspiration (and similar abilities) to the user when they cast these spells on others, AC is now 12</li>\n<li><a href=\"https://bg3.wiki/wiki/Drow_Studded_Leather_Armour\">Drow Studded Leather Armor</a> - gives +2 to stealth dex saves and dex checks</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Jolty_Vest\">The Jolty Vest</a> - now also deals 1d4-1d8 damage and jolts for 2 turns, still dex save, still works against all damage events</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Protecty_Sparkswall\">The Protecty Sparkswall</a> - Now also increases all damage by 1 lightning damage when you have charges</li>\n<li><a href=\"https://bg3.wiki/wiki/Dark_Justiciar_Mail\">Dark Justiciar Mail</a> - +2 to CON saves, damage scales, +1 spell save DC if Shar is your god (this is usually reserved for Shadowheart but possible with mods)</li>\n<li><a href=\"https://bg3.wiki/wiki/Armour_of_Devotion\">Armour of Devotion</a> - In addition to the Eternal Devotion spell also restores spell slots on short rest; restored spell slots depend on how many smite spells you casted while wearing the armor - 2 smites restore a lvl 1 slot, 4 smites a lvl 2 slot, 6 smites a lvl 3 slot, these are cumulative (e.g. 6 smites would give you 3x lvl 1, 1x lvl 2 and 1x lvl 3 slots)</li>\n<li><a href=\"https://bg3.wiki/wiki/Icebite_Robe\">Icebite Robe</a> - Gives fire resistance if you have armor of agathys, chance to freeze instantly on applying encrusted with frost</li>\n<li><a href=\"https://bg3.wiki/wiki/Obsidian_Laced_Robe\">Obisidian Laced Robe</a> - Afflicts targets with burning when fire damage is dealt</li>\n<li><a href=\"https://bg3.wiki/wiki/Slippery_Chain_Shirt\">Slippery Chain Shirt</a> - <span style=\"color:#e06666;\">No longer obtainable</span>, replaced with a cloak with a similar effect</li>\n</ul>\n<p><br><br><strong>Gloves</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Reason%27s_Grasp\">Reason's Grasp</a> - gives temp HP when rage ends naturally (or you end it manually), now also gives 2 turns of wrath when you attack an enemy and both of you are not at full health</li>\n<li><a href=\"https://bg3.wiki/wiki/Hellrider%27s_Pride\">Hellrider's Pride</a> - Adjusted description to indicate it grants Blade Ward and that it does not apply to the wearer, functionality unchanged</li>\n<li><a href=\"https://bg3.wiki/wiki/Gloves_of_Hail_of_Thorns\">Gloves of Hail of Thorns</a> - Once per combat cooldown</li>\n<li><a href=\"https://bg3.wiki/wiki/Herbalist%27s_Gloves\">Herbalists Gloves</a> - Instead of just curing poison it applies the entire effect of Lesser Restoration on heal</li>\n<li><a href=\"https://bg3.wiki/wiki/Gloves_of_Baneful_Striking\">Gloves of Baneful Striking</a> - Fixed description, now rare</li>\n<li><a href=\"https://bg3.wiki/wiki/Spellseeking_Gloves\">Spellseeking Gloves</a> - Now very rare, increase spell critical by 1; old/vanilla effect can be toggled once per combat, also gives a reaction that works like Reckless Attack (without enemies getting advantage against you and shared cooldown with the toggle)</li>\n<li><a href=\"https://bg3.wiki/wiki/Gemini_Gloves\">Gemini Gloves</a> - Increase spell attack by 1, now per combat cooldown, no longer allows targeting the same target, works with acid splash (but not poison spray, if you use my rebalance)</li>\n<li><a href=\"https://bg3.wiki/wiki/Quickspell_Gloves\">Quickspell Gloves</a> - Increase Spell Save DC by 1, now per combat cooldown</li>\n<li><a href=\"https://bg3.wiki/wiki/Craterflesh_Gloves\">Craterflesh Gloves</a> - No longer a damage rider source</li>\n<li><a href=\"https://bg3.wiki/wiki/Gloves_of_Soul_Catching\">Soul Catching Gloves</a> - Tooltip fixed, effect no longer vanishes on taking damage while not having temp HP, new icons for interrupts, effect lasts until the end of your next turn as advertised, condition has the soul catching icon now instead of temp HP icon</li>\n<li><a href=\"https://bg3.wiki/wiki/Nimblefinger_Gloves\">Nimblefinger Gloves</a> - works for all races, gnomes get SoH expertise</li>\n</ul>\n<p><br><br><strong>Boots</strong></p>\n<ul>\n<li>\"On Dash\" boots (<a href=\"https://bg3.wiki/wiki/Boots_of_Arcane_Bolstering\">Boots of Arcane Bolstering</a>, <a href=\"https://bg3.wiki/wiki/Linebreaker_Boots\">Linebreaker Boots</a>, <a href=\"https://bg3.wiki/wiki/Springstep_Boots\">Springstep Boots</a> and <a href=\"https://bg3.wiki/wiki/The_Speedy_Lightfeet\">The Speedy Lightfeed</a>) now grant 2 turns of their status on the start of combat and another 2 turns when you dash, disengage, hide or jump - can only activate once per turn; note that \"fly\" counts as jump spell; all of these work in wild shape</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort\">Boots of Aid and Comfort</a> - scales now</li>\n<li><a href=\"https://bg3.wiki/wiki/Swiresy_Shoes\">Swiresy Shoes</a> - 3m jump distance</li>\n<li><a href=\"https://bg3.wiki/wiki/Cinder_Shoes\">Cinder Shoes</a> - Not limited to 1x per attack</li>\n<li><a href=\"https://bg3.wiki/wiki/Hoarfrost_Boots\">Hoarfrost Boots</a> - Cold damage applies Frostbite</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Elemental_Momentum\">Boots of Elemental Momentum</a> - No longer medium armor</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Brilliance\">Boots of Brilliance</a> - 1x bonus action vicious mockery per combat</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Watersparkers\">Watersparkers</a> - Now also give 3 lightning charges when you apply one of many lightning conditions to enemies, tooltips clarified</li>\n<li><a href=\"https://bg3.wiki/wiki/Spiderstep_Boots\">Spiderstep Boots</a> - Now grants allies within 18m immunity to being enwebbed (web still counts as difficult terrain for allies, not the wearer though)</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Striding\">Boots of Striding</a> - Now grant 3x your spellcasting modifier as temp HP</li>\n<li><a href=\"https://bg3.wiki/wiki/Blackguard%27s_Greaves\">Blackguard's Greaves</a> - Instead of granting Longstrider, now grant 3m of movement</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Persistence\">Boots of Persistence</a> - Instead of granting Longstrider, now grant 3m of movement</li>\n<li><a href=\"https://bg3.wiki/wiki/Unwanted_Masterwork_Greaves\">Unwanted Masterwork Greaves</a> - Grant +2 to STR saves, 4.5m of movement and a flat -1 damage reduction</li>\n<li><a href=\"https://bg3.wiki/wiki/Spaceshunt_Boots\">Spaceshunt Boots</a> - Grants +2 to DEX saves and can be used once per combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Psionic_Movement\">Boots of Psionic Movement</a> - Now grant 1d4 Psychic damage to any race on using a fly or jump action of any kind, increased to 1d6 for Githyanki, ability can be used once per combat</li>\n</ul>\n<p><br><br><strong>Cloaks</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Vivacious_Cloak\">Vivacious Cloak</a> - Gives 2 turns of Force Conduit now, doesn't rely on \"Threatened\" anymore</li>\n<li><a href=\"https://bg3.wiki/wiki/Thunderskin_Cloak\">Thunderskin Cloak</a> - Now also deals 1d4 Thunder damage</li>\n<li><a href=\"https://bg3.wiki/wiki/Cloak_of_Cunning_Brume\">Cloak of Cunning Brume</a> - Gives +1 to stealth and sleight of hand</li>\n<li><a href=\"https://bg3.wiki/wiki/Fleshmelter_Cloak\">Fleshmelter Cloak</a> - Acid damage ignores resistance</li>\n<li><a href=\"https://bg3.wiki/wiki/Wavemother%27s_Cloak\">Wavemother's Cloak</a> - Fixed Water Layer Protection Tooltip (its actually really strong, just used wrong tooltip) - also grants immunity to Azer's \"Fiercely </li>\n<li>Burning\"</li>\n</ul>\n<p><br><br><strong>Amulets</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Amulet_of_Silvanus\">Amulet of Silvanus</a> - Now automatically dispells effects that Lesser Restoration can cure on the user when they get affected, once per short rest, the spell itself can be used once per combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Sel%C3%BBne%27s_Dream\">Selûne's Dream</a> - Bonus Action, can target enemies, adds level to heal, half heal on enemies, 3m range</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Spectator_Eyes\">The Spectator Eyes</a> - Wounding Ray scaling and higher damage, Ray of Fear bonus action, both short rest</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Blast_Pendant\">The Blast Pendant</a> - now a reaction that deals Proficiency Bonus + 1d4 * Lightning Blast Charges bonus damage, you gain one charge every time you get lightning charges</li>\n<li><a href=\"https://bg3.wiki/wiki/Fireheart\">Fireheart</a> - Adds your spellcasting modifier to fire spells and cantrips and when you deal fire damage with spells or cantrips while having Heat Convergence active you have a 50% chance of applying heat metal to the target (if it can receive it)</li>\n<li><a href=\"https://bg3.wiki/wiki/Frost_Prince\">Frost Prince</a> - Adds your spellcasting modifier to cold spells and cantrips - allows you to cast twin ice knife for free at will - this necklace is available only in act 2, so this is probably not too strong</li>\n<li><a href=\"https://bg3.wiki/wiki/Necklace_of_Elemental_Augmentation\">Necklace of Elemental Augmentation</a> - works with poison damage and booming blade now</li>\n<li><a href=\"https://bg3.wiki/wiki/Amulet_of_Restoration\">Amulet of Restoration</a> - The single target healing word is short rest CD now</li>\n<li><a href=\"https://bg3.wiki/wiki/Beastmaster%27s_Chain\">Beastmaster's Chain</a> - Attacking beasts may get charmed (WIS save)</li>\n<li><a href=\"https://bg3.wiki/wiki/Hammergrim_Mist_Amulet\">Hammergrim Mist Amulet</a> - Now a reaction to ranged attacks rather than giving fog cloud as spell</li>\n<li><a href=\"https://bg3.wiki/wiki/Shar%27s_Temptation\">Shar's Temptation</a> - Instead of giving Charm Person, now gives the ability to bypass the line-of-sight block of darkness and allows casting darkness once per long rest (does NOT make you immune to blinded or grant darkvision), new icon</li>\n</ul>\n<p><br><br><strong>Rings</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Colour_Spray\">Ring of Colour Spray</a> - Now a reaction</li>\n<li><a href=\"https://bg3.wiki/wiki/Crusher%27s_Ring\">Crusher's Ring</a> - Rare</li>\n<li><a href=\"https://bg3.wiki/wiki/Smuggler%27s_Ring\">Smuggler's Ring</a> - Rare, no longer lowers CHA and now allows rerolling a critical failure on sleight of hand once (if you crit fail with the ring, it means you rolled a 1 twice in a row)</li>\n<li><a href=\"https://bg3.wiki/wiki/Spurred_Band\">Spurred Band</a> - 75%-25% gives 1-3 stacks of momentum, works in Wildshape</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Mind-Shielding\">Ring of Mind-Shielding</a> - Int Saving Throw Adv</li>\n<li><a href=\"https://bg3.wiki/wiki/Bracing_Band\">Bracing Band</a> - 1d4 to 1d8 force damage on Shove, works with any knockback, works in Wild Shape, now rare, changed icon</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Sparkswall\">The Sparkswall</a> - Grants immunity to all lightning debuffs</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Absolute_Force\">Ring of Absolute Force</a> - always +1 Thunder dmg, +1d4 to thunder spells/attacks</li>\n<li><a href=\"https://bge.wiki/wiki/fetish_of_callarduran_smoothhands\">****** of Callarduran Smoothhands</a> - Grants 1 turn of invisiblity at the start of combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Explorer%27s_Ring\">Explorer's Ring</a> - Increases STR/DEX by 1, only the highest of the two</li>\n<li><a href=\"https://bg3.wiki/wiki/Mage%27s_Friend\">Mage's Friend</a> - Increases INT/WIS/CHA by 1, only the highest of the three</li>\n<li><a href=\"https://bg3.wiki/wiki/Sunwalker%27s_Gift\">Sunwalker's Gift</a> - Gives charm/frighten advantage in illuminated areas, now grants superior darkvision if you already have darkvision</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Elemental_Infusion\">Ring of Elemental Infusion</a> - Works for Poison now, with custom status icon</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Jumping\">Ring of Jumping</a> - no longer grants Jump spell, now gives all allies double jump distance for 2 turns at the start of combat (note: thats weaker than \"Enhanced Leap\", which grants triple jump distance, as such this buff is overwritten by enhanced leap)</li>\n<li><a href=\"https://bg3.wiki/wiki/Family_Ring\">Family Ring</a> - Now also gives you a free revive on any party member once per long rest</li>\n<li><a href=\"https://bg3.wiki/wiki/Snowburst_Ring\">Snowburst Ring</a> - Now also grants allies within 18m advantage against slipping</li>\n<li><a href=\"https://bg3.wiki/wiki/Eversight_Ring\">Eversight Ring</a> - Tooltip changed to reflect what it does (functionality the same as vanilla)</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Twilight\">Ring of Twilight</a> - Reduces damage taken by 1, works in Wildshape</li>\n<li><a href=\"https://bg3.wiki/wiki/Killer%27s_Sweetheart\">Killer's Sweetheart</a> - Short Rest CD, clarified description, +1 crit at all times - works in Wildshape</li>\n</ul>\n<p><br><strong>Shields</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Wood_Woad_Shield\">Wood Woad Shield</a> - per combat cd, Rare</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Real_Sparky_Sparkswall\">The Real Sparky Sparkswall</a> - bonus action, short rest, jolt deals 1d4 on application</li>\n<li><a href=\"https://bg3.wiki/wiki/Gloomstrand_Shield\">Gloomstrand Shield</a> - Rare and now grants advantage on all saving throws when hiding/invisible and for 2 turns after</li>\n</ul>\n<p><br><br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\">Common Items</span></span></strong><br>These items were unique common items and are now magical. See <a href=\"https://staticdelivery.nexusmods.com/mods/3474/images/16874/16874-1753211904-1876178788.png\">images</a> for what they do.</p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Staff_of_the_Moonmaiden\">Staff of the Moonmaiden</a> (will only be uncommon and changed in a new playthrough - alternatively spawn it in with SE or some other method)</li>\n<li><a href=\"https://bg3.wiki/wiki/Reinforced_Greatsword\">Reinforced Greatsword</a></li>\n<li><a href=\"https://bg3.wiki/wiki/Reinforced_Helmet\">Reinforced Helmet</a></li>\n<li><a href=\"https://bg3.wiki/wiki/Faded_Drow_Leather_Armour\">Faded Drow Leather Armour</a></li>\n</ul>\n<p><br><br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\">Other Changes</span></span></strong></p>\n<ul>\n<li>Wrath gets converted to Wrath (Wildshape) when casting Wild Shape, increasing unarmed damage instead of weapon damage</li>\n</ul>\n<p><br><br><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\"><strong>Bugfixes</strong></span></span></p>\n<ul>\n<li>Many items received bugfixes, most of these can also be found in <a href=\"https://mod.io/g/baldursgate3/m/item-and-spell-bug-fixes#description\">Item and Spell Bugfixes</a> by Rydiak (+BG3 mod community)</li>\n<li>Most notable <a href=\"https://bg3.wiki/wiki/Markoheshkir\">Markoheshkir</a> will not lose its elemental buff (<a href=\"https://bg3.wiki/wiki/Kereska%27s_Favour\">Kereska's Favor</a>) if you use the \"Blink\" spell or Wild Shape</li>\n<li>The mod should be compatible with the aforementioned bugfix mod, but should be loaded after it, so that items still get changed and not inadvertently reverted to vanilla</li>\n<li>Some bugfixes done by my mod are more comprehensive or robust than Rydiak's, mainly in favor of Druids/Wildshaping, because I am very biased</li>\n</ul>\n<p><br><br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\">Special Mentions</span></span></strong></p>\n<ul>\n<li><strong><a href=\"https://bg3.wiki/wiki/Staff_of_Arcane_Blessing\">Staff Of Arcane Blessing</a></strong> - This is the item that got me into BG3 modding</li>\n<li>All the people on the Larian discord helping with modding</li>\n</ul>\n<p><br>This is actually my first ever mod that I made for BG3. It evolved over the last 1.5 years and I never released it. Yes I made this even before Druid QoL. Recently the toolkit came out, I decided to convert the mod over and change dozens of more items.</p>",
+    "description": "<p><strong><span style=\"font-size:large;\"><span style=\"color:#f6b26b;\">Overview</span></span></strong><br>A large amount of the weapons, armor and accessories you find in BG3 are of little use. Either they are too weak, too situational or just acquired too late for their intended purpose. This mod overhauls a large amount of items to be more generally useful and appealing - without changing their identity too much. This mod also does not add any new items to the game. Gaps in gear progression will be filled with a seperate mod.<br><br>The mod focuses heavily on <strong>Act 1</strong> items, since they need the most work, but also because they lay the groundwork for builds and combos later in the game. Plus, these items will actually be acquired by most players, as only 52% of players make it to Act 2 and only 40% make it to Act 3.</p>\n<p> </p>\n<p><strong><span style=\"font-size:large;\"><span style=\"color:#f6b26b;\">Existing Saves </span></span></strong><br>The mod is save to install in existing saves. <br><br>However, some local template items might not get changed. You can fix these items by recruiting a hireling, equipping them on them, dismissing them and then talking to the dismissed hireling (they stand with Withers) and tell them they are no longer needed. This will remove the hireling from the game, along with those items. If you the re-recruit that hireling from Withers, the items are updated to their root template states. This also works with a lot of vanilla items.<br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:large;\"><br><br>List of changes</span></span></strong><br><br><strong>Over-arcing changes<br></strong></p>\n<ul>\n<li>Some items rarity was changed to better fit their power level</li>\n<li>This can be a reduction or increase in rarity</li>\n<li>Their buy/sell price is affected by this</li>\n<li>All \"of the Absolute\" items no longer require the brand to function, the brand is now purely for dialog/story purposes</li>\n<li>Every new or changed passive has a note whether it works in Wild Shape or not - you must hover over the passive effect to see this note</li>\n</ul>\n<p><br>Example image from my mod <a href=\"https://www.nexusmods.com/baldursgate3/mods/4535\">Druid Wildshape Items</a>:</p>\n<p><br><img src=\"https://i.imgur.com/r8cebVk.png\" alt=\"r8cebVk.png\"><br><br><br><strong>Important acquisition changes:</strong><br><br></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Broodmother%27s_Revenge\">Broodmother's Revenge</a> - After redeeming Khaga from the Shadow Druids and resolving the Grove conflict (killed the goblin leaders or defended the grove on the attack) speaking to Khaga will cause her to hand you the necklace. No more Khaga murder required. She will still drop it however.</li>\n<li><a href=\"https://bg3.wiki/wiki/Hat_of_Fire_Acuity\">Hat of Fire Acuity</a> - Now rewarded alongside the <a href=\"https://bg3.wiki/wiki/Shapeshifter%27s_Boon_Ring\">Shapeshifter's Boon Ring</a> when helping the <a href=\"https://bg3.wiki/wiki/Strange_Ox\">Strange Ox</a> enter the Lower City, no more Phasm murder required.</li>\n<li>The two items <a href=\"https://bg3.wiki/wiki/Gemless_Ring\">Gemless Ring</a> and <a href=\"https://bg3.wiki/wiki/Ringless_Gem\">Ringless Gem</a> had their root templates fixed and now combine into the <a href=\"https://staticdelivery.nexusmods.com/mods/3474/images/16874/16874-1748445739-2113274494.png\">Restored Ring of Luck</a> - the original result had an invalid root template too, meaning you never got the actual \"Magical Ring\", but even if you did it had no effects</li>\n<li><a href=\"https://bg3.wiki/wiki/Cloth_Armour\">Cloth Armour</a> was renamed to <a href=\"https://staticdelivery.nexusmods.com/mods/3474/images/16874/16874-1753099588-155586526.png\">Armour of Patience</a> with new effects and is now available in the gnoll-sieged cave in Act 1 with <a href=\"https://bg3.wiki/wiki/Reason%27s_Grasp\">Reason's Grasp</a></li>\n</ul>\n<p><br><br><br><img src=\"https://i.imgur.com/sZE5mXm.png\" alt=\"sZE5mXm.png\"> <img src=\"https://i.imgur.com/55VPx5j.png\" alt=\"55VPx5j.png\"> <img src=\"https://i.imgur.com/DYlR0p1.png\" alt=\"DYlR0p1.png\"> <img src=\"https://i.imgur.com/T68Ow0B.png\" alt=\"T68Ow0B.png\"><img src=\"https://i.imgur.com/QY3OexB.png\" alt=\"QY3OexB.png\"> <img src=\"https://i.imgur.com/Hfhd4HO.png\" alt=\"Hfhd4HO.png\"> <img src=\"https://i.imgur.com/i0xEZPb.png\" alt=\"i0xEZPb.png\"> <img src=\"https://i.imgur.com/OD5zWHm.png\" alt=\"OD5zWHm.png\"> <img src=\"https://i.imgur.com/9Eig3lL.png\" alt=\"9Eig3lL.png\"> <img src=\"https://i.imgur.com/108ZxBL.png\" alt=\"108ZxBL.png\"><img src=\"https://i.imgur.com/6znJv0L.png\" alt=\"6znJv0L.png\"> <img src=\"https://i.imgur.com/y1RFBuA.png\" alt=\"y1RFBuA.png\"> <img src=\"https://i.imgur.com/BcC6PYI.png\" alt=\"BcC6PYI.png\">  <img src=\"https://i.imgur.com/nrcnHmr.png\" alt=\"nrcnHmr.png\"> <img src=\"https://i.imgur.com/OooTGKz.png\" alt=\"OooTGKz.png\"> <img src=\"https://i.imgur.com/U2xkpPN.png\" alt=\"U2xkpPN.png\"> <img src=\"https://i.imgur.com/xT6IvJ4.png\" alt=\"xT6IvJ4.png\"> <img src=\"https://i.imgur.com/USN2DGZ.png\" alt=\"USN2DGZ.png\"> <img src=\"https://i.imgur.com/QmiHX4H.png\" alt=\"QmiHX4H.png\"><img src=\"https://i.imgur.com/pMAxSO6.png\" alt=\"pMAxSO6.png\"><img src=\"https://i.imgur.com/fZiAMTt.png\" alt=\"fZiAMTt.png\"><br><strong><span style=\"font-size:medium;\"><span style=\"color:#f6b26b;\">Weapons</span><br></span></strong><br><strong>General changes<br><br></strong></p>\n<ul>\n<li>All simple weapons had their dice increased to 1d6</li>\n<li>Daggers remain 1d4 but now grant 1.5m movement and 3m jump distance (stacking)</li>\n<li>Maces gained the Tenacity passive (since they were already 1d6)</li>\n<li>Tridents and Spears now have the reach attribute and range</li>\n<li>Many weapons have had their icons reworked, to more easily distinguish them from generic +1 weapons or other weapons (there is <strong><em>eight </em></strong><a href=\"https://bg3.wiki/wiki/Shortswords#List_of_shortswords\">shortswords</a> in the base game sharing the same icon, for example)</li>\n<li>Many weapons that did not feature any basic enchantment now feature +1 Weapon Enchantment</li>\n<li>Many of the aforementioned shortswords now function for all attacks, not just attacks made with these weapons - their tooltip was not clear about it, this way you can take advantage of many great effects without needing dual wielder</li>\n<li>Returning Pike and Dwarven Thrower don't equip themselves any longer when returning, they return to the inventory instead</li>\n</ul>\n<p><br><strong>Specific changes<br><br></strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Staff_of_Arcane_Blessing\">Staff of Arcane Blessing</a> - Description clarified, works with every type of bless now and mirrors its duration, does no longer grant the Bless spell, instead automatically grants the user Bless for 3 turns on their turn, or the nearest ally within 6m if they already have Bless</li>\n<li><a href=\"https://bg3.wiki/wiki/Spellthief\">Spellthief</a> - Now rare, restores level 1 spell slot on an attack with advantage (using the bow) - in wild shape any attack with advantage will restore a spell slot; the effect does not go on cooldown if you are not missing a level 1 spell slot (vanilla bugfix)</li>\n<li><a href=\"https://bg3.wiki/wiki/Svartlebee%27s_Woundseeker\">Svartlebee's Woundseeker</a> - +1d4 to attacks against targets that are not full HP works on all attacks now, rarity increased, acquisition unchanged</li>\n<li><a href=\"https://bg3.wiki/wiki/Sharran_Crossbow\">Sharran Crossbow</a> - Now deals 1d4 Necrotic damage to obscured enemies or if you are obscured</li>\n<li><a href=\"https://bg3.wiki/wiki/Shattered_Flail\">Shattered Flail</a> - madness debuff is only 3 turns (from 6) but refreshes every attack rather than only when it drops off, also is removed after combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Jorgoral%27s_Greatsword\">Jorgoral's Greatsword</a> - gives +1 attack on kill, once, until combat end</li>\n<li><a href=\"https://bg3.wiki/wiki/Phalar_Aluve\">Phalar Aluve</a> - bonus action, but shriek doesnt give -1d4 to attacks/death saving throws any more</li>\n<li><a href=\"https://bg3.wiki/wiki/Mourning_Frost\">Mourning Frost</a> - chilled DC scales and applies frostbitten, no more cold damage bonus, now gives +1 spell attack and dc</li>\n<li><a href=\"https://bg3.wiki/wiki/Creation%27s_Echo\">Creation's Echo</a> - No longer overwrites elixirs and grants +1 to spell attacks and save dc</li>\n<li><a href=\"https://bg3.wiki/wiki/Light_of_Creation\">Light of Creation</a> - No longer stuns the wielder on a failed save, but instead \"jolts\" them - jolted is a combination of \"shocked\" and \"electrocuted\" (1d4 lightning damage + cant take reactions) - jolted is a vanilla condition that you can apply to enemies with <a href=\"https://bg3.wiki/wiki/The_Real_Sparky_Sparkswall\">The Real Sparky Sparkswall</a>, rare now and new icon</li>\n<li><a href=\"https://bg3.wiki/wiki/Firestoker\">Firestoker</a> - +1 Enchantment</li>\n<li><a href=\"https://bg3.wiki/wiki/Knife_of_the_Undermountain_King\">Knife of the Undermountain King</a> - Organ Rearranger Passive reroll works for any unarmed or weapon attack now and tooltips reflects that</li>\n<li><a href=\"https://bg3.wiki/wiki/Justiciar%27s_Scimitar\">Justiciar's Scimitar</a> - It's hidden Shadowblade Passive is no longer hidden. Shadowblade Passive (in general) now doesn't falsely states that it only works when attacking with that weapon but all weapon and unarmed attack rolls. Shadow-Blinding doesn't stop working in Honour Mode anymore and also works with any attack made with advantage now</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Blood_of_Lathander\">Blood of Lathander</a> - Deals 1d4 Radiant damage on attack</li>\n<li><a href=\"https://bg3.wiki/wiki/Thorn_Blade\">Thorn Blade</a> - Now always deals 1d4 Poison damage. When concentrating, deals an additional 1d4+ProficiencyBonus poison damage, this effect works in Wild Shape</li>\n<li><a href=\"https://bg3.wiki/wiki/Cruel_Sting\">Cruel Sting</a> - Can no longer be affected by Spindleweb Fanaticism, now always deals 1d4 Psychic damage (1d6 if wielded by a Drow); 1d4 poison damage against ensnared targets now works for any race, but is increased to 1d6 for drows as well</li>\n<li><a href=\"https://bg3.wiki/wiki/Hellfire_Hand_Crossbow\">Hellfire Hand Crossbow</a> - Has Firestoker's passive in addition</li>\n<li><a href=\"https://bg3.wiki/wiki/Hellrider_Longbow\">Hellrider Longbow</a> - Applies Faerie Fire for 2 turns, initiative and perception advantage work in wild shape (this is also true for Sentinel Shield, as its the same passive)</li>\n<li><a href=\"https://bg3.wiki/wiki/Kurwin%27s_Cauteriser\">Kurwin's Cauteriser</a> - Now deals 2d4 Fire damage and is rare; burning uses your hybrid DC instead of a flat value</li>\n<li><a href=\"https://bg3.wiki/wiki/Melf%27s_First_Staff\">Melf's First Staff</a> - Once per combat cooldown for Melf's Acid Arrow</li>\n<li><a href=\"https://bg3.wiki/wiki/Creation%27s_Echo\">Creation's Echo</a> - No longer overwrites elixirs, gained Arcane Enchantment passive, its effect now also grants +2 damage with spells of that type</li>\n<li><a href=\"https://bg3.wiki/wiki/Crossbow_of_Arcane_Force\">Crossbow of Arcane Force</a> - Inherently has 1d4 Force damage now, arcane ammunition now lasts 3 turns and turns your ranged attacks into melee attacks (no penalty for being in melee or threatened) and they push enemies back 3m now</li>\n</ul>\n<p><br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\">Armor</span></span></strong><br><strong>General Changes</strong><br><br></p>\n<ul>\n<li>Some armors recieved the benefits of their non-magical counterpart (the generic +1/+2 armors)</li>\n<li>Many armors had their AC increased to be competitive with +1/+2 generic armors (often you would prefer 2-3 AC over whatever magical effect armors had, so now their AC is either the same or just slightly lower</li>\n<li>Some rings had their icon changed - this was done to rings that shared icons in the same rarity tier to better distinguish them</li>\n<li>Many of these items (e.g. Spellthief, all the \"on dash\" boots, etc. work in Wild Shape)!</li>\n<li>Common Leather Gloves now grant +1 to Acrobatics, Metal Gloves +1 to Athletics (Logic: Shoving is done with hands as well as legs/feet)</li>\n<li>Common Leather Boots now grant +1 to Dex Saves, Metal Boots grant +1 Str Saves (Logic: Dodging or resisting a restrain etc. is usually more done with legs/feet)</li>\n<li>This can apply to magic items as well, but might not to all, depending if they inherit the change or not</li>\n</ul>\n<p><br><strong>Specific Changes</strong><br><br><strong>Head</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Shadow_of_Menzoberranzan\">Shadow of Menzoberranzan</a> - Grants +1d4 damage when attacking from hiding or invisibility, invisibility from spell lasts 10 turns instead of 2</li>\n<li><a href=\"https://bg3.wiki/wiki/Key_of_the_Ancients\">Key of the Ancients</a> - Now also grants +2 to Concentration Saving Throws</li>\n<li><a href=\"https://bg3.wiki/wiki/Circlet_of_Blasting\">Circlet of Blasting</a> - Short rest CD, now also grants +3 Fire damage when dealing Fire damage (+1 for aoe/multihit)</li>\n<li>Lifebringer - scales like Boots of Aid and Comfort and grants immunity to electrocution</li>\n<li><a href=\"https://bg3.wiki/wiki/Cap_of_Curing\">Cap of Curing</a> - Now works with Mantle of Inspiration and triggers \"on heal\" effects (try it with Glamour Bard, prob really strong)</li>\n<li><a href=\"https://bg3.wiki/wiki/Helmet_of_Smiting\">Helmet of Smiting</a> - Now works with any smite spell, applies holy fire (CON save, guaranteed against fiends/undead) and the temp hitpoints last until long rest instead of 2 turns</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Shadespell_Circlet\">Shadespell Circlet</a> - Now gives +1 save spell DC at all times and increases to +2 when obscured</li>\n<li><a href=\"https://bg3.wiki/wiki/Circlet_of_Hunting\">Circlet of Hunting</a> - Now also grants 1d4 to damage against marked targets - further, you do not have to be the cause for the condition any longer, hex is now mentioned (always worked with it) and it works with restraining conditions as well, downgraded to rare</li>\n<li><a href=\"https://bg3.wiki/wiki/Marksmanship_Hat\">Marksmanship Hat</a> - +2, now works for offhand</li>\n<li><a href=\"https://bg3.wiki/wiki/Circlet_of_Mental_Anguish\">Circlet of Mental Anguish</a> - Any spell saving throw triggers it</li>\n<li><a href=\"https://bg3.wiki/wiki/Browbeaten_Circlet\">Browbeaten Circlet</a> - Now also grants +1 to spell attackrolls when threatened, now rare</li>\n<li><a href=\"https://bg3.wiki/wiki/Circlet_of_Psionic_Revenge\">Circlet of Psionic Revenge</a> - Damage scales, everyone gets +1 to mental saving throws, githyanki get an extra +1 to INT saves (against mind flayers)</li>\n<li><a href=\"https://bg3.wiki/wiki/Hat_of_Uninhibited_Kushigo\">Hat of Uninhibited Kushigo</a> - Gives arcane charge in addition</li>\n<li><a href=\"https://bg3.wiki/wiki/Scabby_Pugilist_Circlet\">Scabby Pugilist Circlet</a> - Gives 1d6 damage against threatened enemies for melee weapon and unarmed attacks</li>\n<li><a href=\"https://bg3.wiki/wiki/Hat_of_the_Sharp_Caster\">Hat of the Sharp Caster</a> - Prevents you from rolling a 1 or 2 with spells on damage, if your WIS or CHA is 20 or higher, INT is set to 18</li>\n<li><a href=\"https://bg3.wiki/wiki/Mask_of_Soul_Perception\">Mask of Soul Perception</a> - Now also grants +2 to Wisdom to a maximum of 20 (this is <strong>not </strong>meant for Clerics/Druids, but to bolster Ranger/Monk WIS)</li>\n<li><a href=\"https://bg3.wiki/wiki/Helm_of_Balduran\">Helm of Balduran</a> - Stun immunity works against stunning gaze and any other stun now</li>\n</ul>\n<p><br><br><strong>Chest</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Poisoner%27s_Robe\">Poisoner's Robe</a> - 1d4 to 1d8 poison damage added to cantrip/spell damage, less to aoe/multihit spells, poisons melee attackers on hit</li>\n<li><a href=\"https://bg3.wiki/wiki/Robe_of_Summer\">Robe of Summer</a> - Cant roll a 1 or 2 for spell damage, +2 to fire damage (+1 for aoe/multihit)</li>\n<li><a href=\"https://bg3.wiki/wiki/Infernal_Robe\">Infernal Robe</a> - Deals a fire blast on first damaging spell/cantrip per combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Blazer_of_Benevolence\">Blazer of Benevolence</a> - Rare and now grants the effect of Bardic Inspiration (and similar abilities) to the user when they cast these spells on others, AC is now 12</li>\n<li><a href=\"https://bg3.wiki/wiki/Drow_Studded_Leather_Armour\">Drow Studded Leather Armor</a> - gives +2 to stealth dex saves and dex checks</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Jolty_Vest\">The Jolty Vest</a> - now also deals 1d4-1d8 damage and jolts for 2 turns, still dex save, still works against all damage events</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Protecty_Sparkswall\">The Protecty Sparkswall</a> - Now also increases all damage by 1 lightning damage when you have charges</li>\n<li><a href=\"https://bg3.wiki/wiki/Dark_Justiciar_Mail\">Dark Justiciar Mail</a> - +2 to CON saves, damage scales, +1 spell save DC if Shar is your god (this is usually reserved for Shadowheart but possible with mods)</li>\n<li><a href=\"https://bg3.wiki/wiki/Armour_of_Devotion\">Armour of Devotion</a> - In addition to the Eternal Devotion spell also restores spell slots on short rest; restored spell slots depend on how many smite spells you casted while wearing the armor - 2 smites restore a lvl 1 slot, 4 smites a lvl 2 slot, 6 smites a lvl 3 slot, these are cumulative (e.g. 6 smites would give you 3x lvl 1, 1x lvl 2 and 1x lvl 3 slots)</li>\n<li><a href=\"https://bg3.wiki/wiki/Icebite_Robe\">Icebite Robe</a> - Gives fire resistance if you have armor of agathys, chance to freeze instantly on applying encrusted with frost</li>\n<li><a href=\"https://bg3.wiki/wiki/Obsidian_Laced_Robe\">Obisidian Laced Robe</a> - Afflicts targets with burning when fire damage is dealt</li>\n<li><a href=\"https://bg3.wiki/wiki/Slippery_Chain_Shirt\">Slippery Chain Shirt</a> - <span style=\"color:#e06666;\">No longer obtainable</span>, replaced with a cloak with a similar effect</li>\n</ul>\n<p><br><br><strong>Gloves</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Reason%27s_Grasp\">Reason's Grasp</a> - gives temp HP when rage ends naturally (or you end it manually), now also gives 2 turns of wrath when you attack an enemy and both of you are not at full health</li>\n<li><a href=\"https://bg3.wiki/wiki/Hellrider%27s_Pride\">Hellrider's Pride</a> - Adjusted description to indicate it grants Blade Ward and that it does not apply to the wearer, functionality unchanged</li>\n<li><a href=\"https://bg3.wiki/wiki/Gloves_of_Hail_of_Thorns\">Gloves of Hail of Thorns</a> - Once per combat cooldown</li>\n<li><a href=\"https://bg3.wiki/wiki/Herbalist%27s_Gloves\">Herbalists Gloves</a> - Instead of just curing poison it applies the entire effect of Lesser Restoration on heal</li>\n<li><a href=\"https://bg3.wiki/wiki/Gloves_of_Baneful_Striking\">Gloves of Baneful Striking</a> - Fixed description, now rare</li>\n<li><a href=\"https://bg3.wiki/wiki/Spellseeking_Gloves\">Spellseeking Gloves</a> - Now very rare, increase spell critical by 1; old/vanilla effect can be toggled once per combat, also gives a reaction that works like Reckless Attack (without enemies getting advantage against you and shared cooldown with the toggle)</li>\n<li><a href=\"https://bg3.wiki/wiki/Gemini_Gloves\">Gemini Gloves</a> - Increase spell attack by 1, now per combat cooldown, no longer allows targeting the same target, works with acid splash (but not poison spray, if you use my rebalance)</li>\n<li><a href=\"https://bg3.wiki/wiki/Quickspell_Gloves\">Quickspell Gloves</a> - Increase Spell Save DC by 1, now per combat cooldown</li>\n<li><a href=\"https://bg3.wiki/wiki/Craterflesh_Gloves\">Craterflesh Gloves</a> - No longer a damage rider source</li>\n<li><a href=\"https://bg3.wiki/wiki/Gloves_of_Soul_Catching\">Soul Catching Gloves</a> - Tooltip fixed, effect no longer vanishes on taking damage while not having temp HP, new icons for interrupts, effect lasts until the end of your next turn as advertised, condition has the soul catching icon now instead of temp HP icon</li>\n<li><a href=\"https://bg3.wiki/wiki/Nimblefinger_Gloves\">Nimblefinger Gloves</a> - works for all races, gnomes get SoH expertise</li>\n</ul>\n<p><br><br><strong>Boots</strong></p>\n<ul>\n<li>\"On Dash\" boots (<a href=\"https://bg3.wiki/wiki/Boots_of_Arcane_Bolstering\">Boots of Arcane Bolstering</a>, <a href=\"https://bg3.wiki/wiki/Linebreaker_Boots\">Linebreaker Boots</a>, <a href=\"https://bg3.wiki/wiki/Springstep_Boots\">Springstep Boots</a> and <a href=\"https://bg3.wiki/wiki/The_Speedy_Lightfeet\">The Speedy Lightfeed</a>) now grant 2 turns of their status on the start of combat and another 2 turns when you dash, disengage, hide or jump - can only activate once per turn; note that \"fly\" counts as jump spell; all of these work in wild shape</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort\">Boots of Aid and Comfort</a> - scales now</li>\n<li><a href=\"https://bg3.wiki/wiki/Swiresy_Shoes\">Swiresy Shoes</a> - 3m jump distance</li>\n<li><a href=\"https://bg3.wiki/wiki/Cinder_Shoes\">Cinder Shoes</a> - Not limited to 1x per attack</li>\n<li><a href=\"https://bg3.wiki/wiki/Hoarfrost_Boots\">Hoarfrost Boots</a> - Cold damage applies Frostbite</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Elemental_Momentum\">Boots of Elemental Momentum</a> - No longer medium armor</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Brilliance\">Boots of Brilliance</a> - 1x bonus action vicious mockery per combat</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Watersparkers\">Watersparkers</a> - Now also give 3 lightning charges when you apply one of many lightning conditions to enemies, tooltips clarified</li>\n<li><a href=\"https://bg3.wiki/wiki/Spiderstep_Boots\">Spiderstep Boots</a> - Now grants allies within 18m immunity to being enwebbed (web still counts as difficult terrain for allies, not the wearer though)</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Striding\">Boots of Striding</a> - Now grant 3x your spellcasting modifier as temp HP</li>\n<li><a href=\"https://bg3.wiki/wiki/Blackguard%27s_Greaves\">Blackguard's Greaves</a> - Instead of granting Longstrider, now grant 3m of movement</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Persistence\">Boots of Persistence</a> - Instead of granting Longstrider, now grant 3m of movement</li>\n<li><a href=\"https://bg3.wiki/wiki/Unwanted_Masterwork_Greaves\">Unwanted Masterwork Greaves</a> - Grant +2 to STR saves, 4.5m of movement and a flat -1 damage reduction</li>\n<li><a href=\"https://bg3.wiki/wiki/Spaceshunt_Boots\">Spaceshunt Boots</a> - Grants +2 to DEX saves and can be used once per combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Boots_of_Psionic_Movement\">Boots of Psionic Movement</a> - Now grant 1d4 Psychic damage to any race on using a fly or jump action of any kind, increased to 1d6 for Githyanki, ability can be used once per combat</li>\n</ul>\n<p><br><br><strong>Cloaks</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Vivacious_Cloak\">Vivacious Cloak</a> - Gives 2 turns of Force Conduit now, doesn't rely on \"Threatened\" anymore</li>\n<li><a href=\"https://bg3.wiki/wiki/Thunderskin_Cloak\">Thunderskin Cloak</a> - Now also deals 1d4 Thunder damage</li>\n<li><a href=\"https://bg3.wiki/wiki/Cloak_of_Cunning_Brume\">Cloak of Cunning Brume</a> - Gives +1 to stealth and sleight of hand</li>\n<li><a href=\"https://bg3.wiki/wiki/Fleshmelter_Cloak\">Fleshmelter Cloak</a> - Acid damage ignores resistance</li>\n<li><a href=\"https://bg3.wiki/wiki/Wavemother%27s_Cloak\">Wavemother's Cloak</a> - Fixed Water Layer Protection Tooltip (its actually really strong, just used wrong tooltip) - also grants immunity to Azer's \"Fiercely </li>\n<li>Burning\"</li>\n</ul>\n<p><br><br><strong>Amulets</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Amulet_of_Silvanus\">Amulet of Silvanus</a> - Now automatically dispells effects that Lesser Restoration can cure on the user when they get affected, once per short rest, the spell itself can be used once per combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Sel%C3%BBne%27s_Dream\">Selûne's Dream</a> - Bonus Action, can target enemies, adds level to heal, half heal on enemies, 3m range</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Spectator_Eyes\">The Spectator Eyes</a> - Wounding Ray scaling and higher damage, Ray of Fear bonus action, both short rest</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Blast_Pendant\">The Blast Pendant</a> - now a reaction that deals Proficiency Bonus + 1d4 * Lightning Blast Charges bonus damage, you gain one charge every time you get lightning charges</li>\n<li><a href=\"https://bg3.wiki/wiki/Fireheart\">Fireheart</a> - Adds your spellcasting modifier to fire spells and cantrips and when you deal fire damage with spells or cantrips while having Heat Convergence active you have a 50% chance of applying heat metal to the target (if it can receive it)</li>\n<li><a href=\"https://bg3.wiki/wiki/Frost_Prince\">Frost Prince</a> - Adds your spellcasting modifier to cold spells and cantrips - allows you to cast twin ice knife for free at will - this necklace is available only in act 2, so this is probably not too strong</li>\n<li><a href=\"https://bg3.wiki/wiki/Necklace_of_Elemental_Augmentation\">Necklace of Elemental Augmentation</a> - works with poison damage and booming blade now</li>\n<li><a href=\"https://bg3.wiki/wiki/Amulet_of_Restoration\">Amulet of Restoration</a> - The single target healing word is short rest CD now</li>\n<li><a href=\"https://bg3.wiki/wiki/Beastmaster%27s_Chain\">Beastmaster's Chain</a> - Attacking beasts may get charmed (WIS save)</li>\n<li><a href=\"https://bg3.wiki/wiki/Hammergrim_Mist_Amulet\">Hammergrim Mist Amulet</a> - Now a reaction to ranged attacks rather than giving fog cloud as spell</li>\n<li><a href=\"https://bg3.wiki/wiki/Shar%27s_Temptation\">Shar's Temptation</a> - Instead of giving Charm Person, now gives the ability to bypass the line-of-sight block of darkness and allows casting darkness once per long rest (does NOT make you immune to blinded or grant darkvision), new icon</li>\n</ul>\n<p><br><br><strong>Rings</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Colour_Spray\">Ring of Colour Spray</a> - Now a reaction</li>\n<li><a href=\"https://bg3.wiki/wiki/Crusher%27s_Ring\">Crusher's Ring</a> - Rare</li>\n<li><a href=\"https://bg3.wiki/wiki/Smuggler%27s_Ring\">Smuggler's Ring</a> - Rare, no longer lowers CHA and now allows rerolling a critical failure on sleight of hand once (if you crit fail with the ring, it means you rolled a 1 twice in a row)</li>\n<li><a href=\"https://bg3.wiki/wiki/Spurred_Band\">Spurred Band</a> - 75%-25% gives 1-3 stacks of momentum, works in Wildshape</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Mind-Shielding\">Ring of Mind-Shielding</a> - Int Saving Throw Adv</li>\n<li><a href=\"https://bg3.wiki/wiki/Bracing_Band\">Bracing Band</a> - 1d4 to 1d8 force damage on Shove, works with any knockback, works in Wild Shape, now rare, changed icon</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Sparkswall\">The Sparkswall</a> - Grants immunity to all lightning debuffs</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Absolute_Force\">Ring of Absolute Force</a> - always +1 Thunder dmg, +1d4 to thunder spells/attacks</li>\n<li><a href=\"https://bge.wiki/wiki/fetish_of_callarduran_smoothhands\">****** of Callarduran Smoothhands</a> - Grants 1 turn of invisiblity at the start of combat</li>\n<li><a href=\"https://bg3.wiki/wiki/Explorer%27s_Ring\">Explorer's Ring</a> - Increases STR/DEX by 1, only the highest of the two</li>\n<li><a href=\"https://bg3.wiki/wiki/Mage%27s_Friend\">Mage's Friend</a> - Increases INT/WIS/CHA by 1, only the highest of the three</li>\n<li><a href=\"https://bg3.wiki/wiki/Sunwalker%27s_Gift\">Sunwalker's Gift</a> - Gives charm/frighten advantage in illuminated areas, now grants superior darkvision if you already have darkvision</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Elemental_Infusion\">Ring of Elemental Infusion</a> - Works for Poison now, with custom status icon</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Jumping\">Ring of Jumping</a> - no longer grants Jump spell, now gives all allies double jump distance for 2 turns at the start of combat (note: thats weaker than \"Enhanced Leap\", which grants triple jump distance, as such this buff is overwritten by enhanced leap)</li>\n<li><a href=\"https://bg3.wiki/wiki/Family_Ring\">Family Ring</a> - Now also gives you a free revive on any party member once per long rest</li>\n<li><a href=\"https://bg3.wiki/wiki/Snowburst_Ring\">Snowburst Ring</a> - Now also grants allies within 18m advantage against slipping</li>\n<li><a href=\"https://bg3.wiki/wiki/Eversight_Ring\">Eversight Ring</a> - Tooltip changed to reflect what it does (functionality the same as vanilla)</li>\n<li><a href=\"https://bg3.wiki/wiki/Ring_of_Twilight\">Ring of Twilight</a> - Reduces damage taken by 1, works in Wildshape</li>\n<li><a href=\"https://bg3.wiki/wiki/Killer%27s_Sweetheart\">Killer's Sweetheart</a> - Short Rest CD, clarified description, +1 crit at all times - works in Wildshape</li>\n</ul>\n<p><br><strong>Shields</strong></p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Wood_Woad_Shield\">Wood Woad Shield</a> - per combat cd, Rare</li>\n<li><a href=\"https://bg3.wiki/wiki/The_Real_Sparky_Sparkswall\">The Real Sparky Sparkswall</a> - bonus action, short rest, jolt deals 1d4 on application</li>\n<li><a href=\"https://bg3.wiki/wiki/Gloomstrand_Shield\">Gloomstrand Shield</a> - Rare and now grants advantage on all saving throws when hiding/invisible and for 2 turns after</li>\n</ul>\n<p><br><br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\">Common Items</span></span></strong><br>These items were unique common items and are now magical. See <a href=\"https://staticdelivery.nexusmods.com/mods/3474/images/16874/16874-1753211904-1876178788.png\">images</a> for what they do.</p>\n<ul>\n<li><a href=\"https://bg3.wiki/wiki/Staff_of_the_Moonmaiden\">Staff of the Moonmaiden</a> (will only be uncommon and changed in a new playthrough - alternatively spawn it in with SE or some other method)</li>\n<li><a href=\"https://bg3.wiki/wiki/Reinforced_Greatsword\">Reinforced Greatsword</a></li>\n<li><a href=\"https://bg3.wiki/wiki/Reinforced_Helmet\">Reinforced Helmet</a></li>\n<li><a href=\"https://bg3.wiki/wiki/Faded_Drow_Leather_Armour\">Faded Drow Leather Armour</a></li>\n<li><a href=\"https://bg3.wiki/wiki/Drow_Leather_Gloves\">Drow Leather Gloves</a></li>\n<li><a href=\"https://bg3.wiki/wiki/Frayed_Drow_Hood\">Frayed Drow Hood</a></li>\n<li><a href=\"https://bg3.wiki/wiki/Sel%C3%BBnite_Amulet\">Selunite Amulet</a></li>\n</ul>\n<p><br><br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\">Other Changes</span></span></strong></p>\n<ul>\n<li>Wrath gets converted to Wrath (Wildshape) when casting Wild Shape, increasing unarmed damage instead of weapon damage</li>\n</ul>\n<p><br><br><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\"><strong>Bugfixes</strong></span></span></p>\n<ul>\n<li>Many items received bugfixes, most of these can also be found in <a href=\"https://mod.io/g/baldursgate3/m/item-and-spell-bug-fixes#description\">Item and Spell Bugfixes</a> by Rydiak (+BG3 mod community)</li>\n<li>Most notable <a href=\"https://bg3.wiki/wiki/Markoheshkir\">Markoheshkir</a> will not lose its elemental buff (<a href=\"https://bg3.wiki/wiki/Kereska%27s_Favour\">Kereska's Favor</a>) if you use the \"Blink\" spell or Wild Shape</li>\n<li>The mod should be compatible with the aforementioned bugfix mod, but should be loaded after it, so that items still get changed and not inadvertently reverted to vanilla</li>\n<li>Some bugfixes done by my mod are more comprehensive or robust than Rydiak's, mainly in favor of Druids/Wildshaping, because I am very biased</li>\n</ul>\n<p><br><br><strong><span style=\"color:#f6b26b;\"><span style=\"font-size:medium;\">Special Mentions</span></span></strong></p>\n<ul>\n<li><strong><a href=\"https://bg3.wiki/wiki/Staff_of_Arcane_Blessing\">Staff Of Arcane Blessing</a></strong> - This is the item that got me into BG3 modding</li>\n<li>All the people on the Larian discord helping with modding</li>\n</ul>\n<p><br>This is actually my first ever mod that I made for BG3. It evolved over the last 1.5 years and I never released it. Yes I made this even before Druid QoL. Recently the toolkit came out, I decided to convert the mod over and change dozens of more items.</p>",
     "date_added": 1748442802,
     "date_updated": 1793654857,
     "date_live": 1791400663,
@@ -144192,6 +144584,109 @@
     ]
   },
   {
+    "id": 5245718,
+    "game_id": 6715,
+    "name": "Soul Reaper",
+    "name_id": "soul-reaper1",
+    "summary": "Add a Warlock subclass. Your patron is Death itself, the eternal force of endings. You wield shadow and soul, guiding the balance between life and the afterlife. Will not work with other Warlock mods.",
+    "description": "<p>Add a Warlock subclass.</p>\n<p> </p>\n<p>Your patron is Death itself, the eternal force of endings. You wield shadow and soul, guiding the balance between life and the afterlife. Will not work with other Warlock mods.</p>\n<p> </p>\n<p>New cantrip for Warlocks since Level 1: Soul Siphon</p>\n<p>New Pact: Pact of Death</p>\n<p>Mofied Eldritch Incantation: Agonizing Blast to also affect Soul Siphon</p>\n<p>New Eldritch Incantation since Level 5: Slowing Blast</p>\n<p> </p>\n<p>Progression:</p>\n<p> </p>\n<p>Level 1:</p>\n<ul>\n<li>Resource: Death Essence</li>\n<li>Cantrip: Death Rite: Swap</li>\n<li>Cantrip: Death Rite: Push</li>\n<li>Passive: Death Defense</li>\n</ul>\n<p>Level 6:</p>\n<ul>\n<li>Passive: Death Gift</li>\n<li>Cantrip: Death Rite: Bless</li>\n<li>Cantrip: Death Rite: Relieve</li>\n</ul>\n<p>Level 10:</p>\n<ul>\n<li>Cantrip: Death's Soul Siphon (AoE version of Souls Siphon)</li>\n</ul>\n<p> </p>\n<p> </p>\n<p> </p>",
+    "date_added": 1758350674,
+    "date_updated": 1793716785,
+    "date_live": 1791038263,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/soul-reaper1",
+    "submitted_by": {
+      "id": 34680797,
+      "name_id": "ruboki",
+      "username": "Ruboki",
+      "profile_url": "https://mod.io/u/ruboki",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 8302419,
+      "mod_id": 5245718,
+      "version": "1.0.0.26",
+      "filename": "thenightlord_4ac1532d-62eb-d0d-2uge.zip",
+      "changelog": null,
+      "date_added": 1791554190,
+      "date_updated": 0,
+      "date_scanned": 1791554199,
+      "filesize": 1102396,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/00f4/5245718/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/00f4/5245718/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/00f4/5245718/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/00f4/5245718/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8302419
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8302419
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8302419
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8302419
+      }
+    ]
+  },
+  {
     "id": 5247134,
     "game_id": 6715,
     "name": "Gnome More Clipping",
@@ -146959,6 +147454,139 @@
       {
         "platform": "ps5",
         "modfile_live": 6869755
+      }
+    ]
+  },
+  {
+    "id": 5308107,
+    "game_id": 6715,
+    "name": "Fiend Hunter Class",
+    "name_id": "fiend-hunter-class",
+    "summary": "This mod is for a new class, the Fiend Hunter. With 3 subclasses and a slew of new attacks, abilities, armor, and weapons (which have their own crafting system), show the residents of Faerun how to properly slay demons!",
+    "description": "<p>This mod is for a new class, the Fiend Hunter. With 3 subclasses and a slew of new attacks, abilities, armor, and weapons (which have their own crafting system), show the residents of Faerun how to properly slay demons!</p>\n<p>Now with up to level 20 support!</p>\n<p><strong><span style=\"font-size:xx-large;\">Class Overview<br></span><span style=\"font-size:x-large;\"><br>Resources</span><br></strong><br>The Fiend Hunter introduces two new resources to Faerun, Hatred and Discipline.<br><br>Hatred is the primary resource. Hatred fuels your special attacks, known as Infernal Arts. You can generate Hatred by dealing significant damage with attacks other than Infernal Arts. You also generate Hatred when you receive significant damage. Significant damage is based on your level, split into three tiers. As you level up you will need to deal and receive more damage in order generate Hatred. You'll find that weapons with a higher damage die will more consistently generate Hatred, such as Longbows and Heavy Crossbows, whereas Hand Crossbows and Shortbows will have a tougher time doing so. You can of course augment your damage with equipment and other class perks which can mitigate this, however the classic feat Sharpshooter that many ranged users take has no affect on this mechanic. Your capacity for Hatred increases as you level up, granting an additional Hatred every odd level, up to 6 total at level 12.<br><br>Discipline is the secondary resource, used to fuel Tactics. Tactics are utility based actions that allow you to gain the upper hand in a fight, or as a survival tool should you need it. Tactics are restored on Short Rest. Your Discipline increases as you level up, granting an additional Discipline every even level, up to 6 total at level 12.<br><br><span style=\"font-size:x-large;\"><strong>Class Actions</strong></span><br><br>The Fiend Hunter has two main class specific actions, Infernal Arts and Tactics.<br><br><span style=\"font-size:large;\"><strong>Infernal Arts</strong></span><br>Infernal Arts range from situationally useful to devastating depending on the use case. Stronger Infernal Arts require more Hatred, and are only unlocked at higher levels. A good example of an Infernal Art is Bola Shot. Shoot a bola grenade that can attach to enemies, exploding at the end of the round dealing bonus Fire damage to the target and anyone around them. Just be careful the enemy doesn't run up to you when it's attached! Alternatively, you can shoot it at the ground as a timed bomb as a safer option, but the enemy can always move away from the explosion.<br>Another good example is Elemental Arrow. Shoot an arrow that can be infused with Fire, Cold, Thunder, or Lightning damage. Each elemental arrow has its own bespoke effect, such as Thunderclap Arrow, which applies the condition Thunderclapped. When Thunderclapped is applied it deals additional Thunder damage to the target when they move, similar to Booming Blade. Another Elemental Arrow, Immolation Arrow, can apply Immolation which removes Fire Resistance, as well as deals bonus Fire damage at the end of the round. If you can get enough Immolation stacks on an enemy, they will ignite causing a massive explosion! I'll leave the rest of the Infernal Arts for you to discover and find your favorite. You can choose a new Infernal Art every other level. <br><br><strong><span style=\"font-size:large;\">Tactics</span></strong><br>Tactics are actions used to enhance your lethality and survivability. One of the keystone Tactics for any Fiend Hunter is Vault. Vault is a great movement tool that allows you to reposition to a better vantage point, or get out of a dire situation as it allows you to avoid opportunity attacks. It also can be used offensively as when you Vault through an enemy they receive the vanilla condition Off Balance, which grants advantage for one hit. Great for when you really need to finish a target off, or as a good teamplay option to grant your allies advantage. Your Great Weapon Master martial friends will thank you. <br>I would be remiss if I didn't mention the Tactic Summon Companion. Summon Companion allows you to summon a faithful animal that can give you an edge in battle. Their effects range from granting buffs to your allies while near them to increasing your lethality by weakening your enemies. As you level up you unlock new companions to learn and master. You automatically learn Tactic as you level, learning more every level until level 8.<br><span style=\"font-size:large;\"><strong><br></strong></span><span style=\"font-size:x-large;\"><strong>Class Proficiencies</strong></span><span style=\"font-size:large;\"><strong><br></strong></span><br><span style=\"font-size:large;\"><strong>Weapons</strong></span><br>Fiend Hunter are proficient at using all vanilla ranged weapons, from bows to crossbows. In addition they are also proficient with Longswords, Shortswords, Daggers, and Sickles. <br><br><span style=\"font-size:large;\"><strong>Armor</strong></span><br>Fiend Hunters at base are only proficient at using Light Armor.<br><br><strong><span style=\"font-size:large;\">Saving Throws</span></strong><br>Fiend Hunters get proficiency in Dexterity and Wisdom Saving Throws.<br><br><span style=\"font-size:large;\"><strong>Skills</strong></span><br>Fiend Hunters can have proficiencies in Acrobatics, Stealth, Animal Handling, Intimidation, Survival, and Perception.<br><br><strong><span style=\"font-size:x-large;\">Subclasses</span></strong><br><br>There are three subclasses you can choose, starting at level 3. I'll give a brief description of each.<br><span style=\"font-size:large;\"><br><strong>Path of the Vindicator<br></strong></span>This subclass specializes in Infernal Arts and generating Hatred. If you want to have more access to Infernal Art masteries and be able to use them most of the time, this is the subclass for you. Simple and straightforward, this subclass gains Hatred when they kill enemies and when enemies slay your allies.<br><br><strong><span style=\"font-size:large;\">Path of the Marauder</span></strong><br>This subclass specializes in using companions. Normally you can only have one companion active at a time, however this class can control all the companions at the same time. As you level you can grow your small pet legion into a lethal killing squad. <br><br><span style=\"font-size:large;\"><strong>Path of the Hellstrider</strong></span><br>This subclass specializes in movement and generating Discipline. One of the core features is gaining Discipline on critical hits. You also gain enhancements to your Tactics, particularly ones that deal with shadows. This subclass is also Proficient in Medium Armor.<br><br><span style=\"font-size:x-large;\"><strong>Mastery</strong></span><br><br>Mastery is a selectable passive that grants a bonus to one of your Infernal Arts. These are for enhancing your favorite Infernal Art, sometimes by increasing its lethality or by making it easier to use around allies. You can choose a Mastery starting at level 6, and then again at level 10 and 12. You can preview the specific enhancement a Mastery grants when choosing an Infernal Art, so you can see the potential before picking it up. I will mention that choosing a Mastery for an Infernal Art will not grant you the Infernal Art, so please choose one you already know. I was unable to prevent you from choosing a mastery for an Infernal Art you don't have access to. If anyone knows how to do that, please let me know.<br><br><strong><span style=\"font-size:x-large;\">Balance</span></strong><br><br>As for class strength, I tried to shoot being around the power level of Swords Bard and Battle Master as those are the most fun classes to play for me. After playtesting it seems that the Fiend Hunter is weaker than them at the lower levels and ramps up to be stronger in the later levels, but not as much as a normal caster using control spells (boooo!). As such, I do recommend difficulty mods as even though Swords Bard and Battle Master are vanilla classes, they are known for their strength. The Fiend Hunter can be a very squishy class, however it can output quite a bit of damage - basically a glass cannon, similar to its inspiration.<br><br><span style=\"font-size:x-large;\"><strong>Crafting<br></strong></span><br>The last thing I'll touch on is crafting. This class mod introduces certain armor and weapons that a few may recognize. I tried to choose locations fitting of the weapons and power level each has. You can find them by exploring Faerun, or you can read the spoilers where they are located. Crafting can be used to upgrade your weapons that you find along your journey. You'll need a Infernal Hammer, which can be found at the forges around Faerun. There is a well known forge in the Blighted Village, as well as a forge that our favorite teethling blacksmith works in at Last Light Inn. Once you have an Infernal Hammer, you will need a Soul Gem. Soul Gems are found by defeating strong enemies. You'll find regular Soul Gems in Act 1 by defeating bosses, especially any Fiends. Using these Soul Gems you can upgrade uncommon demonic weaponry to rare quality, increasing their weapon enchantment bonus and granting additional abilities. As you progress through the story to Act 2, you'll start to find Greater Soul Gems, these can be used to upgrade your demonic weapons even further to Very Rare quality. And finally, Grand Soul Gems can be normally found in Act 3 by defeating the capstone bosses and can be used to achieve your weapons final form as a true Legendary weapon. I hope at that point you've grown fond of your demonic weapon of choice!<br><br><span style=\"font-size:x-large;\"><strong>Thanks</strong></span><br><br>I just want to say if you actually read all of this, thanks for taking the time out of your day to do so. I worked on this mod on and off for about a year, before Patch 8 even released. This is my first published mod, so please be gentle. I did my best playtesting and working the kinks out but there may be some weird interactions I never thought of. As a preface I did not balance my class around multi-classing. I am sure there are some very cool combinations out there, and I interested to see what everyone comes up with! <br><br>Daemones omnes necare,<br>Crystic</p>\n<p> </p>\n<p>Check our the nexus page for more information:</p>\n<p>https://www.nexusmods.com/baldursgate3/mods/19335</p>",
+    "date_added": 1761190756,
+    "date_updated": 1793716406,
+    "date_live": 1761474947,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/fiend-hunter-class",
+    "submitted_by": {
+      "id": 45995885,
+      "name_id": "crysticknight",
+      "username": "CrysticKnight",
+      "profile_url": "https://mod.io/u/crysticknight",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/8e88/45995885/crop_100x100/dh1.png"
+    },
+    "modfile": {
+      "id": 8329280,
+      "mod_id": 5308107,
+      "version": "1.6.6.5",
+      "filename": "fiend_hunter_ca309d90-6f7a-5e1-hhao.zip",
+      "changelog": "Removed unused custom shaders for console compatabililty",
+      "date_added": 1792062163,
+      "date_updated": 0,
+      "date_scanned": 1792062220,
+      "filesize": 27954249,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "fiendhunter1920x1080.1.png",
+      "original": "https://image.modcdn.io/mods/ed79/5308107/fiendhunter1920x1080.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/ed79/5308107/crop_320x180/fiendhunter1920x1080.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/ed79/5308107/crop_640x360/fiendhunter1920x1080.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/ed79/5308107/crop_1280x720/fiendhunter1920x1080.1.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other Classes",
+        "name_localized": "Other Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8329280
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8329280
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8329280
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8329280
       }
     ]
   },
@@ -158506,6 +159134,99 @@
     ]
   },
   {
+    "id": 5801167,
+    "game_id": 6715,
+    "name": "Shadowheart's Elfsong Stool",
+    "name_id": "shadowheartelfsongstool",
+    "summary": "Shadowheart finally has her stool back in Elfsong camp with a little upgrade.",
+    "description": "<p>An Endgame camp but devs forgot to add a chatting stool we have been using since act 1? Why Larry Ann?<br><br><strong>What does this mod do?</strong><br>Give Shadowheart a stool identical to other stools (aka talking stool) she has in all camps that's not Elfsong. I change stool visual a bit to make it fit with overall design since we are no longer sleeping outside.<br><br><strong>Installation &amp; compatibility</strong><br>Install with mod manager. This mod can be installed mid-playthrough.<br><br>Mod.io version is the same as Nexus version except its file is a bit heavier due to mod cover. It functions exactly the same.</p>",
+    "date_added": 1771443804,
+    "date_updated": 1793716227,
+    "date_live": 1771444989,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/shadowheartelfsongstool",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 7412620,
+      "mod_id": 5801167,
+      "version": "1.0.0.4",
+      "filename": "shadowheartelfsongstool_13963e-cttw.zip",
+      "changelog": null,
+      "date_added": 1771443807,
+      "date_updated": 0,
+      "date_scanned": 1771443812,
+      "filesize": 713258,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "bg3_dx112026-02-1901-43-12_0441.1.png",
+      "original": "https://image.modcdn.io/mods/2952/5801167/bg3_dx112026-02-1901-43-12_0441.1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2952/5801167/crop_320x180/bg3_dx112026-02-1901-43-12_0441.1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2952/5801167/crop_640x360/bg3_dx112026-02-1901-43-12_0441.1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2952/5801167/crop_1280x720/bg3_dx112026-02-1901-43-12_0441.1.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7412620
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7412620
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7412620
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7412620
+      }
+    ]
+  },
+  {
     "id": 5802384,
     "game_id": 6715,
     "name": "Barcus Wroot - Dynamic Appearances",
@@ -162226,6 +162947,124 @@
     ]
   },
   {
+    "id": 5922938,
+    "game_id": 6715,
+    "name": "Eat Your Heart Out - Dark Urge consumable",
+    "name_id": "eatyourheartout",
+    "summary": "Dark Urge can consume humanoid's hearts.",
+    "description": "<p>“Peel your heart like a pomegranate.</p>\n<p>Offer it to him, palms outwards.</p>\n<p>Say “eat.” Watch him come away</p>\n<p>stained red by you.</p>\n<p>You’re in his teeth. He’ll kiss you with that mouth.”</p>\n<p>―</p>\n<p><strong>Azra T.</strong></p>\n<p>Saw several recent arts and media on topic of cannibalism as metaphor of love and got inspired. Dark Urge themselves are technically one (although in this case there’s no analogy). Consuming hearts of fallen enemies seems appropriate for them. Why would they stop at only dwarf meats in goblin camp?</p>\n<p>What does this mod do? It adds consumable heart with \"Blood Dripping Heart\" name that works similar to <a href=\"https://bg3.wiki/wiki/Roasted_Dwarf_Belly\">Roasted Dwarf Belly - bg3.wiki</a>, <a href=\"https://bg3.wiki/wiki/Roasted_Dwarf_Leg\">Roasted Dwarf Leg - bg3.wiki</a>, <a href=\"https://bg3.wiki/wiki/Roasted_Dwarf_Ribs\">Roasted Dwarf Ribs - bg3.wiki</a>. It will heal Dark Urge for 6d6. Normal hearts are unaffected.<br><br>Only people in the following list will drop heart for balance reason. Mainly bosses and dark urge related characters.</p>\n<p>Act 1</p>\n<ul>\n<li>Dror Ragzlin</li>\n<li>Alfira/Quil</li>\n<li>Kagha</li>\n<li>Flind</li>\n<li>Gekh Coal</li>\n<li>Nere</li>\n<li>Sarth Baretha (gith captain before mountian pass)</li>\n<li>W'wargaz (Inquisitor)</li>\n</ul>\n<p>Act 2</p>\n<ul>\n<li>Isobel</li>\n<li>Kar'niss</li>\n<li>Marcus Falgor</li>\n<li>Z'rell</li>\n<li>Kressa</li>\n<li>Tska'an (warlock before exiting act 2)</li>\n<li>Lir'i'c (monk in Astral plane)</li>\n</ul>\n<p>Act 3</p>\n<ul>\n<li>Aelis Siryasius</li>\n<li>Har'rak (paladin under elfsong)</li>\n<li>Enver Gortash</li>\n<li>Lorroakan</li>\n<li>Nine-Fingers Keene</li>\n<li>Orin</li>\n<li>Ptaris (only appear if you give Esther gith egg)</li>\n<li>Sarevok Anchev</li>\n<li>Viconia DeVir</li>\n<li>Helsik</li>\n</ul>\n<p><strong>Installation/Uninstallation</strong></p>\n<p>download and put it on load order and done. Please consume all the hearts you have before uninstallation.</p>\n<p><strong>Mod compatibility</strong></p>\n<p>It shouldn't conflict with any mod.</p>\n<p><strong>Special Thanks</strong></p>\n<p>MissRen for awesome mod name and mod cover pic.</p>\n<p>XiphiasRex for Osiris help.</p>\n<p> </p>",
+    "date_added": 1774710858,
+    "date_updated": 1793716173,
+    "date_live": 1774711226,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/eatyourheartout",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 7564865,
+      "mod_id": 5922938,
+      "version": "1.0.0.6",
+      "filename": "eatyourheartout_6fd60052-55c1-cqbw.zip",
+      "changelog": null,
+      "date_added": 1774710870,
+      "date_updated": 0,
+      "date_scanned": 1774710873,
+      "filesize": 154696,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "eatyourheartout.png",
+      "original": "https://image.modcdn.io/mods/a5e1/5922938/eatyourheartout.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a5e1/5922938/crop_320x180/eatyourheartout.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a5e1/5922938/crop_640x360/eatyourheartout.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a5e1/5922938/crop_1280x720/eatyourheartout.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Consumables",
+        "name_localized": "Consumables",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      },
+      {
+        "name": "Autumn",
+        "name_localized": "Autumn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7564865
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7564865
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7564865
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7564865
+      }
+    ]
+  },
+  {
     "id": 5923775,
     "game_id": 6715,
     "name": "Ember's Enchanted Instruments - Lutes",
@@ -164026,6 +164865,99 @@
     ]
   },
   {
+    "id": 5987676,
+    "game_id": 6715,
+    "name": "Isobel Survivability Overhaul",
+    "name_id": "isobelsurvivabilityoverhaul",
+    "summary": "Give Isobel several thematic AC boosting and sanctuary to make her has a better chance of surviving.",
+    "description": "<p>Are you tired of Isobel having a death wish and running around to get infinite opportunity attacks while having only 11 AC? Say no more. </p>\n<p> </p>\n<h3>What does this mod do?</h3>\n<p>Isobel now remembers she is level 5 cleric and have mage armor spell in her robe.</p>\n<p>She will have mage armor, shield of faith, and sanctuary statuses on her. She is also equipped a normal shield (+2 AC). Her AC will be raised from 11 to 18.</p>\n<p>Isobel my dear you are half-elf AND cleric. You know how to use shield. You could just ask for one from Talli or any Harpers. You are too important to die.</p>\n<h3>Notes</h3>\n<p>Her mage armor and shield of faith (+Santuary if she doesn't break it herself) will not begone after a long rest since NPCs don’t have long rest.</p>\n<p>This mod DOES NOT edit her character stat. </p>\n<p>Her vanilla Selune’s Protection passive should work with her current mage armor regardless of whether you have bug fixing mod or not.</p>\n<h3>Installation and Uninstallation</h3>\n<p>Download this mod and put in load order in any mod manager you have and done. Should be install before act 2 just to be sure. Don't uninstall it before finishing playthrough. If you need to, please use mod uninstaller.</p>\n<h3>Compatibility</h3>\n<p>Should be compatible with all mods even with mod that adds/edits her spell lists. </p>\n<p><strong>Special Thanks to <a href=\"https://www.nexusmods.com/profile/magnetuning\">magnetuning</a> for always helping with Osiris and <a href=\"https://www.nexusmods.com/profile/MaxStrengthWizard?gameId=3474\">MaxStrengthWizard</a> for mod name.</strong></p>",
+    "date_added": 1776421338,
+    "date_updated": 1793716117,
+    "date_live": 1776421760,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/isobelsurvivabilityoverhaul",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 7642084,
+      "mod_id": 5987676,
+      "version": "1.0.0.3",
+      "filename": "isobelbetterstats_b5efc83b-23e-ixht.zip",
+      "changelog": null,
+      "date_added": 1776421347,
+      "date_updated": 0,
+      "date_scanned": 1776421807,
+      "filesize": 47003,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "test81.png",
+      "original": "https://image.modcdn.io/mods/4dde/5987676/test81.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4dde/5987676/crop_320x180/test81.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4dde/5987676/crop_640x360/test81.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4dde/5987676/crop_1280x720/test81.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7642084
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7642084
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7642084
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7642084
+      }
+    ]
+  },
+  {
     "id": 5990151,
     "game_id": 6715,
     "name": "Aesir's Champion Set",
@@ -164298,6 +165230,197 @@
       {
         "platform": "ps5",
         "modfile_live": 7650522
+      }
+    ]
+  },
+  {
+    "id": 6001472,
+    "game_id": 6715,
+    "name": "Second Chance - New Dark Urge Reward",
+    "name_id": "secondchance",
+    "summary": "Withers gives a gift for Resisted Dark Urge",
+    "description": "<h2><em>\"Death will not claim thee whilst I endure\"</em></h2>\n<p>.</p>\n<p>.</p>\n<p>.</p>\n<p>.</p>\n<p>.</p>\n<p>.</p>\n<p>.</p>\n<p>.</p>\n<p>.</p>\n<p>.</p>\n<h2><span style=\"text-decoration:underline;\">Act 3 spoiler</span></h2>\n<p><strong>About this mod</strong><br>I think resisted dark urge deserves to get something related to Withers (aka Jergal). He literally saves us after Bhaal decide to killed us and use part of his power to do so. Embraced Durge gets Power word kill with one time use and (not so good) slayer form. I head canon that he gives us some of his power. It might be a little overpowered, but I think it's appropriated.</p>\n<p>Basically, this mod gives resisted Durge new passive below if you defy Bhaal. It will not show up if you embrace Bhaal.</p>\n<p><strong>Second Chance - </strong>After reaching 0 Hit Points, you regain half hit points instead of becoming downed. Per long rest.</p>\n<p>Should be stacked with other auto revived passives and skills. Such as Strength of the Grave, Survival Instinct, Relentless Rage, Lathander's Blessing.<br><br>Speicial thanks to HypespaceTowel for helping me with Osiris!</p>\n<p><strong>How to install</strong><br>download and put it in load order and done! Don't uninstall after you got this passive.</p>",
+    "date_added": 1776757708,
+    "date_updated": 1793716251,
+    "date_live": 1776757994,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/secondchance",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 7657495,
+      "mod_id": 6001472,
+      "version": "1.0.0.1",
+      "filename": "kjm_secondchance_4014445f-ca1c-q80h.zip",
+      "changelog": null,
+      "date_added": 1776757722,
+      "date_updated": 0,
+      "date_scanned": 1776757804,
+      "filesize": 100722,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "19179-1760390439-761817033.png",
+      "original": "https://image.modcdn.io/mods/bba8/6001472/19179-1760390439-761817033.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/bba8/6001472/crop_320x180/19179-1760390439-761817033.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/bba8/6001472/crop_640x360/19179-1760390439-761817033.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/bba8/6001472/crop_1280x720/19179-1760390439-761817033.png"
+    },
+    "tags": [
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7657495
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7657495
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7657495
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7657495
+      }
+    ]
+  },
+  {
+    "id": 6001493,
+    "game_id": 6715,
+    "name": "Bloody Inheritance - New Dark Urge Passive",
+    "name_id": "bloodyinheritance",
+    "summary": "The Dark Urge will heal themselves while standing in blood after their act 1 event.",
+    "description": "<h2><em>Its warmth feels like the embrace of an old friend.</em></h2>\n<p>A bit of flavor passive for our \"special\" avatar.</p>\n<p><strong>What does this mod do?</strong><br>It gives The Dark Urge a passive called \"Bloody Inheritance\" the morning after they kill Alfira or Quill. They will NOT get this passive if they fail to do so.</p>\n<p>Bloody Inheritance - Heal self for 1d4 hit points while standing in a blood surface at the start of your turn in combat. Similar to Watery Rejuvenation in Wavemother's Robe. It will work in combat only.</p>\n<p><strong>Compatibility</strong></p>\n<p>This mod doesn't edit any existing game scripts and only works for \"vanilla\" Dark Urge.</p>\n<p><strong>Installation and Uninstallation</strong><br>It is safe to install/uninstall at any point of playthrough.</p>\n<p> </p>",
+    "date_added": 1776759413,
+    "date_updated": 1793716198,
+    "date_live": 1776759654,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/bloodyinheritance",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 7657522,
+      "mod_id": 6001493,
+      "version": "1.0.0.1",
+      "filename": "kjm_bloodyinheritance_ded1ed99-anoe.zip",
+      "changelog": null,
+      "date_added": 1776759417,
+      "date_updated": 0,
+      "date_scanned": 1776759966,
+      "filesize": 134858,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "20094-1770195731-812963216.png",
+      "original": "https://image.modcdn.io/mods/e078/6001493/20094-1770195731-812963216.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/e078/6001493/crop_320x180/20094-1770195731-812963216.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/e078/6001493/crop_640x360/20094-1770195731-812963216.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/e078/6001493/crop_1280x720/20094-1770195731-812963216.png"
+    },
+    "tags": [
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      },
+      {
+        "name": "Autumn",
+        "name_localized": "Autumn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7657522
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7657522
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7657522
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7657522
       }
     ]
   },
@@ -166672,6 +167795,149 @@
     ]
   },
   {
+    "id": 6065838,
+    "game_id": 6715,
+    "name": "Unnerfed Origins",
+    "name_id": "unnerfedorigins",
+    "summary": "Give all origins and companions passives from their pre-tadpole selves.",
+    "description": "<h3>What does this mod do?</h3>\n<p>give each of main 6 origins and 4 other companions special passives that are based on their story pre-tadpole/BG3.</p>\n<p>Astarion - <strong>Revenant Scourge</strong><br>Advantage on saving throw against Undead's action/spells.</p>\n<hr>\n<p>Gale - <strong>Archmage of Waterdeep</strong><br>Let you to cast illusion or enchantment spell as action or bonus action.</p>\n<p>It's toggleable. If you couldn't find it on Gale passive tab, drag it from his character common tab.</p>\n<hr>\n<p>Halsin - <strong>Savage Striker</strong><br>Savage attacker feat as unarmed version</p>\n<p>works in wildshape as long as that wildshape doesn't use weapon to attack.</p>\n<hr>\n<p>Jaheira - <strong>Aged Old Harper</strong><br>Proficiency to all weapons and +2 AC when concentrating.</p>\n<hr>\n<p>Karlach - <strong>Blood War Survivor</strong><br>Advantage against Fiends.</p>\n<hr>\n<p>Lae'zel - <strong>Interplanar Slayer</strong><br>Advantage against Aberrations.</p>\n<hr>\n<p>Minsc - <strong>Rashemaar Berserker</strong><br>Ignore physical resistances when attacking.</p>\n<hr>\n<p>Minthara - <strong>Psionic Retaliation</strong><br>When succeed saving throw, source that caused the throw gets slow for 2 turns.</p>\n<hr>\n<p>Shadowheart - <strong>Resilient Soul</strong><br>gain proficiency bonus - 1 to all mental saving throws (Intelligence, Wisdom, Charisma)</p>\n<p>Example: Level 1-4: +1, Level 5-8: +2, level 9-12: +3 and so on. Work in level 13-20 expansion.</p>\n<hr>\n<p>Wyll - <strong>Monster Hunter</strong><br>Advantage against Monstrosities.</p>\n<p>If you find Shadowheart gains bonus two times or anyone gets double advantage, it's bugged. Please restart the game outside Nautiloid.</p>\n<p><strong>Installation/Uninstallation</strong><br>download and put it on load order and done. Can be installed or uninstalled at any point of the game.</p>\n<p><strong>Mod compatibility</strong><br>should be compatible with all mods since I use Osiris to add these passives.<br><br>Notes - I have 3 other mods for Dark Urge, 1 more for Minthara, and no plan to make special passive for Tav.<br><br><strong>Dark Urge</strong>: <a href=\"https://mod.io/g/baldursgate3/m/bloodyinheritance\" target=\"_blank\" rel=\"noopener noreferrer\">Bloody Inheritance</a>, <a href=\"https://mod.io/g/baldursgate3/m/eatyourheartout\" target=\"_blank\" rel=\"noopener noreferrer\">Eat Your Heart Out</a>, <a href=\"https://mod.io/g/baldursgate3/m/secondchance\" target=\"_blank\" rel=\"noopener noreferrer\">Second Chance</a></p>\n<p><strong>Minthara</strong>: <a href=\"https://mod.io/g/baldursgate3/m/mintharapoisonresistance\" target=\"_blank\" rel=\"noopener noreferrer\">Poison Resistance for Minthara</a></p>",
+    "date_added": 1779026995,
+    "date_updated": 1793716145,
+    "date_live": 1779027753,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/unnerfedorigins",
+    "submitted_by": {
+      "id": 45833072,
+      "name_id": "koboldjuno",
+      "username": "koboldJuno",
+      "profile_url": "https://mod.io/u/koboldjuno",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b0c5/45833072/crop_100x100/j_juneper2-min.png"
+    },
+    "modfile": {
+      "id": 7747205,
+      "mod_id": 6065838,
+      "version": "1.0.0.2",
+      "filename": "kjm_unnerfedorigins_bb12fe7f-4-agpw.zip",
+      "changelog": null,
+      "date_added": 1779027005,
+      "date_updated": 0,
+      "date_scanned": 1779027010,
+      "filesize": 921948,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "21423-1770812212-143929440.png",
+      "original": "https://image.modcdn.io/mods/17bc/6065838/21423-1770812212-143929440.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/17bc/6065838/crop_320x180/21423-1770812212-143929440.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/17bc/6065838/crop_640x360/21423-1770812212-143929440.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/17bc/6065838/crop_1280x720/21423-1770812212-143929440.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Astarion",
+        "name_localized": "Astarion",
+        "date_added": 0
+      },
+      {
+        "name": "Gale",
+        "name_localized": "Gale",
+        "date_added": 0
+      },
+      {
+        "name": "Halsin",
+        "name_localized": "Halsin",
+        "date_added": 0
+      },
+      {
+        "name": "Jaheira",
+        "name_localized": "Jaheira",
+        "date_added": 0
+      },
+      {
+        "name": "Karlach",
+        "name_localized": "Karlach",
+        "date_added": 0
+      },
+      {
+        "name": "Lae'zel",
+        "name_localized": "Lae'zel",
+        "date_added": 0
+      },
+      {
+        "name": "Minsc",
+        "name_localized": "Minsc",
+        "date_added": 0
+      },
+      {
+        "name": "Minthara",
+        "name_localized": "Minthara",
+        "date_added": 0
+      },
+      {
+        "name": "Shadowheart",
+        "name_localized": "Shadowheart",
+        "date_added": 0
+      },
+      {
+        "name": "Wyll",
+        "name_localized": "Wyll",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7747205
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7747205
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7747205
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7747205
+      }
+    ]
+  },
+  {
     "id": 6068245,
     "game_id": 6715,
     "name": "Crimson Hair Catalog - Additional",
@@ -167662,6 +168928,109 @@
       {
         "platform": "ps5",
         "modfile_live": 7796984
+      }
+    ]
+  },
+  {
+    "id": 6113876,
+    "game_id": 6715,
+    "name": "Dark Urge Sword &amp; Shield Pack -  Force Weapons",
+    "name_id": "dark-urge-sword-shield-pack",
+    "summary": "A Dark Urge Themed Longsword, Greatsword &amp; 2 Shield sizes!",
+    "description": "<blockquote>\n<p>\"Pave my path with corpses, Build my castle with bones!\" - The Dark Urge</p>\n</blockquote>\n<p>Following up my elemental weapon pack, this time it's much darker! Longswords, a Greatsword &amp; 2 sizes of shield, themed around The Dark Urge.<br>The weapons deal Force damage, as red fits the theme well. It also has a lore-appropriate counter to them in Act 3! <br><br>I kept these weapons and shields balanced per player feedback. Both swords apply bleeding when you have advantage, and the greatsword can give you temporary health on criticals!<br>There is a large and medium-sized shield, depending on your preference</p>\n<p><br><img src=\"https://image.modcdn.io/members/3931/34758130/profile/durgeitshieldicon.png\" alt=\"\" width=\"120\" height=\"120\"><br><span style=\"text-decoration:underline;\"><strong>Shield of the Original Sin</strong></span><br>+3 AC<br>-Targets have disadvantage on saving throws against spells or attacks that apply Fear<br>-Reaction to attack with the shield dealing force damage, and possibly knocking target prone<br>-Tower shield gets a stealth ability \"Darkness Cloak\"<br><br><img src=\"https://image.modcdn.io/members/3931/34758130/profile/durgeitswordicon.png\" alt=\"\" width=\"120\" height=\"120\"></p>\n<p><span style=\"text-decoration:underline;\"><strong>Crimson Eclipse</strong></span><br>-Attacking with advantage applies bleed<br>-Profane Scourge weapon action applies additional proficiency bonus force damage, and an additional 2d6 force and Bane to fiends and undead<br><br><span style=\"text-decoration:underline;\"><strong><em>Longsword</em></strong></span><br>-Create blood surface, take 1d4 damage to give bless for 1 turn<br><br><span style=\"text-decoration:underline;\"><em><strong>Greatsword</strong></em></span><br>- Maddening Hunger: Critical hits deal an additional 5 psychic damage and give 10 temporary health<br>- Poison Mist attack<br><br>Instructions:<br>- Download this mod<br>- Download a tutorial chest summon mod, or grab them at start of the game<br>- Durge out<br><br>Unique names, so no mod conflicts should occur<br><br>These pair well with<a href=\"https://mod.io/g/baldursgate3/u/jasondunna\" target=\"_blank\" rel=\"noopener noreferrer\"> my Subclass Mods</a> and you can use my <a href=\"https://mod.io/g/baldursgate3/m/fire-frost-and-flora-swords-weapon-pack#description\" target=\"_blank\" rel=\"noopener noreferrer\">Fire Frost and Flora Swords</a> to get VFX on the shield (seen in images)</p>\n<p>Let me know your thoughts on my <a href=\"https://www.youtube.com/@JasonDunna\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube Channel</a> or in the comments!<br>~~~~~<br><br>Credits:<br>Outfit on ShadowHeart: <a href=\"https://mod.io/g/baldursgate3/m/acheron-clothing-and-light-armor#description\" target=\"_blank\" rel=\"noopener noreferrer\">Acheron Clothing and Light Armor</a> by onxyomens.  <a href=\"https://mod.io/g/baldursgate3/m/obsc-midnight-sparkle#description\" target=\"_blank\" rel=\"noopener noreferrer\">Midnight Sparkle</a> by <a class=\"mod-button-transition tw-outline-none tw-border-none tw-cursor-pointer hover:tw-text-primary-hover focus:tw-text-primary-hover tw-space-x-1 tw-flex tw-items-center tw-space-x-1.5\" href=\"https://mod.io/g/baldursgate3/u/obscen1ty\"><span class=\"tw-font-medium mod-util-truncate-one-line\">Obscen1ty</span></a><br>Outfit on Dark Urge: <a href=\"https://mod.io/g/baldursgate3/m/lost-shipment-equipment-for-clawstep#description\" target=\"_blank\" rel=\"noopener noreferrer\">Lost Shipment for Dragonborn</a> by <a class=\"mod-button-transition tw-outline-none tw-border-none tw-cursor-pointer hover:tw-text-primary-hover focus:tw-text-primary-hover tw-space-x-1 tw-flex tw-items-center tw-space-x-1.5\" href=\"https://mod.io/g/baldursgate3/u/akelka\"><span class=\"tw-font-medium mod-util-truncate-one-line\">AkELkA</span></a><br><br><a href=\"https://www.fab.com/listings/72bfbaad-cacd-4580-a2c9-816be2eef4ca\" target=\"_blank\" rel=\"noopener noreferrer\">Sword Mortisbrandr </a>by Stylized Fantasy, Standard License <br><a href=\"https://www.fab.com/listings/92819ae4-0aed-4b3f-aee9-2fc8ff71c3c8\" target=\"_blank\" rel=\"noopener noreferrer\">Shield Zloshchit </a>by Stylized Fantasy, Standard License <br><br>Meme at the end by me. I'm sorry. I kept saying \"straight Durgeing it\" while making this mod. I was going a bit crazy.<br>Also, Durge helped me edit the 3rd image</p>",
+    "date_added": 1780682533,
+    "date_updated": 1793716696,
+    "date_live": 1793716686,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dark-urge-sword-shield-pack",
+    "submitted_by": {
+      "id": 34758130,
+      "name_id": "jasondunna",
+      "username": "jasondunna",
+      "profile_url": "https://mod.io/u/jasondunna",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3931/34758130/crop_100x100/fiverr_jay-dunna-v2-2.png"
+    },
+    "modfile": {
+      "id": 7814964,
+      "mod_id": 6113876,
+      "version": "1.0.0.3",
+      "filename": "durgeitshieldsword_6efdbc71-34-du4j.zip",
+      "changelog": "1.0 Release! Simple Plug &amp; Play. Available in Tutorial Chest",
+      "date_added": 1780682545,
+      "date_updated": 0,
+      "date_scanned": 1780682591,
+      "filesize": 24024976,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "copyoffirefrostandfloraswordsmo.6.png",
+      "original": "https://image.modcdn.io/mods/0b1a/6113876/copyoffirefrostandfloraswordsmo.6.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0b1a/6113876/crop_320x180/copyoffirefrostandfloraswordsmo.6.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0b1a/6113876/crop_640x360/copyoffirefrostandfloraswordsmo.6.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0b1a/6113876/crop_1280x720/copyoffirefrostandfloraswordsmo.6.png"
+    },
+    "tags": [
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "The Dark Urge",
+        "name_localized": "The Dark Urge",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7814964
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7814964
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7814964
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7814964
       }
     ]
   },
@@ -171698,6 +173067,109 @@
       {
         "platform": "ps5",
         "modfile_live": 7952604
+      }
+    ]
+  },
+  {
+    "id": 6219078,
+    "game_id": 6715,
+    "name": "Early Minsc",
+    "name_id": "early-minsc",
+    "summary": "Adds Minsc to Act 1 while preserving The High Harper questline. Found in Grymforge without a tadpole, Minsc leaves at the start of Act 3 to find Boo, triggering The Stone Lord quest and leading you to reunite in the city.",
+    "description": "<h3>Early Minsc</h3>\n<p>This mod adds Minsc as a recruitable companion in Act 1 while preserving his original story and The High Harper questline.</p>\n<p>Minsc is found petrified in Grymforge and must be freed before he can join the party. Unlike the base game, Minsc has no tadpole when recruited and joins the party at <strong>Level 5</strong>, fitting naturally into an Act 1 playthrough. His class and equipment are also maintained for his Act 3 encounter.</p>\n<p>At the start of Act 3, Minsc leaves the party to find Boo, triggering a new quest called The Stone Lord. Minsc has run ahead to Baldur's Gate, where the party can eventually find him again.</p>\n<p>This is where Minsc receives his tadpole, and his Act 3 storyline plays out as normal, including his confrontation with the party.</p>\n<p><em><span style=\"text-decoration:underline;\">For Minsc to be level 5 make sure there isn't other mods rewriting him back to level 12. This mod needs to be later in the load order to work. This will only work on new save!!</span></em></p>\n<h3>Mods Used for Images</h3>\n<ul>\n<li>Minsc's New Look</li>\n<li>Shadar-Kai</li>\n<li>Shadar-Kai Astarion (My mod (WIP))</li>\n</ul>",
+    "date_added": 1784020807,
+    "date_updated": 1793716525,
+    "date_live": 1784938797,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/early-minsc",
+    "submitted_by": {
+      "id": 53852563,
+      "name_id": "modiouser6635861",
+      "username": "Ambrgna",
+      "profile_url": "https://mod.io/u/modiouser6635861",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 8042796,
+      "mod_id": 6219078,
+      "version": "1.0.3.0",
+      "filename": "early_minsc_1b219aa6-1447-4085-dwsu.zip",
+      "changelog": null,
+      "date_added": 1785553763,
+      "date_updated": 0,
+      "date_scanned": 1785553829,
+      "filesize": 36715608,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "early_minsc_1b219aa6-1447-4085-.png",
+      "original": "https://image.modcdn.io/mods/4b76/6219078/early_minsc_1b219aa6-1447-4085-.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/4b76/6219078/crop_320x180/early_minsc_1b219aa6-1447-4085-.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/4b76/6219078/crop_640x360/early_minsc_1b219aa6-1447-4085-.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/4b76/6219078/crop_1280x720/early_minsc_1b219aa6-1447-4085-.png"
+    },
+    "tags": [
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Minsc",
+        "name_localized": "Minsc",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8042796
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8042796
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8042796
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8042796
       }
     ]
   },
