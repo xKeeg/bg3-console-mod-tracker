@@ -134801,7 +134801,7 @@
     "summary": "Enhances over 850 NPC combatants with new abilities. These abilities include passives from classes, magic items, feats, and entirely new powers. Notable and powerful characters gain even more new tools to turn up the difficulty.",
     "description": "<p>Enhances every NPC combatant with new passives and abilities intended to expand their capabilities. Every NPC combatant has been assigned a rank, which expands their capabilities and gives them new special abilities, with higher rank combatants gaining more abilities.<br>-Requires the <a href=\"https://mod.io/g/baldursgate3/m/enemy-legends-patch\" target=\"_blank\" rel=\"noopener noreferrer\">Enemy Legends Patch</a> to enable all Legendary Actions on Honor Mode.</p>\n<p>-If you like this mod, you should try the extra encounters added by the new <a href=\"https://mod.io/g/baldursgate3/m/paragon-encounters\" target=\"_blank\" rel=\"noopener noreferrer\">Paragon Encounters</a> mod!</p>\n<p><strong>Ranks: </strong><br>-Grant a new special ability per rank.<br>-Grant Healing Surges akin to potions keep persistent foes in the fight.<br>-Slightly improve stats to enhance accuracy and durability, making their tactics more reliable.<br>-Weapon-users may learn to use status-applying maneuvers.<br>-Spellcasters have additional slots to power their spells.<br>-Advanced enemies have new choices to spend their actions on.</p>\n<p><strong>Special Abilities include:</strong><br>-Class features and Feats to represent additional training and specialization.<br>-Magic item effects to give them new strategies, apply status effects, and empower themselves.<br>-Entirely new passives to keep their opponents on their toes.</p>\n<p><strong>Additional Action Options:</strong><br>-NPCs above Recruit rank now gain additional abilities to spend their actions on, such as weapon actions or spells.<br>-Higher-rank NPCs can use these special abilities more often than NPCs of lower ranks.</p>\n<p><strong>Skill Calculation Fix:</strong><br>-Fixes the broken calculation some base-game NPCs use to calculate their skills, meaning certain NPCs no longer have strange bonuses in certain skills.<br>-These NPCs now properly use proficiency and possibly Expertise to calculate their skills.</p>\n<p><strong>Compatibility:<br></strong>-Requires the <a href=\"https://mod.io/g/baldursgate3/m/enemy-legends-patch\" target=\"_blank\" rel=\"noopener noreferrer\">Enemy Legends Patch</a> to enable all Legendary Actions on Honor Mode.<br>-The extra encounters in <a href=\"https://mod.io/g/baldursgate3/m/paragon-encounters\" target=\"_blank\" rel=\"noopener noreferrer\">Paragon Encounters</a> were designed with this mod, and the loot rewards allow you to use some of the new Enemy Tacticians abilities!<br>-Other extra encounter mods should still include their enemies, but some encounters won't have new abilities from this mod.<br>-Mods such as <strong>Tactician Enhanced</strong> which make changes through applying statuses <strong>should</strong> be compatible.<br>-This rework will likely conflict with any other mods that directly modify the passives, progressions, or boosts of NPCs.<br><em>Known Compatible:</em><br>-PixellBytes' Tactician Enhanced <em>by PixellBytes</em><br>-BG3 - Chocolate Edition <em>by CreativeExcuses</em><br>-Dynamic Difficulty Scaling <em>by GraphicFade</em><br>-Rise of the Goldmembers <em>by ItsMeWaldo<br></em>-Requiem for the Absolute <em>by Lukyrim</em><br><em>Known Conflicts:<br></em>-Enemies Reworked (Combat and faction overhaul) <em>by Rella_mod<br></em>-Combat Extender <em>by Zehtuka</em><br>-HomeBrew - Comprehensive Reworks <em>by HaVeNII7</em><br>-Deadlier Honour Mode <em>by -CH-</em> <em>(though it's only conflicts on a few characters, most will work fine)</em></p>\n<p><strong>Translation Credits:</strong><br>-Spanish / Latin Spanish Translation: <a href=\"https://github.com/incolhermex-droid\" target=\"_blank\" rel=\"noopener noreferrer\">incolhermex-droid</a><br>-Russian Translation: kenlihouls</p>",
     "date_added": 1752250009,
-    "date_updated": 1791296941,
+    "date_updated": 1793739474,
     "date_live": 1752250985,
     "visible": 1,
     "status": 1,
@@ -134815,15 +134815,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2f42/35248327/crop_100x100/scarletfang.png"
     },
     "modfile": {
-      "id": 8200108,
+      "id": 8422756,
       "mod_id": 5085121,
-      "version": "1.5.5.30",
-      "filename": "empoweredfoesflare_f6044512-b0-0igz.zip",
-      "changelog": "-Decreased Healing Surge down from d12s to d6s. The previous change was meant to decrease healing somewhat, and it really didn't because of poor math calculations.\n-Added 1d4-&gt;1d10 scaling for elemental strikes.\n-Replaced Soulbreaker with a different ability on most NPCs who had it. It was reduced to 1/combat instead of the normal cooldown system on those who kept it.",
-      "date_added": 1789102851,
+      "version": "1.5.6.31",
+      "filename": "empoweredfoesflare_f6044512-b0-mer0.zip",
+      "changelog": "-Canny description spacing altered.\n-Reworked Tactical Strikes: Limited to 1/combat, Tactic Point Cost reduced to 2, ability score requirements both altered and listed.\n-Arcane Shell effect slightly altered to make visual effect more consistent.\n-Blood For Blood description made clearer.\n-3x Hyenas, Flesh, Oliver, and Nere abilities changed.",
+      "date_added": 1793739455,
       "date_updated": 0,
-      "date_scanned": 1789102860,
-      "filesize": 3174923,
+      "date_scanned": 1793739465,
+      "filesize": 3175389,
       "platforms": [
         {
           "platform": "windows",
@@ -134831,15 +134831,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -134894,10 +134894,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 8200108
-      },
-      {
         "platform": "mac",
         "modfile_live": 8200108
       },
@@ -134908,6 +134904,10 @@
       {
         "platform": "ps5",
         "modfile_live": 8200108
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8422756
       }
     ]
   },
