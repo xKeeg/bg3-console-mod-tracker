@@ -154110,7 +154110,7 @@
     "summary": "Over 100 new vanilla-style weapons, armour and accessories, offering new ways to play and new builds to craft.",
     "description": "<p>Lightweight mod that adds roughly 100 new vanilla-style weapons, armour and accessories, offering new ways to play and new builds to craft. <br><br>All items from this mod have been placed in various locations and vendors throughout the game, and thus can be acquired without any other mods or cheats. In the event of impatience or bugs, the tutorial chest aboard the nautiloid contains a ring that allows you to summon every item in the mod (including unfinished ones).<br><br></p>\n<div><u><strong>COMPATIBILITY</strong></u></div>\n<div>Adding this mod to an existing save may cause anomalies, and incompatibilities with other mods has not yet been tested. Some other existing equipment mods such as FATE may interfere with item spawning from this mod in unexpected ways.</div>\n<div> </div>\n<div>Some items this mod adds edit existing in game effects to allow them to interact with them, such as with the sneak attack and throw actions. This mod should be placed high in load order to allow it to be overwritten by other mods which edit base game features such as these.</div>\n<div> </div>\n<div> </div>\n<div><strong><u>ITEM LOCATIONS</u></strong></div>\n<p><br>A cheat sheet containing all item locations can be found <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_Dumg_erw2Jy7gKEfRZQZ7p3nvpB7mAnU8YepJNyfNdJUJ-N6SJafRRWoc-sI6Kb6xKYSHVdTRUs/pubhtml\" rel=\"nofollow\">here!</a></p>\n<p><br>Feedback and bug reports will be highly appreciated! <br><br><br><br><span style=\"text-decoration:underline;\"><strong>ADDITIONAL LINKS<br></strong></span><a href=\"https://www.nexusmods.com/baldursgate3/mods/20403\" target=\"_blank\" rel=\"noopener noreferrer\">Nexus Page</a><br><em>This mod is the culmination of hundreds of hours of work. If you enjoy the mod, and wish to support its continued development as well as future projects, any support or donations at my <a href=\"https://ko-fi.com/gabunne\" target=\"_blank\" rel=\"noopener noreferrer\">Ko-Fi</a> will be greatly appreciated.<br><br></em></p>",
     "date_added": 1767095903,
-    "date_updated": 1792580983,
+    "date_updated": 1794073529,
     "date_live": 1767097002,
     "visible": 1,
     "status": 1,
@@ -154124,31 +154124,19 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/642d/2715290/crop_100x100/gunga.png"
     },
     "modfile": {
-      "id": 8356791,
+      "id": 8440996,
       "mod_id": 5634978,
-      "version": "1.4.0.77",
-      "filename": "gabsequipment_55647f12-7493-51-ahvk.zip",
-      "changelog": "Spectre Tracers (boots) status effect will no longer be automatically removed if invisibility is applied by an external source.",
-      "date_added": 1792580912,
+      "version": "1.4.0.78",
+      "filename": "gabsequipment_55647f12-7493-51-31n9.zip",
+      "changelog": "Updated Cheat Sheet with missing item IDs.\nCorrectly attached stats to all RootTemplates that were missing stats - they will now function properly when spawned via commands.",
+      "date_added": 1794073494,
       "date_updated": 0,
-      "date_scanned": 1792581087,
-      "filesize": 2035128,
+      "date_scanned": 1794073503,
+      "filesize": 2035078,
       "platforms": [
         {
           "platform": "windows",
           "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 0
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 0
-        },
-        {
-          "platform": "ps5",
-          "status": 0
         }
       ]
     },
@@ -154221,7 +154209,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8356791
+        "modfile_live": 8440996
       }
     ]
   },
