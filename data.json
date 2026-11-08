@@ -122547,7 +122547,7 @@
     "summary": "Mod pack that adds 50 weapons with the 'Finesse' tag to the tutorial chest, and spread throughout the world.",
     "description": "<h3>[15/10/2026] Now available on consoles!</h3>\n<h2>-----------------------------------------------------------------------------------------------------------------------</h2>\n<p>Not enough weapons with the 'Finesse' tag? </p>\n<p>This mod adds 50 unique weapons that can be used effectively with your DEX modifier.</p>\n<p>The weapons can be found in the tutorial chest (unless you're using a mod that overrides its contents), but they're also placed in semi-thought out places.</p>\n<p> </p>\n<p>(The previous version of the mod included only bludgeoning weapons. That restricition was ditched due to how limiting it was towards what weapons could be created. The weapons from that version are still present, some have been altered/fixed.)</p>\n<p> </p>\n<p><em><strong>DISCLAIMER: The 'new' models in the mod were created from assets already present in the toolkit.</strong></em></p>\n<p> </p>\n<p>Special thanks to the members of the Toolkit Modding section in the Larian discord, in particular <a href=\"https://baldursgate3.game/mods#/u/xiphiasrex/\" target=\"_blank\" rel=\"noopener noreferrer\">@XiphiasRex</a>, @EvilSnail0fDestruktion, @Sukamonn.</p>\n<p>Also a special thanks to my buddy <a href=\"https://www.instagram.com/escutegontcha/\" target=\"_blank\" rel=\"noopener noreferrer\">Gontcha</a>, who doesn't even play the game, but helped me with a few icons.</p>\n<p> </p>\n<p> </p>\n<p>Check out my other mod: <a href=\"https://mod.io/g/baldursgate3/m/b52stimelostweaponry#description\">B52's Timelost Arsenal</a>!</p>\n<h2><strong>-SPOILERS-</strong></h2>\n<p> </p>\n<p>After the tutorial, the weapons can be found in the following places:</p>\n<p> </p>\n<blockquote>\n<p>Bar Mace: Chest in crashed Nautiloid, one corpse in the crash area, shops.</p>\n<p>Iron Whip: Backpack near Abdirak inside the Goblin Camp.</p>\n<p>Dextrous Cultist Branding Iron: Priestess Gut</p>\n<p>Bar Mace +1: Shops, randomized loot drops.</p>\n<p>Chiontar' Flow: Corpse in the Nautiloid Crash Area</p>\n<p>Thrice-Blade: Ogre in the Blighted Village</p>\n<p>Flaming Fist's Arming Sword: Dead Tiefling in Blighted Village</p>\n<p>War-Trick: Minthara</p>\n<p>Militia's Handaxe: Bandit's Outside Crypt.</p>\n<p>Enforcer Electric Club: Blighted Village Chest.</p>\n<p>Dragon's Horns Trident: Skeleton near river, near hyenas/gnolls in Act 1.</p>\n<p>Axe of the Brutish Warlord: Barbarian Duergar near Underdark Raft (Gekh Coal's underling)</p>\n<p>Spine of the Chilling Fiend: Harpy's Nest</p>\n<p>Chattering Skull of the Necromancer: Auntie Ethel</p>\n<p>Foreign Haladie: Locked crate near crashed nautiloid (usually contains leather helmet)</p>\n<p>Blade of the Sacrifical Mage: Gur Hunter's backpack (near Ethel's house)</p>\n<p>Corellon's Guidance: Zhentarim Chest - Goblin Camp</p>\n<p>Icevein Crusher: Filro the Forgotten - Underdark</p>\n<p>Guilded Torch of the Night: Underdark Selunite Outpost</p>\n<p>Goblin King's Scimitar: Chest after Dror Ragzlin Fight.</p>\n<p>Eastern-Lands Katar: Chest in Zhentarim hideout (behind locked gate near wolves)</p>\n<p>Western-Lands Katar: Chest in Waukeen's Rest (Same chest as Hamarhraft).</p>\n<p>Great Saw Sword: Chest in Masonry (Same chest as Helmet of Arcane Acuity)</p>\n<p>Sharrite Ceremonial Blade: Chest in Shar's Spear room. (Library)</p>\n<p>Lolth Loyalist's Arming Sword: Dhourn (Drow near Spectator in the Underdark)</p>\n<p>Bar Mace + 2: Shops, Randomized drops.</p>\n<p>Oakfather's Sickle: Kagha's chest in Druid Grove.</p>\n<p>Weight of the Faithful: Chest in Goblin Camp Prison.</p>\n<p>Brutish Rapier: Herdmaster Skarjall (the one Duergar hitting the Rothé)</p>\n<p>The Maw of Nine Hells: Chest near Nessa (Yurgir's Displacer Beast)</p>\n<p>Crackling Fangs: Reward from Alfira (rescuing Tieflings from Moonrise)</p>\n<p>Watcher's Hook: Chest in Steel Foundry (metal chest near Elevator. The chest contains metal bars)</p>\n<p>Star Mace: Selûne Chest under Stromshore Tabernacle</p>\n<p>Adamantine Hook Blade: Grym (Adamantine Golem)</p>\n<p>Guilded Hook Blade: Chest in W'Wargaz's room.</p>\n<p>Death Knight's Blade: Chest in Ketheric's room (Moonrise Towers)</p>\n<p>High Druid's Thorn Lash: (Chest in Reithwin Tollhouse)</p>\n<p>Thisobald's Elixir Ladle: Thisobald Thorm - Waning Moon.</p>\n<p>Yurgir's Bluntblade: Yurgir - Sharran Temple</p>\n<p>Silvertongue's Shieldbow: Prison Warden in Moonrise Towers.</p>\n<p>Terrible Sickle: Dribbles' doppelganger</p>\n<p>Staff of the Mad Warlock: Mimic inside Moonrise Towers.</p>\n<p>Resonating Glass Blackjack: Nylruna's Chest</p>\n<p>Eldritch Force Scepter: Stormshore Tabernacle - Underground Chests</p>\n<p>Bhaalist Trifecta: Helena Anchev (Orin's Room)</p>\n<p>Mysterious Artifact Hammer: Githyanki's under Elfson Tavern.</p>\n<p>AxeBlade of Dawn: Chest inside Rosymorn Monastery (Inquisitor room)</p>\n<p>Murder God's Devout Blade: Sarevok.</p>\n<p>Mammon's Sword of Greed: Chest upstairs inside Devil's Fee.</p>\n<p>The Caustic Mallet: One of the doppelgangers under the Open Hand Temple</p>\n</blockquote>\n<p> </p>",
     "date_added": 1748130138,
-    "date_updated": 1793638390,
+    "date_updated": 1794086373,
     "date_live": 1748131646,
     "visible": 1,
     "status": 1,
@@ -122561,15 +122561,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/443c/45522762/crop_100x100/semttulo1.png"
     },
     "modfile": {
-      "id": 8417312,
+      "id": 8442101,
       "mod_id": 4961855,
-      "version": "3.1.1.5",
-      "filename": "finesseblugeonweapons_75888327-3qis.zip",
-      "changelog": "- Fixed the text for the Icevein Crusher's special attack.",
-      "date_added": 1793638322,
+      "version": "3.1.1.6",
+      "filename": "finesseblugeonweapons_75888327-hqte.zip",
+      "changelog": "- Fixed an issue where the Axeblade of Dawn wouldn't drop/spawn.",
+      "date_added": 1794086014,
       "date_updated": 0,
-      "date_scanned": 1793638502,
-      "filesize": 97854868,
+      "date_scanned": 1794086193,
+      "filesize": 97854866,
       "platforms": [
         {
           "platform": "windows",
@@ -122643,7 +122643,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8417312
+        "modfile_live": 8442101
       }
     ]
   },
@@ -134811,7 +134811,7 @@
     "summary": "Enhances over 850 NPC combatants with new abilities. These abilities include passives from classes, magic items, feats, and entirely new powers. Notable and powerful characters gain even more new tools to turn up the difficulty.",
     "description": "<p>Enhances every NPC combatant with new passives and abilities intended to expand their capabilities. Every NPC combatant has been assigned a rank, which expands their capabilities and gives them new special abilities, with higher rank combatants gaining more abilities.<br>-Requires the <a href=\"https://mod.io/g/baldursgate3/m/enemy-legends-patch\" target=\"_blank\" rel=\"noopener noreferrer\">Enemy Legends Patch</a> to enable all Legendary Actions on Honor Mode.</p>\n<p>-If you like this mod, you should try the extra encounters added by the new <a href=\"https://mod.io/g/baldursgate3/m/paragon-encounters\" target=\"_blank\" rel=\"noopener noreferrer\">Paragon Encounters</a> mod!</p>\n<p><strong>Ranks: </strong><br>-Grant a new special ability per rank.<br>-Grant Healing Surges akin to potions keep persistent foes in the fight.<br>-Slightly improve stats to enhance accuracy and durability, making their tactics more reliable.<br>-Weapon-users may learn to use status-applying maneuvers.<br>-Spellcasters have additional slots to power their spells.<br>-Advanced enemies have new choices to spend their actions on.</p>\n<p><strong>Special Abilities include:</strong><br>-Class features and Feats to represent additional training and specialization.<br>-Magic item effects to give them new strategies, apply status effects, and empower themselves.<br>-Entirely new passives to keep their opponents on their toes.</p>\n<p><strong>Additional Action Options:</strong><br>-NPCs above Recruit rank now gain additional abilities to spend their actions on, such as weapon actions or spells.<br>-Higher-rank NPCs can use these special abilities more often than NPCs of lower ranks.</p>\n<p><strong>Skill Calculation Fix:</strong><br>-Fixes the broken calculation some base-game NPCs use to calculate their skills, meaning certain NPCs no longer have strange bonuses in certain skills.<br>-These NPCs now properly use proficiency and possibly Expertise to calculate their skills.</p>\n<p><strong>Compatibility:<br></strong>-Requires the <a href=\"https://mod.io/g/baldursgate3/m/enemy-legends-patch\" target=\"_blank\" rel=\"noopener noreferrer\">Enemy Legends Patch</a> to enable all Legendary Actions on Honor Mode.<br>-The extra encounters in <a href=\"https://mod.io/g/baldursgate3/m/paragon-encounters\" target=\"_blank\" rel=\"noopener noreferrer\">Paragon Encounters</a> were designed with this mod, and the loot rewards allow you to use some of the new Enemy Tacticians abilities!<br>-Other extra encounter mods should still include their enemies, but some encounters won't have new abilities from this mod.<br>-Mods such as <strong>Tactician Enhanced</strong> which make changes through applying statuses <strong>should</strong> be compatible.<br>-This rework will likely conflict with any other mods that directly modify the passives, progressions, or boosts of NPCs.<br><em>Known Compatible:</em><br>-PixellBytes' Tactician Enhanced <em>by PixellBytes</em><br>-BG3 - Chocolate Edition <em>by CreativeExcuses</em><br>-Dynamic Difficulty Scaling <em>by GraphicFade</em><br>-Rise of the Goldmembers <em>by ItsMeWaldo<br></em>-Requiem for the Absolute <em>by Lukyrim</em><br><em>Known Conflicts:<br></em>-Enemies Reworked (Combat and faction overhaul) <em>by Rella_mod<br></em>-Combat Extender <em>by Zehtuka</em><br>-HomeBrew - Comprehensive Reworks <em>by HaVeNII7</em><br>-Deadlier Honour Mode <em>by -CH-</em> <em>(though it's only conflicts on a few characters, most will work fine)</em></p>\n<p><strong>Translation Credits:</strong><br>-Spanish / Latin Spanish Translation: <a href=\"https://github.com/incolhermex-droid\" target=\"_blank\" rel=\"noopener noreferrer\">incolhermex-droid</a><br>-Russian Translation: kenlihouls</p>",
     "date_added": 1752250009,
-    "date_updated": 1794030482,
+    "date_updated": 1794092650,
     "date_live": 1752250985,
     "visible": 1,
     "status": 1,
@@ -134825,15 +134825,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2f42/35248327/crop_100x100/scarletfang.png"
     },
     "modfile": {
-      "id": 8438214,
+      "id": 8442682,
       "mod_id": 5085121,
-      "version": "1.5.6.33",
-      "filename": "empoweredfoesflare_f6044512-b0-3nfy.zip",
-      "changelog": "-Iron Consul abilities reworked.\n-Decreased Ketheric and Myrkul's stat increases, and replaced their Netherese Surges with new, unrelated actions.\n-Replaced Gortash's Netherese Surge with a new, unrelated action.\n-Orin is now the sole owner of Netherese Surge, so she can continue her endless turn of rampaging.",
-      "date_added": 1794030398,
+      "version": "1.5.6.34",
+      "filename": "empoweredfoesflare_f6044512-b0-1kwj.zip",
+      "changelog": "-Ketheric's new action slightly strengthened in power.\n-Myrkul's new action targeting reworked.\n-I'll probably be taking another break from any changes to this mod for a while so I can work on other modding projects, but I'm very happy with how this mod has turned out over the years!",
+      "date_added": 1794092551,
       "date_updated": 0,
-      "date_scanned": 1794030407,
-      "filesize": 3177668,
+      "date_scanned": 1794092564,
+      "filesize": 3177795,
       "platforms": [
         {
           "platform": "windows",
@@ -134841,15 +134841,15 @@
         },
         {
           "platform": "mac",
-          "status": 0
+          "status": 3
         },
         {
           "platform": "xboxseriesx",
-          "status": 0
+          "status": 3
         },
         {
           "platform": "ps5",
-          "status": 0
+          "status": 3
         }
       ]
     },
@@ -134917,7 +134917,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8438214
+        "modfile_live": 8442682
       }
     ]
   },
@@ -168297,7 +168297,7 @@
     "summary": "A dynamic combat overhaul that automatically scales enemy levels and HP to your party while introducing many randomized buffs.",
     "description": "<p>Breathe new life into your playthrough! This mod makes vanilla encounters feel completely fresh by dynamically overhauling enemy scaling, injecting randomized mechanics, and introducing deadly elite variants into every fight. Whether you are running the base game or using mods that add entirely new custom encounters, this mod seamlessly adapts to keep the challenge thrilling.<br><br><strong>📈 Dynamic Level &amp; HP Scaling</strong><br>No more outleveling the content. If you are higher than the enemies usual level, they will automatically scale to match the highest-level character in your party (with Bosses scaling slightly higher). Additionally, enemy Hit Points are dynamically adjusted based on both your party's current level and your total party size, ensuring a balanced challenge whether you are playing with a standard group of 4 or a party of 8.<br><br>🛡️ <strong>Pre-Cast Defenses &amp; Racial Traits</strong><br>Every enemy has a chance to enter combat fully prepared. Enemies have a chance to spawn with pre-cast defensive buffs (like <em>Mage Armor</em>, <em>Bless</em>, or <em>Blur</em>). Furthermore, most enemies receive unique passive traits tailored to their specific race.<br><br>👑 <strong>Boss Mechanics &amp; Leader Auras</strong><br>Major fights are now significantly more tactical. Bosses gain Damage Reduction when they are attacked, making them a bit more durable. Additionally, specific \"Leader\" NPCs will project powerful, randomized Auras that buff their surrounding allies or punish players who get too close.<br><br>⚔️ <strong>Champions &amp; Minor Buffs</strong><br>Combat is no longer predictable. Whenever you enter a fight, standard enemies have a chance to be upgraded into enhanced variants:</p>\n<ul>\n<li><strong>Minor Buffs:</strong> The enemy gains a random, unique advantage—such as extended attack range, supernatural movement speed, or spell-reflecting shields.</li>\n<li><strong>Champions:</strong> The enemy is transformed into a deadly Champion Archetype (such as a Blood Knight, Plaguebringer, Enchanter, or Berserker). Champions possess unique passives that alter how you must fight them.</li>\n</ul>\n<p>💰 <strong>Enhanced Loot</strong><br>Risk equals reward. Enemies that spawn with Minor Buffs will drop 1 to 2 extra items upon death, while the Champions will drop 2 to 3 pieces of higher-tier loot, ensuring your party is well-compensated for the added difficulty.</p>\n<p> </p>\n<p><strong>View <a href=\"https://www.nexusmods.com/baldursgate3/articles/1827\">Articles</a> for more information.</strong></p>\n<p><br><u>Known Conflicts</u></p>\n<p>- Mods that adjust the spell Control Undead.<br>- Mods that adjust an NPC's HP based on % have a semi-conflict - meaning the game would use whatever HP % rate is higher.<br><br>Champion Icons by <a href=\"https://mod.io/g/baldursgate3/u/edhelsereg\">Edhelserg</a><br>Spanish Translation by: Hermex<br>Russian Translation by: <a href=\"https://mod.io/u/janeflo2010/\">jane_flo2010</a><br><br></p>\n<div style=\"text-align:center;\">Join my Discord Server!</div>\n<div style=\"text-align:center;\"><a href=\"https://discord.gg/ggEqVkVQjG\"><img src=\"https://i.ibb.co/5hgC28yD/Faded-Dice-Icon.png\" alt=\"Faded-Dice-Icon.png\"></a><br>Buy me a coffee 💜<br><a href=\"https://ko-fi.com/graphicfade/donate\"><img src=\"https://i.imgur.com/mnuuR3n.png\" alt=\"mnuuR3n.png\"></a><br><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"btn_donate_LG.gif\"></a></div>\n<p><a href=\"https://www.paypal.com/donate/?business=DRQMZJW4GLNNG&amp;no_recurring=0%C2%A4cy_code=USD\"><br></a><br><u>Check out my other mods!</u><br><br>Equipment --- <a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-fed\">Fade's Equipment Distribution</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio\">Fade's Equipment Distribution AIO</a><br><a href=\"https://mod.io/g/baldursgate3/m/gifts-of-the-absolute-branded-equipment\">Gifts of the Absolute: Branded Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/unarmed-and-upgraded-monk-equipment\">Unarmed and Upgraded: Monk Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/faith-and-fortitude-cleric-equipment\">Faith and Fortitude: Cleric Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/grove-and-growl-druid-equipment\">Grove and Growl: Druid Equipment</a> <br><a href=\"https://mod.io/g/baldursgate3/m/beast-and-bow-ranger-equipment\">Beast and Bow: Ranger Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/wands-and-weave-wizard-equipment\">Wands and Weave: Wizard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/song-and-steel-bard-equipment\">Song and Steel: Bard Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/pact-and-power-warlock-equipment\">Pact and Power: Warlock Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/veil-and-venom-rogue-equipment\">Veil and Venom: Rogue Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/rage-and-resilience-barbarian-equipment\">Rage and Resilience: Barbarian Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/might-and-metal-fighter-equipment\">Might and Metal: Fighter Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/chaos-and-control-sorcerer-equipment\">Chaos and Control: Sorcerer Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/oath-and-order-paladin-equipment\">Oath and Order: Paladin Equipment</a><br><a href=\"https://mod.io/g/baldursgate3/m/fades-assorted-treasure-expansion#description\">Fade's Assorted Treasure Expansion</a><br><br>Spells ---<br><a href=\"https://mod.io/g/baldursgate3/m/unholy-smite-empowering-oathbreakers\">Unholy Smite for Oathbreakers</a><br><a href=\"https://mod.io/g/baldursgate3/m/beyond-divine-smite\">Beyond Divine Smite</a><br><br>Visuals ---<br><a href=\"https://mod.io/g/baldursgate3/m/shadow-cursed-nimbus#description\">Shadow-Cursed Nimbus (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/nimbus-recolored#description\">Nimbus Recolored (Hound of Ill Omen Recolor)</a><br><a href=\"https://mod.io/g/baldursgate3/m/scratch-recolored-husky#description\">Scratch Recolored: Husky</a><br><br>Quality of Life ---<br><a href=\"https://mod.io/g/baldursgate3/m/improved-pickpocketing\">Improved Pickpocketing</a><br><a href=\"https://mod.io/g/baldursgate3/m/fair-trade-in-faerun\">Fair Trade in Faerûn</a><br><a href=\"https://mod.io/g/baldursgate3/m/tutorial-chest-original-inventory\">Tutorial Chest - Original Inventory</a><br><a href=\"https://mod.io/g/baldursgate3/m/fed-camp-chest#description\">Fade's Camp Chest</a><br><a href=\"https://mod.io/g/baldursgate3/m/simply-more-gold-2x#description\">Simply More Gold (2x)</a><br><br>Gameplay ---<br><a href=\"https://www.nexusmods.com/baldursgate3/mods/22290\">Dynamic Enemy Encounters</a><br><a href=\"https://www.nexusmods.com/games/baldursgate3/mods/23013\">Dynamic Difficulty Scaling</a><br><a href=\"https://mod.io/g/baldursgate3/m/early-access-illithid-powers-restored#description\">Early Access Illithid Powers Restored</a><br><a href=\"https://mod.io/g/baldursgate3/m/leader-homebrew-class#description\">Leader Homebrew Class</a><br><a href=\"https://mod.io/g/baldursgate3/m/sorcerer-subclass-conflagrant-soul#description\">Sorcerer Subclass - Conflagrant Soul<br></a><a href=\"https://www.nexusmods.com/baldursgate3/mods/21569\">Fade's Randomized Early Equipment</a></p>",
     "date_added": 1779484652,
-    "date_updated": 1793978101,
+    "date_updated": 1794084644,
     "date_live": 1787266743,
     "visible": 1,
     "status": 1,
@@ -168311,15 +168311,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8434535,
+      "id": 8441991,
       "mod_id": 6077436,
-      "version": "1.0.0.24",
-      "filename": "dynamicdifficultyscaling_51c67-abd1.zip",
-      "changelog": "• Potential fix for damage looping from Warding Bond\n• Soul-Binder Champion link will now only link to party members within 30 meters.",
-      "date_added": 1793978021,
+      "version": "1.0.0.25",
+      "filename": "dynamicdifficultyscaling_51c67-cre1.zip",
+      "changelog": "• Actually fixed XP Reduction non-lethal attacks (Wasn't tested before).",
+      "date_added": 1794084551,
       "date_updated": 0,
-      "date_scanned": 1793978076,
-      "filesize": 26547802,
+      "date_scanned": 1794084601,
+      "filesize": 26548602,
       "platforms": [
         {
           "platform": "windows",
@@ -168413,7 +168413,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8434535
+        "modfile_live": 8441991
       }
     ]
   },
