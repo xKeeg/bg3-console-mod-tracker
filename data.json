@@ -60279,7 +60279,7 @@
     "summary": "Gold Digger Summon 10,000 weightless gold into the shared Party Magic Pocket. The pocket won't drop below 10,000 as spent gold is automatically replenished. All party members get a reusable spell.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/golddigger_icon_title.png\" alt=\"\" width=\"400\" height=\"225\"></p>\n<h2><strong><span style=\"font-family:Roboto, sans-serif;font-size:large;background-color:#444444;color:#f1c232;\">Gold Digger (Gold no Weight )  for mod.io by SFR</span></strong></h2>\n<h2><br><span style=\"font-family:Roboto, sans-serif;font-size:large;font-weight:300;background-color:#444444;color:#ffff00;\">With this mod, you gain a spell to summon <strong>10,000</strong> weightless gold into the shared Party <strong>Magic Pocket</strong>.<br></span><span style=\"font-family:Roboto, sans-serif;font-size:large;font-weight:300;background-color:#444444;color:#ffff00;\">You can use this spell multiple times.<br></span><span style=\"font-family:Roboto, sans-serif;font-size:large;font-weight:300;background-color:#444444;color:#ffff00;\">The Magic Pocket will never drop below 10,000 gold, even when <strong>spending or trading</strong>, as it will <strong>automatically replenish the spent amount</strong>.<br></span><span style=\"font-family:Roboto, sans-serif;font-size:large;font-weight:300;background-color:#444444;color:#ffff00;\">Upon loading a game, you will receive a starting capital of 10,000 gold in the Magic Pocket (excluding private gold).<br></span><span style=\"font-family:Roboto, sans-serif;font-size:large;font-weight:300;background-color:#444444;color:#ffff00;\">Characters joining the party will have access to the Magic Pocket, and characters leaving will return their gold to it.<br></span><strong><span style=\"font-family:Roboto, sans-serif;font-size:large;background-color:#444444;color:#ffff00;\">Install this mod and forget about looting gold—because from now on, you'll never run out of cash!</span></strong></h2>\n<h2><strong><span style=\"font-family:Roboto, sans-serif;font-size:large;background-color:#444444;color:#ffff00;\">Uninstalling<br></span></strong><span style=\"font-family:Roboto, sans-serif;font-size:large;background-color:#444444;color:#ffff00;\">The mod can be cleanly removed by dropping all Gold from a party member.</span><span style=\"font-family:Roboto, sans-serif;font-size:large;background-color:#444444;color:#ffff00;\"><br>After that, the mod will be ready for removal.<br>The Gold will not be lost it will remain on the ground.</span></h2>\n<p> </p>\n<p><span style=\"color:#ff7700;font-family:Roboto, sans-serif;font-size:large;background-color:#444444;\">The </span><strong><span style=\"color:#ff7700;font-family:Roboto, sans-serif;font-size:large;background-color:#444444;\">Magic Pocket</span></strong><span style=\"color:#ff7700;font-family:Roboto, sans-serif;font-size:large;background-color:#444444;\"> is used for transferring <strong>key items, story items, and gold</strong> between party members when needed. There are no distance restrictions, allowing characters to access gold or items even if they are in a different region of the game. The mod </span><em><strong><span style=\"color:#ff7700;font-family:Roboto, sans-serif;font-size:large;background-color:#444444;\">\"Gold Digger\"</span></strong></em><span style=\"color:#ff7700;font-family:Roboto, sans-serif;font-size:large;background-color:#444444;\"> utilizes this mechanic.</span></p>\n<p><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p><strong>Try my Other Mods</strong></p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/everlasting-camp-provisions\">https://mod.io/g/baldursgate3/m/everlasting-camp-provisions</a></p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/infinitespellcasting\">https://mod.io/g/baldursgate3/m/infinitespellcasting</a></p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/projectile-plus\">https://mod.io/g/baldursgate3/m/projectile-plus</a></p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/throw-plus\">https://mod.io/g/baldursgate3/m/throw-plus</a></p>\n<p><a href=\"https://mod.io/g/baldursgate3/m/god-hero\">https://mod.io/g/baldursgate3/m/god-hero</a></p>",
     "date_added": 1728932920,
-    "date_updated": 1789694337,
+    "date_updated": 1794480630,
     "date_live": 1728935917,
     "visible": 1,
     "status": 1,
@@ -60293,15 +60293,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 7481178,
+      "id": 8467480,
       "mod_id": 4413268,
-      "version": "6.2.8.0",
-      "filename": "golddigger_26b5bda9-5bbd-f532-5sek.zip",
-      "changelog": "Dismissing a companion to camp and rejoining no longer incorrectly grants gold on each rejoin — Magic Pocket is shared, no equalization neededHireling purchases now correctly trigger vendor refill — hireling GUIDs were not excluded from the vendor filter causing false top-ups\nAdded confirmation dialog before uninstall — drop gold to trigger, choose Cancel to abort or Remove to proceed\nGold is automatically returned to Magic Pocket before the dialog opens regardless of choice\nAll mod messages now display the title in bold gold color\nAll player-visible strings moved to a single translation block for easy localization\nSummons and Mage Hand no longer lose gold on dismiss or death — recovered automatically to Magic Pocket",
-      "date_added": 1772996133,
+      "version": "6.2.8.2",
+      "filename": "golddigger_26b5bda9-5bbd-f532-amqf.zip",
+      "changelog": "minor fixes and enhancements",
+      "date_added": 1794480584,
       "date_updated": 0,
-      "date_scanned": 1772996170,
-      "filesize": 17774253,
+      "date_scanned": 1794480621,
+      "filesize": 17575573,
       "platforms": [
         {
           "platform": "windows",
@@ -60309,15 +60309,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -60367,10 +60367,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7481178
-      },
-      {
         "platform": "mac",
         "modfile_live": 7481178
       },
@@ -60381,6 +60377,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7481178
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8467480
       }
     ]
   },
@@ -147943,109 +147943,6 @@
       {
         "platform": "ps5",
         "modfile_live": 8151224
-      }
-    ]
-  },
-  {
-    "id": 5309468,
-    "game_id": 6715,
-    "name": "RS Black&amp;Gold Piercings",
-    "name_id": "rs-black-gold-piercings",
-    "summary": "Black &amp; gold versions of vanilla piercings for all races",
-    "description": "<h2>Black &amp; gold versions of vanilla piercings for all races</h2>\n<p>You'll find them right after all the silver vanilla piercings</p>\n<p> </p>\n<blockquote>\n<p><span style=\"text-decoration:underline;\"><span style=\"font-size:x-large;\">IMPORTANT:</span></span><br>The mod may cause crashes when entering some areas in Act 3, and in the Githyanki Creshe in Act 1. If you experience this in a different area, do mention it in the related post in the <a href=\"https://www.nexusmods.com/baldursgate3/mods/19358?tab=bugs\">bugs tab</a> on the mod's Nexus page. I'm looking into the issue.<br>To continue just disable the mod in the mod manager.</p>\n</blockquote>",
-    "date_added": 1761266080,
-    "date_updated": 1776782353,
-    "date_live": 1761266080,
-    "visible": 1,
-    "status": 1,
-    "dependencies": false,
-    "profile_url": "https://mod.io/g/baldursgate3/m/rs-black-gold-piercings",
-    "submitted_by": {
-      "id": 23079731,
-      "name_id": "remotelysane",
-      "username": "remotelysane",
-      "profile_url": "https://mod.io/u/remotelysane",
-      "profile_img_100x100_url": "https://thumb.modcdn.io/members/43bb/23079731/crop_100x100/grump.4.png"
-    },
-    "modfile": {
-      "id": 6871696,
-      "mod_id": 5309468,
-      "version": "1.0.0.1",
-      "filename": "rs_blackgoldpiercings_8dab5d7f-gutq.zip",
-      "changelog": null,
-      "date_added": 1761266088,
-      "date_updated": 0,
-      "date_scanned": 1761266100,
-      "filesize": 4066111,
-      "platforms": [
-        {
-          "platform": "windows",
-          "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 1
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 1
-        },
-        {
-          "platform": "ps5",
-          "status": 1
-        }
-      ]
-    },
-    "logo": {
-      "filename": "modthumbnail.png",
-      "original": "https://image.modcdn.io/mods/c0d7/5309468/modthumbnail.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_320x180/modthumbnail.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_640x360/modthumbnail.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_1280x720/modthumbnail.png"
-    },
-    "tags": [
-      {
-        "name": "Customisation",
-        "name_localized": "Customisation",
-        "date_added": 0
-      },
-      {
-        "name": "Available on Mac and Console",
-        "name_localized": "Available on Mac and Console",
-        "date_added": 0
-      },
-      {
-        "name": "Piercings",
-        "name_localized": "Piercings",
-        "date_added": 0
-      },
-      {
-        "name": "All Races",
-        "name_localized": "All Races",
-        "date_added": 0
-      },
-      {
-        "name": "English",
-        "name_localized": "English",
-        "date_added": 0
-      }
-    ],
-    "platforms": [
-      {
-        "platform": "windows",
-        "modfile_live": 6871696
-      },
-      {
-        "platform": "mac",
-        "modfile_live": 6871696
-      },
-      {
-        "platform": "xboxseriesx",
-        "modfile_live": 6871696
-      },
-      {
-        "platform": "ps5",
-        "modfile_live": 6871696
       }
     ]
   },
