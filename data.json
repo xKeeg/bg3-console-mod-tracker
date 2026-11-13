@@ -11022,7 +11022,7 @@
     "summary": "5 horn styles in silver, gold and black for all body types",
     "description": "<p style=\"color:#ff6e7a;font-family:'Segoe UI', 'sans-serif';font-size:18px;font-style:normal;font-weight:600;\">Adds 5 styles of horns in the colors of silver, gold and black, for all body types. </p>\n<p>In-game previews in the images.</p>\n<p style=\"text-align:center;\"> </p>\n<blockquote>\n<h2><span style=\"text-decoration:underline;\"><strong>Regarding Future Updates:</strong></span></h2>\n<p>If you run into the impossible update problem, you will have to disable and remove the mod in game, exit the game, manually delete it from the <em><strong>%LOCALAPPDATA%\\Larian Studios\\Baldur's Gate 3\\Mods</strong> </em>directory, and boot the game up and resubscribe via in-game mod manager.<br><br>If you're just looking to delete it from LocalAppData, make sure the game isn't running.</p>\n</blockquote>\n<p> </p>\n<p><strong><em>Now on Mac and Console</em></strong></p>\n<center>\n<p> </p>\n<p> </p>\n</center>",
     "date_added": 1724438310,
-    "date_updated": 1734295884,
+    "date_updated": 1794522273,
     "date_live": 1724442388,
     "visible": 1,
     "status": 1,
@@ -147943,6 +147943,109 @@
       {
         "platform": "ps5",
         "modfile_live": 8151224
+      }
+    ]
+  },
+  {
+    "id": 5309468,
+    "game_id": 6715,
+    "name": "RS Black and Gold Piercings",
+    "name_id": "rs-black-gold-piercings",
+    "summary": "Black &amp; gold versions of vanilla piercings for all races",
+    "description": "<h2>Black &amp; gold versions of vanilla piercings for all races</h2>\n<p>You'll find them right after all the silver vanilla piercings</p>\n<p> </p>\n<blockquote>\n<p><span style=\"text-decoration:underline;\"><span style=\"font-size:x-large;\">IMPORTANT:</span></span></p>\n<p>FIXED CRASHES around the areas like the Githyanki creshe, Elfsong tavern, astral plane, and more. Please give it some time for moderators to approve the update.</p>\n</blockquote>",
+    "date_added": 1761266080,
+    "date_updated": 1794520138,
+    "date_live": 1794519997,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/rs-black-gold-piercings",
+    "submitted_by": {
+      "id": 23079731,
+      "name_id": "remotelysane",
+      "username": "remotelysane",
+      "profile_url": "https://mod.io/u/remotelysane",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/43bb/23079731/crop_100x100/grump.4.png"
+    },
+    "modfile": {
+      "id": 8469680,
+      "mod_id": 5309468,
+      "version": "1.0.0.2",
+      "filename": "rs_blackgoldpiercings_8dab5d7f-dgru.zip",
+      "changelog": "FIXED CRASHES AROUND GITHYANKI CRESHE, ELFSONG, ASTRAL PLANE, AND MORE",
+      "date_added": 1794519497,
+      "date_updated": 0,
+      "date_scanned": 1794519678,
+      "filesize": 4031512,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
+        }
+      ]
+    },
+    "logo": {
+      "filename": "modthumbnail.png",
+      "original": "https://image.modcdn.io/mods/c0d7/5309468/modthumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_320x180/modthumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_640x360/modthumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/c0d7/5309468/crop_1280x720/modthumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Piercings",
+        "name_localized": "Piercings",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 6871696
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6871696
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6871696
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8469680
       }
     ]
   },
