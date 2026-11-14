@@ -85986,7 +85986,7 @@
     "summary": "The unofficial community bug fix mod - Over 2000 fixes! Perpetually a work in progress, this mod's goal is to provide fixes to broken items and spells (and much more) as they are discovered.",
     "description": "<p>The unofficial community bug fix mod - <strong>Over 2000 fixes!</strong></p>\n<p>Special thanks to <em>Studdmuffinn101</em>, <em>JuuM</em>, <em>XiphiasRex</em>, <em>Ramzilla95</em>, <em>LostSoul, </em><em>Bert, joow, MaxStrengthWizard, </em>and the <em>bg3.wiki team</em> for all of their contributions.<br><br>A very special \"thank you\" to the following users who have provided translations for the mod:<br>bodenfrost - Deutsch<br>kon4arich - Русский<br>ZorkyNinja - українська<br>Fuyou1066 - 汉语/漢語<br>Giacogiac - Français<br>MarcoReckless - Italiano<br>Meto - Español<br>Nyxveilithra and Vituperioso - Português<br>Ahdarugo - 한국인<br><br><strong>Items, Attacks, Spells, Conditions, Classes, Feats, Passives, Reactions, NPCs, Animations, Scripts, and more </strong><br><br>The changelog has long exceeded the size available for display through mod.io, and as such players are encouraged to view the full changelog at <a href=\"https://tinyurl.com/itemandspell\">https://tinyurl.com/itemandspell</a></p>\n<p>(<a href=\"https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)\">https://docs.google.com/document/d/e/2PACX-1vTJzk9BI3wB2f7ZVDkQYj-SzuhgGuMc5UvVBoW25cRAjy9NAwhXSd9a2fRgl2so7TDDHtuCp5Eny0ug/pub)</a><br><br>Looking for dialogue fixes? Check out <a href=\"https://www.nexusmods.com/baldursgate3/mods/15125\">Lesser Restoration</a> from HyperspaceTowel on NexusMods!</p>",
     "date_added": 1734434091,
-    "date_updated": 1793765019,
+    "date_updated": 1794630133,
     "date_live": 1734434224,
     "visible": 1,
     "status": 1,
@@ -86000,15 +86000,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/385f/35732109/crop_100x100/1000004912.png"
     },
     "modfile": {
-      "id": 8424329,
+      "id": 8476223,
       "mod_id": 4561805,
-      "version": "4.8.7.1",
-      "filename": "itembugfix_010e73d5-9342-e528-aptg.zip",
-      "changelog": "One more update, because I missed you all\n- Jaheira no longer incorrectly turns hostile after the Moonrise Towers assault if Isobel takes damage from persistent damage sources\n- - Warning: This fix required a change to the base game script GLO_Companion_Jaheira and any other mods that change this script will conflict (as always, load this mod at the top of your order)\n- He Who Was now correctly has a level 4 spell slot to cast his Confusion spell with\n- Writhing Tide now immediately gives immunity to surface effects upon cast, rather than upon landing\n- Boots of Psionic Movement 'Flying Strike' now correctly works with Writhing Tide\n- Phase Spider Matriarch 'Gossamer Tomb' now correctly deals 8d10 damage in Honour mode\n- Mobile: Evade Opportunity Attack now correctly only prevents Opportunity Attacks to the original source of the \"Sluggardly\" status\n- Panache now correctly only limits Opportunity Attacks to the original source of the \"Panache: Disadvantage\" status\n- Cloak of Cunning Brume 'Cunning Brume' English description improvement\n- Land's Stride: Difficult Terrain description improvement\n- Rivington crafted ring returned to original \"Magic Ring\" name, Rigour of the Tempest passive remains\n- Previous fix to Slashing Flourish (Ranged) reverted (go nuts, Swords Bards)",
-      "date_added": 1793764216,
+      "version": "4.8.8.1",
+      "filename": "itembugfix_010e73d5-9342-e528-dala.zip",
+      "changelog": "- Salty Scimitar(rrr) 'Command' no longer incorrectly states it requires concentration\n- 'Charmed' condition is now correctly broken by all damaging attacks dealt by the source of the condition or its allies\n- - Description now states it is removed when attacked by the caster or its allies\n- 'Panache: Disadvantage' condition is now correctly broken by all damaging attacks dealt by anyone other than the source of the condition\n- Gerringothe Thorm: Jealous Avarice and Justiciar Crusader: Overwhelming Grief can no longer incorrectly directly target a creature protected by Sanctuary\n- NPC version of Deep Rothé 'Gore' now correctly deals magical damage\n- Flying Ghoul 'Claws' now correctly deals non-lethal damage when attacking Isobel in Act 2\n- Vampire Spawn 'Claws' now correctly deals non-lethal damage when attacking Astarion in Act 3\n- Phase Spider Matriarch no longer incorrectly awards experience twice when dying to Booming Blade or Ruptured damage\n- Fleshrender 'Part the Flesh' now correctly lists the damage it deals on its tooltip",
+      "date_added": 1794630117,
       "date_updated": 0,
-      "date_scanned": 1793764231,
-      "filesize": 2296706,
+      "date_scanned": 1794630125,
+      "filesize": 2298798,
       "platforms": [
         {
           "platform": "windows",
@@ -86016,15 +86016,15 @@
         },
         {
           "platform": "mac",
-          "status": 3
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 3
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 3
+          "status": 0
         }
       ]
     },
@@ -86122,7 +86122,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8424329
+        "modfile_live": 8476223
       }
     ]
   },
@@ -122653,7 +122653,7 @@
     "summary": "Mod pack that adds 50 weapons with the 'Finesse' tag to the tutorial chest, and spread throughout the world.",
     "description": "<h3>[15/10/2026] Now available on consoles!</h3>\n<h2>-----------------------------------------------------------------------------------------------------------------------</h2>\n<p>Not enough weapons with the 'Finesse' tag? </p>\n<p>This mod adds 50 unique weapons that can be used effectively with your DEX modifier.</p>\n<p>The weapons can be found in the tutorial chest (unless you're using a mod that overrides its contents), but they're also placed in semi-thought out places.</p>\n<p> </p>\n<p>(The previous version of the mod included only bludgeoning weapons. That restricition was ditched due to how limiting it was towards what weapons could be created. The weapons from that version are still present, some have been altered/fixed.)</p>\n<p> </p>\n<p><em><strong>DISCLAIMER: The 'new' models in the mod were created from assets already present in the toolkit.</strong></em></p>\n<p> </p>\n<p>Special thanks to the members of the Toolkit Modding section in the Larian discord, in particular <a href=\"https://baldursgate3.game/mods#/u/xiphiasrex/\" target=\"_blank\" rel=\"noopener noreferrer\">@XiphiasRex</a>, @EvilSnail0fDestruktion, @Sukamonn.</p>\n<p>Also a special thanks to my buddy <a href=\"https://www.instagram.com/escutegontcha/\" target=\"_blank\" rel=\"noopener noreferrer\">Gontcha</a>, who doesn't even play the game, but helped me with a few icons.</p>\n<p> </p>\n<p> </p>\n<p>Check out my other mod: <a href=\"https://mod.io/g/baldursgate3/m/b52stimelostweaponry#description\">B52's Timelost Arsenal</a>!</p>\n<h2><strong>-SPOILERS-</strong></h2>\n<p> </p>\n<p>After the tutorial, the weapons can be found in the following places:</p>\n<p> </p>\n<blockquote>\n<p>Bar Mace: Chest in crashed Nautiloid, one corpse in the crash area, shops.</p>\n<p>Iron Whip: Backpack near Abdirak inside the Goblin Camp.</p>\n<p>Dextrous Cultist Branding Iron: Priestess Gut</p>\n<p>Bar Mace +1: Shops, randomized loot drops.</p>\n<p>Chiontar' Flow: Corpse in the Nautiloid Crash Area</p>\n<p>Thrice-Blade: Ogre in the Blighted Village</p>\n<p>Flaming Fist's Arming Sword: Dead Tiefling in Blighted Village</p>\n<p>War-Trick: Minthara</p>\n<p>Militia's Handaxe: Bandit's Outside Crypt.</p>\n<p>Enforcer Electric Club: Blighted Village Chest.</p>\n<p>Dragon's Horns Trident: Skeleton near river, near hyenas/gnolls in Act 1.</p>\n<p>Axe of the Brutish Warlord: Barbarian Duergar near Underdark Raft (Gekh Coal's underling)</p>\n<p>Spine of the Chilling Fiend: Harpy's Nest</p>\n<p>Chattering Skull of the Necromancer: Auntie Ethel</p>\n<p>Foreign Haladie: Locked crate near crashed nautiloid (usually contains leather helmet)</p>\n<p>Blade of the Sacrifical Mage: Gur Hunter's backpack (near Ethel's house)</p>\n<p>Corellon's Guidance: Zhentarim Chest - Goblin Camp</p>\n<p>Icevein Crusher: Filro the Forgotten - Underdark</p>\n<p>Guilded Torch of the Night: Underdark Selunite Outpost</p>\n<p>Goblin King's Scimitar: Chest after Dror Ragzlin Fight.</p>\n<p>Eastern-Lands Katar: Chest in Zhentarim hideout (behind locked gate near wolves)</p>\n<p>Western-Lands Katar: Chest in Waukeen's Rest (Same chest as Hamarhraft).</p>\n<p>Great Saw Sword: Chest in Masonry (Same chest as Helmet of Arcane Acuity)</p>\n<p>Sharrite Ceremonial Blade: Chest in Shar's Spear room. (Library)</p>\n<p>Lolth Loyalist's Arming Sword: Dhourn (Drow near Spectator in the Underdark)</p>\n<p>Bar Mace + 2: Shops, Randomized drops.</p>\n<p>Oakfather's Sickle: Kagha's chest in Druid Grove.</p>\n<p>Weight of the Faithful: Chest in Goblin Camp Prison.</p>\n<p>Brutish Rapier: Herdmaster Skarjall (the one Duergar hitting the Rothé)</p>\n<p>The Maw of Nine Hells: Chest near Nessa (Yurgir's Displacer Beast)</p>\n<p>Crackling Fangs: Reward from Alfira (rescuing Tieflings from Moonrise)</p>\n<p>Watcher's Hook: Chest in Steel Foundry (metal chest near Elevator. The chest contains metal bars)</p>\n<p>Star Mace: Selûne Chest under Stromshore Tabernacle</p>\n<p>Adamantine Hook Blade: Grym (Adamantine Golem)</p>\n<p>Guilded Hook Blade: Chest in W'Wargaz's room.</p>\n<p>Death Knight's Blade: Chest in Ketheric's room (Moonrise Towers)</p>\n<p>High Druid's Thorn Lash: (Chest in Reithwin Tollhouse)</p>\n<p>Thisobald's Elixir Ladle: Thisobald Thorm - Waning Moon.</p>\n<p>Yurgir's Bluntblade: Yurgir - Sharran Temple</p>\n<p>Silvertongue's Shieldbow: Prison Warden in Moonrise Towers.</p>\n<p>Terrible Sickle: Dribbles' doppelganger</p>\n<p>Staff of the Mad Warlock: Mimic inside Moonrise Towers.</p>\n<p>Resonating Glass Blackjack: Nylruna's Chest</p>\n<p>Eldritch Force Scepter: Stormshore Tabernacle - Underground Chests</p>\n<p>Bhaalist Trifecta: Helena Anchev (Orin's Room)</p>\n<p>Mysterious Artifact Hammer: Githyanki's under Elfson Tavern.</p>\n<p>AxeBlade of Dawn: Chest inside Rosymorn Monastery (Inquisitor room)</p>\n<p>Murder God's Devout Blade: Sarevok.</p>\n<p>Mammon's Sword of Greed: Chest upstairs inside Devil's Fee.</p>\n<p>The Caustic Mallet: One of the doppelgangers under the Open Hand Temple</p>\n</blockquote>\n<p> </p>",
     "date_added": 1748130138,
-    "date_updated": 1794363521,
+    "date_updated": 1794627477,
     "date_live": 1748131646,
     "visible": 1,
     "status": 1,
@@ -122667,15 +122667,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/443c/45522762/crop_100x100/semttulo1.png"
     },
     "modfile": {
-      "id": 8460525,
+      "id": 8476034,
       "mod_id": 4961855,
-      "version": "3.1.1.8",
-      "filename": "finesseblugeonweapons_75888327-6og2.zip",
-      "changelog": "- Fixed an issue where the passive \"Maddeningly Precise\" (Staff of the Mad Warlock) wasn't working as intended.",
-      "date_added": 1794363429,
+      "version": "3.1.1.9",
+      "filename": "finesseblugeonweapons_75888327-9d8n.zip",
+      "changelog": "- Fixed an issue where the High Druid's Thorn Lash wouldn't be affected by \"Eternal Shillelagh\" whatsoever.",
+      "date_added": 1794627103,
       "date_updated": 0,
-      "date_scanned": 1794363639,
-      "filesize": 97854836,
+      "date_scanned": 1794627275,
+      "filesize": 97855090,
       "platforms": [
         {
           "platform": "windows",
@@ -122749,7 +122749,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8460525
+        "modfile_live": 8476034
       }
     ]
   },
