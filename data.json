@@ -124605,7 +124605,7 @@
     "summary": "BG3 - Chocolate Edition is a massive rebalance mod touching almost every aspect of character building. Spells, feats, classes, subclasses, initiative, and more have all seen changes to make the game a different flavor of fun for a new run.",
     "description": "<h2>Welcome to Chocolate Edition v4!</h2>\n<p>(v4 does not appear to need a fresh save to work just fine. New items will appear on vendors when their inventory refreshes, new items placed in the world will just be there, and I am not totally sure about loot from enemies you have already killed)</p>\n<p>IF YOU UPDATE MID GAME from 3.0.0.107 (or earlier) to 3.0.0.108 (or higher) AND ARE PLAYING A RANGER - YOU MUST RESPEC. If you are experiencing crashing while trying to level up a ranger, you must respec. I had to fix a bug I caused who knows when which required a UUID fix to Ranger spell lists and their progression table. If you do not respec, you are likely to get a repeatable crash.</p>\n<h2>For full mod details, check out the website! <a href=\"https://bg3chocolate.carrd.co\" target=\"_blank\" rel=\"noopener noreferrer\">bg3chocolate.carrd.co</a></h2>\n<p>(If having issues accessing the website, check if you have a VPN on)</p>\n<h2>This is a homebrew, chocolate coating on the excellent Vanilla core BG3 experience with changes to almost every aspect of character building including:</h2>\n<ul>\n<li>\n<h3>Initiative Changes</h3>\n</li>\n<li>\n<h3>Weapon Cantrip Rule Changes</h3>\n</li>\n<li>\n<h3>Major Class Changes</h3>\n</li>\n<li>\n<h3>Minor Class Changes</h3>\n</li>\n<li>\n<h3>Extra Feats at level 2</h3>\n</li>\n<li>\n<h3>New Origin Classes</h3>\n</li>\n<li>\n<h3>New \"minor classes\" for non-Origin companions and Durge</h3>\n</li>\n<li>\n<h3>Cantrip - Level 6 Spell changes</h3>\n</li>\n<li>\n<h3>Feat Changes</h3>\n</li>\n<li>\n<h3>16 New Feats</h3>\n</li>\n<li>\n<h3>40+ Vanilla Item Buffs</h3>\n</li>\n<li>\n<h3>20 New Weapons</h3>\n</li>\n<li>\n<h3>11 New Armors and Jewelry</h3>\n</li>\n<li>\n<h3>10 Pocket Charms (items with passives useable from your inventory!)</h3>\n</li>\n</ul>\n<h3>This is intended to be a one stop shop to a fresh BG3 experience without relying on other mods to be kept updated, and without bloating your load order on console. Why use lot mod when one mod do trick?</h3>\n<h3><a href=\"https://mod.io/g/baldursgate3/c/chocolate-edition-expansion-official#mods\">If you want even more that I haven't done, check out the official Chocolate Edition mod list for what I love playing alongside this!</a></h3>\n<p>Remember! Before submitting bugs, check the PDF for anything relevant in case what you think is a bug is just a feature! Once you've done that, feel free to comment or report bugs through the official feature, or to <a href=\"https://discord.gg/CP36VuDYHu\">join my discord to chat about what's going on.</a></p>\n<p>Feel free to use new class mods alongside this, but I would HIGHLY recommend not using any mods that modify vanilla classes listed anywhere in the patch notes (subclass mods are usually fine). I cannot offer support for bugs caused by mod conflicts very often. I would also advise against using spell rebalance mods, though spell addition mods like Mystra's Spells should be fine (excluding the balancing differences between Mystra's Spells and this mod).</p>\n<h2><span style=\"text-decoration:underline;\">Conflicts</span></h2>\n<ul>\n<li>Any mod that alters the \"Origin\" entries in the toolkit including mods that allow origin characters to use the Magic Mirror - the conflict is only that you will have to respec your origin companions into their origin classes if you wish to use them. And Shadowheart won't start with a dagger as I have modified her to.</li>\n<li>Spell rebalance mods</li>\n<li>Mods that alter subclasses or classes</li>\n<li>Mods that alter or rebalance feats</li>\n<li>Mods that alter or rebalance elixirs</li>\n<li>Mods that *add* subclasses should use progression merges for best practices, but conflicts with Wizard, Ranger, Warlock, Druid, and Paladin subclasses from previous versions have been resolved on the Chocolate Edition side as of the most recent version available on PC. Console awaits an update still.</li>\n</ul>\n<p>Note about conflicts: Mod conflicts are not inherently a bad thing. You just need to make sure the mod you want to \"win\" the conflict is loaded later in your load order. To do this on consoles or through the in game mod manager, supposedly you can de-activate all mods in your list and then reactivate them in the order that you choose. This will tell the game what order to load the mods in.</p>\n<h2>Updated for the July 2026 Modathon!</h2>\n<p><img src=\"https://image.modcdn.io/members/2890/34817058/profile/bg3modathon.png\" alt=\"\" width=\"800\" height=\"420\"></p>\n<p> </p>\n<p>AI Use Disclosure:</p>\n<ul>\n<li>AI was used <em>only</em> to write khonsu condition scripts (essentially LUA scripts). I knew what checks I needed, I just didn't know how to write them.</li>\n<li>AI was not used to generate any art.</li>\n<li>AI was not used to write any tooltips.</li>\n<li>AI was not used to generate any ideas or balance changes.</li>\n</ul>",
     "date_added": 1748866806,
-    "date_updated": 1794595966,
+    "date_updated": 1795040784,
     "date_live": 1748868463,
     "visible": 1,
     "status": 1,
@@ -124619,15 +124619,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2890/34817058/crop_100x100/fe72795fb0c88912cc6ec75f1c125df.jpg"
     },
     "modfile": {
-      "id": 8473605,
+      "id": 8501022,
       "mod_id": 4985426,
-      "version": "4.0.0.151",
-      "filename": "vanillaplus_d932c3e8-991e-ef52-gr3u.zip",
-      "changelog": "- Barbarian Rage - Rage charges can now be regenerated 15% of the time when using Reckless Attack. This should help alleviate some of the long rest pressure they can experience.\n\t- Conjure Elemental Summons now have more appropriate casting and attacking stats. Whatever their highest physical stat is, that is now their unarmed attacking and spell casting stat (because they are entirely magical already, so their physical stats are also magical!)\n\t- Warden of Vitality - bonus action heal nerfed to 2d4\n\t- New cantrip! \"Thundersnap\" 1d4+proficiency CON save for half Thunder damage cantrip that deals damage in a 2m aoe (same size as Acid Splash). Available to Druids, Land Druids, Rangers, Sorcerers, Bards, Witches (in the Witch mod)\n\t- Druid Rework - they are now learned casters instead of prepared, so you pick two spells whenever you get a new spell level. On the levels in between, you can replace spells.\n\t\t○ Druids as a whole have gained Shortbow proficiency when you start with the class, but not when you multiclass into it\n\t\t○ Owlbear Wildshape has been nerfed - notable, 18 strength down from 20, 14 CON down from 17, and lower hitpoints starting and scaling (65-98, down from 65-112)\n\t\t○ Panther Wildshape buffed - notably, 18 dexterity up from 15, 12 CON up from 10, higher starting hitpoints and scaling (50-83 up from 45-68)\n\t\t○ Badger Wildshape buffed - notably, 16 strength up from 14, 14 dexterity up from 10, 14 Constitution from something, 15-50 hitpoint\n\t- New Spell! \"Arctic Blast\" is a level 3 cold damage spell in the Druid spell list. It deals 4d8 damage at base with a save for half, and it knocks enemies back. It is basically a juiced Gust of Wind.\n\t- New Spell! \"Sunfire\" is a level 3 concentration spell that places a source of Daylight and deals 1d4 fire and 1d4 radiant damage to everything in its light. It is only available to Circle of Stars Druids\n\t- Starry Forms -\n\t\t○ Archer Form's Luminous Arrow is now classed as a cantrip instead of a level 1 spell. It also scales at cantrip levels (5 and 10) so that its top end damage is 3d8+Wisdom. It still costs a bonus action\n\t- Land Druid - \n\t\t○ Shaping the Wilds is no longer a cracked spell list, but a passive that allows the Land Druid to spend their two Wildshape charges to free cast any spell they have the druid caster level to cast. For example, a level 5 druid can cast up to level 3 spells with wildshape charges, a level 5 druid with 7 levels of cleric can also only cast up to level 3 spells. But a level 11 druid can cast up to a level 6 spell with their wildshape charges. This ability costs 2 wildshape charges.\n\t- Slayer and Displacer Beast forms now have properly functioning Extra and Improved Extra Attacks\n\t- Astarion's Vampiric Touch ability no longer heals 1/3rd of your sneak attack dice regardless of having advantage or not\n\t- Deepened Pact tooltip for Pact of the Chain should be more accurate now",
-      "date_added": 1794595894,
+      "version": "4.0.0.152",
+      "filename": "vanillaplus_d932c3e8-991e-ef52-equj.zip",
+      "changelog": "-- Uncanny Dodge now consumes the Dodger's reaction, not the one who hits the dodger! Hurray!\n-- Metarage: Empower not adds a rage charge cost to bonus action martial attacks as well as action attacks\n-- Hid a passive on Warlocks that was supposed to be hidden",
+      "date_added": 1795040324,
       "date_updated": 0,
-      "date_scanned": 1794595939,
-      "filesize": 23163308,
+      "date_scanned": 1795040371,
+      "filesize": 23165267,
       "platforms": [
         {
           "platform": "windows",
@@ -124721,7 +124721,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8473605
+        "modfile_live": 8501022
       }
     ]
   },
@@ -145956,7 +145956,7 @@
     "summary": "This mod is an extension and update of BigGreenMako's \"Oath of Glory\" mod, originally based on the 2024 Player's Handbook. It expands the subclass progression up to level 20 and ensures full compatibility with Patch 8.",
     "description": "<h2>This mod was created by <strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/3413\">BigGreenMako (Original mod Link)</a></strong></h2>\n<p> </p>\n<blockquote>\n<h3>If you wish to use it up to level 20, you must first download and install this mod.</h3>\n<h3>20레벨까지 쓰고자 할 경우, 반드시 이 모드를 먼저 다운받아 설치하세요</h3>\n<h3><strong><a href=\"https://mod.io/g/baldursgate3/m/unlocklevelcurve#description\" target=\"_blank\" rel=\"noopener noreferrer\">Unlock Level Curve</a></strong></h3>\n</blockquote>\n<p> </p>\n<p>This mod extends the Oath of Glory mod featured in PHB2024 by <a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a> up to level 20 and modifies it to function in Patch 8.</p>\n<p>The Oath of Glory mod created by <a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a> is a Paladin subclass mod with excellent quality and polish.<br>However, the original mod was only developed up to level 12, and with updates discontinued, it no longer runs on Patch 8 and has been left abandoned.<br><br>Since I believe it would be a shame for such a high-quality mod to be forgotten, I have updated and re-uploaded it with the following changes:<br><br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote><strong>Changes</strong><br><br>\n<ul>\n<li>Fixed to work on <strong>Patch 8</strong></li>\n</ul>\n<br>\n<ul>\n<li>Added a <strong>Subclass Icon</strong> (remade from the original icon)</li>\n</ul>\n<br>\n<ul>\n<li>A more detailed account of the Tenets of the Watchers. (<strong><a href=\"https://dnd5e.wikidot.com/paladin:glory\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></strong>)</li>\n</ul>\n<br>\n<ul>\n<li><strong>Expanded to level 20</strong></li>\n</ul>\n- Oath of Glory Creates the Level 15 and 20 skills: Glorious defense*, Living legend<br>*  (example of Additional Features to Be Implemented Later)<br>- Add level 13, 17 Oath spells:<br><em>Level 13: confusion*, Freedom Of Movement (* Replaced with another 4th-level spell in place of the original Compulsion.)<br>Level 17: Legend Lore, Yolande's Regal Presence  (* These spells are included in this mod itself.)</em><br><br>\n<ul>\n<li>Changed the Oath dialogue tag from the Oath of Devotion  to 1 of 6 options (Devotion, Ancient , Vengeance, Crown, Oathbreaker, and Paladin dialogue tag not added)</li>\n</ul>\n<br>\n<ul>\n<li><strong>Level 7 – Aura of Alacrity adjusted</strong></li>\n</ul>\n- Converted into a toggleable ability (On/Off)</blockquote>\n<blockquote>- Creating an addon file that increases the range of Aura of Alacrity at Level 6 to 6m.<a href=\"https://mod.io/g/baldursgate3/m/oathof-glory-add-on-increase-aura-to-6#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong> (Link)</strong></a></blockquote>\n</figure>\n<p><br><strong>For more detailed explanations of the subclass skills,  <a href=\"https://www.nexusmods.com/baldursgate3/articles/1562\" target=\"_blank\" rel=\"noopener noreferrer\">please refer to the related post in the Articles section.</a><br></strong></p>\n<p><br><br><br><strong>한국어 번역 파일은 이 모드 자체에 포함되어 있습니다.</strong><br><br><br><a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a>가 만든 PHB2024에 수록된 영광의 맹세 모드를 20레벨까지 확장하고 패치 8에서 작동할 수 있게 수정한 모드입니다.<br><a href=\"https://next.nexusmods.com/profile/BigGreenMako/mods?gameId=3474\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>BigGreenMako</strong></a>가 만든 Oath of Glory 모드는 훌륭한 완성도를 자랑하는 팔라딘 서브클래스 모드지만, <br>현재 원본 모드는 12레벨까지 제작되어 있고 업데이트가 중단된 채 패치 8에서 실행되지 않고 방치된 상황입니다. <br><br>저는 이런 좋은 퀄리티의 모드가 잊혀지는 게 안타깝다고 생각해서 이 모드를 다음과 같이 수정해서 업로드합니다.<br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote><strong>수정 내용</strong><br><br>\n<ul>\n<li><strong>패치 8에서 실행되게 수정.</strong></li>\n</ul>\n<br>\n<ul>\n<li><strong>서브클래스 아이콘 제작</strong> (기존 아이콘 리메이크함)</li>\n</ul>\n<br>\n<ul>\n<li><strong>영의 맹세 계명</strong> 내용을 더 자세히 작성함. (<a href=\"https://dnd5e.wikidot.com/paladin:glory\" target=\"_blank\" rel=\"noopener noreferrer\">출처</a>)</li>\n</ul>\n<br>\n<ul>\n<li><strong>레벨 20까지 확장</strong></li>\n</ul>\n- 영광의 맹세 15, 20레벨 스킬인 영광스러운 방어* (추가 기능 추후 구현 예정), 살아 있는 전설 제작<br>- 13, 17레벨 맹세 주문 추가:<br><em>13레벨: 혼란*, 자유 이동 (* 원본의 <a href=\"https://dnd5e.wikidot.com/spell:compulsion\" rel=\"nofollow\">Compulsion</a>을 대신하는 다른 4레벨 주문으로 대체했습니다.)<br>17레벨: 전승 지식*, 욜란데의 위풍당당한 존재감 (* 이 주문들은 이 모드에 자체적으로 포함되어 있습니다.)</em><br><br>\n<ul>\n<li>맹세 대화 태그를 헌신의 맹세에서 <strong>6가지 선택지 (헌신, 선조, 복수, 왕관, 맹세파기자, 팔라딘 대화 태그 추가 안하는 선택지) 중 1개를 택하는 방식</strong>으로 변경</li>\n</ul>\n<br>\n<ul>\n<li>7레벨 – 기민함의<strong> 오라를 다음과 같이 수정했습니다.</strong></li>\n</ul>\n- 스킬을 <strong>토글 키로 켜고 끄는 방식으로 변경</strong></blockquote>\n<blockquote>- 6레벨의 Aura of Alacrity 범위를 6m로 늘려주는 애드온 파일 제작 <a href=\"https://mod.io/g/baldursgate3/m/oathof-glory-add-on-increase-aura-to-6#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>(링크)</strong></a></blockquote>\n</figure>\n<p><strong><br><br><a href=\"https://www.nexusmods.com/baldursgate3/articles/1563\" target=\"_blank\" rel=\"noopener noreferrer\">더 자세한 서브 모드 설명은 다음 게시글을 참고하세요.</a><br></strong></p>",
     "date_added": 1759736226,
-    "date_updated": 1793347872,
+    "date_updated": 1795056490,
     "date_live": 1759751559,
     "visible": 1,
     "status": 1,
@@ -145970,15 +145970,15 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8170865,
+      "id": 8398814,
       "mod_id": 5278246,
-      "version": "2.0.3.2",
-      "filename": "oath_glory_689f22b4-38e9-40a7-9m6o.zip",
-      "changelog": "Added: Added upcast versions of Legend Lore and Yollande's Regal Presence that use 6th-, 7th-, 8th-, and 9th-level spell slots. (Neither spell gains any additional benefits when cast using higher-level spell slots.)\n추가: 전승 지식과 욜란데의 위풍당당한 존재감 주문에 6, 7, 8, 9레벨 주문 슬롯을 사용하는 업캐스팅 버전을 추가했습니다. (두 주문 모두 상위 레벨 주문 슬롯으로 시전해도 추가적인 이점은 없습니다.)",
-      "date_added": 1788439801,
+      "version": "2.1.0.7",
+      "filename": "oath_glory_689f22b4-38e9-40a7-0g2y.zip",
+      "changelog": "Fixed: Adjusted the visual effects for Yolande’s Regal Presence.\nFixed: Updated the skill effects, casting animations, and descriptions for Living Legend.\n----------------------------------------------------------------------\n수정: 욜란데의 위풍당당한 존재감의 이펙트를 수정했습니다.\n수정: 살아 있는 전설의 스킬 이펙트와 시전 애니메이션, 설명문을 수정했습니다.",
+      "date_added": 1793347853,
       "date_updated": 0,
-      "date_scanned": 1788439846,
-      "filesize": 22654833,
+      "date_scanned": 1793347898,
+      "filesize": 22878858,
       "platforms": [
         {
           "platform": "windows",
@@ -145986,15 +145986,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -146049,10 +146049,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 8170865
-      },
-      {
         "platform": "mac",
         "modfile_live": 8170865
       },
@@ -146063,6 +146059,10 @@
       {
         "platform": "ps5",
         "modfile_live": 8170865
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8398814
       }
     ]
   },
@@ -161584,7 +161584,7 @@
     "summary": "This mod adds the Gunslinger class and its 7+3 subclasses from Valdas Spire of Secrets massive DnD 5.5e expansion by Mage Hand Press. It also introduces mod-exclusive Firearms and specialized class equipment to your game.",
     "description": "<p> </p>\n<blockquote>\n<p><iframe src=\"https://www.youtube.com/embed/FjYkX6cJQJA?list=PLO26rQs26_GbhTiEjKbmgirPXKTwWEagy\" width=\"560\" height=\"314\"></iframe></p>\n<p>Mage Hand Press, the original publisher of this mod, is currently serializing gameplay content of the mod on YouTube.</p>\n<p>If you are interested, please check that out as well.</p>\n<p>해당 모드의 원작 출판사인 Mage Hand Press에서 이 모드를 직접 플레이하는 콘텐츠를 유튜브에 연재 중입니다.</p>\n<p>관심있다면 이것도 같이 시청해보세요.</p>\n</blockquote>\n<p> </p>\n<h2><strong><span style=\"font-size:medium;\">This class is available up to level 20. / 20레벨까지 사용 가능, 한국어 지원</span></strong></h2>\n<p> </p>\n<p><strong><span style=\"font-size:medium;\">Introduction</span></strong></p>\n<p>Experience the high-octane thrill of the <strong>Gunslinger</strong>, the iconic archetype from <em>Valda's Spire of Secrets</em>, now faithfully implemented in Baldur's Gate 3. <strong>Valda's Spire of Secrets</strong> is a renowned, massive expansion for D&amp;D 5e by Mage Hand Press, celebrated for its balanced and creative homebrew content.<br><br><strong><span style=\"font-size:medium;\">Key Features</span><br><br></strong></p>\n<ul>\n<li><strong>Faithful Mechanics:</strong> This mod stays true to the original \"Risk and Reward\" mechanics that define the <em>Valda's Spire of Secrets</em> Gunslinger.</li>\n<li><strong>5 Custom Firearms:</strong> Use the battlefield with four uniquely modeled weapons: the <strong>Blunderbuss, Shotgun Revolver, Sniper Rifle, and Musket.</strong></li>\n<li><strong>Exclusive Class Outfits:</strong> Includes a dedicated outfit set designed to capture the authentic aesthetic of a seasoned Gunslinger.<br><strong>※ Compatibility Note:</strong> Please be aware that the custom outfit models are not compatible with <strong>Body Type 3 females</strong> or <strong>Dragonborn (Male/Female)</strong>. When equipped by these characters, a different default outfit will be displayed instead.</li>\n</ul>\n<p><strong><span style=\"font-size:medium;\">A New Combat Experience</span><br><br></strong>Step away from traditional bows, blades, and spells. Command the battlefield with the raw power of firearms! Featuring a <strong>modular upgrade system</strong>, this mod offers a distinct and refreshing long-range combat experience unlike anything else in the game.<br><br><br></p>\n<p><strong><span style=\"font-size:medium;\">Note<br></span></strong><br><strong>If you need to use any icons, item resources, or entries from my mod while creating your own mod, feel free to use them at any time. However, please be sure to credit the source.<br></strong></p>\n<p> </p>\n<p><strong>Add-On Files / 애드온 파일 목록</strong></p>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/the-gunslinger-extra-feats-every-2-levels#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>The Gunslinger Extra Feats Every 2 Levels:</strong></a></li>\n</ul>\n<p><strong>           I</strong>t adds an extra feat every two levels for the Gunslinger class. / 건슬링어 클래스에 2레벨마다 특성을 부여합니다.</p>\n<ul>\n<li><a href=\"https://mod.io/g/baldursgate3/m/the-gunslinger-add-on-increase-aura-to-6#description\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>The Gunslinger_Add_on Increase Aura to 6: </strong></a></li>\n</ul>\n<p><strong>        </strong>   Increase the Steady-Eyed Aura ability from the White Hat subclass from 3m / 10ft to 6m / 20ft. / 보안관 서브클래스의 냉철한 눈의 오라 범위를 3m에서 6m로 늘려줍니다</p>\n<ul>\n<li><strong><a href=\"https://mod.io/g/baldursgate3/m/the-gunslinger-addon-revolver-offhand#description\" target=\"_blank\" rel=\"noopener noreferrer\">The Gunslinger Addon Revolver OffHand:</a></strong></li>\n</ul>\n<p>           It allows you to fire a revolver with your off-hand without consuming a bonus action; instead, it uses a dedicated, invisible resource.  / 리볼버 보조 무기 사격에 보조 행동 대신 보이지 않는 전용 자원으로 사격을 합니다.</p>\n<ul>\n<li><strong><a href=\"https://mod.io/g/baldursgate3/m/the-gunslinger-wizard-subclass-add-on#description\" target=\"_blank\" rel=\"noopener noreferrer\">The Gunslinger - Wizard Subclass Add-On</a></strong></li>\n</ul>\n<p><strong>      </strong>      This add-on mod allows you to play as a Wizard subclass separate from the Gunslinger class by adding dependencies to the existing mod. / 이 애드온 모드는 기존 모드에 의존성을 부여해서 건슬링어 클래스와는 별도로 주문 사수를 위저드 서브클래스 형태로 구현해서 플레이하게 해줍니다.</p>\n<p> </p>\n<p> </p>\n<h3><strong>개요</strong></h3>\n<p>Mage Hand Press의 유명한 D&amp;D 5e 확장판인 **'발다의 비밀의 탑(Valda's Spire of secrets)'**에 등장하는 상징적인 아키타입, 건슬링어를 이제 발더스 게이트 3에서 충실하게 구현된 모습으로 만나보세요.</p>\n<p>이 모드는 균형 잡히고 창의적인 홈브루 콘텐츠로 정평이 난 원작의 재미를 그대로 전달합니다.</p>\n<h3><strong>주요 특징</strong></h3>\n<ul>\n<li>\n<p><strong>원작 메커니즘의 충실한 구현:</strong> '발다의 비밀의 탑' 건슬링어의 핵심인 <strong>'리스크 앤 리워드(Risk and Reward)'</strong> 메커니즘을 그대로 유지했습니다.</p>\n</li>\n<li>\n<p><strong>5종의 커스텀 총기:</strong> 독특하게 모델링된 네 가지 무기인 **나팔총(blunderbuss), 산탄총 (Shotgun), 리볼버(Revolver), 저격총(Sniper Rifle), 머스킷(musket)**을 사용할 수 있습니다.</p>\n</li>\n<li>\n<p><strong>전용 클래스 의상:</strong> 숙련된 건슬링어의 외형을 완성해 줄 전용 의상 세트가 포함되어 있습니다.</p>\n</li>\n</ul>\n<blockquote>\n<p><strong>※ 호환성 참고 사항:</strong> 커스텀 의상 모델은 <strong>여성 체형 3(Body Type 3)</strong> 및 **<strong>드래곤본(남/여)</strong>**과 호환되지 않습니다. 해당 캐릭터가 장착할 경우 다른 의상으로 표시됩니다.</p>\n</blockquote>\n<h3><strong>새로운 전투 경험</strong></h3>\n<p>기존의 활, 칼, 마법에서 벗어나 총기의 강력한 화력으로 전장을 지배하십시오. 이 모드는 <strong>모듈형 업그레이드 시스템</strong>을 통해 게임 내 기존 방식과는 차별화된 신선한 원거리 전투 경험을 제공합니다.</p>\n<p> </p>\n<p> </p>\n<figure class=\"quote col-3-3\">\n<blockquote><span style=\"font-size:large;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1756\" rel=\"nofollow\">Main Class Description</a></strong> / <strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1757\" rel=\"nofollow\">메인 클래스 설명문</a></strong></span></blockquote>\n</figure>\n<p><br><br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote>\n<ul>\n<li><strong>7+3 SubClass Feature / 7+3개의 하위 직업 설명문</strong><br><br></li>\n</ul>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1758\">Deadeye Description</a> / <a href=\"https://www.nexusmods.com/baldursgate3/articles/1765\">저격수 설명문</a></strong></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1759\">High Roller Description</a> / <a href=\"https://www.nexusmods.com/baldursgate3/articles/1766\">승부사 설명문</a></strong></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1865\" rel=\"nofollow\">Pistolero Description</a> </strong><strong>/ <a href=\"https://www.nexusmods.com/baldursgate3/articles/1864\" rel=\"nofollow\">권총잡이 설명문</a>  <em>----- Available starting with version 2.0.2.0 / 2.0.0.1 버전부터 사용 가능</em></strong></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1760\">Secret Agent Description</a> / </strong><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1767\">비밀 요원 설명문</a></strong></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1761\">Spellslinger Description</a> / <a href=\"https://www.nexusmods.com/baldursgate3/articles/1768\">주문 사수 설명문</a></strong></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1762\">Trick Shot Description</a> / <a href=\"https://www.nexusmods.com/baldursgate3/articles/1769\">곡예 사수 설명문</a></strong></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1763\">White Hat Description</a> / <a href=\"https://www.nexusmods.com/baldursgate3/articles/1770\">보안관 설명문</a></strong></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1773\">Desperado Description</a><span style=\"font-size:large;\"> / </span></strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1774\"><strong>무법자 설명문</strong></a><span style=\"font-size:large;\"> </span><span style=\"font-size:medium;\"><em>----- Available starting with version 1.0.2.0 / 1.0.2.0 버전부터 사용 가능</em></span></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1806\" rel=\"nofollow\">Bounty Hunter Description</a> / <a href=\"https://www.nexusmods.com/baldursgate3/articles/1807\" rel=\"nofollow\">현상금 사냥꾼 설명문</a></strong>  <em>----- Available starting with version 1.0.3.0 / 1.0.3.0 버전부터 사용 가능</em></p>\n<p><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1869\" rel=\"nofollow\">Gun-Ko Master Description</a></strong><strong> / <a href=\"https://www.nexusmods.com/baldursgate3/articles/1870\" rel=\"nofollow\">건법 대가 설명문</a></strong> <em> ----- Available starting with version 3.0.0.1 / 3.0.0.1 버전부터 사용 가능</em></p>\n</blockquote>\n</figure>\n<p><br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote>\n<ul>\n<li><span style=\"font-size:large;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/articles/1764\" rel=\"nofollow\">Firearms Description</a> / <a href=\"https://www.nexusmods.com/baldursgate3/articles/1771\" rel=\"nofollow\">화기 설명문</a></strong></span></li>\n</ul>\n</blockquote>\n</figure>\n<p><br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote><span style=\"font-size:large;\"><strong>Mod Deployment Order (When using Nexus Mod Manager)/ </strong></span></blockquote>\n<blockquote><span style=\"font-size:large;\"><strong>모드 배치 순서 (넥서스 모드 매니저를 사용할 경우 한정)</strong><br><br><br></span><strong>0. ImpUI</strong> ----<em> If you have installed it, place it at the top. / 만약 설치하셨다면 최상단에 배치하세요 </em><br><br><strong>1. Community Library</strong>  --- <em>Place it at the very top. / 가장 최상단에 배치하세요.</em><br><br><strong>2. Expansion Level 13-20 (Configurable) or UnlockLevelCurve - Level 13-20 I PATCH 8<br><br>3. Tutorial Chest Summoning</strong><br><br><strong>4. Spells mod (ex: 5e Spells, Mystra's spells) + Warlock Invocation mods</strong><br><br><strong>5. This the gunslinger mod</strong><br><br><strong>6. (OPTION Files)<br></strong><br><strong>7.</strong><strong> Compatibility Framework</strong> --- Place it at the very bottom. / 가장 최하단에 배치하세요</blockquote>\n</figure>\n<p><br><br></p>\n<figure class=\"quote col-3-3\">\n<blockquote><strong><span style=\"font-size:large;\">Credit and Thanks To:</span></strong></blockquote>\n<blockquote><br><strong><a href=\"https://www.youtube.com/@MageHandPress/videos\">Mage Hand Press</a> ---- Original Author </strong><br><a href=\"https://www.nexusmods.com/profile/yoonmoonsik43/mods\"><br>Yoonmoonsik</a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/12727\">DnD PHB 2024</a>. It served as a valuable reference during production.<br><br><a href=\"https://www.nexusmods.com/profile/maradi/mods\">Maradi</a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/19508\">Firearm effects, blunderbuss, musket modeling source</a><br><br><a href=\"https://mod.io/g/baldursgate3/u/skirbie\">Skirbie </a>- <a href=\"https://mod.io/g/baldursgate3/m/evelyns-empress-colt-1851-revolver#description\">Revolver</a>, <strong><a href=\"https://mod.io/g/baldursgate3/m/evelyns-matriarch-bolt-action-rifle#description\">Sniper Rifle</a></strong> Modeling Resource<br><br><a href=\"https://www.nexusmods.com/profile/Ninjoma/mods\">Ninjoma </a>- <a href=\"https://www.nexusmods.com/baldursgate3/mods/17782\">Revolver firing icon source</a><br><br><strong><a href=\"https://sketchfab.com/3d-models/winchester-model-1897-6194ecd23344442fb23f5820f895a0d8\">buh - Winchester Model 1897 Modeling Resource</a></strong><br><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/users/193079987\">dracotunes</a> - <a href=\"https://www.nexusmods.com/baldursgate3/mods/23356\">Draco's Fantasy Gunslinger</a><br></strong><br>Goonsack, xiphiasrex, XO, Bert - Technical Advisor</blockquote>\n</figure>",
     "date_added": 1772957957,
-    "date_updated": 1793718863,
+    "date_updated": 1795056286,
     "date_live": 1772958567,
     "visible": 1,
     "status": 1,
@@ -161598,31 +161598,19 @@
       "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
     },
     "modfile": {
-      "id": 8421412,
+      "id": 8502083,
       "mod_id": 5850757,
-      "version": "3.2.0.22",
-      "filename": "thegunslinger_1f2b82d7-19c8-73-asmt.zip",
-      "changelog": "Fix: Deadeye's Camoflage can now be toggled on and off with a toggle key in the bottom passive tab.\nFix: Fixed the internals of the Spellslinger's Magic Bullet to make it work better.\nFix: Fixed an issue where the Shotgun, Double Barrel Shotgun, and Blunderbuss' basic attacks, Scatter Shot, would not destroy nearby structures.\n\n수정: 저격수의 위장은 하단 패시브 탭에서 토글 키로 켜고 끌 수 있게 수정했습니다.\n수정: 주문 사수의 마법 탄환이 더 제대로 작동할 수 있게 내부 구조를 수정했습니다.\n수정: 산탄총, 쌍열 산탄총, 나팔총의 기본 공격인 산탄 사격이 주변 구조물을 못 부수던 문제를 수정했습니다.",
-      "date_added": 1793718813,
+      "version": "3.2.0.26",
+      "filename": "thegunslinger_1f2b82d7-19c8-73-3luq.zip",
+      "changelog": "Fixed: Revised the descriptions of all firearms. (*note: Since its initial release, this mod's firearms have been designed so that their abilities and features are unlocked progressively as the character levels up, rather than being available all at once at level 1.)\nFixed: Adjusted the bonus damage progression for firearms. Starting at character level 6, firearms gain +2 Piercing Damage, with an additional +1 at levels 10, 13, and 18, up to a maximum of +5 bonus ranged weapon damage.\nFixed: Revolver's Fanning can now be used only once per turn.\nFixed: Resolved an issue where the \"Immune to Instantaneous Acceleration\" status appeared when Revolver's Instantaneous Acceleration triggered, preventing the effect from being applied correctly.\nAdded: New Secret Agent skill – Fieldcraft: Invisibility. A self-only Invisibility spell that consumes a Risk Die and an Action to cast. (Obtained at level 6)\n\n수정: 화기 무기들의 설명문을 수정했습니다. (참고: 본 모드의 화기들은 최초 업로드 당시부터 모든 옵션이 1레벨에 일괄 적용되는 방식이 아니라, 캐릭터가 레벨업할 때마다 해당 레벨에 맞춰 새로운 옵션이 단계적으로 추가되도록 설계되었습니다.)\n수정: 화기의 추가 피해량 증가 방식을 변경했습니다. 캐릭터 레벨 6부터 화기 공격에 +2 관통 피해가 추가되며, 10·13·18레벨에 각각 +1씩 추가됩니다. 최종적으로 원거리 무기 피해량이 최대 +5 증가합니다.\n수정: 리볼버의 속사를 턴당 한 번만 사용할 수 있도록 변경했습니다.\n수정: 리볼버의 순간 가속 효과가 발동할 때, '순간 가속 면역' 상태가 표시되며 효과가 정상적으로 적용되지 않던 문제를 수정했습니다.\n추가: 비밀 요원 신규 스킬 현장 기술: 투명화를 추가했습니다. 위험 주사위와 행동을 소모하여 자신에게만 시전할 수 있는 투명화 주문입니다. (6레벨 획득)",
+      "date_added": 1795056259,
       "date_updated": 0,
-      "date_scanned": 1793718935,
-      "filesize": 440701550,
+      "date_scanned": 1795056355,
+      "filesize": 440702666,
       "platforms": [
         {
           "platform": "windows",
           "status": 1
-        },
-        {
-          "platform": "mac",
-          "status": 0
-        },
-        {
-          "platform": "xboxseriesx",
-          "status": 0
-        },
-        {
-          "platform": "ps5",
-          "status": 0
         }
       ]
     },
@@ -161700,7 +161688,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8421412
+        "modfile_live": 8502083
       }
     ]
   },
