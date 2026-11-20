@@ -127385,7 +127385,7 @@
     "summary": "Auto Digger By SFR magically unearths buried treasure chests no shovel needed, no hands getting dirty. Buried Mounds are always successfully revealed.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/autodigger_title2.png\" alt=\"Auto Digger Banner\" width=\"300\" height=\"169\"></p>\n<p style=\"color:#cc6600;\"><strong>Auto Digger Unbalanced</strong><br><em>By SwissFred</em></p>\n<p style=\"color:#cc6600;\">Are you tired of digging up <strong>treasure chests</strong> from <strong>hidden mounds</strong>, grabbing a shovel, and getting your hands dirty?<br><strong>Are you an adventurer or a gardener?</strong></p>\n<p style=\"color:#cc6600;\"><strong>Then this mod is for you!<br><br>Main Features:</strong></p>\n<ul style=\"color:#cc6600;\">\n<li>Reveals <strong>hidden</strong> buried treasure chests</li>\n<li>Survival checks on hidden chests <strong>always succeed</strong></li>\n<li><strong>No need for shovels</strong></li>\n<li>Chests are magically dug up and ready to loot</li>\n<li>Adds treasures to the chests</li>\n</ul>\n<p style=\"color:#cc6600;\"><strong>Installing:</strong><br>Install and enable the mod.</p>\n<p style=\"color:#cc6600;\"><strong>Uninstalling:</strong><br>Uninstall the mod or disable it.<br><br>If you need a balanced version, use <strong>Auto Digger Balanced</strong>.<br><br><strong>Compatible with mods that add items to buried chests, such as:</strong><br><a style=\"color:#cc6600;\" href=\"https://mod.io/g/baldursgate3/m/fades-equipment-distribution-aio#description\">Fade's Equipment Distribution AIO for Baldur's Gate 3 - mod.io</a></p>\n<p><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
     "date_added": 1749755868,
-    "date_updated": 1791020733,
+    "date_updated": 1795176185,
     "date_live": 1749757800,
     "visible": 1,
     "status": 1,
@@ -127428,11 +127428,11 @@
       ]
     },
     "logo": {
-      "filename": "autodigger_titleunbalanced-smal.png",
-      "original": "https://image.modcdn.io/mods/cc95/5009598/autodigger_titleunbalanced-smal.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/cc95/5009598/crop_320x180/autodigger_titleunbalanced-smal.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/cc95/5009598/crop_640x360/autodigger_titleunbalanced-smal.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/cc95/5009598/crop_1280x720/autodigger_titleunbalanced-smal.png"
+      "filename": "autodigger_unbalancedthumbnail.png",
+      "original": "https://image.modcdn.io/mods/cc95/5009598/autodigger_unbalancedthumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/cc95/5009598/crop_320x180/autodigger_unbalancedthumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/cc95/5009598/crop_640x360/autodigger_unbalancedthumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/cc95/5009598/crop_1280x720/autodigger_unbalancedthumbnail.png"
     },
     "tags": [
       {
