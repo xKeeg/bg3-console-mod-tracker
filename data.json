@@ -175011,12 +175011,12 @@
   {
     "id": 6197209,
     "game_id": 6715,
-    "name": "Asgorath - Armor and Camp Clothing",
+    "name": "NAERYS: Asgorath",
     "name_id": "naerys-asgorath",
-    "summary": "adds a dragon staff &amp; a dyable set for BT1/BT2/BT3/BT4/fem Gith &amp;TMTS as armor &amp; camp clothing",
+    "summary": "adds a dragon staff &amp; a dyable set for BT1/BT3/fem Gith &amp;TMTS as armor &amp; camp clothing",
     "description": "<p> </p>\n<p><img src=\"https://image.modcdn.io/members/0ed0/55959127/profile/2026-week-1-celestial-shadows.png\" alt=\"\" width=\"800\" height=\"420\"></p>\n<p> </p>\n<p> </p>\n<div style=\"text-align:center;\"><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:Serif;\"><strong>DRACONIC TRINITY</strong></span></span></span></div>\n<div style=\"text-align:center;\"><span style=\"color:#674ea7;font-size:large;\"><span style=\"font-family:Serif;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/23747\">Kereska's Chosen</a></strong></span></span><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:Serif;\"><strong> by <a href=\"https://www.nexusmods.com/profile/khaleesinz\">khaleesinz</a></strong></span></span></span></div>\n<div style=\"text-align:center;\"><span style=\"color:#38761d;font-size:large;\"><span style=\"font-family:Serif;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/23732\">Falazure</a></strong></span></span><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:Serif;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/23732\"> </a>by <a href=\"https://www.nexusmods.com/profile/onyx\">onyx</a></strong></span></span></span></div>\n<div style=\"text-align:center;\"><span style=\"color:#900000;font-size:large;\"><span style=\"font-family:Serif;\"><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/23689\">Asgorath </a></strong></span></span><span style=\"color:#ffffff;\"><span style=\"font-size:large;\"><span style=\"font-family:Serif;\"><strong>by <a href=\"https://www.nexusmods.com/profile/Naerys\">Naerys</a></strong></span></span></span><span style=\"color:#ffffff;\"><span style=\"font-size:small;\"><span style=\"font-family:Serif;\"><strong> (me!)</strong></span></span></span></div>\n<p style=\"text-align:center;\"> </p>\n<div style=\"text-align:center;\"><span style=\"font-family:Serif;\">for BT1/BT3/TMTS/female Gith</span></div>\n<div> </div>\n<div style=\"text-align:center;\"><span style=\"font-family:Serif;\">Mask - Helmet slot</span></div>\n<div style=\"text-align:center;\"><span style=\"font-family:Serif;\">Robe - Bodyslot</span></div>\n<div style=\"text-align:center;\"><span style=\"font-family:Serif;\">Boots - Footwear slot</span></div>\n<div style=\"text-align:center;\">- located in \"Asgorath: Draconic Chest\"</div>\n<p style=\"text-align:center;\"> </p>\n<div style=\"text-align:center;\">credits for the armor mesh &amp; textures  <a href=\"https://www.fab.com/listings/ebc2cac8-96e0-4faa-a135-6d97db06faac\"><span style=\"color:#b45f06;\">Hisqie Furqoni86 </span></a></div>\n<div style=\"text-align:center;\">link to the armor is <span style=\"color:#660000;\"><a href=\"https://www.fab.com/listings/ebc2cac8-96e0-4faa-a135-6d97db06faac\">here</a></span></div>\n<div style=\"text-align:center;\"> </div>",
     "date_added": 1783364450,
-    "date_updated": 1794325915,
+    "date_updated": 1795210203,
     "date_live": 1783366527,
     "visible": 1,
     "status": 1,
@@ -175030,15 +175030,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/0ed0/55959127/crop_100x100/1086940_20261011231221_1.png"
     },
     "modfile": {
-      "id": 7946000,
+      "id": 8508444,
       "mod_id": 6197209,
-      "version": "1.0.0.11",
-      "filename": "naerys_asgorath_d56199ad-e1e8-8eky.zip",
-      "changelog": "added BT2 &amp; BT4",
-      "date_added": 1783617765,
+      "version": "1.0.0.13",
+      "filename": "naerys_asgorath_d56199ad-e1e8-axr6.zip",
+      "changelog": "fixed \"no AC bonus\" issue",
+      "date_added": 1795210155,
       "date_updated": 0,
-      "date_scanned": 1783617872,
-      "filesize": 61758519,
+      "date_scanned": 1795210264,
+      "filesize": 61758499,
       "platforms": [
         {
           "platform": "windows",
@@ -175046,15 +175046,15 @@
         },
         {
           "platform": "mac",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "xboxseriesx",
-          "status": 1
+          "status": 0
         },
         {
           "platform": "ps5",
-          "status": 1
+          "status": 0
         }
       ]
     },
@@ -175164,10 +175164,6 @@
     ],
     "platforms": [
       {
-        "platform": "windows",
-        "modfile_live": 7946000
-      },
-      {
         "platform": "mac",
         "modfile_live": 7946000
       },
@@ -175178,6 +175174,10 @@
       {
         "platform": "ps5",
         "modfile_live": 7946000
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8508444
       }
     ]
   },
