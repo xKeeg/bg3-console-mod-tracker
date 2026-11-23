@@ -123323,7 +123323,7 @@
     "summary": "Mod pack that adds 50 weapons with the 'Finesse' tag to the tutorial chest, and spread throughout the world.",
     "description": "<h3>[15/10/2026] Now available on consoles!</h3>\n<h2>-----------------------------------------------------------------------------------------------------------------------</h2>\n<p>Not enough weapons with the 'Finesse' tag? </p>\n<p>This mod adds 50 unique weapons that can be used effectively with your DEX modifier.</p>\n<p>The weapons can be found in the tutorial chest (unless you're using a mod that overrides its contents), but they're also placed in semi-thought out places.</p>\n<p> </p>\n<p>(The previous version of the mod included only bludgeoning weapons. That restricition was ditched due to how limiting it was towards what weapons could be created. The weapons from that version are still present, some have been altered/fixed.)</p>\n<p> </p>\n<p><em><strong>DISCLAIMER: The 'new' models in the mod were created from assets already present in the toolkit.</strong></em></p>\n<p> </p>\n<p>Special thanks to the members of the Toolkit Modding section in the Larian discord, in particular <a href=\"https://baldursgate3.game/mods#/u/xiphiasrex/\" target=\"_blank\" rel=\"noopener noreferrer\">@XiphiasRex</a>, @EvilSnail0fDestruktion, @Sukamonn.</p>\n<p>Also a special thanks to my buddy <a href=\"https://www.instagram.com/escutegontcha/\" target=\"_blank\" rel=\"noopener noreferrer\">Gontcha</a>, who doesn't even play the game, but helped me with a few icons.</p>\n<p> </p>\n<p> </p>\n<p>Check out my other mod: <a href=\"https://mod.io/g/baldursgate3/m/b52stimelostweaponry#description\">B52's Timelost Arsenal</a>!</p>\n<h2><strong>-SPOILERS-</strong></h2>\n<p> </p>\n<p>After the tutorial, the weapons can be found in the following places:</p>\n<p> </p>\n<blockquote>\n<p>Bar Mace: Chest in crashed Nautiloid, one corpse in the crash area, shops.</p>\n<p>Iron Whip: Backpack near Abdirak inside the Goblin Camp.</p>\n<p>Dextrous Cultist Branding Iron: Priestess Gut</p>\n<p>Bar Mace +1: Shops, randomized loot drops.</p>\n<p>Chiontar' Flow: Corpse in the Nautiloid Crash Area</p>\n<p>Thrice-Blade: Ogre in the Blighted Village</p>\n<p>Flaming Fist's Arming Sword: Dead Tiefling in Blighted Village</p>\n<p>War-Trick: Minthara</p>\n<p>Militia's Handaxe: Bandit's Outside Crypt.</p>\n<p>Enforcer Electric Club: Blighted Village Chest.</p>\n<p>Dragon's Horns Trident: Skeleton near river, near hyenas/gnolls in Act 1.</p>\n<p>Axe of the Brutish Warlord: Barbarian Duergar near Underdark Raft (Gekh Coal's underling)</p>\n<p>Spine of the Chilling Fiend: Harpy's Nest</p>\n<p>Chattering Skull of the Necromancer: Auntie Ethel</p>\n<p>Foreign Haladie: Locked crate near crashed nautiloid (usually contains leather helmet)</p>\n<p>Blade of the Sacrifical Mage: Gur Hunter's backpack (near Ethel's house)</p>\n<p>Corellon's Guidance: Zhentarim Chest - Goblin Camp</p>\n<p>Icevein Crusher: Filro the Forgotten - Underdark</p>\n<p>Guilded Torch of the Night: Underdark Selunite Outpost</p>\n<p>Goblin King's Scimitar: Chest after Dror Ragzlin Fight.</p>\n<p>Eastern-Lands Katar: Chest in Zhentarim hideout (behind locked gate near wolves)</p>\n<p>Western-Lands Katar: Chest in Waukeen's Rest (Same chest as Hamarhraft).</p>\n<p>Great Saw Sword: Chest in Masonry (Same chest as Helmet of Arcane Acuity)</p>\n<p>Sharrite Ceremonial Blade: Chest in Shar's Spear room. (Library)</p>\n<p>Lolth Loyalist's Arming Sword: Dhourn (Drow near Spectator in the Underdark)</p>\n<p>Bar Mace + 2: Shops, Randomized drops.</p>\n<p>Oakfather's Sickle: Kagha's chest in Druid Grove.</p>\n<p>Weight of the Faithful: Chest in Goblin Camp Prison.</p>\n<p>Brutish Rapier: Herdmaster Skarjall (the one Duergar hitting the Rothé)</p>\n<p>The Maw of Nine Hells: Chest near Nessa (Yurgir's Displacer Beast)</p>\n<p>Crackling Fangs: Reward from Alfira (rescuing Tieflings from Moonrise)</p>\n<p>Watcher's Hook: Chest in Steel Foundry (metal chest near Elevator. The chest contains metal bars)</p>\n<p>Star Mace: Selûne Chest under Stromshore Tabernacle</p>\n<p>Adamantine Hook Blade: Grym (Adamantine Golem)</p>\n<p>Guilded Hook Blade: Chest in W'Wargaz's room.</p>\n<p>Death Knight's Blade: Chest in Ketheric's room (Moonrise Towers)</p>\n<p>High Druid's Thorn Lash: (Chest in Reithwin Tollhouse)</p>\n<p>Thisobald's Elixir Ladle: Thisobald Thorm - Waning Moon.</p>\n<p>Yurgir's Bluntblade: Yurgir - Sharran Temple</p>\n<p>Silvertongue's Shieldbow: Prison Warden in Moonrise Towers.</p>\n<p>Terrible Sickle: Dribbles' doppelganger</p>\n<p>Staff of the Mad Warlock: Mimic inside Moonrise Towers.</p>\n<p>Resonating Glass Blackjack: Nylruna's Chest</p>\n<p>Eldritch Force Scepter: Stormshore Tabernacle - Underground Chests</p>\n<p>Bhaalist Trifecta: Helena Anchev (Orin's Room)</p>\n<p>Mysterious Artifact Hammer: Githyanki's under Elfson Tavern.</p>\n<p>AxeBlade of Dawn: Chest inside Rosymorn Monastery (Inquisitor room)</p>\n<p>Murder God's Devout Blade: Sarevok.</p>\n<p>Mammon's Sword of Greed: Chest upstairs inside Devil's Fee.</p>\n<p>The Caustic Mallet: One of the doppelgangers under the Open Hand Temple</p>\n</blockquote>\n<p> </p>",
     "date_added": 1748130138,
-    "date_updated": 1794967194,
+    "date_updated": 1795459650,
     "date_live": 1748131646,
     "visible": 1,
     "status": 1,
@@ -123337,15 +123337,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/443c/45522762/crop_100x100/semttulo1.png"
     },
     "modfile": {
-      "id": 8497586,
+      "id": 8521511,
       "mod_id": 4961855,
-      "version": "3.1.2.1",
-      "filename": "finesseblugeonweapons_75888327-9ol4.zip",
-      "changelog": "- Changed the spawn point for the \"Crackling Fangs\" to a chest near Wulbren's cell in Moonrise Towers, to prevent conflict with other mods that affect loot.",
-      "date_added": 1794967097,
+      "version": "3.1.2.2",
+      "filename": "finesseblugeonweapons_75888327-afjk.zip",
+      "changelog": "- Fixed an issue where \"Eloquent Archery\" would benefit massively from damage riders.\n- Removed the glowy outline from characters affected by \"Eternal Shillelagh\"",
+      "date_added": 1795459435,
       "date_updated": 0,
-      "date_scanned": 1794967298,
-      "filesize": 97855666,
+      "date_scanned": 1795459609,
+      "filesize": 97855879,
       "platforms": [
         {
           "platform": "windows",
@@ -123419,7 +123419,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8497586
+        "modfile_live": 8521511
       }
     ]
   },
@@ -155365,7 +155365,7 @@
     "summary": "Over 100 new vanilla-style weapons, armour and accessories, offering new ways to play and new builds to craft.",
     "description": "<p>Lightweight mod that adds roughly 100 new vanilla-style weapons, armour and accessories, offering new ways to play and new builds to craft. <br><br>All items from this mod have been placed in various locations and vendors throughout the game, and thus can be acquired without any other mods or cheats. In the event of impatience or bugs, the tutorial chest aboard the nautiloid contains a ring that allows you to summon every item in the mod (including unfinished ones).<br><br></p>\n<div><u><strong>COMPATIBILITY</strong></u></div>\n<div>Adding this mod to an existing save may cause anomalies, and incompatibilities with other mods has not yet been tested. Some other existing equipment mods such as FATE may interfere with item spawning from this mod in unexpected ways.</div>\n<div> </div>\n<div>Some items this mod adds edit existing in game effects to allow them to interact with them, such as with the sneak attack and throw actions. This mod should be placed high in load order to allow it to be overwritten by other mods which edit base game features such as these.</div>\n<div> </div>\n<div> </div>\n<div><strong><u>ITEM LOCATIONS</u></strong></div>\n<p><br>A cheat sheet containing all item locations can be found <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_Dumg_erw2Jy7gKEfRZQZ7p3nvpB7mAnU8YepJNyfNdJUJ-N6SJafRRWoc-sI6Kb6xKYSHVdTRUs/pubhtml\" rel=\"nofollow\">here!</a></p>\n<p><br>Feedback and bug reports will be highly appreciated! <br><br><br><br><span style=\"text-decoration:underline;\"><strong>ADDITIONAL LINKS<br></strong></span><a href=\"https://www.nexusmods.com/baldursgate3/mods/20403\" target=\"_blank\" rel=\"noopener noreferrer\">Nexus Page</a><br><em>This mod is the culmination of hundreds of hours of work. If you enjoy the mod, and wish to support its continued development as well as future projects, any support or donations at my <a href=\"https://ko-fi.com/gabunne\" target=\"_blank\" rel=\"noopener noreferrer\">Ko-Fi</a> will be greatly appreciated.<br><br></em></p>",
     "date_added": 1767095903,
-    "date_updated": 1795350047,
+    "date_updated": 1795431359,
     "date_live": 1767097002,
     "visible": 1,
     "status": 1,
@@ -155379,15 +155379,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/642d/2715290/crop_100x100/gunga.png"
     },
     "modfile": {
-      "id": 8515763,
+      "id": 8520275,
       "mod_id": 5634978,
-      "version": "1.4.0.79",
-      "filename": "gabsequipment_55647f12-7493-51-h729.zip",
-      "changelog": "Adjusted pricing of several pieces of equipment to be more balanced.",
-      "date_added": 1795349952,
+      "version": "1.4.0.80",
+      "filename": "gabsequipment_55647f12-7493-51-62nt.zip",
+      "changelog": "Added new ring, Flowing River Band - Sold by Blurg in the Underdark in Act 1.\nFixed a typo in the passive description for the Sneering Bangle.",
+      "date_added": 1795431256,
       "date_updated": 0,
-      "date_scanned": 1795349960,
-      "filesize": 2065268,
+      "date_scanned": 1795431266,
+      "filesize": 2067340,
       "platforms": [
         {
           "platform": "windows",
@@ -155464,7 +155464,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8515763
+        "modfile_live": 8520275
       }
     ]
   },
