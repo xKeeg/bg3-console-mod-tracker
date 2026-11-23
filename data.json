@@ -79463,7 +79463,7 @@
     "summary": "Duplication Chest Duplication Chest Gain a spell to summon a Duplication Chest at your location. Place items inside, close the chest, and they will be duplicated (except restricted items). All duplicated items can then be retrieved from the chest.",
     "description": "<p><img src=\"https://image.modcdn.io/members/f7d9/33634988/profile/duplicationchest.png\" alt=\"\" width=\"380\" height=\"380\"></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:x-large;\">Duplication Chest By SFR</span><br><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">This mod introduces the spell \"<strong>Summon Duplication Chest</strong>,\" allowing you to summon a magical chest with a unique enchantment to <strong>duplicate nearly any item you place inside.</strong> </span></p>\n<p><strong><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Stackable items, like potions, and non-stackable items, like weapons, can be duplicated up to a maximum of 99. </span></strong></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Certain items, such as <strong>gold, junk, cannot be duplicated to maintain game balance.</strong></span><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">To use, simply place items in the chest, close it, and the duplication magic activates, doubling the quantity or creating duplicates (up to 99) for each eligible item. </span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">The duplication can be used as many times you wish (up to 99).</span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\"> Only one Chest can be summoned at any time by any character in the Party.</span></p>\n<p><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">After a short or long rest, the chest will vanish, but any items inside will automatically transfer to your inventory<br><br><span style=\"color:#ffff00;\"><strong>new:</strong> Upon closing the chest, you will be prompted to <strong>repeat the last duplication up to 4 times.</strong></span><br></span></p>\n<p><br><span style=\"color:#ffff00;font-family:Roboto, sans-serif;background-color:#444444;font-size:large;\">Designed for players looking to manage resources efficiently, this mod provides a balanced yet convenient way to boost supplies and experiment with gear. Summon, duplicate, and retrieve your items while preserving the challenge and immersion of the game!</span></p>\n<p><strong>Chinese (Simplified) translation</strong><br><a href=\"https://mod.io/g/baldursgate3/m/swissfred-chs#description\">SwissFred_Mods_CHS_SFR模组中文翻译合集 for Baldur's Gate 3 - mod.io</a></p>\n<p> </p>",
     "date_added": 1731609144,
-    "date_updated": 1795351445,
+    "date_updated": 1795418104,
     "date_live": 1731611030,
     "visible": 1,
     "status": 1,
@@ -79477,15 +79477,15 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/f7d9/33634988/crop_100x100/64f32c445e6ae942544aa74bde88283.jpg"
     },
     "modfile": {
-      "id": 8515828,
+      "id": 8519706,
       "mod_id": 4485805,
-      "version": "7.1.8.4",
-      "filename": "duplicationchest_590a9f09-c640-3psb.zip",
-      "changelog": "Removed the \"Duplicated Item\" mark from duplicated items due to stacking issues.\nMinor fixes and optimizations.",
-      "date_added": 1795351312,
+      "version": "7.2.8.0",
+      "filename": "duplicationchest_590a9f09-c640-hqg9.zip",
+      "changelog": "Fixed a multiplayer issue where duplicate messages appeared on the wrong avatar.",
+      "date_added": 1795414536,
       "date_updated": 0,
-      "date_scanned": 1795351348,
-      "filesize": 18256790,
+      "date_scanned": 1795414573,
+      "filesize": 18264440,
       "platforms": [
         {
           "platform": "windows",
@@ -79559,7 +79559,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8515828
+        "modfile_live": 8519706
       }
     ]
   },
