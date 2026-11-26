@@ -149502,6 +149502,124 @@
     ]
   },
   {
+    "id": 5321621,
+    "game_id": 6715,
+    "name": "Dancing Bone Drums",
+    "name_id": "dancing-bone-drums",
+    "summary": "Adds a couple of drums with custom visuals to the game, and with special, dancing ensemble summoning abilities! Happy Halloween!",
+    "description": "<h2>Dancing Bone Drums</h2>\n<p>This small mod adds a couple of new drums to the game, with custom visuals. And because I am apparently incapable of just creating a simple visual mod, the drums also summon dancing troupes which will join in whenever you perform music on them. I did however manage to also include a couple of variants of the drums that do not have this \"feature\", in case you do not share my dumb appreciation of pirouetting skeletons.</p>\n<h3>What Does This Mod Do?</h3>\n<ul>\n<li>Places a backpack in your Camp Chest which contains 4 drums, 1 ring and 1 book.</li>\n<li>2 of the drums have special ensemble summoning capabilities, both with an undead theme.</li>\n<li>2 of the drums are visual only variants, and behave like \"normal\" vanilla drums other than their appearance.</li>\n<li>The ring is just a convenience item which adds Musical Proficiency to whomever equips it, otherwise nothing special.</li>\n</ul>\n<h3>What's an Ensemble?</h3>\n<p>In this case, it's a skeletal dance and music troupe that join in with your musical performances! Here's a gif to explain it better:</p>\n<p><img src=\"https://i.postimg.cc/R00LcYLg/Dancing-Bone-Drums1-ezgif-com-cut.gif\" alt=\"\"></p>\n<p>The second drum works in a similar way, but I'll leave the song and dance ensemble that one summons as a (silly) surprise. </p>\n<h3>Where Can I Get the Drums?</h3>\n<ul>\n<li>Once the mod is enabled, the backpack will automatically be placed into your Camp Chest.</li>\n<li>The backpack will also be placed in the Tutorial Potions chest.</li>\n<li>A Read Me book will be placed in your inventory on first load of a Save with the mod enabled, and includes additional information like merchant locations.</li>\n</ul>\n<h3>Any Future Plans for This Mod?</h3>\n<p>Yes, just a few small things that I couldn't finish before my self-imposed Halloween deadline!</p>\n<ul>\n<li>The grey drum is intended to be dyeable eventually, but I didn't quite get as far as the cloth mask, so that is to come.</li>\n<li>I'd like the ensembles to have some combat function, and plan to do something where they can be summoned in a fight and work a bit like the Bard Countercharm.</li>\n<li>Submit for console approval.</li>\n</ul>\n<p>Otherwise, I do intend to keep the scope of this mod relatively small, while I pick up my next project alongside continuing to maintain my main Ember's Lute mods.</p>\n<h3>Adding and Removing This Mod</h3>\n<ul>\n<li>Use the in-game mod manager to install and enable, or your preferred mod manager. This mod can be safely added to your campaign at any point.</li>\n<li>Since this mod adds custom items, it <strong>cannot be removed mid-campaign</strong> without pre-requisite in-game steps to fully erase the custom items. For PC players only, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n</ul>\n<h3>Console Players</h3>\n<p>Since mods cannot be removed mid-campaign, I recommend (for this and for any other mod) making a Save point before you add the mod and trying it out to see if you would like to keep it in your campaign. </p>\n<h3>Thanks</h3>\n<ul>\n<li>To Shinyhobo for the BG3 multi-tool: <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\">ShinyHobo/BG3-Modders-Multitool</a></li>\n<li><a>To Norbyte for a variety of essential modding tools, such as LSLib: </a><a href=\"https://github.com/Norbyte/lslib/releases\">LSLib</a></li>\n<li>To LaughingLeader for the BG3 Mod Manager: <a href=\"https://github.com/LaughingLeader/BG3ModManager\">BG3 Mod Manager</a></li>\n<li>To the Larian devs, the community team, and just Larian in general for the game, its assets, and their continued support for the BG3 modding community</li>\n</ul>",
+    "date_added": 1761789714,
+    "date_updated": 1795709328,
+    "date_live": 1761791371,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/dancing-bone-drums",
+    "submitted_by": {
+      "id": 33707172,
+      "name_id": "ariefel",
+      "username": "Ariefel",
+      "profile_url": "https://mod.io/u/ariefel",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/1214/33707172/crop_100x100/screenshot2024-04-10173132.png"
+    },
+    "modfile": {
+      "id": 6899511,
+      "mod_id": 5321621,
+      "version": "1.0.3.0",
+      "filename": "dancingbonedrums_b3e7f2b8-ce85-cxku.zip",
+      "changelog": "- (new) Added a new drum with some optional spectral and necrotic themed VFX\n- (new) New drums summons The Rolling Bones, but group swaps the dancers for musicians, in case you want to complete the song\n- (new) There's also a visual only variant of this drum included\n- (info) For those updating from an earlier version, your main avatar should get the bag containing the 2 new drums when you load your campaign with the mod enabled\n- (new) All drums now have a new spell container, which lets you customise some aspects of the visuals (glow intensity, glow colour, VFX)\n- (info) Visual customisations are per character, so if you swap the drums around between the party, you will need to re-apply",
+      "date_added": 1762117749,
+      "date_updated": 0,
+      "date_scanned": 1762117793,
+      "filesize": 21186524,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "dancingbonedrums.png",
+      "original": "https://image.modcdn.io/mods/2b45/5321621/dancingbonedrums.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2b45/5321621/crop_320x180/dancingbonedrums.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2b45/5321621/crop_640x360/dancingbonedrums.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2b45/5321621/crop_1280x720/dancingbonedrums.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Bard",
+        "name_localized": "Bard",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Autumn",
+        "name_localized": "Autumn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 6899511
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 6899511
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 6899511
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 6899511
+      }
+    ]
+  },
+  {
     "id": 5323362,
     "game_id": 6715,
     "name": "Flind Evolved",
@@ -161243,6 +161361,124 @@
     ]
   },
   {
+    "id": 5816950,
+    "game_id": 6715,
+    "name": "Ember's Enchanted Instruments - Drums",
+    "name_id": "embers-enchanted-instruments-drums",
+    "summary": "Adds 11 dyeable drums to the game with custom visuals and spells, acquiriable via in-game vendors or exploration.",
+    "description": "<h2>Ember's Enchanted Instruments - Drums</h2>\n<p>This mod adds 10 dyeable drums to the game, with custom visuals, VFX and spells.</p>\n<p>Quick summary:</p>\n<ul>\n<li>Adds drums to various merchants and locations across all Acts, with stats and spells aligned to the region.</li>\n<li>Adds a potion to your camp chest which lets you summon the drums directly if you don't wish to acquire them through exploration.</li>\n<li>See the media images for more information on each of the drums and other items added by this mod.</li>\n</ul>\n<h2>~~</h2>\n<blockquote>\n<h4>\"Sometimes, there just isn't a substitute for hitting a thing really, really hard. And if anyone tries to tell you that isn't art, let them know where the drum sticks can go.\" ~Ember</h4>\n</blockquote>\n<h2>~~</h2>\n<h2>Spell Examples</h2>\n<p>If you are viewing this in the in-game Mod Manager, you will not be able to see the GIFs below. Visit this mod's homepage on mod.io to see a couple of the spells in action, and for a link to a YouTube video for a more complete run through of the mod drums and spells.</p>\n<h3><strong>Rising Panic</strong></h3>\n<p>A fear-like inducing AOE. This spell is unlocked by equipping the Dreadpulse drum.</p>\n<p><img src=\"https://github.com/Arifel/media/releases/download/v1.0/RisingPanic-ezgif.com-video-to-gif-converter.gif\" alt=\"\"><img src=\"https://i.postimg.cc/tJ6yjVcQ/Rising-Panic-ezgif-com-video-to-gif-converter.gif\" alt=\"\" width=\"600\" height=\"396\"></p>\n<h3><strong>Storm Caller</strong></h3>\n<p>A big, over-the-top, lightning, rain and thunder AOE. This spell is unlocked by equipping the Skyrend drum.</p>\n<p><img src=\"https://github.com/Arifel/media/releases/download/v1.0/StormCaller-ezgif.com-video-to-gif-converter.gif\" alt=\"\"><img src=\"https://i.postimg.cc/wMNHpsGG/Storm-Caller-ezgif-com-video-to-gif-converter.gif\" alt=\"\"></p>\n<h3>Thump</h3>\n<p>All drums also unlock a spell called Thump - a no-damage Performance skill check to knock back your target. For fun and catharsis, demonstrated below on the ever-willing Withers.</p>\n<p><img src=\"https://i.postimg.cc/G2N1X064/Thump-ezgif-com-video-to-gif-converter.gif\" alt=\"\" width=\"600\" height=\"338\"></p>\n<h2>The Whistlewhim Drum</h2>\n<p>There's actually 11 drums in this mod. I can count I promise, I just consider this particular drum a bit different from the others. Maybe you can guess (some of) what it does based on its name. The rest of its description is purposefully non-specific.</p>\n<h2><strong>Getting Started</strong></h2>\n<ul>\n<li>On first load with the mod enabled, look in your inventory for a book with more information on where to find the drums.</li>\n</ul>\n<h2>A General Note on Compatibility</h2>\n<p>This mod adds assets to the game and does not override anything, and so should be compatible with most other mods.</p>\n<h2>Adding and Removing This Mod</h2>\n<ul>\n<li>This mod can be safely added mid-campaign at any point.</li>\n<li>Since this mod adds custom items, spells and statuses, it <strong>cannot be removed mid-campaign</strong> without pre-requisite in-game steps to fully erase the custom items. For PC players only, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\">Mod Uninstaller</a></li>\n</ul>\n<h2>Console Players</h2>\n<p>Since mods cannot be removed mid-campaign, I recommend (for this and for any other mod) making a Save point before you add the mod and trying it out to see if you would like to keep it in your campaign. There is a potion dropped into your camp chest which will enable you to summon the crate of drums for quick and convenient testing access to the instruments.</p>\n<h2><strong>Known Issues</strong></h2>\n<ul>\n<li><del>I've noticed some of instrument VFX aren't following the instruments around after equipping, looking into a fix for this (not sure why, it is working locally, so possibly just some cache file change I've missed in the .pak)</del> nvm - looks like it was just my local environment messing up</li>\n</ul>\n<h2>FAQ</h2>\n<ul>\n<li><strong>Q: Will you be adding other instruments, like Lutes, Flutes, Harps, Lyres, Violins?</strong></li>\n<li><strong>A:</strong> Not to this specific mod, but yes! Eventually (I'm slow)! This actually started out as a mod for 50-something instruments across all acts, until I realised my textures were closing in on nearly 1GB in total, so I decided to break it out into mods for different instrument models. </li>\n</ul>\n<ul>\n<li><strong>Q: Is this mod compatible with <a href=\"https://mod.io/g/baldursgate3/m/na110901#description\">Ember's Lute</a>?</strong></li>\n<li><strong>A:</strong> Yes - and if you wish to enable the custom music performances from that mod on these drums, look for a crate labelled \"Varnishes\" in the summonable Ember's Lute instrument chest. Equip one of the drums from this mod and use the varnish.</li>\n</ul>\n<ul>\n<li><strong>Q: Is this mod dependent on <a href=\"https://mod.io/g/baldursgate3/m/na110901#description\">Ember's Lute</a>?</strong></li>\n<li><strong>A:</strong> No - this is a standalone instrument mod and is not an add-on to my music performance mods. The mods are compatible though (see previous question).</li>\n</ul>\n<ul>\n<li><strong>Q: Does this mod contain unique visual assets?</strong></li>\n<li><strong>A:</strong> Yes - many textures on the instruments are unique to this mod and have been created from scratch. Other parts, like the model meshes and material shaders are re-used Larian assets combined in different ways to make them feel distinct.</li>\n</ul>\n<ul>\n<li><strong>Q: Console support?</strong></li>\n<li><strong>A:</strong> Yes, I will be submitting this for console approval. Then again, it's a drum mod. It's a niche within a niche! Realistically, this may never make it to the top of the console curation queue and there won't be anything I can do about that! So, uh, sorry, if you happen to be one of the two people looking for a drum mod and are also on console.</li>\n</ul>\n<ul>\n<li><strong>Q: I don't like the stats or spells on instrument XYZ</strong></li>\n<li>A: I'm open to feedback (welcome it), though I reserve the right to use mod author privilege when it comes to implementing any changes requested.</li>\n</ul>\n<h3>Thanks</h3>\n<ul>\n<li>To Shinyhobo for the BG3 multi-tool: <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\">ShinyHobo/BG3-Modders-Multitool</a></li>\n<li><a>To Norbyte for a variety of essential modding tools, such as LSLib: </a><a href=\"https://github.com/Norbyte/lslib/releases\">LSLib</a></li>\n<li>To LaughingLeader for the BG3 Mod Manager: <a href=\"https://github.com/LaughingLeader/BG3ModManager\">BG3 Mod Manager</a></li>\n<li>To the Larian devs, the community team, and just Larian in general for the game, its assets, and their continued support for the BG3 modding community</li>\n</ul>\n<p><strong>~~</strong></p>\n<h4><em>I dedicate this mod to the players out there who have been patiently waiting for more custom drums in BG3. </em><em>There must be at least three of you. I'm one of them of course. So, all two of you. This mod is for you. You're welcome. </em></h4>\n<p><strong>~~</strong></p>",
+    "date_added": 1771880002,
+    "date_updated": 1795709354,
+    "date_live": 1771893896,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/embers-enchanted-instruments-drums",
+    "submitted_by": {
+      "id": 33707172,
+      "name_id": "ariefel",
+      "username": "Ariefel",
+      "profile_url": "https://mod.io/u/ariefel",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/1214/33707172/crop_100x100/screenshot2024-04-10173132.png"
+    },
+    "modfile": {
+      "id": 7458675,
+      "mod_id": 5816950,
+      "version": "1.0.2.0",
+      "filename": "enchanteddrums_bed06308-b5e8-c-dbua.zip",
+      "changelog": "- Tweak to the Thump spell to cost a Bonus action instead of a full Action (bringing inline with Shove)",
+      "date_added": 1772494780,
+      "date_updated": 0,
+      "date_scanned": 1772494847,
+      "filesize": 35144290,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "10.2.png",
+      "original": "https://image.modcdn.io/mods/12a1/5816950/10.2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/12a1/5816950/crop_320x180/10.2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/12a1/5816950/crop_640x360/10.2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/12a1/5816950/crop_1280x720/10.2.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Bard",
+        "name_localized": "Bard",
+        "date_added": 0
+      },
+      {
+        "name": "Other",
+        "name_localized": "Other",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7458675
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7458675
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7458675
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7458675
+      }
+    ]
+  },
+  {
     "id": 5819006,
     "game_id": 6715,
     "name": "Nia' Head Preset - Kayla",
@@ -162815,7 +163051,7 @@
     "name": "Acheron - Clothing and Light Armor",
     "name_id": "acheron-clothing-and-light-armor",
     "summary": "the infinite battlefield ❖ DEX based armor set now available for ALL races + TMTS, Dulcet A, and Less Lanky Githyanki",
-    "description": "<p style=\"text-align:center;\"><em>A mysterious tome has appeared in Faerûn! </em><br><br><em>It can be found in the Tutorial chest as well as with a few, selected vendors across all three different acts. </em><br><em>It is thrumming with latent magic, and when you hold it, it almost feels like it... wants you to read it? How odd.<br><br></em></p>\n<hr>\n<div>\n<h2><em><strong><u><br>EDIT:</u> The mod is now LIVE on mac and console! Thank you all ♥</strong></em></h2>\n<h3> </h3>\n<h3>For anyone having trouble downloading the mod due to it's larger size: apparently connecting to a hotspot<br>or using the wifi from your phone can bypass the download error, so please do give that a try if possible.<br><br></h3>\n<h3>I know that unfortunately this is a common mod.io problem and it happens to lots of mods over 100mb •︵•</h3>\n<p> </p>\n<div><hr></div>\n<div> </div>\n<div><span style=\"font-size:medium;\">This is the release of my first ever armor set <strong>Acheron</strong>, now available for <strong>all races!</strong><br><br>The container for this mod is a historical tome and the first in its series <em><u><br>Tales of the Outer Planes</u></em> which contain several pages filled with items</span><span style=\"font-size:medium;\">.</span><span style=\"font-size:medium;\"><br><br></span><span style=\"text-decoration:underline;\"><span style=\"font-size:medium;\">As for some information about the armor set itself:</span></span></div>\n</div>\n<ul>\n<li><span style=\"font-size:medium;\">Available as<strong> Clothing, </strong><strong>Light Armor</strong> and <strong>Camp clothing</strong></span></li>\n<li><span style=\"font-size:medium;\"><strong>Dyable - </strong>comes with <strong>three custom dyes</strong></span></li>\n<li><span style=\"font-size:medium;\"><strong>Non-VT </strong></span><span style=\"font-size:small;\"><em>(if you don't know what that means, don't worry about it)</em></span></li>\n<li><span style=\"font-size:medium;\"><strong>DEX-based - </strong>ideal for either a <strong>Rogue</strong> or a <strong>Monk</strong></span></li>\n<li><span style=\"font-size:medium;\"><strong>Several variants </strong>of items available</span></li>\n</ul>\n<p><span style=\"font-size:medium;\">The releases for this mod (and all my armor mods moving forward) will be in stages:<br><br><u>Stage 1</u>: <strong>BT1/BT2/BT3/BT4</strong> + <strong>TMTS BT1/BT3 </strong><span style=\"font-size:small;\"><em>(launch) <span style=\"font-size:medium;\"><strong>✓</strong></span></em></span><br><u>Stage 2</u>: <strong>Githyanki/Half-orc/Dragonborn ✓</strong><br><u>Stage 3</u>: <strong>Dwarf/Halfling/Gnome ✓</strong><br><br>I am staggering these releases in an attempt to not go insane while refitting, thank you for your understanding (ᵕ  ´ ∇  ˋ ˶)</span></p>\n<hr>\n<p><span style=\"font-size:medium;\"><u>The tome can be found in these locations:<br></u><br></span><span style=\"font-size:medium;\"><strong>Tutorial chest<br></strong></span><span style=\"font-size:medium;\"><strong>Dammon</strong> </span><span style=\"font-size:small;\">(Act 1 in Emerald Grove, Act 2 in Last Light inn*, Act 3 in Lower city*) </span><span style=\"font-size:xx-small;\"><em>l*if he's alive]</em></span><span style=\"font-size:small;\"><br></span><span style=\"font-size:medium;\"><strong>Omeleuum</strong> </span><span style=\"font-size:small;\">(Act 1, Underdark)<br></span><span style=\"font-size:medium;\"><strong>Araj Oblodra</strong> </span><span style=\"font-size:small;\">(Act 2, Moonrise Towers)<br></span><span style=\"font-size:medium;\"><strong>Popper</strong> </span><span style=\"font-size:small;\">(Act 3, Circus of the Last Days in Rivington)<br></span><span style=\"font-size:medium;\"><strong>The Bibliophile</strong> </span><span style=\"font-size:small;\">(Act 3, Book store in Lower City)</span><span style=\"font-size:medium;\"> </span><span style=\"font-size:xx-small;\">god i'm funny</span><span style=\"font-size:medium;\"> </span><span style=\"font-size:xx-small;\">ᕕ( ᐛ )ᕗ</span><span style=\"font-size:medium;\"><br></span></p>\n<p><em><span style=\"font-size:small;\">[Unfortunately, it appears to <strong>not be compatible with the Transmogrification mod</strong> here on mod.io and it seems very complicated to make it compatible, <br>so for now I have no plans to work on that, so sorry. If you're not opposed to using mods from Nexus, I would recommend using the <a href=\"https://www.nexusmods.com/baldursgate3/mods/20407\">Transmog Enhanced Revamped</a> mod!]</span></em></p>\n<hr>\n<p><span style=\"font-size:small;\"><em>This has been a passion project of mine that I have been working on since December. <br></em><br><em>As this is my first ever armor mod, I'm sure there will be things that are not perfect, <br>but I tried my best with the weight painting and to keep the clipping to a minimum.<br><br>A big thank you to everyone who took their time to both help and encourage me, I truly appreciate it.<br><br>Also, a big shoutout to all the amazing people in the <u>CMTY modding discord</u>, as well as the <u>Faerun Fashionistas</u>!<br>I released a beta version for people to test it out there, and so many took amazing screenshots using this armor </em>♡⸜(˶˃ ᵕ ˂˶)⸝♡<em><br><br>For anyone that is interested, both the title of the tome and its content is directly inspired by <a href=\"https://forgottenrealms.fandom.com/wiki/Tales_of_the_Outer_Planes\" rel=\"nofollow\">the book<br>of the same name</a> from 1st edition, as well as the 3rd edition book <a href=\"https://forgottenrealms.fandom.com/wiki/Manual_of_the_Planes_3rd_edition\" rel=\"nofollow\">Manual of the Planes</a>!<br><br>This assets used to make this mod were not made by me - credit goes to <a href=\"https://www.cgtrader.com/designers/palasky\" rel=\"nofollow\">Palasky</a> and <a href=\"https://www.cgtrader.com/designers/anima-z\">Anima-z</a></em></span></p>",
+    "description": "<h2>26.11.26</h2>\n<p>Due to the death threats and harassment received in reports, I will no longer be uploading and/or updating mods to mod.io. </p>\n<p>I am sorry that sometimes you can't download the mod on console, but that is very much out of my hands.</p>\n<p>That is unfortunately just how mod.io works, and it's far from a unique problem: it happens to all bigger console mods to some degree. Not sure why, but mod.io doesn't like bigger mod files.</p>\n<p>You can find me on Nexus or on my Patreon, where I will continue to make immersive and inclusive mods.</p>\n<p>Thank you.</p>\n<p>- 𝑂𝑁𝑌𝑋</p>\n<hr>\n<p> </p>",
     "date_added": 1772995341,
     "date_updated": 1790249948,
     "date_live": 1772998990,
@@ -162860,11 +163096,11 @@
       ]
     },
     "logo": {
-      "filename": "monochrome143.1.png",
-      "original": "https://image.modcdn.io/mods/a8f0/5852630/monochrome143.1.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/a8f0/5852630/crop_320x180/monochrome143.1.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/a8f0/5852630/crop_640x360/monochrome143.1.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/a8f0/5852630/crop_1280x720/monochrome143.1.png"
+      "filename": "monochrome165.png",
+      "original": "https://image.modcdn.io/mods/a8f0/5852630/monochrome165.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a8f0/5852630/crop_320x180/monochrome165.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a8f0/5852630/crop_640x360/monochrome165.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a8f0/5852630/crop_1280x720/monochrome165.png"
     },
     "tags": [
       {
@@ -171571,7 +171807,7 @@
     "name": "Arcadia - Clothing and Light Armor",
     "name_id": "onyx-arcadia",
     "summary": "the peaceable kingdoms ❖ DEX and INT based armor available for BT1/BT2/BT3/BT4 and TMTS BT1/BT3",
-    "description": "<p>Changelog 06.10.26</p>\n<p><em>&gt; Updated mod as somehow underwear was toggled on when wearing wearing Version B. Oops.</em></p>\n<hr>\n<p>This is the release of my armor set <strong>Arcadia</strong>, now available for BT1/BT2/BT3/BT4, as well as TMTS BT1/BT3!<br><br>The container for this mod is a historical tome and the second in its series <u><br>Tales of the Outer Planes</u> which contain several pages filled with items.<br><br>This armor set is a bit unique in that it was created solely for my Tav;<strong> Ashana</strong>, a Bladesinger Wizard<br>with a penchant for thunder spells. Due to this, it is a bit more themed than a regular set would be.<br><br><u>As for some information about the armor set itself:</u><br> <br>- <strong>Clothing, Light Armor</strong> and <strong>Camp clothing</strong> versions<br>- <strong>Dyable </strong>- comes with <strong>two custom dyes</strong><br>- <strong>Non-VT </strong><span style=\"font-size:xx-small;\">(if you don't know what that means, don't worry about it)</span><br>- <strong>DEX and INT based stats </strong>- ideal for a <strong>Bladesinger Wizard</strong><br>- <strong>Several variants </strong>of items available<br><br>The biggest difference for Arcadia since its beta release is that there is now a <strong>second version of the outfit available</strong>! <br><br>I decided to release two variants of the armor as I liked both and didn't want to exclude one or the other;<br>please note that <u>both versions are supported for all the body types listed previously</u> <span style=\"font-size:xx-small;\">(fashion doesn't discriminate (⌐■◡■)✧)</span><br><br><strong>Version A</strong> is the one from beta release with the corset and button-up shirt<br><strong>Version B</strong> is a leather armor top with a pauldron and scarf<br><br><em><span style=\"font-size:small;\">[Unfortunately, I am unable to remove the scarf and/or pauldron from the leather armor version as it is covering empty space <br>of the armor (as many game assets only model what can be see). Sorry about that. I, too, wish it was more modular (¬`‸´¬)]</span></em><br><br>At this stage, I am unsure if it will be refitted for the remaining body types.<br><br>I am busy working on multiple projects simultaneously, while also battling some mental health<br>struggles and burnout. If I do create more refits, these will be updated sporadically so I apologize for that.<br><br>(That doesn't mean they might <em>never</em> happen, just that I can't make any promises in regards to them!)<br><br></p>\n<hr>\n<p><br><u>The tome can be found in these locations</u>:<br><br><strong>Tutorial chest</strong><br><strong>Dammon</strong> <span style=\"font-size:small;\">(Act 1 in Emerald Grove, Act 2 in Last Light inn*, Act 3 in Lower city*) </span><span style=\"font-size:xx-small;\">l*if he's alive]</span><br><strong>Omeleuum</strong> <span style=\"font-size:small;\">(Act 1, Underdark)</span><br><strong>Araj Oblodra</strong> <span style=\"font-size:small;\">(Act 2, Moonrise Towers)</span><br><strong>Popper</strong> <span style=\"font-size:small;\">(Act 3, Circus of the Last Days in Rivington)</span><br><strong>The Bibliophile</strong> <span style=\"font-size:small;\">(Act 3, Book store in Lower City)</span> <span style=\"font-size:xx-small;\">god i'm funny</span> <span style=\"font-size:xx-small;\">ᕕ( ᐛ )ᕗ</span><br><br>To install, download the file, unzip the folder and then drag and drop the PAK into the BG3 Mod Manager.<br><br></p>\n<hr>\n<p><br><span style=\"font-size:small;\"><em>Thank you to everyone for your support, I really do appreciate it. ♥<br><br>Also, a big shout-out to all the amazing screenarchers from the Faerûn Fashionistas discord server,<br>who took all these beautiful screenshots used in this mod page during its Beta Release. You are all wonderful beyond words.<br><br>The thumbnail was taken in the custom map <a href=\"https://www.patreon.com/posts/celestine-grove-158982486?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_fan&amp;utm_content=web_share\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Celestine Grove</span></a> by Tinuviel, which is just gorgeous. Go check it out!</em></span><br><br><span style=\"font-size:small;\"><em>For anyone that is interested, both the title of the tome and its content is directly inspired by <a href=\"https://forgottenrealms.fandom.com/wiki/Tales_of_the_Outer_Planes\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">the book<br>of the same name</span></a> from 1st edition, as well as the 3rd edition book <a href=\"https://forgottenrealms.fandom.com/wiki/Manual_of_the_Planes_3rd_edition\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Manual of the Planes</span></a>!</em></span></p>",
+    "description": "<h2>26.11.26</h2>\n<p>Due to the death threats and harassment received in reports, I will no longer be uploading and/or updating mods to mod.io. </p>\n<p>I am sorry that sometimes you can't download the mod on console, but that is very much out of my hands.</p>\n<p>That is unfortunately just how mod.io works, and it's far from a unique problem: it happens to all bigger console mods to some degree. Not sure why, but mod.io doesn't like bigger mod files.</p>\n<p>You can find me on Nexus or on my Patreon, where I will continue to make immersive and inclusive mods.</p>\n<p>Thank you.</p>\n<p>- 𝑂𝑁𝑌𝑋</p>\n<hr>\n<p> </p>",
     "date_added": 1781000848,
     "date_updated": 1795692415,
     "date_live": 1781003347,
@@ -171616,11 +171852,11 @@
       ]
     },
     "logo": {
-      "filename": "monochrome125.png",
-      "original": "https://image.modcdn.io/mods/7684/6124348/monochrome125.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/7684/6124348/crop_320x180/monochrome125.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/7684/6124348/crop_640x360/monochrome125.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/7684/6124348/crop_1280x720/monochrome125.png"
+      "filename": "monochrome160.png",
+      "original": "https://image.modcdn.io/mods/7684/6124348/monochrome160.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7684/6124348/crop_320x180/monochrome160.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7684/6124348/crop_640x360/monochrome160.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7684/6124348/crop_1280x720/monochrome160.png"
     },
     "tags": [
       {
@@ -175175,7 +175411,7 @@
     "name": "Falazure - Clothing and Light Armor",
     "name_id": "falazure-clothing-and-light-armor",
     "summary": "the night dragon ❖ shadow and necrotic based armor available for BT1/BT2/BT3/BT4 and TMTS BT1/BT3",
-    "description": "<div>\n<div> </div>\n</div>\n<div>\n<div>\n<div><img src=\"https://i.ibb.co/KjZ8VJ5F/2026-week-1-Celestial-Shadows.png\" alt=\"2026-week-1-Celestial-Shadows.png\"></div>\n</div>\n<div>\n<figure class=\"quote col-3-3\"><span style=\"color:#f4f4f4;\"><strong><u><span style=\"font-size:large;\">DRACONIC TRINITY</span></u></strong><br><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/23689\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">ASGORATH</span></a> </strong>by <a href=\"https://www.nexusmods.com/profile/Naerys\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Naerys</span></a><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/23747\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">KERESKA'S CHOSEN</span></a> </strong>by <a href=\"https://www.nexusmods.com/profile/khaleesinz?gameId=3474\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">khaleesinz</span></a><br><strong><a href=\"https://www.nexusmods.com/baldursgate3/mods/23732\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">FALAZURE</span></a> </strong>by <a href=\"https://www.nexusmods.com/profile/onyx\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">onyx</span></a> <span style=\"font-size:xx-small;\">(that's me!)</span></span></figure>\n</div>\n</div>\n<p><strong><u>CHANGELOG 15.07.26</u></strong><br><br>&gt;<em> Now available for <u>BT3/BT4</u> and <u>TMTS BT1/BT3</u></em><br><em>&gt; Now available in more variants; a <u>shirtless option</u> for the tunic (A5/B5), a version <u>without pants</u> (B1-B5) <br>as well as changing the <u>camp version to remove the pauldrons</u> for a more casual and dressed down look</em></p>\n<hr>\n<p>This is the release of my armor set <strong>Falazure</strong>, now available for <strong>BT1/BT2/BT3/BT4 and TMTS BT1/BT3!</strong><br><br>It was made as part of a team with my good friends Mons and Naerys for the <strong>BG3 July Modathon 2026</strong>:<br><br>We each release a mod centered around the Week 1 theme <em>Celestial and Shadows</em>, with my armor set<br><strong>Falazure, the Night Dragon Armor</strong> being made specifically for the Shadows theme! <span style=\"font-size:xx-small;\">(it just felt right okay)</span><br><br>Please go check out the other two mods that is part of the Draconic Trinity and give them lots of love.<br><br>The container for this mod is an old, historic tome called <u><strong>Draconomicon: Book of Dragons</strong></u> which contain several pages filled with items.<br><br><u>As for some information about the mod itself and what you can expect:</u><br> <br>- <strong>Clothing, Light Armor</strong> and <strong>Camp clothing</strong> versions<br>-<strong> Longsword</strong> available<br><strong>- Legendary rarity </strong>for all items <em><span style=\"font-size:small;\">(if you don't love OP items, feel free to use Transmog)</span></em><br>- <strong>Dyable</strong><br>- <strong>Non-VT </strong><span style=\"font-size:xx-small;\">(if you don't know what that means, don't worry about it)</span><br>-<strong> Themed around shadows, undeath and necromancy, </strong>with unique spells and passives! <span style=\"font-size:xx-small;\"><em>[more on that below]</em></span><br>- <strong>Several variants </strong>of items available<br><br><span style=\"font-size:small;\"><em>If you find that the armor gets bloody and/or dirty more often than other sets, I would recommend </em></span><br><span style=\"font-size:small;\"><em>using <a href=\"https://www.nexusmods.com/profile/badwitch69\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">badwitch69</span></a>'s amazing <a href=\"https://www.nexusmods.com/baldursgate3/mods/18377\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Non-VT Shader Fix</span></a> as it was made for that specific problem!</em></span><br><br><u>As this was made on a time crunch, it is currently only available for BT1/BT2 but I am planning on doing more refits!</u><strong> Done ✓</strong><br><br>While working on this, I decided to challenge myself and look for more unique spell effects and passives, which<br>caused me to look into enemy-exclusive abilities which ended up being perfect for this set! <span style=\"font-size:small;\"><em>(Thank you, Sharran NPC's (⌐■◡■)✧)</em></span><br><br>The biggest one is <em>Subsume Shadow</em>, a spell that allows you to enter <strong>Umbral Form</strong>. While in Umbral Form,<br>you deal an additional <strong>1d8 Necrotic</strong>, are <strong>immune to non-magical damage</strong>, and receive an <strong>Extra Attack</strong>. <br><br>You are unable to cast any spells while in this state (similar to how Rage works), with the form dissipating upon exiting combat.<br><br>There is also a Legendary Longsword by the name of <strong>Deathwyrm</strong> found in the tome, that is likewise themed around necromancy and shadows.<br><br>This was a really fun project that I am so happy I got to work on alongside my friends, and I hope you enjoy it ♥<br><br></p>\n<hr>\n<p><br><u>The tome can be found in these locations</u>:<br><br><strong>Tutorial chest </strong><span style=\"font-size:small;\">(highly recommend using <a href=\"https://www.nexusmods.com/baldursgate3/mods/8295\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">AV Item Shipment Framework</span></a>)</span><br><strong>Dammon</strong> <span style=\"font-size:small;\">(Act 1 in Emerald Grove, Act 2 in Last Light inn*, Act 3 in Lower city*) </span><span style=\"font-size:xx-small;\">l*if he's alive]</span><br><strong>Omeleuum</strong> <span style=\"font-size:small;\">(Act 1, Underdark)</span><br><strong>Araj Oblodra</strong> <span style=\"font-size:small;\">(Act 2, Moonrise Towers)</span><br><strong>Popper</strong> <span style=\"font-size:small;\">(Act 3, Circus of the Last Days in Rivington)</span><br><strong>The Bibliophile</strong> <span style=\"font-size:small;\">(Act 3, Book store in Lower City)</span> <span style=\"font-size:xx-small;\">god i'm funny</span> <span style=\"font-size:xx-small;\">ᕕ( ᐛ )ᕗ</span><br><br></p>\n<hr>\n<p><br><span style=\"font-size:small;\"><em>Thank you to everyone for your support, I really do appreciate it ♥<br><br>The thumbnail was taken in the custom map <a href=\"https://www.patreon.com/Tinuvi3l/posts/ancunin-manor-157741732?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_fan&amp;utm_content=web_share\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Ancunin Manor</span></a> by Tinuviel, which is just gorgeous. Go check it out!</em></span><br><br><span style=\"font-size:small;\"><em>For anyone that is interested, both the title of the tome and its content is directly inspired by <a href=\"https://forgottenrealms.fandom.com/wiki/Draconomicon:_The_Book_of_Dragons\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">the book of the same name</span></a><br><br>This assets used to make this mod were not made by me - all credit goes to the asset <a href=\"https://www.fab.com/listings/dc91a792-f8e5-4db0-9e9e-07f705e625d5\" rel=\"nofollow\"><span style=\"color:#8e7cc3;\">Elric by Hisqie Furqoni86</span></a></em></span></p>",
+    "description": "<h2>26.11.26</h2>\n<p>Due to the death threats and harassment received in reports, I will no longer be uploading and/or updating mods to mod.io. </p>\n<p>I am sorry that sometimes you can't download the mod on console, but that is very much out of my hands.</p>\n<p>That is unfortunately just how mod.io works, and it's far from a unique problem: it happens to all bigger console mods to some degree. Not sure why, but mod.io doesn't like bigger mod files.</p>\n<p>You can find me on Nexus or on my Patreon, where I will continue to make immersive and inclusive mods.</p>\n<p>Thank you.</p>\n<p>- 𝑂𝑁𝑌𝑋</p>\n<hr>\n<p> </p>",
     "date_added": 1783365465,
     "date_updated": 1790347248,
     "date_live": 1783368994,
@@ -175220,11 +175456,11 @@
       ]
     },
     "logo": {
-      "filename": "monochrome134.png",
-      "original": "https://image.modcdn.io/mods/a5fc/6197258/monochrome134.png",
-      "thumb_320x180": "https://thumb.modcdn.io/mods/a5fc/6197258/crop_320x180/monochrome134.png",
-      "thumb_640x360": "https://thumb.modcdn.io/mods/a5fc/6197258/crop_640x360/monochrome134.png",
-      "thumb_1280x720": "https://thumb.modcdn.io/mods/a5fc/6197258/crop_1280x720/monochrome134.png"
+      "filename": "monochrome136.png",
+      "original": "https://image.modcdn.io/mods/a5fc/6197258/monochrome136.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a5fc/6197258/crop_320x180/monochrome136.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a5fc/6197258/crop_640x360/monochrome136.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a5fc/6197258/crop_1280x720/monochrome136.png"
     },
     "tags": [
       {
@@ -175718,6 +175954,119 @@
       {
         "platform": "ps5",
         "modfile_live": 7952604
+      }
+    ]
+  },
+  {
+    "id": 6216686,
+    "game_id": 6715,
+    "name": "Ember's Armoury - Steel Rose Rapiers",
+    "name_id": "embers-armoury-steel-rose-rapiers",
+    "summary": "Adds 5 dyeable rapiers to the game, with custom visuals, spells and weapon attack VFX. Weapons can be acquired immersively through exploration, or summoned with a potion.",
+    "description": "<p><span style=\"font-size:x-large;\">Ember's Armo</span><span style=\"font-size:x-large;\">ury - Steel Rose Rapiers</span></p>\n<p>Adds 5 dyeable rapiers to the game, with custom visuals, spells and weapon attack VFX.<br><br><span style=\"font-size:large;\">Getting Started</span><br>Weapons can be acquired through exploration (see section further down for spoiler locations) or by using a \"cheat\" summoning potion (added to the camp chest).</p>\n<p><span style=\"font-size:large;\">Note on Compatibility</span><br>This mod only adds weapons to the game, and so should be compatible with almost all other mods.<br><br><span style=\"font-size:large;\">Third Party Assets</span><br>In addition to Larian BG3 mesh, shader and texture assets, this mod makes use of the following third party assets under their respective attribution licenses:</p>\n<ul>\n<li>\"The Forgotten Knight\" by dark_igorek - mesh and texture reference for the \"real\" roses. Licensed under Creative Commons Attribution 4.0. Original: <a href=\"https://skfb.ly/6VDut\" rel=\"nofollow\"> </a><a href=\"https://sketchfab.com/3d-models/the-forgotten-knight-d14eb14d83bd4e7ba7cbe443d76a10fd\" rel=\"nofollow\">⛨ The Forgotten Knight ⛨ - Download Free 3D model by dark_igorek (@dark_igorek) [d14eb14]</a></li>\n<li>\"Rose\" by Lisa3Dart - mesh and texture reference for the stylized steel roses. <a href=\"https://www.vecteezy.com/free-vector/damask-pattern\" rel=\"nofollow\"> </a><a href=\"https://sketchfab.com/3d-models/rose-6fa1187d2d9840f5b931351720486cd9\" rel=\"nofollow\">Rose - Download Free 3D model by Lisa3Dart - Aylara (@lisamorigi2002) [6fa1187]</a></li>\n</ul>\n<p><br><span style=\"font-size:large;\">Adding and Removing This Mod</span></p>\n<ul>\n<li>This mod can be safely added mid-campaign at any point.</li>\n<li>Since this mod adds custom weapons, spells and statuses, it <strong>cannot be removed mid-campaign</strong> without pre-requisite in-game steps to fully erase the custom items. For PC players only, there are script extender mods available on Nexus which can clear out custom mod items from your Save campaign: <a href=\"https://www.nexusmods.com/baldursgate3/mods/9701\" rel=\"nofollow\">Mod Uninstaller</a></li>\n</ul>\n<p><br><span style=\"font-size:large;\">Todo</span></p>\n<ul>\n<li>The Sanguine Sonata melody does a Performance Check on every turn with a DC that increases with each stack gained (+2 per stack). This felt more interesting than just implementing a flat cap, but I might change this when I playtest a bit more in anger on an end-game bard if it gets a bit too OP. A lucky streak of successes is ok, but it's not intended to be consistently easy to get and sustain several stacks.</li>\n</ul>\n<p><br><span style=\"font-size:large;\">Thanks</span></p>\n<ul>\n<li>To Shinyhobo for the BG3 multi-tool: <a href=\"https://github.com/ShinyHobo/BG3-Modders-Multitool\" rel=\"nofollow\">ShinyHobo/BG3-Modders-Multitool</a></li>\n<li>To Norbyte for a variety of essential modding tools, such as LSLib: <a href=\"https://github.com/Norbyte/lslib/releases\" rel=\"nofollow\">LSLib</a></li>\n<li>To LaughingLeader for the BG3 Mod Manager: <a href=\"https://github.com/LaughingLeader/BG3ModManager\" rel=\"nofollow\">BG3 Mod Manager</a></li>\n<li>To Volno, for the Shader and Texture Toolbox:  <a href=\"https://www.nexusmods.com/baldursgate3/mods/4310?tab=files\" rel=\"nofollow\">Volno's Texture Toolbox (BG3 Shaders and Texture Editing Tools for Blender)</a></li>\n<li>To the Larian devs, the community team, and just Larian in general for the game, its assets, and their continued support for the BG3 modding community</li>\n</ul>\n<p><br><strong>SPOILERS</strong><br>Where to find the rapiers:</p>\n<ul>\n<li><a href=\"https://www.nexusmods.com/baldursgate3/articles/1861\">Steel Rose Rapier Locations (SPOILERS) at Baldur's Gate 3 Nexus - Mods and community</a></li>\n</ul>",
+    "date_added": 1783953033,
+    "date_updated": 1795709408,
+    "date_live": 1783982901,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/embers-armoury-steel-rose-rapiers",
+    "submitted_by": {
+      "id": 33707172,
+      "name_id": "ariefel",
+      "username": "Ariefel",
+      "profile_url": "https://mod.io/u/ariefel",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/1214/33707172/crop_100x100/screenshot2024-04-10173132.png"
+    },
+    "modfile": {
+      "id": 7991176,
+      "mod_id": 6216686,
+      "version": "1.1.0.2",
+      "filename": "steelroserapier_6d4048e2-74e6-36ah.zip",
+      "changelog": "- Set rapier material type to metal (weapon sounds)",
+      "date_added": 1784544633,
+      "date_updated": 0,
+      "date_scanned": 1784544734,
+      "filesize": 49335964,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/0d08/6216686/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/0d08/6216686/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/0d08/6216686/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/0d08/6216686/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Modathon 2026",
+        "name_localized": "Modathon 2026",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 7991176
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 7991176
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 7991176
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 7991176
       }
     ]
   },
@@ -176859,6 +177208,107 @@
     ]
   },
   {
+    "id": 6346121,
+    "game_id": 6715,
+    "name": "Paragon Encounters",
+    "name_id": "paragon-encounters",
+    "summary": "Adds 36 Paragon Encounters to the game, where you can challenge powerful juggernauts and their allies. Defeat them to claim the magical items that gave them some of their power!",
+    "description": "<p>Adds 36 new Paragon Encounters, spread across all 3 Acts. These encounters represent the lingering legacy of powerful figures in the area, with their influence taking physical form to challenge you. Paragon enemies are challenging foes that hold the strength of many enemies at once. They take more actions, are much more durable, and can make use of their skills and allies to result in powerful combos. Further strengthened by the magical items they hold, they prove much more dangerous then they might first appear. Defeating these enemies will let you take those items for yourself, and empower yourself with some of the new tricks the enemies have learned from <a href=\"https://mod.io/g/baldursgate3/m/enemy-tacticians\">Enemy Tacticians</a>.</p>\n<p>Additionally, these encounters have all been carefully placed to not impede normal exploration. They are located in \"opt-in\" locations off the typical paths so that you aren't forced to fight them right away if you don't want to. If you wish to challenge a Paragon, you must actively seek them out.</p>\n<p><strong>Compatibility:</strong><br>-Assume most extra encounters mods will overlap enemy placement locations.<br>-An exception applies to \"Extra encounters and Minibosses\", where all the encounters are in different locations than mine. You can use both mods at once without overlapping encounters.</p>\n<p><strong>Translation Credits:</strong><br>-Spanish / Latin Spanish Translation: <a href=\"https://github.com/incolhermex-droid\" target=\"_blank\" rel=\"noopener noreferrer\">incolhermex-droid</a></p>\n<hr>\n<p><strong>Encounter Locations Map Key<br></strong>-Purple dots represent encounters at that location.<br>-Blue dots represent encounters that require you to change maps at that location to find the encounter.</p>",
+    "date_added": 1788062626,
+    "date_updated": 1795710915,
+    "date_live": 1788064406,
+    "visible": 1,
+    "status": 1,
+    "dependencies": true,
+    "profile_url": "https://mod.io/g/baldursgate3/m/paragon-encounters",
+    "submitted_by": {
+      "id": 35248327,
+      "name_id": "flare76",
+      "username": "Flare76",
+      "profile_url": "https://mod.io/u/flare76",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/2f42/35248327/crop_100x100/scarletfang.png"
+    },
+    "modfile": {
+      "id": 8512732,
+      "mod_id": 6346121,
+      "version": "2.7.8.25",
+      "filename": "paragonencounters_ddc9ae01-464-ddza.zip",
+      "changelog": "-The gold value of all Paragon items was increased even more. If the items aren't useful to you, sell them and use the gold to buy a reward you actually want!\n-A few Paragons given a custom weapon, and others had their weapons improved. (Acolyte of Destruction, Angel, Firetongue Smuggler, Bloodhound, Receptor, and Avatars were affected)\n-Dawnmaster spells manipulated to adjust his casting behavior, and hopefully stop jumping off cliffs. Or maybe he'll try to jump off even higher cliffs.\n-Sea Druid lost access to Censor, because it wasn't a good use of his turn but he really liked using it. He was also finally given a real name.\n-Smuggler combat enhanced, hopefully making it much more difficult to immediately solve.\n-Animated Armor Dexterity decreased but base AC increased, for a net loss only to Dexterity saves/checks.\n-The Art Thief who was missing a name was fixed. They also now drop their stolen gold.\n-Investigator's Aides had their spell lists and placement improved.\n-Acolyte of Destruction and the Destroyer gained a new action, making them much more dangerous, and their displayed levels were adjusted accordingly.\n-Receptor gained a new action to use in the last phase of the fight, and her displayed level was adjusted.\n-Probably some other change, but I lost some of my notes, so it'll be a surprise to everyone, including myself. Probably some random bugfix(es).",
+      "date_added": 1795293213,
+      "date_updated": 0,
+      "date_scanned": 1795293252,
+      "filesize": 18098456,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "paragonencountersicon.png",
+      "original": "https://image.modcdn.io/mods/f072/6346121/paragonencountersicon.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/f072/6346121/crop_320x180/paragonencountersicon.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/f072/6346121/crop_640x360/paragonencountersicon.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/f072/6346121/crop_1280x720/paragonencountersicon.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Spanish",
+        "name_localized": "Spanish",
+        "date_added": 0
+      },
+      {
+        "name": "Other characters / NPCs",
+        "name_localized": "Other characters / NPCs",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "mac",
+        "modfile_live": 8354305
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8354305
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8354305
+      },
+      {
+        "platform": "windows",
+        "modfile_live": 8512732
+      }
+    ]
+  },
+  {
     "id": 6348579,
     "game_id": 6715,
     "name": "SimpleFishing",
@@ -177086,6 +177536,149 @@
       {
         "platform": "ps5",
         "modfile_live": 8166718
+      }
+    ]
+  },
+  {
+    "id": 6360339,
+    "game_id": 6715,
+    "name": "Shadowfall - Progressive Equipment Set",
+    "name_id": "shadowfall-progressive-equipment-set",
+    "summary": "Shadowfall armor/camp clothing and weapon set.",
+    "description": "<p>Shadowfall armor/camp clothing and weapon set. Wield the power of shadowflames with this set<br>fully dyeable<br>Supports BT2</p>\n<p>Commissioned by Broseidon<br>No external shaders/extended scripts are used to ensure consoles compatibility.</p>\n<p>Spawns in the tutorial chest and 1 merchant in each act:<br>Act 1: Arron - Emerald Grove<br>Act 2: Quartermaster Talli - Last Light Inn<br>Act 3: Dathelon - Danthelon's Dancing Axe</p>\n<p><a href=\"https://www.fab.com/listings/600c6f50-91cf-4cc0-9a7f-e784a0c79299\">Outfit</a> model by IdaFaber<br><a href=\"https://skfb.ly/pFJzE\">Katana</a> model by MadeByYeshe<br><a href=\"https://skfb.ly/pFoDR\">Mask</a> model by Sathariels<br>Meshes and Textures have been modified</p>\n<p>Bugs and feedbacks are appreciated<br>If you like my works, please consider supporting me and/or becoming a member at the link below!</p>\n<p><a href=\"https://buymeacoffee.com/skirbie\"><img src=\"https://image.modcdn.io/members/5372/35718117/profile/bmc-button-memberships.png\" alt=\"\" width=\"300\" height=\"84\"></a></p>",
+    "date_added": 1788612438,
+    "date_updated": 1795710836,
+    "date_live": 1788612813,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/shadowfall-progressive-equipment-set",
+    "submitted_by": {
+      "id": 35718117,
+      "name_id": "skirbie",
+      "username": "Skirbie",
+      "profile_url": "https://mod.io/u/skirbie",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/5372/35718117/crop_100x100/lanaya_eru_is_curious_about_mys.jpg"
+    },
+    "modfile": {
+      "id": 8178062,
+      "mod_id": 6360339,
+      "version": "1.0.0.2",
+      "filename": "brmnkflm_117aa6ad-ccef-c58f-2d-ld2n.zip",
+      "changelog": null,
+      "date_added": 1788612451,
+      "date_updated": 0,
+      "date_scanned": 1788612569,
+      "filesize": 26921480,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/c696/6360339/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/c696/6360339/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/c696/6360339/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/c696/6360339/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Visual Effects",
+        "name_localized": "Visual Effects",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8178062
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8178062
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8178062
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8178062
       }
     ]
   },
@@ -177402,6 +177995,510 @@
       {
         "platform": "ps5",
         "modfile_live": 8196364
+      }
+    ]
+  },
+  {
+    "id": 6384309,
+    "game_id": 6715,
+    "name": "Fancy Robes and Camp Dresses",
+    "name_id": "fancy-robes-and-camp-dresses",
+    "summary": "A collection of pretty outfits I made, because playing dress-up is all part of roleplaying.",
+    "description": "<p>A collection of 8 outfits that I made in the Mod Manager! </p>\n<p>Notes:</p>\n<ul>\n<li>All outfits fit all bodytypes! Due to the restrictions of the engine, some outfits look different on different bodies, because some assets weren't fitted for each rig. But they all still look cool!</li>\n<li>Outfits are fully dye-able! Admittedly, they're a bit ugly with their base colors, but if you use your favorite dye, they should look great! </li>\n<li>Armor and Camp Versions available for all 8 outfits!</li>\n<li>Chest containing the outfits is available in the Tutorial Chest, as well as with multiple vendors throughout all 3 Acts.</li>\n</ul>",
+    "date_added": 1789417612,
+    "date_updated": 1795710927,
+    "date_live": 1789683662,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/fancy-robes-and-camp-dresses",
+    "submitted_by": {
+      "id": 51740227,
+      "name_id": "constantxp",
+      "username": "ConstantXP",
+      "profile_url": "https://mod.io/u/constantxp",
+      "profile_img_100x100_url": "https://assets.modcdn.io/images/placeholder/avatar_100x100.png"
+    },
+    "modfile": {
+      "id": 8215024,
+      "mod_id": 6384309,
+      "version": "1.0.0.16",
+      "filename": "gowns_and_dresses_058d8f35-ade-a72r.zip",
+      "changelog": null,
+      "date_added": 1789418352,
+      "date_updated": 0,
+      "date_scanned": 1789418425,
+      "filesize": 5731889,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "pic.jpg",
+      "original": "https://image.modcdn.io/mods/14b7/6384309/pic.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/14b7/6384309/crop_320x180/pic.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/14b7/6384309/crop_640x360/pic.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/14b7/6384309/crop_1280x720/pic.jpg"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Equipment",
+        "name_localized": "Equipment",
+        "date_added": 0
+      },
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Barbarian",
+        "name_localized": "Barbarian",
+        "date_added": 0
+      },
+      {
+        "name": "Bard",
+        "name_localized": "Bard",
+        "date_added": 0
+      },
+      {
+        "name": "Cleric",
+        "name_localized": "Cleric",
+        "date_added": 0
+      },
+      {
+        "name": "Druid",
+        "name_localized": "Druid",
+        "date_added": 0
+      },
+      {
+        "name": "Fighter",
+        "name_localized": "Fighter",
+        "date_added": 0
+      },
+      {
+        "name": "Monk",
+        "name_localized": "Monk",
+        "date_added": 0
+      },
+      {
+        "name": "Paladin",
+        "name_localized": "Paladin",
+        "date_added": 0
+      },
+      {
+        "name": "Ranger",
+        "name_localized": "Ranger",
+        "date_added": 0
+      },
+      {
+        "name": "Rogue",
+        "name_localized": "Rogue",
+        "date_added": 0
+      },
+      {
+        "name": "Sorcerer",
+        "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "Warlock",
+        "name_localized": "Warlock",
+        "date_added": 0
+      },
+      {
+        "name": "Wizard",
+        "name_localized": "Wizard",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Dragonborn",
+        "name_localized": "Dragonborn",
+        "date_added": 0
+      },
+      {
+        "name": "Drow",
+        "name_localized": "Drow",
+        "date_added": 0
+      },
+      {
+        "name": "Dwarf",
+        "name_localized": "Dwarf",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Gnome",
+        "name_localized": "Gnome",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Tiefling",
+        "name_localized": "Tiefling",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8215024
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8215024
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8215024
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8215024
+      }
+    ]
+  },
+  {
+    "id": 6390803,
+    "game_id": 6715,
+    "name": "Grace's Frog Faces",
+    "name_id": "graces-frog-faces",
+    "summary": "Adds 5 heads for female Githyanki",
+    "description": "<div>I love Gith and messing around in blender's sculpt mode, so this was bound to happen!</div>\n<div><br><br></div>\n<div>✦•······················  𓍊𓋼𓍊𓋼𓍊𓆏 ······················•✦</div>\n<div><br><br></div>\n<div>Facial piercings around the nose might not work on all heads (specifically Vistra)</div>\n<div> </div>\n<div>This is my very first head mod for BG3, so i apologise for any additional oversights! &lt;3</div>\n<div> </div>\n<div> </div>\n<div>✦•······················  𓍊𓋼𓍊𓋼𓍊𓆏 ······················•✦</div>\n<p> </p>\n<div><strong>Appreciations: </strong></div>\n<p> </p>\n<div>And as usual, a huge thank you to <a href=\"https://www.nexusmods.com/profile/Naerys\" rel=\"nofollow\">Naerys</a>, <a href=\"https://www.nexusmods.com/profile/onyx\" rel=\"nofollow\">Onyx</a>, <a href=\"https://next.nexusmods.com/profile/Petramalia?gameId=6945\" rel=\"nofollow\">Petra</a>, <a href=\"https://next.nexusmods.com/profile/khaleesinz?gameId=6945\" rel=\"nofollow\">Mons</a>, <a href=\"https://next.nexusmods.com/profile/PBTrinity\" rel=\"nofollow\">PBTrinity</a>, <a href=\"https://next.nexusmods.com/profile/AnxietyTheOrk?gameId=6945\" rel=\"nofollow\">Anxiety</a> + <a href=\"https://next.nexusmods.com/profile/wayward314\" rel=\"nofollow\">Wayward </a>for all their love and continued support! I don't know where I would be without these guys! &lt;3 I highly recommend checking out their creations as well!</div>\n<div> </div>\n<div>Thank you to <a href=\"https://www.nexusmods.com/profile/poesielibre\" rel=\"nofollow\">poesielibre</a> for the <a href=\"https://www.nexusmods.com/baldursgate3/mods/20598\" rel=\"nofollow\">stunning eyelashes</a> that were used in these heads!</div>\n<div> </div>\n<div>Thank you to Char + Kiki in the Faerun Fashionista server for helping me with a technical issue early on in this mod's creation!! &lt;3</div>\n<div><br><br></div>\n<div>✦•······················  𓍊𓋼𓍊𓋼𓍊𓆏 ······················•✦</div>",
+    "date_added": 1789759330,
+    "date_updated": 1795709134,
+    "date_live": 1789759981,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/graces-frog-faces",
+    "submitted_by": {
+      "id": 59930329,
+      "name_id": "grace455",
+      "username": "Grace455",
+      "profile_url": "https://mod.io/u/grace455",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3dbe/59930329/crop_100x100/relanabywestlywheatlya22.png"
+    },
+    "modfile": {
+      "id": 8226208,
+      "mod_id": 6390803,
+      "version": "1.0.0.10",
+      "filename": "grace_frog_faces_9c6c9205-a673-4pm5.zip",
+      "changelog": null,
+      "date_added": 1789759378,
+      "date_updated": 0,
+      "date_scanned": 1789759557,
+      "filesize": 101631723,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/2ba0/6390803/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/2ba0/6390803/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/2ba0/6390803/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/2ba0/6390803/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Characters",
+        "name_localized": "Characters",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Heads",
+        "name_localized": "Heads",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "All Classes",
+        "name_localized": "All Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8226208
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8226208
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8226208
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8226208
+      }
+    ]
+  },
+  {
+    "id": 6413944,
+    "game_id": 6715,
+    "name": "[M30] Megitsune Hair Pack",
+    "name_id": "m30-megitsune-hair-pack",
+    "summary": "Four hairstyles (and three bang-less versions), inspired by Japanese metal. For all body types + custom physics.",
+    "description": "<p>𖤐 four hairstyles + three bang-less versions</p>\n<p>𖤐 all races, all body types</p>\n<p>𖤐 custom physics and CC icons</p>\n<p>𖤐 perfect for headbanging and eating chocolate</p>\n<hr>\n<p>mods used:</p>\n<p style=\"text-align:left;\">heads: <a href=\"https://www.nexusmods.com/baldursgate3/mods/18322\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Babymetal Head Presets</a> // <a href=\"https://www.nexusmods.com/baldursgate3/mods/23777\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Original Head Presets Part 1</a><br>outfits: <a href=\"https://www.patreon.com/arideyya/posts/metal-galaxy-130429288?collection=774479\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Metal Galaxy Ensemble</a> // <a href=\"https://www.patreon.com/Ayuro/posts/alees-villain-170706419\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Alee's Villain</a> // <a href=\"https://www.patreon.com/Ayuro/posts/lilien-outfit-146864923?collection=1912454\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Lilien Outfit</a> // <a href=\"https://www.patreon.com/Ayuro/posts/deaths-shadow-150681689?collection=2012187\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Death's Shadow</a> // <a href=\"https://www.patreon.com/Ayuro/posts/goth-idol-outfit-155502215?collection=2170985\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Goth Idol</a><br>poses: <a href=\"https://www.nexusmods.com/baldursgate3/mods/21322\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">K-Pop Poses</a> // <a href=\"https://www.nexusmods.com/baldursgate3/mods/24335?tab=description\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Starless Pose Pack 01</a> // <a href=\"https://www.nexusmods.com/baldursgate3/mods/17755\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">A Song of Ice and Fire Pose Pack</a><br>makeup/tattoos: <a href=\"https://www.nexusmods.com/baldursgate3/mods/12230\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Mouch's Metal and Gothic Face Tattoos and Makeup</a> // <a href=\"https://www.nexusmods.com/baldursgate3/mods/14310\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Gothic Makeup Pack</a></p>",
+    "date_added": 1790693411,
+    "date_updated": 1795709270,
+    "date_live": 1790695992,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/m30-megitsune-hair-pack",
+    "submitted_by": {
+      "id": 41896918,
+      "name_id": "mouch30",
+      "username": "mouch30",
+      "profile_url": "https://mod.io/u/mouch30",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b9c0/41896918/crop_100x100/mouch_transparent.png"
+    },
+    "modfile": {
+      "id": 8264043,
+      "mod_id": 6413944,
+      "version": "1.0.0.10",
+      "filename": "m30_bbymtl_hair_01dcf4a1-32da-ars7.zip",
+      "changelog": "7 hairstyles for all races and bodytypes",
+      "date_added": 1790693437,
+      "date_updated": 0,
+      "date_scanned": 1790693489,
+      "filesize": 22562081,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "th2.png",
+      "original": "https://image.modcdn.io/mods/fffa/6413944/th2.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/fffa/6413944/crop_320x180/th2.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/fffa/6413944/crop_640x360/th2.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/fffa/6413944/crop_1280x720/th2.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Hairstyles",
+        "name_localized": "Hairstyles",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "Other Races",
+        "name_localized": "Other Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8264043
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8264043
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8264043
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8264043
       }
     ]
   },
@@ -177853,6 +178950,174 @@
     ]
   },
   {
+    "id": 6419182,
+    "game_id": 6715,
+    "name": "Quest Tracker",
+    "name_id": "quest-tracker",
+    "summary": "Pick one quest in your journal and track it: the map and minimap show only that quest's markers and search area. No more map buried under dozens of quest icons",
+    "description": "Quest Tracker\n<p><strong>Track one quest. Hide the rest.</strong></p>\n<p>A few hours into an act, the world map turns into a constellation of quest markers. Quest Tracker brings the familiar RPG workflow to Baldur's Gate 3: choose a quest in the journal, press <strong>Track Quest</strong>, and every other quest marker disappears from the map and minimap until you stop tracking.</p>\n<blockquote>\n<p><strong>Fun fact:</strong> Larian wanted this too. The controller version of the quest journal ships with a quest-tracking button already in it — commented out, with the note <em>\"Disabled until code for quest tracking is done\"</em>. This mod finishes the job, and on gamepad it uses the exact button slot Larian reserved for it.</p>\n</blockquote>\n<h2>Features</h2>\n<ul>\n<li><strong>Track Quest / Stop Tracking</strong> button in the quest journal, right next to <em>Show on Map</em>.</li>\n<li><strong>Gamepad support:</strong> a <em>Track Quest</em> / <em>Stop Tracking</em> button hint in the controller journal (left stick by default).</li>\n<li>The tracked quest is marked with an icon in the journal's quest list.</li>\n<li><strong>World map and minimap</strong> show only the tracked quest's markers. A quest without a map marker shows nothing.</li>\n<li><strong>Search areas:</strong> other quests' search circles are hidden too; the tracked quest keeps its circle.</li>\n<li>Nothing tracked = the vanilla map, untouched.</li>\n<li>Localized in all 15 game languages.</li>\n</ul>\n<h2>How to use</h2>\n<ol>\n<li>Open the journal (<strong>J</strong>) and select a quest.</li>\n<li>Click <strong>Track Quest</strong> (gamepad: press the button shown in the hint bar).</li>\n<li>Open the map. Only that quest is there.</li>\n<li>Click <strong>Stop Tracking</strong> to bring every marker back.</li>\n</ol>\n<h2>Compatibility</h2>\n<ul>\n<li>Pure UI mod: no Script Extender, no scripts, no gameplay changes.</li>\n<li>Developed and tested on the native Linux version of the game; it is plain game UI markup, so other platforms should behave the same.</li>\n<li><strong>Conflicts</strong> with other mods that replace the quest journal pages (<code>JournalQuests.xaml</code> / <code>JournalQuests_c.xaml</code>). Mods that only restyle other parts of the UI are fine.</li>\n</ul>\n<h2>Known limitations</h2>\n<ul>\n<li>The tracked quest is not saved: tracking resets when you restart the game.</li>\n<li>The tracked quest's search circle is drawn by the mod and it's <strong>a bit</strong> larger than the vanilla one.</li>\n</ul>",
+    "date_added": 1790901373,
+    "date_updated": 1795709455,
+    "date_live": 1790903976,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/quest-tracker",
+    "submitted_by": {
+      "id": 63448443,
+      "name_id": "igrikus",
+      "username": "igrikus33010",
+      "profile_url": "https://mod.io/u/igrikus",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/46f1/63448443/crop_100x100/acg8ocil63s2ljc6grjjpx6n6oeqynl.png"
+    },
+    "modfile": {
+      "id": 8272429,
+      "mod_id": 6419182,
+      "version": "1.0.0.1",
+      "filename": "quest-tracker_e0823ed1-bc62-9b-0gtu.zip",
+      "changelog": null,
+      "date_added": 1790901381,
+      "date_updated": 0,
+      "date_scanned": 1790901649,
+      "filesize": 354749,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "logo.png",
+      "original": "https://image.modcdn.io/mods/7a4b/6419182/logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/7a4b/6419182/crop_320x180/logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/7a4b/6419182/crop_640x360/logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/7a4b/6419182/crop_1280x720/logo.png"
+    },
+    "tags": [
+      {
+        "name": "Quality of Life",
+        "name_localized": "Quality of Life",
+        "date_added": 0
+      },
+      {
+        "name": "UI",
+        "name_localized": "UI",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "French",
+        "name_localized": "French",
+        "date_added": 0
+      },
+      {
+        "name": "German",
+        "name_localized": "German",
+        "date_added": 0
+      },
+      {
+        "name": "Spanish",
+        "name_localized": "Spanish",
+        "date_added": 0
+      },
+      {
+        "name": "Polish",
+        "name_localized": "Polish",
+        "date_added": 0
+      },
+      {
+        "name": "Russian",
+        "name_localized": "Russian",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "name_localized": "Chinese (Simplified)",
+        "date_added": 0
+      },
+      {
+        "name": "Chinese (Traditional)",
+        "name_localized": "Chinese (Traditional)",
+        "date_added": 0
+      },
+      {
+        "name": "Turkish",
+        "name_localized": "Turkish",
+        "date_added": 0
+      },
+      {
+        "name": "Portuguese - Brazil",
+        "name_localized": "Portuguese - Brazil",
+        "date_added": 0
+      },
+      {
+        "name": "Italian",
+        "name_localized": "Italian",
+        "date_added": 0
+      },
+      {
+        "name": "Ukrainian",
+        "name_localized": "Ukrainian",
+        "date_added": 0
+      },
+      {
+        "name": "Korean",
+        "name_localized": "Korean",
+        "date_added": 0
+      },
+      {
+        "name": "Japanese",
+        "name_localized": "Japanese",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8272429
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8272429
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8272429
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8272429
+      }
+    ]
+  },
+  {
     "id": 6423142,
     "game_id": 6715,
     "name": "Witchy Curls - Hair Pack",
@@ -178139,6 +179404,134 @@
     ]
   },
   {
+    "id": 6444877,
+    "game_id": 6715,
+    "name": "Sweater Weather - Cozy fits for multiple BTs",
+    "name_id": "sweaterweather",
+    "summary": "A collection of cozy cold weather clothing for multiple BTs",
+    "description": "<p><span style=\"font-size:x-large;\"><strong>Contents:</strong></span><br><br>Everything in the mod is fully dyeable and uses non-VT.<br> </p>\n<ul>\n<li>Brisk Step Boots - BT 1,2,3,4, Gith both genders, Half-Orc female, and Halfling female</li>\n<li>Warm Winter Walk -  BT 1,3, Gith female, Half-Orc female, and Halfling female</li>\n<li>Snuggle Socks - BT 1,3, Gith female, Half-Orc female, and Halfling female</li>\n<li>Hibernate Hoodie - BT 1,2,3, Gith female, Half-Orc female and Halfling female</li>\n<li>Dustroad Denim - BT 1,2,3,4, Gith both genders, Half-Orc female, and Halfling female</li>\n<li>Hearthside Heavyknit - BT 2,4 and Gith male</li>\n<li>Fireside Flannel - BT 2,4 and Gith male</li>\n<li>Softwind Scarf - BT 1,2,3,4, Gith both genders, Half-Orc female and Halfling female</li>\n<li>City Stroll Coat - BT 1,3, Gith female, Half-Orc female, and Halfling female</li>\n<li>Corduroy Cutie Skirt - BT 1,3, Gith female, Half-Orc female, and Halfling female</li>\n<li>Candlelight Cardigan - BT 1,3, Gith female, Half-Orc female, and Halfling female </li>\n</ul>\n<p><br><span style=\"font-size:x-large;\"><strong>Notes:</strong></span></p>\n<ul>\n<li>There's minor clipping on the oversized hoodie in the armpit area in certain poses due to its shape, and clipping on the knee socks in any poses with strong knee bending. </li>\n<li>If you are using Alpha Dither Shader Fix from Lyniara, the leopard print will not show up. Sadly, I cannot add it to the mod myself as I also publish on mod.io and cannot list it as a dependency</li>\n</ul>\n<p><br><span style=\"font-size:x-large;\"><strong>By downloading this mod, you agree to the following terms:</strong></span><br><br></p>\n<ul>\n<li>Do not reupload it anywhere else</li>\n<li>Do not unpack the mod for learning, 3D render use, or refitting without my explicit written permission.</li>\n<li>Do not use any assets from this mod, including but not limited to textures, models, and text, in any steps of AI training</li>\n<li>If you wish to refit any assets, you need my written permission, <strong><u>and you may use them only for personal use.</u></strong></li>\n</ul>\n<p> </p>\n<p>Thank you to all the awesome peeps who kindly tested and took these lovely pictures for the mod display. In alphabetical order:  <a href=\"https://www.tumblr.com/alwaysmauria\" rel=\"nofollow\">AlwaysMauria</a>, <a href=\"https://www.nexusmods.com/profile/ARAFEL194\" rel=\"nofollow\">Arafel</a>, <a href=\"https://bsky.app/profile/aristenfromwarsaw.bsky.social\" rel=\"nofollow\">AristenFromWarsaw,</a> <a href=\"https://www.tumblr.com/ballofbitter\" rel=\"nofollow\">Bitter</a>,  <a href=\"https://bsky.app/profile/crmytheuntamable.bsky.social\" rel=\"nofollow\">Cormya</a>,  <a href=\"https://bsky.app/profile/justdebzong.bsky.social\" rel=\"nofollow\">Debbie</a>,   <a href=\"https://bsky.app/profile/selunitejeanne.bsky.social\" rel=\"nofollow\">JeanneSilverleaf</a> , <a href=\"https://bsky.app/profile/vakariansyndrome.bsky.social\" rel=\"nofollow\">LaVakariana</a>,   <a href=\"https://www.tumblr.com/longjensilver\" rel=\"nofollow\">Long Jen Brain</a> , <a href=\"https://www.tumblr.com/missfortunetherogue\" rel=\"nofollow\">MissFortuneTheRogue</a>, <a href=\"https://bsky.app/profile/miam158.bsky.social\" rel=\"nofollow\">Miam</a>,  <a href=\"https://bsky.app/profile/sp4rr0wsw3nch.bsky.social\" rel=\"nofollow\">sp4rr0wsw3nch</a>, <a href=\"https://bsky.app/profile/enemastrikesback.bsky.social\" rel=\"nofollow\">Taylor,</a> and <a href=\"https://www.tumblr.com/vividiana\" rel=\"nofollow\">Vividiana</a></p>",
+    "date_added": 1791749197,
+    "date_updated": 1795709169,
+    "date_live": 1791755077,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/sweaterweather",
+    "submitted_by": {
+      "id": 52104702,
+      "name_id": "dramaticchimmpunk",
+      "username": "Dramatic_Chipmunk",
+      "profile_url": "https://mod.io/u/dramaticchimmpunk",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/de06/52104702/crop_100x100/screenshot2026-04-16164942.jpg"
+    },
+    "modfile": {
+      "id": 8314486,
+      "mod_id": 6444877,
+      "version": "1.0.0.8",
+      "filename": "sweaterweather_277c4ac4-358b-3-291v.zip",
+      "changelog": null,
+      "date_added": 1791749245,
+      "date_updated": 0,
+      "date_scanned": 1791749488,
+      "filesize": 140685114,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "sweaterweather.jpg",
+      "original": "https://image.modcdn.io/mods/103a/6444877/sweaterweather.jpg",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/103a/6444877/crop_320x180/sweaterweather.jpg",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/103a/6444877/crop_640x360/sweaterweather.jpg",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/103a/6444877/crop_1280x720/sweaterweather.jpg"
+    },
+    "tags": [
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Elf",
+        "name_localized": "Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Githyanki",
+        "name_localized": "Githyanki",
+        "date_added": 0
+      },
+      {
+        "name": "Halfling",
+        "name_localized": "Halfling",
+        "date_added": 0
+      },
+      {
+        "name": "Human",
+        "name_localized": "Human",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Elf",
+        "name_localized": "Half-Elf",
+        "date_added": 0
+      },
+      {
+        "name": "Half-Orc",
+        "name_localized": "Half-Orc",
+        "date_added": 0
+      },
+      {
+        "name": "Armor",
+        "name_localized": "Armor",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8314486
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8314486
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8314486
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8314486
+      }
+    ]
+  },
+  {
     "id": 6447478,
     "game_id": 6715,
     "name": "Vampire Queen - Head Preset",
@@ -178361,6 +179754,596 @@
       {
         "platform": "ps5",
         "modfile_live": 8327745
+      }
+    ]
+  },
+  {
+    "id": 6465068,
+    "game_id": 6715,
+    "name": "[M30] Demonica Tattoo Pack",
+    "name_id": "m30-demonica-tattoo-pack",
+    "summary": "16 corpse paint tattoos, comes with CC icons and custom names.",
+    "description": "<p>☠︎︎ 16 hand drawn corpse paint tattoos</p>\n<p>☠︎︎ CC icons + custom names</p>\n<p>☠︎︎ will affect NPCs that use these tattoos in game // i tried to keep the same vibe for the replacements.</p>\n<p>☠︎︎ inspired by one of my favorite bands, Behemoth</p>",
+    "date_added": 1792436278,
+    "date_updated": 1795709295,
+    "date_live": 1792436940,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/m30-demonica-tattoo-pack",
+    "submitted_by": {
+      "id": 41896918,
+      "name_id": "mouch30",
+      "username": "mouch30",
+      "profile_url": "https://mod.io/u/mouch30",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b9c0/41896918/crop_100x100/mouch_transparent.png"
+    },
+    "modfile": {
+      "id": 8350177,
+      "mod_id": 6465068,
+      "version": "1.0.0.4",
+      "filename": "m30_corpsepaint_tattoos_842d42-ifnn.zip",
+      "changelog": "initial release",
+      "date_added": 1792436285,
+      "date_updated": 0,
+      "date_scanned": 1792436307,
+      "filesize": 8332426,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.png",
+      "original": "https://image.modcdn.io/mods/a251/6465068/thumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/a251/6465068/crop_320x180/thumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/a251/6465068/crop_640x360/thumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/a251/6465068/crop_1280x720/thumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Face Paint",
+        "name_localized": "Face Paint",
+        "date_added": 0
+      },
+      {
+        "name": "Tattoos",
+        "name_localized": "Tattoos",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Autumn",
+        "name_localized": "Autumn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8350177
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8350177
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8350177
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8350177
+      }
+    ]
+  },
+  {
+    "id": 6468901,
+    "game_id": 6715,
+    "name": "Halloween Weapon Pack - Pumpkin Axe &amp; Ghost Sword",
+    "name_id": "halloween-weapon-pack-pumpkin-axe-ghost-sword",
+    "summary": "Two Halloween weapons: Gourdreaver, a pumpkin hand axe, and Wraithwail, a ghostly short sword. Rare and Legendary versions of each come in the Halloween Weapon Pack, available in the Tutorial chest.",
+    "description": "<p><strong>Halloween Weapon Pack</strong><br>A haunted hand axe and a ghostly short sword, just in time for Halloween!<br>Both come in a Rare and a Legendary version, and they're all packed inside a pumpkin available in the tutorial chest.<br>Both weapons are Light, so you can dual wield them.</p>\n<p><a href=\"https://image.modcdn.io/members/3931/34758130/profile/jd_dhh_gourdreaver.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://image.modcdn.io/members/3931/34758130/profile/image-1792592703917.png\" alt=\"\" width=\"120\" height=\"120\"></a><br><strong>Gourdreaver</strong> (Hand Axe, + 1d4 Fire) 🎃🎃🎃<br>- Jack's Kindling: On hit, the target starts Burning for 2 turns<br>- Hollow Grin: On hit, the target must succeed a DC 13 Wisdom save or be Frightened for 1 turn</p>\n<p><a href=\"https://image.modcdn.io/members/3931/34758130/profile/jd_dhh_wraithwail.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img src=\"https://image.modcdn.io/members/3931/34758130/profile/image-1792592711497.png\" alt=\"\" width=\"120\" height=\"120\"></a><br><strong>Wraithwail</strong> (Short Sword, + 1d4 Necrotic) 👻👻👻<br>Restless spirits swirl within this spectral blade, wailing with every strike.<br>- Grave Chill: On hit, the target gets Chill Touch for 1 turn (it can't regain hit points, and Undead have disadvantage attacking you)<br>- Spectral Edge: Ignore resistance to necrotic damage</p>\n<p>The \"Rare\" versions are +1 with an extra 1d4 fire or necrotic damage, and no passives.<br>The \"Legendary\" versions are +3 with the extra 1d4 damage and both passives.</p>\n<p><span style=\"text-decoration:underline;\">Instructions:</span><br>1) Download this mod<br>2) Use a tutorial chest summoning mod, or grab it from the tutorial chest on the Nautiloid<br>3) Pull the Halloween Weapon Pack (it's a pumpkin!) into your inventory and open it<br>4) Trick or treat!</p>\n<p>These pair well with my Subclass Mods, and you can use my <a href=\"https://mod.io/g/baldursgate3/m/fire-frost-and-flora-swords-weapon-pack\" target=\"_blank\" rel=\"noreferrer noopener\">Fire, Frost and Flora Swords</a> or <a href=\"https://mod.io/g/baldursgate3/m/ancient-dragon-lord-eye-staff-fire-lightning\" target=\"_blank\" rel=\"noreferrer noopener\">Ancient Dragon Lord's Eye Staff</a> alongside these.</p>\n<p>Credits:<br>Outfit on my durge:<a href=\"https://mod.io/g/baldursgate3/m/lux-aeterna#description\" target=\"_blank\" rel=\"noopener noreferrer\"> Lux Aeterna</a> and outfit on Shadowheart: <a href=\"https://mod.io/g/baldursgate3/m/nox-aeterna#description\" target=\"_blank\" rel=\"noopener noreferrer\">Nox Aeterna</a></p>\n<p>Thank you <a href=\"https://www.nexusmods.com/profile/axianaa/mods\" target=\"_blank\" rel=\"noopener noreferrer\">Axianaa</a> for helping with virtual photography! (their Tav is wearing <a href=\"https://www.nexusmods.com/baldursgate3/mods/25893\" target=\"_blank\" rel=\"noopener noreferrer\">Witching Hour Outfit</a>) </p>\n<p>Shadowheart Hairstyle:<a href=\"https://www.nexusmods.com/baldursgate3/mods/25743\" target=\"_blank\" rel=\"noopener noreferrer\"> Moonglow </a></p>\n<p>Ghost Sword - Stylized Halloween Weapon by <a href=\"https://www.fab.com/listings/84ae5c64-2781-4426-a9c6-96b46b272e2e\" target=\"_blank\" rel=\"noopener noreferrer\">DZTFIX KATSU</a>, standard license<br>Halloween Pumpkin Axe | Game Ready by <a href=\"https://www.fab.com/listings/0a863abc-a2ae-472b-bc02-05320f246ae6\" target=\"_blank\" rel=\"noopener noreferrer\">NexVara</a>, standard license<br>Meshes and textures have been modified for BG3 modding<br>No external shaders to ensure console compatibility.</p>\n<p>More mods on the way!</p>\n<p> </p>",
+    "date_added": 1792592350,
+    "date_updated": 1795709156,
+    "date_live": 1792593330,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/halloween-weapon-pack-pumpkin-axe-ghost-sword",
+    "submitted_by": {
+      "id": 34758130,
+      "name_id": "jasondunna",
+      "username": "jasondunna",
+      "profile_url": "https://mod.io/u/jasondunna",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3931/34758130/crop_100x100/fiverr_jay-dunna-v2-2.png"
+    },
+    "modfile": {
+      "id": 8357253,
+      "mod_id": 6468901,
+      "version": "1.0.0.3",
+      "filename": "dunnashallowedhauntings_4fa0c4-bhos.zip",
+      "changelog": "1.0 - weapons available inside a pumpkin in the Tutorial chest",
+      "date_added": 1792592361,
+      "date_updated": 0,
+      "date_scanned": 1792592455,
+      "filesize": 9591181,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.png",
+      "original": "https://image.modcdn.io/mods/385c/6468901/thumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/385c/6468901/crop_320x180/thumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/385c/6468901/crop_640x360/thumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/385c/6468901/crop_1280x720/thumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "For Fun",
+        "name_localized": "For Fun",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Weapons",
+        "name_localized": "Weapons",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Autumn",
+        "name_localized": "Autumn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8357253
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8357253
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8357253
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8357253
+      }
+    ]
+  },
+  {
+    "id": 6470992,
+    "game_id": 6715,
+    "name": "Sinister Trickster Sorcerer - Halloween Subclass",
+    "name_id": "sinister-trickster-sorcerer-halloween-subclass",
+    "summary": "Halloween sorcerer subclass - bone throwing, spooky spells, with a skeleton and ghost companion that levels up with you",
+    "description": "<p><strong>Sinister Trickster Sorcerer</strong><br>A Halloween Sorcerer subclass, just in time for spooky season!<br>Throw bones, frighten your foes, and raise a skeleton and a ghost that grow stronger as you do.</p>\n<p><span style=\"text-decoration:underline;\"><strong>Playstyle:</strong></span> Stealthy melee-focused Sorcerer with Halloween spells.<br>Focused on applying <span style=\"text-decoration:underline;\">Frightened.</span> Spells and melee gain benefits if the target is frightened</p>\n<p><span style=\"text-decoration:underline;\">Level 1</span><br>- <strong>Bone Toss</strong> (cantrip): Throw a cursed bone up to 31m. Bludgeoning damage, plus 1d6 necrotic damage against Frightened targets<br>- <strong>Raise Rattlebones</strong>: Summon a skeleton companion with a shortbow. It can throw bones too<br>- <strong>Summon Grimwhisper</strong>: Summon a flying ghost companion with Soul Pluck. Both summons can be out at once<br>- <strong>Sinister Presence</strong>: Enemies hit by your spells, or saving against them, have a 10% chance to become Frightened<br>- Proficiency with battleaxes, warhammers, short swords and light armor</p>\n<p><span style=\"text-decoration:underline;\">Level 2</span><br>- <strong>Black Cat's Shadow</strong>: +5 to Stealth checks</p>\n<p><span style=\"text-decoration:underline;\">Level 3</span><br>- <strong>Trick or Treat</strong> (level 2 spell): Trick deals psychic and fire damage and Frightens a foe. Treat heals an ally, including your summons<br>- <strong>Hunter's Moon</strong>: +1d4 to spell attack rolls against Frightened creatures</p>\n<p><span style=\"text-decoration:underline;\">Level 5</span><br>- <strong>Jack-o'-Lantern Burst</strong> (level 3 spell): Lob an exploding pumpkin for 6d6 fire and 1d10 necrotic damage. Frightens enemies<br>- Rattlebones gains a longsword, more AC and extra necrotic damage<br>- Grimwhisper gains Soul Devour, which heals you</p>\n<p><span style=\"text-decoration:underline;\">Level 6</span><br>- <strong>Extra Attack</strong></p>\n<p><span style=\"text-decoration:underline;\">Level 7</span><br>- <strong>Graveyard Grasp</strong> (level 4 spell): Skeletal hands deal 3d8 necrotic and hold enemies for up to 3 turns, dealing 2d12 each turn</p>\n<p><span style=\"text-decoration:underline;\">Level 9</span><br>- <strong>Waltz of the Damned</strong> (level 5 spell): Raise three skeletons for 10 turns<br>- <strong>Jack-o'-Lantern Grin</strong>: Melee attacks deal +1d4 fire damage to Frightened creatures<br>- Rattlebones gains dual hand crossbows, Extra Attack and more AC<br>- Grimwhisper gains Soul Seize and Soul Reaping</p>\n<p><span style=\"text-decoration:underline;\">Level 11</span><br>- <strong>Midnight Wail</strong> (level 5 spell): Let out a banshee shriek for 8d6 psychic damage to enemies around you. Frightens them</p>\n<p><span style=\"text-decoration:underline;\">Level 14</span> (needs a level cap mod)<br>- <strong>Hallows' Blaze</strong>: Spell attacks deal +1d4 fire damage</p>\n<p>Jack-o'-Lantern Burst, Graveyard Grasp and Midnight Wail can be upcast up to level 9 for extra damage.<br>Recast your summons after levelling up to get their upgrades.</p>\n<p><span style=\"text-decoration:underline;\">Instructions:</span><br>1) Download this mod<br>2) Create a Sorcerer, or respec an existing one with Withers<br>3) Choose Sinister Trickster as your subclass at level 1<br>4) Trick or treat!</p>\n<p>These pair well with my<a href=\"https://mod.io/g/baldursgate3/m/halloween-weapon-pack-pumpkin-axe-ghost-sword#description\" target=\"_blank\" rel=\"noopener noreferrer\"> Halloween Weapon Pack</a> and my other Subclass Mods, and you can use my <a href=\"https://mod.io/g/baldursgate3/m/fire-frost-and-flora-swords-weapon-pack\" target=\"_blank\" rel=\"noreferrer noopener\">Fire, Frost and Flora Swords</a> or <a href=\"https://mod.io/g/baldursgate3/m/ancient-dragon-lord-eye-staff-fire-lightning\" target=\"_blank\" rel=\"noreferrer noopener\">Ancient Dragon Lord's Eye Staff</a> alongside these.</p>\n<p>Credits:<br><a href=\"https://www.nexusmods.com/profile/axianaa/mods\" target=\"_blank\" rel=\"noopener noreferrer\">Axianaa</a> for the amazing virtual photography in the mod images<br>Outfits:  <a href=\"https://mod.io/g/baldursgate3/m/obsc-midnight-sparkle#description\" target=\"_blank\" rel=\"noopener noreferrer\">Midnight Sparkle</a> ,<a href=\"https://mod.io/g/baldursgate3/m/nihilium#description\" target=\"_blank\" rel=\"noopener noreferrer\"> Nihilium</a> &amp; <a href=\"https://www.nexusmods.com/baldursgate3/mods/25893\" target=\"_blank\" rel=\"noopener noreferrer\">Witching Hour Outfit  </a> <br>Visual effects are built from base game assets<br>No external shaders to ensure console compatibility.</p>",
+    "date_added": 1792683029,
+    "date_updated": 1795709124,
+    "date_live": 1792683742,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/sinister-trickster-sorcerer-halloween-subclass",
+    "submitted_by": {
+      "id": 34758130,
+      "name_id": "jasondunna",
+      "username": "jasondunna",
+      "profile_url": "https://mod.io/u/jasondunna",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/3931/34758130/crop_100x100/fiverr_jay-dunna-v2-2.png"
+    },
+    "modfile": {
+      "id": 8361568,
+      "mod_id": 6470992,
+      "version": "1.0.0.4",
+      "filename": "sinistertrickstersorcerer_2df5-bbol.zip",
+      "changelog": "1.0 - Download and select the Sinister Trickster sorcerer at level 1! Happy Halloween!",
+      "date_added": 1792683038,
+      "date_updated": 0,
+      "date_scanned": 1792683060,
+      "filesize": 6422501,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "1.png",
+      "original": "https://image.modcdn.io/mods/f0c9/6470992/1.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/f0c9/6470992/crop_320x180/1.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/f0c9/6470992/crop_640x360/1.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/f0c9/6470992/crop_1280x720/1.png"
+    },
+    "tags": [
+      {
+        "name": "Classes",
+        "name_localized": "Classes",
+        "date_added": 0
+      },
+      {
+        "name": "Spells",
+        "name_localized": "Spells",
+        "date_added": 0
+      },
+      {
+        "name": "Subclasses",
+        "name_localized": "Subclasses",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Sorcerer",
+        "name_localized": "Sorcerer",
+        "date_added": 0
+      },
+      {
+        "name": "Summons",
+        "name_localized": "Summons",
+        "date_added": 0
+      },
+      {
+        "name": "Autumn",
+        "name_localized": "Autumn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8361568
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8361568
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8361568
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8361568
+      }
+    ]
+  },
+  {
+    "id": 6471233,
+    "game_id": 6715,
+    "name": "[M30] Phantasma Tattoo Pack",
+    "name_id": "m30-phantasma-tattoo-pack",
+    "summary": "13 hand-drawn spooky face tattoos, with custom icons and names.",
+    "description": "<p>𖤐 13 hand-drawn, spooky/extreme gothic tattoos</p>\n<p>𖤐 comes with custom icons + custom tattoo names, inspired by the amazing album '<em>Madhouse</em>' by Mandragora Scream</p>\n<p>𖤐 will affect any NPCs that use these tattoos</p>\n<p>𖤐 dedicated to my little angel, who saw the start but didn't see the end.</p>",
+    "date_added": 1792691535,
+    "date_updated": 1795709248,
+    "date_live": 1792692077,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/m30-phantasma-tattoo-pack",
+    "submitted_by": {
+      "id": 41896918,
+      "name_id": "mouch30",
+      "username": "mouch30",
+      "profile_url": "https://mod.io/u/mouch30",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/b9c0/41896918/crop_100x100/mouch_transparent.png"
+    },
+    "modfile": {
+      "id": 8362024,
+      "mod_id": 6471233,
+      "version": "1.0.0.2",
+      "filename": "m30_phantasma_tattoos_ff56ccd1-02xq.zip",
+      "changelog": "initial release",
+      "date_added": 1792691551,
+      "date_updated": 0,
+      "date_scanned": 1792691572,
+      "filesize": 8181462,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "thumbnail.png",
+      "original": "https://image.modcdn.io/mods/d550/6471233/thumbnail.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/d550/6471233/crop_320x180/thumbnail.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/d550/6471233/crop_640x360/thumbnail.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/d550/6471233/crop_1280x720/thumbnail.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Patch 8 Tested",
+        "name_localized": "Patch 8 Tested",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Face Paint",
+        "name_localized": "Face Paint",
+        "date_added": 0
+      },
+      {
+        "name": "Tattoos",
+        "name_localized": "Tattoos",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 1",
+        "name_localized": "Body Type 1",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 2",
+        "name_localized": "Body Type 2",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 3",
+        "name_localized": "Body Type 3",
+        "date_added": 0
+      },
+      {
+        "name": "Body Type 4",
+        "name_localized": "Body Type 4",
+        "date_added": 0
+      },
+      {
+        "name": "All Races",
+        "name_localized": "All Races",
+        "date_added": 0
+      },
+      {
+        "name": "English",
+        "name_localized": "English",
+        "date_added": 0
+      },
+      {
+        "name": "Autumn",
+        "name_localized": "Autumn",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8362024
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8362024
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8362024
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8362024
+      }
+    ]
+  },
+  {
+    "id": 6471374,
+    "game_id": 6715,
+    "name": "jerinski's Glowy Eye Colors",
+    "name_id": "jerinskis-glowy-eye-colors",
+    "summary": "100ish eye colors, looks best with glowy eyes but also work without",
+    "description": "<p>Mod adds a little over 100 eye colors, made with glowy eyes in mind but they will also work on heads without glow (with vanilla only tieflings and dragonborn will have glow enabled). Some color sets will look very samey without the additional glow, however. </p>\n<p> </p>\n<h2>Recommended to use with <a href=\"https://mod.io/g/baldursgate3/m/roxs-everyone-can-glow\">Rox's Everyone Can Glow</a> or (Nexus link) <a href=\"https://www.nexusmods.com/baldursgate3/mods/4964\">Astralities' Glow Eyes</a> - either of these will enable the glow effect to all races!*\n</hs><p> </p>\n<p>*see the mod pages for details on which heads are covered</p>\n<p> </p>",
+    "date_added": 1792696065,
+    "date_updated": 1795709186,
+    "date_live": 1792698954,
+    "visible": 1,
+    "status": 1,
+    "dependencies": false,
+    "profile_url": "https://mod.io/g/baldursgate3/m/jerinskis-glowy-eye-colors",
+    "submitted_by": {
+      "id": 32522086,
+      "name_id": "jerinski",
+      "username": "jerinski",
+      "profile_url": "https://mod.io/u/jerinski",
+      "profile_img_100x100_url": "https://thumb.modcdn.io/members/9d1a/32522086/crop_100x100/frog.png"
+    },
+    "modfile": {
+      "id": 8362285,
+      "mod_id": 6471374,
+      "version": "1.0.0.6",
+      "filename": "jerinski_eye_colors_6de50017-3-ilj1.zip",
+      "changelog": "initial upload",
+      "date_added": 1792696079,
+      "date_updated": 0,
+      "date_scanned": 1792696098,
+      "filesize": 5503741,
+      "platforms": [
+        {
+          "platform": "windows",
+          "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 1
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 1
+        },
+        {
+          "platform": "ps5",
+          "status": 1
+        }
+      ]
+    },
+    "logo": {
+      "filename": "mod_publish_logo.png",
+      "original": "https://image.modcdn.io/mods/e390/6471374/mod_publish_logo.png",
+      "thumb_320x180": "https://thumb.modcdn.io/mods/e390/6471374/crop_320x180/mod_publish_logo.png",
+      "thumb_640x360": "https://thumb.modcdn.io/mods/e390/6471374/crop_640x360/mod_publish_logo.png",
+      "thumb_1280x720": "https://thumb.modcdn.io/mods/e390/6471374/crop_1280x720/mod_publish_logo.png"
+    },
+    "tags": [
+      {
+        "name": "Customisation",
+        "name_localized": "Customisation",
+        "date_added": 0
+      },
+      {
+        "name": "Available on Mac and Console",
+        "name_localized": "Available on Mac and Console",
+        "date_added": 0
+      },
+      {
+        "name": "Eye Colors",
+        "name_localized": "Eye Colors",
+        "date_added": 0
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "windows",
+        "modfile_live": 8362285
+      },
+      {
+        "platform": "mac",
+        "modfile_live": 8362285
+      },
+      {
+        "platform": "xboxseriesx",
+        "modfile_live": 8362285
+      },
+      {
+        "platform": "ps5",
+        "modfile_live": 8362285
       }
     ]
   }
