@@ -177215,7 +177215,7 @@
     "summary": "Adds 36 Paragon Encounters to the game, where you can challenge powerful juggernauts and their allies. Defeat them to claim the magical items that gave them some of their power!",
     "description": "<p>Adds 36 new Paragon Encounters, spread across all 3 Acts. These encounters represent the lingering legacy of powerful figures in the area, with their influence taking physical form to challenge you. Paragon enemies are challenging foes that hold the strength of many enemies at once. They take more actions, are much more durable, and can make use of their skills and allies to result in powerful combos. Further strengthened by the magical items they hold, they prove much more dangerous then they might first appear. Defeating these enemies will let you take those items for yourself, and empower yourself with some of the new tricks the enemies have learned from <a href=\"https://mod.io/g/baldursgate3/m/enemy-tacticians\">Enemy Tacticians</a>.</p>\n<p>Additionally, these encounters have all been carefully placed to not impede normal exploration. They are located in \"opt-in\" locations off the typical paths so that you aren't forced to fight them right away if you don't want to. If you wish to challenge a Paragon, you must actively seek them out.</p>\n<p><strong>Compatibility:</strong><br>-Assume most extra encounters mods will overlap enemy placement locations.<br>-An exception applies to \"Extra encounters and Minibosses\", where all the encounters are in different locations than mine. You can use both mods at once without overlapping encounters.</p>\n<p><strong>Translation Credits:</strong><br>-Spanish / Latin Spanish Translation: <a href=\"https://github.com/incolhermex-droid\" target=\"_blank\" rel=\"noopener noreferrer\">incolhermex-droid</a></p>\n<hr>\n<p><strong>Encounter Locations Map Key<br></strong>-Purple dots represent encounters at that location.<br>-Blue dots represent encounters that require you to change maps at that location to find the encounter.</p>",
     "date_added": 1788062626,
-    "date_updated": 1795710915,
+    "date_updated": 1795814886,
     "date_live": 1788064406,
     "visible": 1,
     "status": 1,
@@ -177229,19 +177229,31 @@
       "profile_img_100x100_url": "https://thumb.modcdn.io/members/2f42/35248327/crop_100x100/scarletfang.png"
     },
     "modfile": {
-      "id": 8512732,
+      "id": 8538803,
       "mod_id": 6346121,
-      "version": "2.7.8.25",
-      "filename": "paragonencounters_ddc9ae01-464-ddza.zip",
-      "changelog": "-The gold value of all Paragon items was increased even more. If the items aren't useful to you, sell them and use the gold to buy a reward you actually want!\n-A few Paragons given a custom weapon, and others had their weapons improved. (Acolyte of Destruction, Angel, Firetongue Smuggler, Bloodhound, Receptor, and Avatars were affected)\n-Dawnmaster spells manipulated to adjust his casting behavior, and hopefully stop jumping off cliffs. Or maybe he'll try to jump off even higher cliffs.\n-Sea Druid lost access to Censor, because it wasn't a good use of his turn but he really liked using it. He was also finally given a real name.\n-Smuggler combat enhanced, hopefully making it much more difficult to immediately solve.\n-Animated Armor Dexterity decreased but base AC increased, for a net loss only to Dexterity saves/checks.\n-The Art Thief who was missing a name was fixed. They also now drop their stolen gold.\n-Investigator's Aides had their spell lists and placement improved.\n-Acolyte of Destruction and the Destroyer gained a new action, making them much more dangerous, and their displayed levels were adjusted accordingly.\n-Receptor gained a new action to use in the last phase of the fight, and her displayed level was adjusted.\n-Probably some other change, but I lost some of my notes, so it'll be a surprise to everyone, including myself. Probably some random bugfix(es).",
-      "date_added": 1795293213,
+      "version": "2.7.8.26",
+      "filename": "paragonencounters_ddc9ae01-464-ayz5.zip",
+      "changelog": "-Extremely minor bugfix to an Avatar's Sunbeam.\n-Slight AI manipulation for Imp summoning.\n-Confirming the Building of a script change.\n-This will likely be the last change to this mod for a while, I hope everyone enjoys playing it. Hopefully this version gets accepted for console so that console players can enjoy all the big changes since 1.5.6.16!",
+      "date_added": 1795814705,
       "date_updated": 0,
-      "date_scanned": 1795293252,
-      "filesize": 18098456,
+      "date_scanned": 1795814743,
+      "filesize": 18098652,
       "platforms": [
         {
           "platform": "windows",
           "status": 1
+        },
+        {
+          "platform": "mac",
+          "status": 0
+        },
+        {
+          "platform": "xboxseriesx",
+          "status": 0
+        },
+        {
+          "platform": "ps5",
+          "status": 0
         }
       ]
     },
@@ -177304,7 +177316,7 @@
       },
       {
         "platform": "windows",
-        "modfile_live": 8512732
+        "modfile_live": 8538803
       }
     ]
   },
